@@ -73,7 +73,7 @@ pip install accelerate openai together geopy nltk rouge_score sentence_transform
 ### 3. Run the framework
 #### 3.0 Construct knowledge hypercube 
 
-- _You can skip this step if you want to run on our datasets._
+- (**Optional**) You can skip this step if you want to run on our datasets since we have constructed the hypercube and saved the results in `hypercube` folder.
 
 - If you want to use your own dataset, please first put the text corpus in `corpus` folder: `corpus/YOUR_DATA_FOLDER/YOUR_DATA_FILE`, then construct hypercube using a name entity recogition file `ner.py` file.
 
