@@ -22,8 +22,6 @@
 │   │   └── SciDCC-Geography.txt
 │   └── hurricane
 │       └── SciDCC-Hurricane.txt
-├── csv_txt.ipynb
-├── ent2emb.pkl
 ├── evaluation
 │   ├── llm_as_judge.py
 │   └── nlp_metric.py
@@ -61,7 +59,6 @@
 ├── qa_rag_geography.py
 ├── qa_rag_hurricane.py
 └── utils
-    ├── __init__.py
     ├── metric.py
     └── topk_most_freq.py
 ```
