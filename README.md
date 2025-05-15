@@ -1,5 +1,5 @@
 # Hypercube-RAG
-<div align="center">
+<div align="left">
 <img src="https://github.com/JimengShi/Hypercube-RAG/blob/main/figures/hypercube_rag.jpg" alt="hypercuberag" width="1000"/> 
 </div>
 
