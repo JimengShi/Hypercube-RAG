@@ -1,6 +1,15 @@
 # Hypercube-RAG
 
 ### 1. Organization
+
+`QA`: saves the question-answering pairs
+`corpus`: save the original corpus
+`hypercube`: construct and save hypercube
+`baselines`: include the reproduced methods where the official codes are not available.
+`evaluation`: compute evaluation scores
+`utils`: helper functions
+``
+
 ```bash
 ├── QA
 │   ├── aging_dam
@@ -12,7 +21,6 @@
 ├── README.md
 ├── baselines
 │   ├── qa_rag_bm25.py
-│   ├── qa_rag_contriever_dam.py
 │   ├── qa_rag_contriever_hurricane.py
 │   └── qa_rag_e5_hurricane.py
 ├── corpus
