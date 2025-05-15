@@ -1,6 +1,6 @@
 # Hypercube-RAG
 <div align="center">
-<img src="https://github.com/JimengShi/Hypercube-RAG/blob/main/figures/hypercube_rag.jpg" alt="hypercuberag"/> 
+<img src="https://github.com/JimengShi/Hypercube-RAG/blob/main/figures/hypercube_rag.jpg" alt="hypercuberag" width="800"/> 
 </div>
 
 ### 1. Organization
