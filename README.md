@@ -13,17 +13,16 @@ pip install accelerate openai together geopy nltk rouge_score sentence_transform
 ### Run the framework
 #### Run the direct inference without RAG baseline
 ```
+export CUDA_VISIBLE_DEVICES=GPU_ID
 export OPENAI_API_KEY="your OPENAI_API_KEY"
-
-
-
-export GOOGLE_API_KEY="AIzaSyDdtKzzFEURNX9GstezXI_j5kdCPUyYL7E"
-
-CUDA_VISIBLE_DEVICES=2 python run.py
 ```
-LLM backbone: You can select LLM backbones in line 101 and we currently support gpt-4o and llama3.1.
+In our work, we multiple datasets `hurricane`, `geography`, `aging_dam` with multiple LLMs, such as `gpt-4`, `gpt-4o`, `gpt-3.5-turbo`, `llama3`, `deepseek`, `qwen. If you want to save the QA results, set the following "save" to true; otherwise, false.
+```
+python qa_norag.py --data `DATASET` --model `MODEL_NAME` --save `true`
+```
 
-Query: Type it in line 102.
+
+
 
 #### Run the hypercube RAG method
 ```
