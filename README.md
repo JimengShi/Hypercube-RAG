@@ -22,75 +22,20 @@ python qa_norag.py --data `DATASET` --model `MODEL_NAME` --save `true`
 ```
 
 
+#### Run the Hypercube-RAG method
+The following script takes the hurricane dataset and GPT-4o as an LLM base.
 
-
-#### Run the hypercube RAG method
-```
-python run_rag.py
-```
-
-LLM backbone: You can select LLM backbones in line 101 and we currently support gpt-4o and llama3.1.
-
-Query: Type it in line 102.
-
-Hypercube cells: You can identify the hypercube cells in line 103. It should be a dictionary, where keys (str) correspond to the dimensions and values (list) correspond to the dimension values you are interested in. You can put multiple dimension keys in the dictionary and the hypercube search will return all the documents in the intersection of your provided dimension values.
-
-Search: We currently support both hypercube-based search (```structure_docs``` in line 57) and text semantic search (```semantic_docs``` in line 62, you can adjust ```k``` which corresponds to how many docs you would like to return based on semantic search). You can design any strategy to combine the results from the two search methods around line 66 to get the final retrieved documents ```doc_ids```.
-
-
-`python utils/reindex.py --data_path QA/hurricane/synthetic_qa.json`
-`python utils/reindex.py --data_path QA/geography/synthetic_qa.json`
-`python utils/reindex.py --data_path QA/aging_dam/synthetic_qa.json`
-
-
-### QA
-#### Hurricane
-`python qa_norag.py --data hurricane --model gpt-4o --save true`
-`python qa_rag_hurricane.py --data hurricane --model gpt-4o --retrieval_method hypercube --save true`
-`python qa_rag_hurricane.py --data hurricane --model gpt-4o --retrieval_method semantic --save true`
-
-#### Geography
-`python qa_norag.py --data geography --model gpt-4o --save true`
-`python qa_rag_geography.py --data geography --model gpt-4o --retrieval_method hypercube --save true`
-`python qa_rag_geography.py --data geography --model gpt-4o --retrieval_method semantic --save true`
-
-
-#### Aging Dam
-`python qa_norag.py --data aging_dam --model gpt-4o --save true`
-`python qa_rag_dam.py --data aging_dam --model gpt-4o --retrieval_method hypercube --save true`
-`python qa_rag_dam.py --data aging_dam --model gpt-4o --retrieval_method semantic --save true`
+```python qa_rag_hurricane.py --data hurricane --model gpt-4o --retrieval_method hypercube --save true```
 
 
 
-### Evaluation
+### Evaluation answers
 
 #### nlp metrics
-`python evaluation/nlp_metric.py --data hurricane --model gpt-4o --retrieval_method none --metric all`
 `python evaluation/nlp_metric.py --data hurricane --model gpt-4o --retrieval_method hypercube --metric all`
-`python evaluation/nlp_metric.py --data hurricane --model gpt-4o --retrieval_method semantic --metric all`
-
-
-`python evaluation/nlp_metric.py --data geography --model gpt-4o --retrieval_method none --metric all`
-`python evaluation/nlp_metric.py --data geography --model gpt-4o --retrieval_method hypercube --metric all`
-`python evaluation/nlp_metric.py --data geography --model gpt-4o --retrieval_method semantic --metric all`
-
-`python evaluation/nlp_metric.py --data aging_dam --model gpt-4o --retrieval_method none --metric all`
-`python evaluation/nlp_metric.py --data aging_dam --model gpt-4o --retrieval_method hypercube --metric all`
-`python evaluation/nlp_metric.py --data aging_dam --model gpt-4o --retrieval_method semantic --metric all`
 
 
 
 #### llm as judge
-`python evaluation/llm_as_judge.py --data hurricane --model gpt-4o --retrieval_method none`
 `python evaluation/llm_as_judge.py --data hurricane --model gpt-4o --retrieval_method hypercube`
-`python evaluation/llm_as_judge.py --data hurricane --model gpt-4o --retrieval_method semantic`
 
-
-`python evaluation/llm_as_judge.py --data geography --model gpt-4o --retrieval_method none`
-`python evaluation/llm_as_judge.py --data geography --model gpt-4o --retrieval_method hypercube`
-`python evaluation/llm_as_judge.py --data geography --model gpt-4o --retrieval_method semantic`
-
-
-`python evaluation/llm_as_judge.py --data aging_dam --model gpt-4o --retrieval_method none`
-`python evaluation/llm_as_judge.py --data aging_dam --model gpt-4o --retrieval_method hypercube`
-`python evaluation/llm_as_judge.py --data aging_dam --model gpt-4o --retrieval_method semantic`
