@@ -13,67 +13,7 @@
 `evaluation`: compute evaluation scores
 
 `utils`: helper functions
-``
 
-```bash
-├── QA
-│   ├── aging_dam
-│   │   └── synthetic_qa.json
-│   ├── geography
-│   │   └── synthetic_qa.json
-│   └── hurricane
-│       └── synthetic_qa.json
-├── README.md
-├── baselines
-│   ├── qa_rag_bm25.py
-│   ├── qa_rag_contriever_hurricane.py
-│   └── qa_rag_e5_hurricane.py
-├── corpus
-│   ├── aging_dam
-│   │   └── corpus.txt
-│   ├── geography
-│   │   └── SciDCC-Geography.txt
-│   └── hurricane
-│       └── SciDCC-Hurricane.txt
-├── evaluation
-│   ├── llm_as_judge.py
-│   └── nlp_metric.py
-├── hypercube
-│   ├── aging_dam
-│   │   ├── dam.txt
-│   │   ├── date.txt
-│   │   ├── event.txt
-│   │   ├── facility.txt
-│   │   ├── location.txt
-│   │   ├── ner_dam.py
-│   │   ├── organization.txt
-│   │   ├── person.txt
-│   │   ├── quant.txt
-│   │   └── watershed.txt
-│   ├── geography
-│   │   ├── date.txt
-│   │   ├── event.txt
-│   │   ├── location.txt
-│   │   ├── ner_geo.py
-│   │   ├── organization.txt
-│   │   ├── person.txt
-│   │   └── theme.txt
-│   └── hurricane
-│       ├── date.txt
-│       ├── event.txt
-│       ├── location.txt
-│       ├── ner_hurricane.py
-│       ├── organization.txt
-│       ├── person.txt
-│       └── theme.txt
-├── qa_norag.py
-├── qa_rag_dam.py
-├── qa_rag_geography.py
-├── qa_rag_hurricane.py
-└── utils
-    ├── metric.py
-    └── topk_most_freq.py
-```
 
 ### 2. Environment
 ```
