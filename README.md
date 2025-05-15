@@ -2,7 +2,7 @@
 
 
 
-### Environment
+### 2. Environment
 ```
 conda create --name hypercube python==3.10
 conda activate hypercube
@@ -10,7 +10,7 @@ conda activate hypercube
 pip install accelerate openai together geopy nltk rouge_score sentence_transformers spacy
 ```
 
-### Run the framework
+### 3. Run the framework
 #### Run the direct inference without RAG baseline
 ```
 export CUDA_VISIBLE_DEVICES=GPU_ID
@@ -31,7 +31,7 @@ python qa_rag_hurricane.py --data hurricane --model gpt-4o --retrieval_method hy
 
 
 
-### Evaluation answers
+### 4. Evaluation
 We have automatic metrics from the NLP domain and LLM-as-judge to evaluate the quality of answers.
 
 #### NLP metrics
