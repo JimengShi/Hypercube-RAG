@@ -25,7 +25,9 @@ python qa_norag.py --data `DATASET` --model `MODEL_NAME` --save `true`
 #### Run the Hypercube-RAG method
 The following script takes the hurricane dataset and GPT-4o as an LLM base.
 
-```python qa_rag_hurricane.py --data hurricane --model gpt-4o --retrieval_method hypercube --save true```
+```
+python qa_rag_hurricane.py --data hurricane --model gpt-4o --retrieval_method hypercube --save true
+```
 
 
 
@@ -33,12 +35,15 @@ The following script takes the hurricane dataset and GPT-4o as an LLM base.
 We have automatic metrics from the NLP domain and LLM-as-judge to evaluate the quality of answers.
 
 #### NLP metrics
-
-```python evaluation/nlp_metric.py --data hurricane --model gpt-4o --retrieval_method hypercube --metric all```
+```
+python evaluation/nlp_metric.py --data hurricane --model gpt-4o --retrieval_method hypercube --metric all
+```
 
 
 
 #### LLM-as-judge
 
-```python evaluation/llm_as_judge.py --data hurricane --model gpt-4o --retrieval_method hypercube```
+```
+python evaluation/llm_as_judge.py --data hurricane --model gpt-4o --retrieval_method hypercube
+```
 
