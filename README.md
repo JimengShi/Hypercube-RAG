@@ -1,13 +1,12 @@
 # Hypercube-RAG
 
 
-## Hypercube retrieval-augmented LLM
 
 ### Environment
 ```
 conda create --name hypercube python==3.10
 conda activate hypercube
-pip install accelerate openai together geopy nltk rouge_score sentence_transformers
+pip install accelerate openai together geopy nltk rouge_score sentence_transformers spacy
 ```
 
 ### Run the framework
