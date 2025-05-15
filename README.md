@@ -44,7 +44,6 @@
 │   │   ├── ner_geo.py
 │   │   ├── organization.txt
 │   │   ├── person.txt
-│   │   ├── run_rag.py
 │   │   └── theme.txt
 │   └── hurricane
 │       ├── date.txt
@@ -72,7 +71,18 @@ pip install accelerate openai together geopy nltk rouge_score sentence_transform
 ```
 
 ### 3. Run the framework
-#### Run the direct inference without RAG baseline
+#### 3.0 Construct knowledge hypercube 
+
+- <span style="color:blue">You can skip this step if you want to run on our datasets.</span>
+
+- If you want to use your own dataset, please first put the text corpus in `corpus` folder: `corpus/YOUR_DATA_FOLDER/YOUR_DATA_FILE`, then construct hypercube using a name entity recogition file `ner.py` file.
+
+```
+python corpus/YOUR_DATA_FOLDER/YOUR_ner.py
+```
+
+
+#### 3.1 Run the direct inference without RAG baseline
 ```
 export CUDA_VISIBLE_DEVICES=GPU_ID
 export OPENAI_API_KEY="your OPENAI_API_KEY"
@@ -83,7 +93,7 @@ python qa_norag.py --data `DATASET` --model `MODEL_NAME` --save `true`
 ```
 
 
-#### Run the Hypercube-RAG method
+#### 3.2 Run the Hypercube-RAG method
 The following script takes the hurricane dataset and GPT-4o as an LLM base.
 
 ```
@@ -95,14 +105,14 @@ python qa_rag_hurricane.py --data hurricane --model gpt-4o --retrieval_method hy
 ### 4. Evaluation
 We have automatic metrics from the NLP domain and LLM-as-judge to evaluate the quality of answers.
 
-#### NLP metrics
+#### 4.1 NLP metrics
 ```
 python evaluation/nlp_metric.py --data hurricane --model gpt-4o --retrieval_method hypercube --metric all
 ```
 
 
 
-#### LLM-as-judge
+#### 4.2 LLM-as-judge
 
 ```
 python evaluation/llm_as_judge.py --data hurricane --model gpt-4o --retrieval_method hypercube
