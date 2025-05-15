@@ -1,0 +1,186 @@
+{}
+{}
+{"Ida": 2, "Hurricane Ida": 3, "Tropical Storm Larry": 1}
+{}
+{}
+{}
+{"Typhoon Nina": 1, "the Johnstown Flood": 1}
+{"dam collapse": 1}
+{"Oroville Dam": 1}
+{}
+{}
+{"Festival of Races": 1, "Sloan Auto Fair": 1}
+{"the Great Flood of 1986": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"dam failure": 1}
+{"Formula E": 1}
+{}
+{"the Flint Water Case": 1}
+{}
+{}
+{}
+{}
+{}
+{"Hurricane Agnes": 1}
+{}
+{}
+{}
+{"'Salute To America": 1, "Independence Weekend Fireworks": 1, "Weekend Fest & Fireworks": 1, "Independence Day Celebration": 1, "Independence Day": 1, "Independence Day Fest": 1, "'Big Bang On The Bay": 1, "Firecracker Run": 1, "Surf City Run": 1, "4th of July 5K": 1, "Yankee Doodle Dash": 1, "Red, White & Blue": 1, "BREW 5": 1, "'Independence Day On Back Bay": 1, "Family YMCA July 4th": 1, "Run In The Parks": 1, "Country Fair": 1, "Star-Spangled Spectacular": 1, "Community Parade": 1, "Annual Street Faire": 1, "Sun & Sail Club": 1, "Old Glory Boat Parade": 1, "Fest, Music, Kids' Fun & Fireworks": 1, "Celebration & Fireworks": 1, "'Springsteen Experience' Free Tribute Concert": 1, "'Music of Queen' Concert & Fireworks": 1}
+{"Vietnam War": 1, "the Sept. 11, 2001,": 1, "the Great Recession": 1}
+{"Hurricane Lane": 1}
+{}
+{"Kaloko": 2, "Vietnam War": 1, "the Sept. 11, 2001,": 1, "the Great Recession": 1}
+{"Associated Press analysis report": 1}
+{}
+{}
+{"Mariana": 1}
+{}
+{}
+{}
+{"Samarco": 1, "dam failure in Brazil": 1}
+{}
+{}
+{}
+{}
+{"Hurricane Maria": 4}
+{}
+{"SXSW": 2}
+{}
+{"Hurricane Rosa's": 7, "Tropical Storm Rosa": 1, "World War I": 1, "Hurricane Rosa": 1}
+{}
+{}
+{"Hurricane Florence": 1, "Florence": 2, "Hurricane Matthew": 1}
+{"the National Cherry Festival": 2, "Senate hearing": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"WWII": 1}
+{"Comedy Festival": 1, "Canadian Grand Prix": 2, "Stanley Cup Finals": 1, "Stanley Cup": 2, "Stanley Cup Fever": 1, "Season 8": 1}
+{}
+{"Winter Olympics": 1}
+{}
+{}
+{}
+{}
+{"mining dam collapse": 1}
+{"Tropical Storm Arthur": 1, "Tropical Storm": 1}
+{"ARkStorm": 1}
+{}
+{"Hurricane Joaquin": 1}
+{}
+{}
+{"Formula E": 1}
+{}
+{"T20 World Cup": 2, "ICC World Cup": 1}
+{}
+{"ESPYS": 1, "Tuolumne Lumber Jubilee": 1}
+{"Camp Fire": 1}
+{"landmark bill": 1}
+{}
+{"the West Wind Fire": 1}
+{}
+{"ESPYS": 1}
+{"The Flood of 1986": 1, "the Flood of 1986": 2, "the Flood of 1986.If": 1, "the Flood of 1986.At": 1}
+{}
+{}
+{"the Johnstown Flood": 1, "Hurricane Harvey": 1, "Harvey": 5}
+{}
+{}
+{}
+{}
+{"The Big Game Big Race \u2013 Daytona Masters Report": 1, "Black History Month": 1, "Folk Fest": 1, "International Food Fest": 1, "WWII Medal of Honor": 1, "Folkfest": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"ESPY": 1}
+{"Hurricane Katrina": 1, "El Nino": 1}
+{"WWII": 1}
+{}
+{}
+{"Alberto": 2}
+{"Stanley Cup": 2}
+{"TribFest22": 1, "Hurricane Harvey": 2, "Harvey": 1}
+{}
+{}
+{}
+{}
+{}
+{"La Nina": 1}
+{}
+{}
+{}
+{}
+{"Africa Mining Forum": 1, "DRC Mining Week": 1, "Nigeria Mining Week": 1, "International Day of Women in Mining": 1}
+{}
+{}
+{}
+{"Tropical Storm Irene": 1, "Irene": 1, "dam failures": 1}
+{}
+{}
+{}
+{"Florence": 1}
+{}
+{"Doce River Disaster": 1, "environmental concerns": 1}
+{}
+{}
+{}
+{"Tropical Storm Arthur": 1}
+{}
+{}
+{}
+{"SF Pride Parade": 1}
+{"Hurricane Katrina": 1}
+{}
+{}
+{"dam failure": 1}
+{}
+{}
+{}
+{"MM Awards": 1}
+{}
+{}
+{"Reproductive Freedom Rally": 1}
+{"ESPYS": 1, "Hurricane Katrina": 1}
+{}
+{}
+{}
+{"Olympics": 1}
+{}
+{"Hurricane Maria": 2}
+{"Reproductive Freedom Rally": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Hurricane Maria": 3, "September 11 attacks": 1, "COP": 1}
+{}
+{"Hurricane Irene": 1, "9/11 death benefits": 1}
+{}
+{"Hurricane Maria": 5, "Maria": 1, "Hurricane Maria's": 1, "Hurricane) Irma": 1}
+{"SipFest": 1}
+{"the Johnstown Flood": 1, "Hurricane Katrina": 1}
+{}
+{}
+{"Hurricane Laura": 1, "catastrophic flood": 1}
+{"Hurricane Matthew": 12}
+{}
+{"Wimbledon": 1, "Carolina Fear Fest": 2, "'Wizard of Oz Festival'": 2, "Fourth of July": 1}
+{"Hurricane Matthew": 2, "Hurricane": 1}
+{"Great Famine": 1, "catastrophic floods": 1}
+{}
+{}

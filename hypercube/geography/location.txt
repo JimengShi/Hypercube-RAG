@@ -1,0 +1,436 @@
+{"Cameroon": 3, "Brussels": 2, "Belgium": 1, "Ngeve": 4, "Australia": 1, "Southeast Asia": 1, "the Chesapeake Bay": 1, "Hudson River": 1, "Africa": 1}
+{"Arctic": 3, "Bremen": 1, "the North Pole": 1}
+{"Earth": 3, "Norway": 1}
+{"Earth": 1, "Europe": 2, "Yellowstone": 1}
+{"the North Pacific": 1, "Bonn": 2, "Sagorny": 1, "Japan": 1, "Berlin": 1, "Germany": 1}
+{"the Red Sea": 10, "Africa": 1, "the Arabian Peninsula": 1, "Earth": 1, "the Gulf of Mexico": 1, "the Labrador Sea": 1, "the Andaman Sea": 1, "Red Sea": 1, "Atlantic": 1}
+{"Australia": 5, "Curtin": 1, "Earth": 3}
+{"UW": 1, "Goblu": 1, "Google Earth": 1, "AI": 2, "Tacoma": 6, "Seattle": 4, "Beijing": 4}
+{"the United States": 1, "Mexico": 1, "Pacific": 5, "the Gulf of California": 3, "Madigan": 1, "Central California": 1, "Guadalupe Island Mexico": 1}
+{"New Zealand's": 1, "the Alpine Fault": 1, "New Zealand": 1, "California": 1, "Cajon Pass": 1, "San Bernardino": 1, "the San Andreas": 1, "San Jacinto": 1}
+{"UK": 7, "Ireland": 3, "South West England": 1, "North West Ireland": 1, "Thunnus": 1, "Atlantic": 5, "the Atlantic Ocean": 1}
+{"Americas": 1, "South America": 1, "Africa": 1, "India": 1, "Australia": 2, "Asia": 4, "Singapore": 1, "Germany": 1}
+{"the United States'": 1, "San Francisco": 1, "Reno": 1, "U.S.": 1, "Kenya": 1, "Tanzania": 1, "UC": 1, "Santa Barbara": 1, "East Africa": 1}
+{"The Atlantic Coast": 1, "Atlantic": 2, "New England": 6, "Massachusetts": 1, "Rhode Island": 1, "New York": 1, "New Jersey": 1, "Delaware": 1, "Maryland": 1, "Virginia": 1, "North Carolina": 1, "the Atlantic Coast": 1, "Mid-Atlantic": 1}
+{"Northern Hemisphere": 1, "Southeast Asia": 2, "the Southern Ocean": 2}
+{"UC": 1, "Santa Barbara": 1, "California": 1}
+{"Colombia": 7, "Andes Mountains": 1, "Tolima": 1, "Hawaii": 1, "California": 1, "Puerto Rico": 1, "the United States": 1}
+{"Alaskan Arctic": 1, "North America": 3, "West": 2, "U.S.": 1, "Nans Addor": 1}
+{"West Antarctica": 1, "UK": 1, "Antarctica": 3, "Thwaites": 1, "West Antarctic Ice Sheet": 1, "Pine Island Glacier": 3, "Northumbria": 2, "the Amundsen Sea": 1, "the Antarctic Ice Sheet": 1, "the West Antarctic Ice Sheet": 1}
+{"Antarctic": 2, "Tunguska": 1, "Chelyabinsk": 1, "Russia": 1, "Earth": 2, "Antarctica": 1}
+{"Earth": 4, "Carnegie": 1, "Cullinan": 1}
+{"Earth": 11, "Fahrenheit": 1, "Sea": 1, "Mars": 4}
+{"Brazil": 1, "United States": 1, "India": 1}
+{"Southern Rocky Mountains": 1, "U.S.A.": 1, "Colorado": 3, "Wyoming": 1, "New Mexico": 1}
+{"the Kara Sea": 1, "Arctic": 3, "Russia": 2, "the High Arctic": 1, "Finland": 1, "the Krasnoyarsk Region": 1, "High Arctic": 2}
+{}
+{"the Southern Hemisphere": 1, "South Africa": 1, "Australia": 1, "New Zealand": 1, "Southern Ocean": 1, "Southern Hemisphere": 2, "Earth": 1}
+{"UC": 1, "Santa Cruz": 1, "Earth": 1, "Paytan": 1, "Germany": 1}
+{"the North Pacific": 1, "the Northwest Hawaiian Islands": 1, "Oahu": 1, "Hawaii": 1, "Japan": 1, "the North Pacific Ocean": 1}
+{"Greenland": 7, "the Greenland Ice Sheet": 1, "Arctic": 5, "Earth": 1, "Bristol": 1, "UK": 1}
+{"Mount Everest": 2, "China": 4, "Nepal": 3, "Germany": 2, "Italy": 1, "Spain": 1, "Belgium": 1, "Ostend": 1, "Hochrheinbr\u00fccke": 1, "Switzerland": 1, "Earth": 4}
+{"the North Atlantic Ocean": 1, "North Atlantic Ocean": 1, "New York": 1, "Cape May": 1, "New Jersey": 1, "Atlantic": 1}
+{"the Arctic Ocean": 2, "Geology": 1, "Arctic": 3, "Greenland": 1, "Eemian": 3, "LGM": 3}
+{"Mt. Pinatubo": 1, "Southeastern Australia": 1, "Australia": 4, "west coast": 1, "Canada": 1, "North": 1, "South": 1, "the Pacific Ocean": 1, "the Southern Ocean": 1, "South America": 1, "the Indian Ocean": 1, "Chile": 1, "California": 1}
+{"Pacific Oceans": 1}
+{"the The Northern Sea Route": 1, "Russia": 1, "Asia": 1, "Europe": 1, "Arctic": 3, "the Northern Sea Route": 1, "Canada": 1, "Germany": 1, "the Kara Sea": 1}
+{"Finland": 1, "the Taita Hills": 1, "Madagascar": 1, "Taita Hills": 2, "Africa": 2, "Eastern Arc Mountains": 1, "Kenya": 1, "Tanzania": 1, "the Indian Ocean": 1}
+{"Australia": 1}
+{"UC": 3, "Santa Barbara": 1, "Santa Barbara's": 2, "Kunming": 1, "China": 1, "the United States": 1, "the United Kingdom": 1, "Canada": 1, "the Mascarene Plateau": 1, "the Indian Ocean": 1, "Nazca Ridge": 1, "the west coast": 1, "South America": 1, "Africa": 1, "Antarctica": 2, "France": 1, "Earth": 1, "Halifax": 1, "Nova Scotia": 1}
+{"North Carolina": 1, "Blake Ridge": 4, "North Carolina's": 1, "Dakota": 2, "Sandia": 1, "Breakout": 1, "the Norwegian Sea": 1, "Greenland": 1, "Norway": 1, "the Arctic Ocean": 1, "Alaska": 1, "Arctic": 1}
+{"Caribbean": 6, "Africa": 2, "Madagascar": 1, "New Guinea": 1, "New Zealand": 1, "Americas": 1, "Reno": 2, "trans-Atlantic": 1, "Atlantic": 1, "Corona": 1, "an Atlantic Ocean": 1}
+{"Austin": 1, "Bolivia": 1, "Mamor\u00e9 River": 1}
+{"Santa Barbara": 1, "Earth": 1, "the Northern Hemisphere": 1}
+{"Austria": 1, "Ecuador": 1, "France": 1, "New Zealand": 2, "Norway": 1, "the United States": 1, "Alaska": 1}
+{"Europe": 5, "Cambridge": 1, "Brno": 2, "Czech Republic": 2, "the Czech Republic": 2, "Germany": 2, "Switzerland": 2, "Bavaria": 1, "Birmensdorf": 1}
+{"the Global South": 1, "Belize": 1, "Earth": 1, "Maya": 1}
+{"ETH Zurich": 1, "Switzerland": 1}
+{"Antarctica": 5, "South America": 1, "Chile": 1, "Earth": 2, "Antarctic": 5}
+{}
+{"Earth": 10, "Greenland": 5, "Cambridge": 2, "Isua": 1, "Hawaii": 1}
+{"Girona": 3, "Alaska": 4, "Anchorage": 1, "Mount Ontake": 1, "Japan": 2, "Mount Ruapehu": 1, "New Zealand": 1, "Chile": 1, "Cabo Verde": 1, "the west coast": 1, "Africa": 1, "Ontake": 1, "Domuyo": 1, "Argentina": 1}
+{"Miami": 1, "the Gulf of Mexico": 1, "Florida": 1, "Bahamas": 1}
+{"Mekong": 1, "Southeast Asia": 1, "US": 1, "Rerolle": 1, "South America": 1}
+{"Japan": 2, "Australia": 1, "Antarctic": 2, "the Southern Ocean": 1, "Antarctica": 3, "West Antarctic": 1, "the Tasman Sea": 1, "Amundsen": 1}
+{"California": 4, "Monterey Bay": 3, "UC": 3, "Santa Cruz": 3, "the Monterey Bay Aquarium": 1, "the Monterey Peninsula": 1, "the West Coast": 3, "the Central Coast": 4, "the Northeast Pacific": 1, "Alaska": 1, "Central California": 1, "Northern California": 2, "San Francisco": 2, "Southern California's": 1, "Southern California": 1, "Northern California's": 1, "Nereocystis": 1, "the Aleutian Islands": 1}
+{"Sweden": 1, "Earth": 1, "Rojas": 1, "Google Earth": 1, "the Mesozoic Era": 1, "Calatayud": 1, "Magnus": 1}
+{"Earth": 5, "Northwestern Earth": 1, "Atlantic Ocean": 1, "the Pacific Ocean": 1}
+{"UK": 4, "South, South East": 1, "East Asia": 1, "Tokyo": 2, "Shanghai": 3, "Bangkok": 2, "New Orleans": 1, "Jakarta": 3, "Indonesia": 1, "Berlin": 2, "Germany": 3, "France": 1, "IDRCEC": 1}
+{"IIASA": 1, "Mediterranean": 1, "the Middle East": 1, "China": 1, "South-East": 1, "West Africa": 1, "the East of Brazil": 1, "CCS": 1, "Earth": 2}
+{"U.S.": 1}
+{"Pine Island": 2, "Antarctica": 2, "Antarctic": 1, "Amundsen Sea'": 1, "west Antarctic": 1, "Mirounga": 1, "the Amundsen Sea": 1, "Gothenburg": 1, "Rhode Island": 1, "the El Nino-Southern Oscillation": 1}
+{"UC": 3, "Santa Cruz": 3, "the West Coast": 3, "San Francisco Bay": 1, "the Northeast Pacific": 1, "the North Coast": 2, "California": 1, "Northern California": 3, "Monterey Bay": 1}
+{"Grassholm Island": 1, "Wales": 1, "Edinburgh": 1}
+{"Antarctica": 3, "Earth": 1, "the Amery Ice Shelf": 1, "West Virginia": 1}
+{"Japan": 1, "Florida": 2, "Cape Verde": 1, "Oman": 2, "Australia": 2, "Brazil": 2, "South Africa": 1, "Kuroshio": 1, "Gulf Stream": 1}
+{"North America": 1, "Canada": 3, "the United States": 2, "the Caribbean Sea": 1, "the Atlantic Ocean": 1, "Pacific": 1, "Atlantic": 1, "Alberta": 1, "Bow River": 1}
+{"Earth": 2, "Arctic": 1, "U.S.": 1, "Canada": 1, "the Middle East": 2, "India": 1, "Southern Africa": 1, "Scandinavia": 1}
+{"Japan": 9, "Kinki": 1, "North Pacific": 1, "Hakodate": 1, "the Okinawa Islands": 1, "the East China Sea": 1, "Asia": 1}
+{"the Fraser River": 2, "Columbia River": 2, "chum": 1, "Columbia": 1, "Sacramento": 1, "the Salish Sea": 1, "Skagit": 1, "Snohomish": 1, "Washington": 1, "Monterey Bay": 1, "California": 1, "the Taku River": 1, "Alaska": 2, "the west coast": 1, "Vancouver Island": 2, "West Coast": 3, "British Columbia": 1, "Northern Residents'": 1, "Northern Residents": 2, "West Coast Region": 2, "the West Coast": 1}
+{"Germany": 1, "Berlin": 1, "New Zealand": 1, "North America": 2, "Europe": 1, "Great Britain": 1, "Scandinavia": 1}
+{"Australia": 9, "the Shark Bay World Heritage Site": 1, "Western Australia": 1, "Saudi Arabia": 1, "Denmark": 1, "the United States": 1, "Kenya": 1, "the United Kingdom": 1}
+{"East Africa": 1, "Africa": 2, "Europe": 1, "Asia": 2, "Acheulean": 1}
+{"Pacific": 1, "Earth": 2, "the Pacific Ocean": 1, "Indonesia": 1, "Polynesia": 1}
+{"the Indian Ocean": 1, "the Red Sea": 1, "the Pacific Ocean": 1, "Western Australia": 1}
+{"the Atlantic Ocean": 1, "Ireland": 1, "Atlantic": 4, "US": 2, "Earth": 1, "Europe": 1}
+{"the North Sea": 2, "Oldenburg": 1, "PE": 1, "North Sea": 1}
+{"Queensland": 1, "NSW": 1, "South Australia": 1}
+{"Greenland": 1, "North America": 1, "Europe": 1, "Earth": 1}
+{"Antarctica": 2, "Amundsen Sea": 1, "West Antarctic": 1, "West Antarctica's": 1}
+{"Alaska": 1, "North America": 2, "Oregon": 1, "Georgia": 1, "Texas": 1, "Arkansas": 1, "Arctic": 1}
+{}
+{"North America": 1, "Europe": 1, "Africa": 1}
+{"the North Sea": 1, "Helgoland": 1}
+{"the Baltic Sea": 1, "Baltic Sea": 1, "North Sea": 1, "Atlantic": 1, "Europe": 1, "North America": 1}
+{"UConn": 2, "Japan": 5, "America": 1, "the United States": 3}
+{"Hippocampus": 1, "the Pacific Ocean": 1, "Africa": 3, "Europe": 1, "Americas": 1, "the Tethys Ocean": 2, "Mediterranean Sea": 1, "the Strait of Gibraltar": 1, "the Atlantic Ocean": 2, "the Arabian Peninsula": 1, "the Indian Ocean": 1, "the Arabian Sea": 2, "Atlantic Ocean": 3, "North America": 2, "Tethys Ocean": 1, "Atlantic": 1, "the east coast": 1, "the Cape of Good Hope": 1, "South America": 1}
+{"Krestovka": 5, "Siberia": 1, "North America": 3, "Arctic": 1, "Earth": 1}
+{"UK": 1, "South Africa": 1, "France": 1, "Nigeria": 1, "America": 1, "Africa": 8, "Liberia": 1, "Guinea": 1, "Burundi": 1, "North Africa": 1}
+{"Berkeley": 1, "California": 1, "the Pacific Coast": 1, "Sausalito": 1, "Coos Bay": 1, "Oregon": 3, "Newcastle": 1, "Tyne": 1, "the United Kingdom": 1, "England": 1, "Lake District": 2}
+{"U.S.": 3, "Canada": 2, "Brooklyn": 1, "Berigan": 1, "Europe": 1, "North America": 1}
+{"Cuba": 1, "Tanzania": 1, "Columbia": 1, "Madagascar": 1, "Panama": 1, "Brazil": 1, "Mexico": 1, "Sri Lanka": 1, "Australia": 1, "the United States": 1}
+{"Albacore": 1, "the North and South Pacific Oceans": 1, "Pacific": 3, "the west coast": 1, "North America": 1, "Oregon": 1, "the North Pacific": 2, "North and South Pacific": 2, "the North and South Pacific": 1, "South Pacific": 1}
+{"Manoa": 1, "Island": 1, "West Hawai?i": 1, "Hawai?i": 1}
+{"the North East Atlantic": 1}
+{"Pacaya": 1, "Guatemala": 1, "Mount St. Helens": 1, "Earth": 1}
+{"Morocco": 1, "Western Sahara": 1, "Mauritania": 1, "Senegal": 1, "Gambia": 1, "Guinea": 2, "Abralia": 1, "Northwest Africa": 1}
+{}
+{"Europe": 6}
+{"the Sargasso Sea": 4, "Atlantic": 5, "Europe": 2, "North Africa": 1, "North-Africa": 1, "Sweden": 1}
+{"Lake Superior": 3, "the Great Lakes": 2, "Great Lakes": 1, "Lake Ontario": 1}
+{"UK": 2, "Netherlands": 1, "Earth": 1, "woodland": 1}
+{"Australia": 4, "Sydney": 1}
+{}
+{"Wyoming": 2, "Pinedale": 1}
+{"Cuba": 2, "Caribbean": 2, "Cambridge": 1, "Pacific": 1}
+{"the United States": 4, "U.S.": 3, "Indonesia": 1}
+{"Polynesia": 3, "the Mariana Islands": 1, "Leipzig": 1, "Germany": 1, "Marianas": 2, "Guam": 4, "Philippines": 1, "Island Southeast Asia": 1, "Vanuatu": 1, "Tonga": 1, "the Western Pacific region": 1, "Oceania": 1}
+{"Indian Ocean": 6, "Omura": 1, "Madagascar": 2, "Oman": 8, "the Arabian Sea": 4, "Arabian Sea": 4, "the Indian Ocean": 4, "Sydney": 1, "Australia": 1, "the Chagos Archipelago": 1, "Emmanuelle": 1, "Chagos": 1, "the Northern Indian Ocean": 1, "Sri Lanka": 1, "The Arabian Sea": 1}
+{"the Iberian Peninsula": 1, "Burgos": 4, "Cantabria": 2, "Google Earth": 1, "the Cantabrian Mountains": 1, "Hispania": 1, "Callaeci": 1}
+{"the Atlantic Ocean": 1, "U.S": 1, "Europe": 1, "U.S.": 2, "Hawaii": 1, "the United States": 1, "the United Kingdom": 1, "China": 1, "Taiwan": 1, "Russia": 1, "Spain": 1, "Netherlands": 1, "South Korea": 1}
+{"Atlantic": 1, "the Baltic Sea": 1, "Baltic": 1, "the Bothnian Sea": 1, "the Gulf of Finland": 1}
+{"Egypt": 7, "New Kingdom": 3, "B.C.": 2, "Africa": 1, "Arabia": 1, "Eritrea": 1, "Ethiopia": 1, "Somalia": 1, "Memphis": 1, "Lower Egypt": 1, "the Red Sea": 1, "Red Sea": 1, "Cairo": 1, "Santa Cruz": 1}
+{"San Salvador": 8, "Bahamas": 3, "North Carolina).\"No": 1, "South America": 2, "Mexico": 1, "Central America": 1, "Caribbean": 2, "riyeli": 2, "Sahara": 1, "Atlantic": 1, "the Holocene Epoch": 1}
+{"Hong Kong": 3, "China": 1, "the Atlantic Ocean": 1, "Asia": 1, "Atlantic": 2, "Ecuador": 1}
+{"Antarctica": 1, "Australia": 1, "Earth": 1, "Arctic": 1, "Antarctic": 1}
+{"Okinawa": 1, "Japan": 1}
+{"Earth": 10, "Capitanio": 1, "Australia": 1}
+{"Africa": 1, "North and South America": 1, "Andes": 1, "the Pacific Northwest": 1}
+{"Thailand": 3, "Salween River Basin": 1, "Reno": 1, "Ngao River": 1, "Myanmar": 1, "Southeast Asia": 1, "Koning": 1, "Mekong": 1, "Congo": 1, "Mekong River": 1}
+{"East Africa": 1, "the Arabian Peninsula": 1, "South-West Asia": 1}
+{"Mexico": 1}
+{"The United States": 1, "the Middle East": 1}
+{"South Georgia": 8, "South Georgia's": 1, "South Sandwich": 2, "US": 1, "South Sandwich Islands": 1, "\u0160irovi": 1}
+{"the Living Planet Database": 1, "North,": 1, "South America": 1}
+{"Connecticut": 1, "Beaufort": 1, "N.C.": 1, "Warsaw": 1}
+{}
+{"Atlantic": 1, "Warsaw": 1, "NA09NMF4720265": 1, "North Carolina": 1}
+{"New Zealand": 1, "Australia": 1, "Denmark": 1, "Switzerland": 1, "Netherlands": 2, "China": 1, "England": 1, "Henderson Island": 5, "the Pitcairn Islands": 1, "Prosobonia": 3, "Pacific": 2, "the Kiritimati Sandpiper": 1, "the Mo'orea Sandpiper": 1, "the South Pacific Ocean": 1}
+{}
+{"US": 1, "Asia": 1, "Africa": 1, "Latin America": 1, "Caribbean": 1}
+{}
+{"the Kerguelen Plateau": 3, "the Indian Ocean": 1, "Fremantle": 1, "Western Australia": 4, "Earth": 2, "Heard Island": 1, "Australia": 2, "India": 1, "Antarctica": 1, "Bunsen": 1, "Sweden": 1}
+{"UK": 1}
+{"Earth": 4}
+{"North America": 1, "Caribbean": 1, "Central and South America": 1, "Pacific": 1, "Atlantic": 1, "Alternatively": 1, "Hawaii": 1, "Guam": 1, "Australia": 1, "Puerto Rico": 1, "Davis": 1, "California": 1, "Monarchs": 1}
+{"the Charles River": 1}
+{"AI": 4, "Japan": 1}
+{"China": 2}
+{"the Central Pacific": 1, "South Atlantic": 1}
+{"UC": 2, "Santa Barbara's": 1, "Santa Barbara": 1, "the South Pacific": 1, "Africa": 1, "North and South America": 1}
+{"Brevard County": 2, "Florida": 2, "U.S.": 1, "Indian River": 1, "the Gulf of Mexico": 1, "North and South Atlantic": 1}
+{"Sahara": 1, "Africa": 1, "Belgium": 1, "Tanzania": 1, "Congo": 1, "the Central African Republic": 1}
+{"Raine Island": 1, "Ocean": 1, "Australia": 3, "the Coral Sea": 1, "Cape York": 1}
+{"Montecito": 1, "California": 2, "Southern California's": 1, "San Gabriel Mountains": 1, "Rockies": 1, "Southern California": 1}
+{"Earth": 7, "the Southern Hemisphere": 1, "the South Pole": 1, "Gondwana": 1, "Laurussia": 1, "Wales": 1, "South China": 2}
+{"Chicago": 2, "the Chicago River": 1, "Happily": 1, "Illinois State": 1}
+{"Baraza": 4, "Missouri": 1, "St. Louis": 1}
+{"UC": 11, "Guatemala": 2, "Maya": 3, "Europe": 1, "Tikal": 2, "cyanobacteria": 1, "Greece": 2, "Egypt": 1, "South Asia": 1, "the Western Hemisphere": 1, "Rome": 1, "India": 1, "China": 1}
+{"U.S.": 2, "Southern California": 1, "Bangladesh": 1, "Philippines": 1, "China": 1, "Malaysia": 1, "Australia": 1, "New Zealand": 1, "the United States": 2}
+{"Earth": 4, "Rio Grande": 2, "New Mexico": 1, "United States": 1}
+{"Located": 1, "Asia": 1, "Arabia": 1, "Sahara": 1, "South Asia": 2, "Saraswati River": 1, "the Rig Veda": 1, "Nal": 1, "Achyuthan": 1, "the Thar Desert": 2, "Africa": 1, "India": 1}
+{"Columbia River": 2, "Opportunistic": 1, "the Bonneville Dam": 1, "California": 5, "U.S.": 1, "West Coast": 1, "Washington": 1, "Idaho": 1, "Oregon": 1, "Pacific Northwest": 1, "Steller": 1}
+{"Antarctic Krill": 1, "Euphausia": 1, "the Southern Ocean": 7, "Norway": 1, "Korea": 1, "China": 1, "Chile": 1, "Ukraine": 1, "Japan": 1, "Atlantic": 3, "Antarctica": 1}
+{"Florida": 3, "South America": 1, "Caribbean": 1, "the Atlantic Ocean": 1, "the Gulf of Mexico": 2, "U.S.": 1, "North America's": 1}
+{}
+{"Netherlands": 1}
+{"Caribbean": 9, "Collin": 4, "Panama": 1, "the Gulf of Mexico": 1, "Pacific": 1, "Atlantic": 1, "Africa": 1}
+{"the United States": 2, "Brazil": 1, "Australia": 1, "China": 2, "New Zealand": 1, "India": 1, "Pakistan": 1}
+{"New York": 1, "the Congo Basin": 1, "Africa": 1, "Europe": 1, "the United States": 1, "the Czech Republic": 1, "Germany": 1, "US": 1, "South Africa": 1}
+{"Earth": 3}
+{"Earth": 1, "Tejada": 1, "Lima": 1, "Amazonia": 1, "Africa": 2}
+{"Paris": 1, "South America": 2, "Carnivora": 2, "Sweden": 1}
+{}
+{}
+{"Africa": 2, "Australia": 2, "Europe": 2, "South America": 2, "Washington": 4, "U.S.": 3, "Japan": 1, "South Korea": 1, "Taiwan": 1, "Asia": 1, "Fahrenheit": 1, "Canada": 1, "New Zealand": 1, "British Columbia": 2, "California": 1, "Central Valley": 1, "Oregon": 2, "North America": 1}
+{"the West Coast": 1, "Santa Cruz": 1, "California": 2, "the Aleutian Islands": 1, "Washington": 1, "Oregon": 2, "the Pacific Northwest": 1, "Ontario": 1, "Canada": 1}
+{}
+{"Newton": 3}
+{"the Arabian Peninsula": 1, "Arabia": 5, "Africa": 4, "Eurasia": 2, "Saudi Arabia": 1, "Levant": 2, "the United Kingdom": 1, "Australia": 1}
+{"Asia": 1, "Russia": 1, "California": 2, "Washington": 1, "Vancouver Island": 1, "North America": 1, "Oregon": 1, "Calvert Island": 3, "Upogebia": 1, "the Pacific Coast": 1, "the North Coast": 1, "British Columbia": 1, "Alaska": 1}
+{"San Diego": 1, "California": 1}
+{"Switzerland": 1, "Africa": 4, "Eastern Europe": 2, "South America": 2, "Western Sahara": 1, "Morocco": 1, "China": 1, "Russia": 1, "US": 1, "Europe": 1}
+{"Australia": 3, "the South Pacific": 2, "the Coral Sea": 2, "Sydney": 1, "the Queensland Plateau": 1, "the Coral Sea Marine Park": 1}
+{"the Hudson River": 1}
+{"California": 3, "Europe": 1, "the Central Coast": 1, "San Luis": 1}
+{"Japan": 4, "the west coast": 2, "Nagasaki Prefecture": 2, "Saikai City": 1, "Nagasaki": 1}
+{"The Gulf of Mexico": 1, "the Mississippi River": 3, "Gulf": 8, "the North Atlantic Ocean": 1, "Mississippi": 2, "the Northern Gulf Shelf": 1, "the Northern Gulf": 2, "the Gulf of Mexico": 2, "Mississippi River": 1, "the North Atlantic": 2, "the Florida Straits": 3, "North and South Atlantic": 1, "Mexico": 1}
+{"Arctic": 4, "Norway": 1, "Sweden": 1, "Greenland": 1, "Russia": 1, "Canada": 1, "the United States": 1, "Indigenous": 5}
+{"UQ": 1, "the Asia-Pacific region": 1, "Asia": 3, "Fiji": 1, "Trinidad": 1}
+{"Lake Gatun": 1, "Pacific": 2, "Panama": 3, "Atlantic": 1, "Suez": 1, "Mediterranean": 3, "Red Sea": 1, "the Red Sea": 1, "Egypt": 1, "the UN Decade": 1}
+{"UC": 1, "Santa Barbara's": 1, "North Atlantic": 1, "Europe": 1}
+{"Asia": 1, "the United States": 1, "UC": 6, "Earth": 1, "Greater Cincinnati": 1}
+{"Sumatra": 1}
+{"the Antarctic Circle": 4, "Earth": 3, "Antarctica": 5, "India": 1, "China": 1, "Russia": 1, "Africa": 1, "Antarctic Lystrosaurus": 1, "South Africa": 2, "the South Pole": 1, "Antarctic": 1}
+{"Australia": 2, "Earth": 1, "Carturan": 1, "algae": 1}
+{"Patescibacteria": 5, "Earth": 6, "the Mediterranean Sea": 1, "Pacific": 1, "South Africa": 1, "Mars": 1}
+{"Africa": 1, "Asia": 1, "Hirvonen": 1, "Children": 1}
+{"Brazil": 1, "the Democratic Republic of the Congo": 2, "India": 1, "Indonesia": 1, "Earth": 1, "Africa": 1, "the Central African Republic": 1, "Thailand": 1}
+{"Tanzania": 3, "Asia": 3, "pangolin": 1}
+{"East Antarctica": 4, "Antarctic": 1, "Earth": 1, "West Antarctica": 1}
+{"North America": 2, "Arctic": 2, "Mediterranean": 1}
+{"the Red Sea": 1, "The Red Sea": 1}
+{"the Eurasian Basin": 1, "Arctic": 4, "Atlantic": 4, "the Atlantic Ocean": 1, "the Arctic Ocean": 1, "Arctic Ocean": 1}
+{"North America": 1}
+{"California": 2, "the Port of Los Angeles": 1, "Santa Barbara": 1, "San Francisco": 1, "Miami": 1, "Hawaii": 1}
+{"Irvine": 1, "New Jersey": 2, "Southeast Asia": 8, "the Green Sahara": 2, "Earth": 1, "Northern Africa": 1, "Northern Laos": 1, "Montreal": 1, "Sahara": 1, "the Indian Ocean": 1, "Western Asia": 1, "North Africa": 1, "the Akkadian Empire": 1, "Mesopotamia": 1, "Pakistan": 1, "India": 1, "the Nile River": 1}
+{}
+{"Earth": 1, "Greenland": 2, "Denmark": 1, "UK": 1, "Germany": 1, "China": 1, "France": 1, "Switzerland": 1, "Europe": 1, "Asia": 1, "South America": 1, "Arctic": 1}
+{"Earth": 3, "Bremerhaven": 1, "Arctic": 1, "Greenland": 1}
+{"Earth": 1, "Honolulu": 1}
+{"New England": 1, "M.S.": 1}
+{"UC": 2, "Santa Barbara's": 2}
+{"Africa": 1, "North": 1, "Germany": 1}
+{"Alaska": 4, "the North Pacific Ocean": 1, "UC": 3, "Santa Cruz": 2, "the North Pacific": 1, "Asia": 1, "Santa Barbara": 1, "Anchorage": 1, "Montreal": 1}
+{"Antarctic": 1, "Arctic": 2, "Tibetan Plateau": 2, "Earth": 1, "Antarctica": 3}
+{}
+{"Earth": 4, "Southeast Asia": 3, "Greenbelt": 1, "Maryland": 2, "Indonesia": 1}
+{"Brogan": 1}
+{"the Atlantic Ocean": 2, "Atlantic": 1, "UK": 1}
+{"Earth": 2, "Mediterranean": 1, "Australia": 2, "California": 2, "the Southern Hemisphere": 1, "the Northern Hemisphere": 1, "Southern Hemisphere": 1, "Bremerhaven": 1, "Germany": 1}
+{"Siberia": 2, "North America": 2, "the Northern Hemisphere": 1, "Alaska": 2, "Canada": 1, "Earth": 1}
+{"Africa": 2, "Australia": 1, "Asia": 1, "Americas": 1, "Sahelian Africa": 1, "Senegal": 1, "Europe": 1, "West Africa": 1, "Burkina Faso": 1}
+{"Earth": 25, "Sun": 1, "South America": 1, "Atlantic Ocean": 1, "the South Atlantic Anomaly": 1, "South Atlantic Anomaly": 3, "Greenbelt": 1, "Maryland": 1, "LEO": 1}
+{"Earth": 1, "plankton": 1, "Monterey": 1, "Puerto Rico": 2, "Hawaii": 1, "Pacific": 1, "U.S": 1}
+{"UK": 1, "Greenland": 12}
+{"Buatois": 1, "Canada": 2, "Hamburg": 1, "Ohio": 1}
+{"Earth": 6, "Mediterranean": 1}
+{"Greenland": 6, "the Atlantic Ocean": 1}
+{"biostatistician": 1}
+{"Yellow River": 1, "China": 1, "Mississippi": 1, "Sea": 1, "Earth": 1, "Mississippi River": 1, "New Orleans": 1, "Louisiana": 1}
+{"the North Atlantic": 2, "the Center of Atmosphere Ocean Science": 1, "the Pacific Ocean": 1}
+{"Latin America": 1}
+{"East Africa": 3}
+{"Earth": 1, "Nereus": 1, "Grand Cayman": 1, "Caribbean": 1}
+{"UC": 2, "San Diego": 1, "Earth": 1, "Brazil": 3}
+{}
+{"Earth": 3, "Brazil": 1, "Colombia": 1, "Costa Rica": 1, "the Democratic Republic of the Congo": 1, "Ecuador": 1, "Indonesia": 1, "Peru": 1, "Viet Nam": 1, "Monsoon": 1}
+{"Arctic": 6, "Arctic sea": 2, "Arctic sea-": 1, "UK": 1, "Earth": 3, "NE": 1}
+{"Atlantic": 2, "Dover": 2, "The Celtic Sea": 1, "North Sea": 1}
+{"the Pacific Ocean": 1, "Pacific Island": 2, "Pacific": 1, "Spain": 1}
+{"Earth": 3, "West": 3, "United States": 2, "Pacific Ocean": 1, "Southwest": 2, "El Ni\u00f1o": 1, "Southern California": 1, "the Atlantic Ocean": 1}
+{"Gulf Stream": 1, "the Southeast Atlantic Coast": 1, "the United States": 1, "the North Atlantic Ocean": 1, "Earth": 2, "Florida": 1, "Atlantic Coast": 1, "Caribbean": 1, "Atlantic": 1}
+{"China": 1, "SW England": 2, "Cornwall": 1, "England": 2, "UK": 3, "Plympton": 1, "Tungsten West": 1}
+{"Japan": 1, "the Bering Sea": 2, "the Okhotsk Sea": 2, "Russia": 1, "Pacific region": 1, "the Kuril Islands": 1, "the Aleutian Islands": 1}
+{"New Zealand": 1, "Southern Alps": 3, "the Little Ice Age": 6, "New Zealand's": 1, "the Southern Alps": 1}
+{"Pacific": 2, "Japan": 1, "U.S.": 1, "Canada": 1, "the Pacific coast": 1, "North America": 1}
+{"Pacific": 1, "Sylt": 2, "Wadden Sea": 1, "Zeeland": 2, "Netherlands": 1, "Europe": 1}
+{}
+{"Palau": 1, "the Solomon Islands": 1, "Kiribati": 1, "the Cook Islands": 1}
+{"Americas": 3, "North America": 1, "Yemen": 1, "Oman": 1, "America": 1, "Arabia": 4, "south Arabia": 1}
+{"Atlantic": 1, "the United States' Eastern Seaboard": 1, "Pacific marine": 1, "the West Coast": 1, "the United States": 1, "the Gulf of Alaska": 1, "California": 1, "the Channel Islands": 1, "Southern California": 1}
+{}
+{"Earth": 6, "Manhattan Islands": 1, "Greenland": 1}
+{"Bologna": 2, "Earth": 5, "Mars": 5, "Hawaii": 1, "Canary Islands": 1, "Australia": 1, "Iceland": 1, "Galapagos": 1, "Marius Hills": 1, "Padua": 1}
+{"The Southern Ocean": 1, "Earth": 3, "Pacific": 1, "Atlantic": 1, "the Southern Ocean's": 2, "Antarctic": 2, "the Southern Ocean": 3, "East Antarctica": 1, "West Antarctica": 1, "Russia": 2, "Australia": 1, "New Zealand": 1, "Italy": 1}
+{"the Canadian Arctic Archipelago": 1, "Mars": 11, "Earth": 5, "the Canadian Arctic": 1, "Antarctica": 1}
+{"Earth": 5, "Texas": 1, "Canada": 1, "Colorado": 1, "North America": 1, "the North Atlantic Ocean": 1, "Northern Hemisphere": 1}
+{"Earth": 2, "California": 2, "San Diego": 2, "Los Angeles": 3, "Santa Cruz": 2, "San Francisco": 3, "U.S.": 2, "Japan": 1, "Netherlands": 1, "The Monterey Bay Area": 1, "Central California": 1}
+{"Hummels": 1, "Atlantic": 1}
+{"Earth": 1, "the Sargasso Sea": 1, "New York City": 1}
+{"Argentina": 3, "Atlantic": 1, "the Middle Holocene": 4, "the Atlantic coast": 1, "Middle Holocene": 1}
+{"the North Sea": 3, "Wales": 1, "North Sea": 1}
+{"Arctic": 7, "the Arctic Ocean": 5, "U.S.": 1, "the Arctic Ocean's": 1, "the North Atlantic": 3, "Europe": 2, "the North Atlantic's": 1, "Nares Strait": 1, "Greenland": 1, "Canada": 1}
+{"Faroes": 1, "Norway": 1, "the Denmark Strait": 1, "the Atlantic Ocean": 1}
+{"Earth": 3, "Alaska": 4, "North America": 1, "Canada": 2, "Sweden": 1, "Germany": 1}
+{"Arctic": 13, "Iceland": 1, "Kentucky": 1, "India": 3, "Atlantic": 1, "the Arctic Ocean": 2, "Chukchi": 1, "East Siberian": 1, "Arctic sea": 1, "Pacific Ocean": 1, "the Arctic sea": 1, "New Delhi": 2}
+{"the Arctic Ocean": 4, "the Atlantic Ocean": 1, "the Fram Strait": 1, "Greenland": 1, "Fram Strait": 1, "Europe": 1, "North Sea": 1, "Arctic": 1, "the North Atlantic": 1}
+{"Indigenous": 1}
+{"Indigenous Peoples": 2, "Indigenous": 3, "the Global South": 1}
+{"the South Pacific Gyre": 1, "JAMSTEC": 1, "Earth": 1}
+{"Earth": 3, "Washington": 2, "the Southern Hemisphere": 1, "the Northern Hemisphere": 1, "Southern Ocean": 2, "millennia": 1}
+{"Austin": 1, "Earth": 2, "the Himalaya Mountains": 1, "Indus River Delta": 1}
+{}
+{"Caribbean": 1, "Bogot\u00e1": 1, "Colombia": 1, "Baja California": 1, "the Galapagos Islands": 1, "Pacific Ocean": 1, "Panama": 1}
+{}
+{"the Ross Sea": 1, "Antarctica": 8, "Antarctic": 1, "Earth": 1, "Wellington": 1, "New Zealand": 1}
+{"Atlantic": 1, "Caribbean": 1, "USA": 1, "Belize": 2, "Central America": 2, "the Mayan Mountains": 1}
+{"Leviathan Cave": 3, "Great Basin": 2, "Nevada": 3, "Southwest": 4, "the Colorado River Basin": 3, "Arctic": 3, "Pacific Ocean": 1, "Pacific": 1, "Colorado River Basin": 1, "U.S.": 1, "Lake Mead": 2, "The Colorado River": 1, "Rio Grande": 1, "Rocky Mountains": 1, "Lachniet": 1, "the Mojave Desert": 1}
+{"Earth": 1, "the North Atlantic": 2, "Northeast": 1, "North Atlantic": 2}
+{"Pacific": 1, "Atlantic": 1, "North America": 2, "Europe": 1, "Northern Europe": 1, "Wales": 1, "UK": 1, "Northern England": 1, "Norway": 1, "Greifswald": 1}
+{"Ice": 1, "Earth": 3, "UC": 2, "Santa Cruz": 2, "the Wilkes Basin": 2, "Greenland": 1, "West Antarctica": 1, "Antarctica": 2, "North America": 1}
+{"Earth": 1}
+{"Australia": 2, "the Dominican Republic": 1, "Kenya": 1, "Vietnam": 1, "Qatar": 1, "the Federated States": 1, "Micronesia": 1, "Polynesia": 1, "US": 1}
+{"UK": 3, "Cornwall": 2, "the North-East Atlantic": 1, "Celtic Sea": 1}
+{"Indian Ocean": 1, "Atlantic Ocean": 1, "the Northern Pacific Ocean": 1}
+{"South Asia": 2, "Europe": 2, "Latin America": 1, "Africa": 1, "Earth": 1}
+{"South Atlantic Anomaly": 3, "Earth": 3, "North": 1, "the South Atlantic": 1, "South Atlantic": 1, "the South Atlantic Anomaly": 1}
+{"China": 3, "COP15": 1, "Correspondence": 1}
+{"Earth": 1, "Fortymile River": 1, "Yukon River": 1, "Canada": 1, "Alaska": 1, "Bering Sea": 1, "the Fortymile River": 1}
+{"Earth": 1, "Sweden": 1}
+{"Kenya": 2, "Astrocast": 1}
+{"Antarctica": 5, "Johannesburg": 1, "Skukuza": 1, "South Africa": 2, "Australia": 1, "the Netherlands": 1, "New Zealand": 1}
+{"U.S.": 1, "Greenland": 4, "the Caribbean Sea": 2, "Woods Hole": 1, "Massachusetts": 1, "the United States": 1, "Canada": 1, "Saba": 1, "the Davis Strait": 1, "North Atlantic Ocean": 4, "North Atlantic": 4, "Florida": 1, "Southern New England": 1, "Virginia": 1, "Nova Scotia": 1, "Massachusetts Bay": 1, "New England": 1, "the Gulf of St. Lawrence": 2, "North Carolina": 2}
+{"Hecate Strait": 1, "British Columbia": 1}
+{"Siberia": 3, "Tibet": 1, "East Asia": 1, "The East Asian": 1, "China": 2, "Chongqing": 1}
+{"Australia": 1, "green sea": 1, "Indian Ocean": 2, "Somalia": 1, "the Chagos Archipelago": 1}
+{"the Pacific Northwest": 1}
+{"plankton": 2}
+{"the Gulf of Mexico": 4, "Texas": 1, "Florida": 1, "North Atlantic Ocean": 1, "Gulf": 1, "the Gulf of Mexico's": 1}
+{"Chappaqua": 1, "NY": 1}
+{"Ohio": 1, "Asia": 2}
+{"Australia": 6, "the United States": 2, "Middle East": 1, "North Africa": 1, "China": 1, "South America": 1, "Europe": 1, "Victoria": 1, "South Australia": 1}
+{"Earth": 2, "Germany": 1, "France": 2, "Africa": 1, "the Middle East": 1, "China": 1, "South Asia": 1, "Oceania": 1, "Australia": 1, "Pacific islands": 1, "The United States": 1, "U.S.": 2, "Canada": 1, "Europe": 2, "Arctic": 2}
+{"Paleocene": 1, "Earth": 2}
+{"South Australia": 2, "Australia": 1, "Riverland": 1}
+{"Florida": 2, "Carolinas": 1, "New England": 1, "South": 1, "South Carolina": 1, "Sesarma": 1, "U.S.": 1}
+{"Mississippi River": 1, "Mississippi": 2, "China": 2, "Yellow River": 2, "the Indus River": 1, "India": 1, "Bronze": 1, "Harappan": 1}
+{"South Florida": 1, "Venezuela": 3, "Mexico": 1, "Ecuador": 1, "Jamaica": 1, "Cuba": 2, "Northern,": 1, "Southern America's": 1, "Costa Rica": 1, "Florida": 2, "Central and South America": 1, "Natalia": 1, "Birama Swamp": 1}
+{"Arctic": 9, "The Arctic Ocean": 1, "Earth": 1, "the Atlantic Ocean": 1, "the Pacific Ocean": 1, "Amerasian Basin": 1, "Eurasian Basin": 1, "Atlantic": 2, "the Arctic Ocean": 3, "the Eurasian Basin": 1, "Pacific": 1}
+{}
+{}
+{"Arctic": 12, "the Arctic Ocean": 3, "The Arctic Ocean": 1, "the Arctic Ocean's": 1}
+{"Western Pacific": 1, "Pacific": 2, "Palau": 1, "Kosrae": 1, "the Pacific Ocean": 1, "north Pacific Ocean": 1}
+{"Syria": 1, "China": 1, "Cambodia": 1, "Vietnam": 3, "North Korea": 1, "South Korea": 1, "Iran": 1, "Iraq": 2, "Israel": 1, "Gaza": 1, "Egypt": 1, "Afghanistan": 1, "Mexico": 1, "the United States": 1, "Bosnia-Herzegovina": 1}
+{"California": 1}
+{"the Ryukyu Archipelago": 3, "Australia": 1, "Nature": 1, "Pacific sea": 3, "Japan": 4, "Ishigaki": 3, "Okinawa": 2}
+{"High Mountain Asia": 1, "the Middle East": 2, "North Africa": 1, "North America": 2, "South America": 1, "Australia": 1, "Yangtze": 1, "Asia": 1, "Nile": 1, "Niger": 1, "Africa": 1, "the Colorado River": 1, "Indus": 1}
+{"Arctic": 10, "the Beaufort Sea": 2, "Casas": 5, "ECCC": 1, "the Greenland Sea": 1, "Greenland": 1, "Alaska": 1, "Canada": 1}
+{"Gulf Stream": 3, "the east coast": 1, "U.S.": 1, "Canada": 1, "Atlantic": 1, "the Atlantic Ocean": 1}
+{"Earth": 5, "UC": 1, "San Diego": 1, "California": 1, "North": 1, "South": 1, "the west coast": 1, "Central America": 1}
+{"the Arctic Ocean": 1, "Arctic": 5, "floe": 2, "Siberia": 1, "Bremerhaven": 1, "Germany": 1, "Arctic Ocean": 1, "Russia": 1, "Central Arctic": 1}
+{"Australia": 2, "Russia": 1, "Mediterranean": 4, "the Middle East": 1, "Africa": 2, "South America": 2, "Brazil": 1, "west Asia": 1, "South Australia": 1, "North Asia": 1}
+{}
+{"China": 1, "India": 2, "Australia": 4, "Canada": 1, "Greenland": 1, "Antarctica": 1, "Great Lakes": 1, "the United States": 1, "Africa": 2, "Asia": 2, "North America": 1}
+{"New Zealand": 1, "Antarctic": 1, "Southern Hemisphere": 1, "West Antarctica": 2, "Antarctica": 4, "the Antarctic Peninsula": 1, "the South Pole": 5, "Pacific Ocean": 1, "the South Atlantic": 1}
+{"Southeast Asia": 1, "Europe": 1, "Galway": 1}
+{"Kaufman": 1, "McKay": 1, "Earth": 1, "the Northern Hemisphere": 1, "Arctic": 1}
+{"Antarctica": 4, "Australia": 6, "China": 1, "Papua New Guinea": 1, "Pacific": 1, "Southeast Asia": 1, "South America": 1, "Africa": 2, "Asia": 3, "Gondwana": 1}
+{"Potsdam/Germany": 1, "Arctic": 4, "Alaska": 3, "Earth": 1, "USA": 1, "Fairbanks": 1, "Minneapolis": 1, "Baldwin Peninsula": 1, "Kotzebue": 1, "Canada": 1}
+{"Italy": 1, "South Asia": 1, "West Africa": 2, "Brazil": 2, "India": 1, "Pakistan": 1}
+{"North Sea": 2, "China": 1}
+{"Earth": 1}
+{"Bavaria": 1, "Germany": 1, "New Zealand": 2, "Iceland": 1, "Vienna": 1, "Stromboli": 1, "Sicily": 1, "the Canary Islands": 1}
+{"London": 1, "Mars": 1, "Greenland": 4, "Iceland": 1, "Blue Planet": 1, "UK": 1}
+{"Guyana": 6, "Suriname": 1, "Venezuela": 1, "Colombia": 1, "Brazil": 2, "Central and South American": 1}
+{"the United States": 1, "United Kingdom": 1, "Australia": 2, "South Africa": 3, "India": 1, "Brazil": 1, "the Arctic Ocean": 1, "Atlantic": 1, "Pacific Oceans": 1, "Earth": 1, "New Zealand": 2, "Prague": 1}
+{"Earth": 6, "Humayun": 1, "the State of Florida": 1}
+{"Antarctica": 2, "Southern Ocean": 1, "the Southern Ocean": 1}
+{"Atlantic": 6, "Maryland": 1, "Ocean City": 1, "Atlantic Ocean": 1}
+{"Tasmania": 1, "the Queensland Plateau": 1, "Australia": 2, "the Coral Sea": 2}
+{"Arctic": 8, "Earth": 1, "Greenland": 1}
+{"Arctic": 2}
+{"Preserve": 1, "U.S.": 2, "North America": 2, "Europe": 1, "Long Lake": 1, "NY": 1, "Moose River": 1, "United States": 1}
+{"Africa": 2, "Southeast Asia": 1, "the Global South": 1, "Latin America": 1, "Asia": 1, "Oceania": 1}
+{"millennia": 1, "Earth": 1, "Hamburg": 1, "the Southern Ocean": 1}
+{"Antarctica": 3, "the Southern Ocean": 4, "Earth": 1, "Southern Ocean": 1}
+{"Antarctica": 2, "the Southern Ocean": 4, "U.K.": 1, "Sydney": 2, "Australia": 1}
+{"the Eastern Pacific region": 2, "the Eastern Pacific": 5, "Atlantic": 2, "the Western Pacific": 1, "the Eastern Pacific Ocean": 1, "the Atlantic Basin": 1}
+{"eagles": 1, "North America": 1, "Europe": 1}
+{"China": 1, "Minamitorishima": 2, "North Pacific Ocean": 1, "the Central Pacific Ocean": 1, "Japan": 1}
+{"Arctic": 2, "Arctic Ocean": 2, "Arctic sea": 2}
+{"Antarctica": 3, "Weddell Sea": 2, "the Antarctic summer": 1, "Arctic": 1, "the Weddell Sea": 5, "Antarctic": 2, "Antarctic sea": 1}
+{"the Mediterranean Sea": 1, "Massachusetts": 1}
+{"Earth": 7}
+{"Herbaria": 1, "macroalgae": 2, "Central California": 1, "Monterey Bay": 5, "California": 1, "Central coast": 1, "Aquarium": 2, "Abbott": 1}
+{"Russia": 1, "Earth": 4, "the Angara River": 1, "Siberia": 3, "Canada": 2, "arctic": 1}
+{"Red Sea": 3, "Africa": 2, "Arabia": 1, "Farasan Islands": 1, "Saudi Arabia": 1, "the Red Sea": 1, "the Farasan Islands": 1}
+{"Pacific Ocean": 1, "the Pacific Ocean": 1, "South Java": 1, "Singapore": 2}
+{"Arctic Ocean": 3, "the Canada Basin": 5, "Alaska": 1, "Canada": 3, "the Arctic Ocean": 4, "the United States": 1, "China": 1, "Japan": 1, "the Canada Basin's": 1, "the Chukchi Sea": 2, "the Pacific Ocean": 1, "the Bering Strait": 1, "Arctic": 5, "Beluga": 1, "Atlantic": 1, "USGS.Long": 1, "Greenland": 1, "Delaware": 1, "the Atlantic Ocean": 1, "the East Coast": 1, "Earth": 1}
+{"Earth": 10, "Snowball Earth": 5, "a Snowball Earth": 1, "Virginia": 2, "the Snowball Earth": 1, "the Snowball Earths": 1}
+{"Canada": 2, "Australia": 2, "B.C.": 2, "Washington": 2, "Russia": 1, "Europe": 2, "North America": 2, "Asia": 2, "the Atlantic Ocean": 1, "Antarctica": 1, "west coast": 1}
+{"Arctic": 3}
+{}
+{"the Wyoming Range": 1, "North America": 1, "Europe": 1}
+{"Earth": 4, "China": 1, "U.S.": 1, "North Carolina": 1, "Asia": 1, "North America": 1, "Sahara": 1, "Africa": 1}
+{"Bremen": 1, "the Eastern Pacific Ocean": 1, "Pacific": 1, "Peru": 1, "Germany": 1}
+{"Earth": 3}
+{"Earth": 1, "Japan": 6, "Kyushu": 1, "Amami": 4, "Oshima": 1, "trans-river": 1}
+{"Australia": 1, "Jimmys Beach": 1, "Port Stephens": 1, "Heron Island": 1, "Oahu": 1, "Hawaii": 1}
+{"UK": 1, "Plymouth": 1, "Canada": 1, "Fatato Island": 1, "Tuvalu": 1, "the Coastal Ocean and Sediment Transport": 1}
+{"the Appalachian Ridge": 1, "Valley Region": 3, "Pennsylvania": 2, "Valley": 1, "Appalachian Mountains": 1, "New York": 1, "Georgia": 1}
+{"Africa": 1, "North America": 3, "East Africa": 1}
+{"Antarctic sea": 6, "Arctic sea": 1, "Antarctic": 2, "Arctic": 1, "Antarctic sea ice": 1, "Russia": 1, "the Southern Ocean": 1, "Antarctica": 1}
+{"the East Asia-Australasian Flyway": 1, "Australia": 2, "Siberia": 2, "China": 1, "the Yellow Sea": 1, "East": 1, "West": 1, "North America": 1, "Beijing": 1, "Shanghai": 1, "Yellow Sea": 1, "Earth": 1, "Southeast Asia": 1}
+{"Patagonia": 1, "Bhutan": 1, "North America": 2, "the Magellan Straits of South America": 1, "Earth": 1, "Antarctica": 1, "the United States": 1, "Mongolia": 1, "India": 1, "China": 2, "Asia": 1, "Africa": 1, "Yellowstone": 1, "Bolivia": 1, "Chile": 1, "Argentina": 1}
+{"California": 3, "the Central Coast": 2, "Northern California": 1, "woodland": 1}
+{"Rome": 1, "Italy": 1, "North Yorkshire": 1, "Turkey": 1, "Greece": 1, "Libya": 1, "Belle": 1}
+{"UK": 2, "France": 1, "Europe": 1, "the North Sea": 1}
+{"picoplankton": 1, "Synechococcus": 1, "Arctic": 1, "plankton": 1, "Zooplankton": 1, "the North East Atlantic": 1}
+{"United States": 1, "Northeast": 2, "U.S.": 1, "Princeton": 1, "New Jersey": 1, "Saba": 1, "Sea": 2, "Long Island Sound": 1, "Rhode Island": 1}
+{"Atlantic": 6, "Woods Hole": 1, "Massachusetts": 1, "Atlantic Ocean": 2, "Antarctica": 1, "the Pacific Ocean": 1, "the Atlantic Ocean": 1, "the United States": 1, "U.S.": 1}
+{"the Barents Sea": 3, "Norway": 1, "Arctic": 1}
+{"Caribbean": 1, "India": 1, "Southeast Asia": 1, "Mary River": 1, "Planet Earth": 1, "Africa": 1}
+{"Mucus": 1}
+{"Earth": 1, "the Soviet Union": 1, "Mount Pinatubo": 2, "Philippines": 1}
+{"South America": 1, "Asia": 1, "Africa": 1}
+{"Tehrany": 1, "Bahareh Kalantar": 1, "Brazil": 1, "US": 1, "Australia": 1}
+{"Ph.D.": 1, "M.S.": 2}
+{"Ranging": 1, "Alaska": 1, "Canada": 2, "the Strait of Georgia": 1, "B.C.": 4, "Australia": 1, "the Salish Sea": 1, "the Strait of": 1}
+{}
+{"Australia": 1, "Amazon": 1, "Mediterranean": 2, "Africa": 1, "Europe": 2, "Central America": 1}
+{"North America": 6, "the east coast": 5, "west coast": 1, "Gulf": 2, "the United States": 2, "Mexico": 1, "Canada": 1, "the Gulf of Mexico": 1, "the west coast": 3, "Arctic": 1, "the east coast's": 1, "Baja California": 1, "CCS": 1, "Atlantic": 1, "the Gulf of Alaska": 1, "Pacific": 1}
+{"the Pacific coast": 1, "U.S.": 1, "Canada": 1, "the Pacific Northwest": 1}
+{"Arctic": 3, "Earth": 1, "the Arctic Ocean": 1, "Alaska": 1, "Canada": 1, "Norway": 1, "Sweden": 1}
+{"Antarctica": 5, "the Antarctic Peninsula": 1, "the Weddell Sea": 1, "Antarctic": 3, "Pine Island Bay": 1, "Switzerland": 1}
+{"Africa": 1, "Oceania": 1, "North America": 1, "Europe": 1, "Latin America": 1, "Caribbean": 1, "the Global South": 1, "Global North": 1, "Germany": 1}
+{"New Zealand": 2, "the South Taranaki": 1, "New Zealand's": 1, "North and South Islands": 1}
+{"Zurich": 1, "Mount Pinatubo's": 1, "Earth": 1, "Pacific Ocean": 2, "Pacific": 1, "Southeast Asia": 1, "India": 1, "South Africa": 1, "Australia": 1, "South America": 1, "Korea": 1}
+{"Earth": 1, "Mt. Kinabalu": 3}
+{"North America": 4, "Carolina": 1, "Caribbean": 2, "Central America": 2, "South America": 2}
+{"Vineyard": 1, "the United States": 1, "Serra": 1}
+{"Arctic Ocean": 1, "Greenland": 2, "Canada": 1, "Northwest Greenland": 1, "Sapporo": 1, "Japan": 1, "Arctic": 1, "Qaanaaq": 1}
+{"Atlantic": 1, "Bremen": 1, "Lentimonas": 1, "Verrucomicrobia": 1}
+{}
+{"Earth": 2, "Northern Andes": 1, "Eastern Arc Mountains": 1, "Amazonia": 1, "America": 1, "Africa": 1, "Asia": 1}
+{"the Mississippi Delta": 2, "Louisiana": 1}
+{"North America": 1, "Alaska": 1, "British Columbia": 1, "Haida": 1, "SFU": 1, "Canada": 2, "U.S.": 1}
+{"Colorado": 1, "Montana": 1, "Texas": 1, "Wyoming": 1, "the Pacific Coast": 1, "Earth": 3, "United States": 1, "AI": 1, "California": 1, "Santa Ana": 1}
+{"Brazil": 2, "South America": 1, "Africa": 1, "Asia": 1, "Earth": 2}
+{"Southampton": 1}
+{"Texas": 1, "Eastern Equatorial Pacific Ocean": 1, "Pacific": 1, "Southern Ocean": 1, "the Pacific Ocean": 1, "the Southern Ocean": 1, "Earth": 1, "Pacific Ocean": 1}
+{"Arctic": 1, "Southeast Asia": 1, "Australia": 1, "New Zealand": 1, "Yellow Sea": 1, "China": 1}
+{"Antarctica": 8, "Antarctic": 2, "the west coast": 1, "the Antarctic Peninsula": 1, "the Southern Hemisphere's": 1, "Peninsula": 2, "Adelaide Island": 1, "the Fildes Peninsula": 1, "King George Island": 1, "Antarctic Peninsula": 1, "the South Shetland Islands": 1, "Edinburgh": 1, "orange algae": 1}
+{"South Georgia": 4, "Argentina": 2, "Brazil": 1, "South Africa": 2, "South America": 1, "Atlantic": 1, "Pen\u00ednsula Vald\u00e9z": 1}
+{"United States": 1, "North America": 3, "West": 4, "Overpeck": 6, "Rocky Mountains": 1, "Missouri": 1, "the United States": 2, "Missouri River Basin": 1, "Southwest": 3, "Colorado": 1, "the Rio Grande": 1, "the East Coast of North America": 1, "Canada": 1, "Mexico": 1}
+{"Africa": 1, "Asia": 1, "Latin America": 1, "Indonesia": 5, "Europe": 1, "USA": 1, "Malaysia": 1}
+{"Europe": 1}
+{"the Southern Ocean": 2, "the Antarctic Peninsula": 3, "Scotia Sea": 1}
+{"New Zealand": 1, "Mount Taranaki": 1, "North Island": 1, "Rooyakkers": 1, "Krafla": 2, "Iceland": 1}
+{"North China": 1}
+{"Earth": 3, "Antarctica": 1}
+{"Mars": 2, "Hungary": 1, "Providence": 1, "USA": 1}
+{"the Southern Ocean": 1, "Earth": 4, "the United States": 1, "South Korea": 1, "France": 1, "Pacific": 4, "the Southeast Indian Ridge": 1}
+{"Earth": 3}
+{"Hydrothermarchaeota": 5, "Manoa": 1, "Earth": 4, "Washington": 1}
+{"North America": 1, "Earth": 1}
+{"New York": 2, "Earth": 2, "Arctic": 1, "Greenland": 1, "Antarctic": 1, "Greenbelt": 1, "Maryland": 1}
+{"Earth": 4}
+{"Panama": 9, "the Caribbean Sea": 1, "the Pacific Ocean": 1, "North and South America": 2, "Earth": 3, "Panama Canal": 1, "Isthmus": 2, "Atlantic": 1, "Pacific": 1, "Caribbean": 1, "Europe": 1, "North America": 1, "South America": 1, "Arctic": 1}
+{"Earth": 3, "Greenland": 7, "Iceland": 3, "New York": 1}
+{"Biogeochemistry": 2, "Canberra": 1, "Australia": 1, "Grand Canyon": 2, "plankton": 1, "Earth": 1}
+{"Siberia": 2, "Earth": 6, "Australia": 1, "the Sydney Basin's": 1, "grey": 1}
+{"Earth": 9, "South Africa": 1, "Canada": 1, "Latypov": 1}
+{"UK": 1, "Project Midas": 1, "the Cole Peninsula": 1, "West Antarctica": 1, "the Antarctic Peninsula": 2, "Earth": 1}
+{"Earth": 7, "Yellowstone": 3}
+{"Earth": 1, "Northern to Southern America": 1, "Europe": 1, "Africa": 1}
+{"Wyoming": 2, "Germany": 1, "Lausanne": 1, "Earth": 1, "Borch": 1, "Switzerland": 1}
+{"Earth": 5, "U.S.": 1, "Washington": 1, "Pacific": 1, "Oregon": 1, "China": 1, "Nevada": 1, "Gondwana": 1}
+{"Earth": 4, "U.S.": 1, "Mediterranean": 1}
+{"Medicine Lake Volcano": 1, "Mount Shasta": 1, "Northern California": 1, "Santa Mar\u00eda Volcano": 1, "Guatemala": 1, "Manga": 3, "Fauria": 1, "New Zealand": 1}
+{"the United States": 1}
+{"Deer Park": 1, "Illinois": 1, "Earth": 6, "Galapagos": 3, "Central America": 1, "Costa Rica": 1, "Hawaii": 1}
+{"Earth": 11, "the Tibetan Plateau": 1}
+{"Earth": 1}
+{"Earth": 5, "Arctic": 9, "Antarctica": 10, "Germany": 1, "Antarctic": 1}
+{"United States": 1, "Piedmont province": 1, "Atlantic": 1}

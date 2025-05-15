@@ -1,0 +1,186 @@
+{"the Tittabawassee River": 1, "Rifle River": 1}
+{"Wixom Lake": 2, "the Tittabawassee River": 1, "The Tittabawassee River": 1, "the the Tittabawassee River": 1}
+{"the Little Conemaugh River": 1, "Rock Creek": 1}
+{"Rio Doce river": 1}
+{"Blackwater Creek": 1}
+{"The Tittabawassee River": 1, "Wixom Lake": 2, "Sanford Lake": 1, "Tittabawassee River": 1}
+{"Lake Oroville": 1, "the Feather River": 1, "Lake Conemaugh": 1, "the Mississippi River": 1}
+{"the Mekong River": 1, "International Rivers": 1}
+{"Lake Oroville": 3, "Lake Oroville\u2019s": 1}
+{"Lake Oroville": 2, "the Feather River": 1, "Friends of the River": 2}
+{}
+{"the Tittabawassee River": 8, "Wixom Lake": 3}
+{"Wixom Lake": 1}
+{}
+{}
+{"Oktibbeha County Lake": 7, "the Oktibbeha County Lake": 1}
+{"the Maquoketa River": 1}
+{"the Seiba River": 1}
+{}
+{"the Mekong River": 1, "International Rivers": 1}
+{"Lake Superior": 1, "Lake Oroville": 3}
+{}
+{"the Flint River": 1}
+{"the Rio Doce river": 1}
+{"Lake Oroville": 4}
+{}
+{"the Rio Doce river": 1}
+{"Lake Oroville's": 1, "Lake Oroville": 3}
+{"riverRaystown Lake": 1, "Raystown Lake": 2, "Lake Oroville": 3, "Lake Redman?Even": 1, "Lake Heritage Dam": 1, "Lake Meade Dam": 2, "Lake Lehman Dam": 1, "Lake Marburg Dam": 1, "Lake Pahagaco": 1, "Lake Redman Dam": 1, "Lake Williams Dam": 1}
+{"Coyote Creek": 2}
+{"the Stikine River": 1, "the Taku River": 1}
+{"the Doce river": 1}
+{"the Santa Ana River": 1, "San Gabriel River": 1, "Lake ForestJul": 3}
+{"Niobrara River": 2, "the Colorado River": 1}
+{}
+{}
+{"Lake Dunlap Dam": 2, "the Niobrara River": 1, "Niobrara River": 1, "the Colorado River": 1, "Lake Sebago": 2, "Lake Oroville": 1, "the Guadalupe River": 1, "Lake McQueeney": 1}
+{"Finger Lakes": 1, "Lake Sebago Dam": 1}
+{}
+{"the Red River": 1, "the Pembina River": 1, "Prior Lake": 1, "North Dakota river": 1}
+{"Paraopeba River": 3}
+{"Great Lakes": 5, "the Great Lakes": 4, "the Tittabawassee River": 1}
+{"the Fraser River": 1, "the Nass River": 1, "the Unuk River": 1, "Stikine River": 1}
+{"Wixom Lake": 8, "Sanford Lake": 1, "The Tittabawasse River": 1, "the Tittabawassee River": 1, "Tobacco River": 1}
+{}
+{"Madison River": 1, "the Madison River": 3}
+{"The Tittabawassee River": 2, "Wixom Lake": 4, "American Rivers": 2}
+{}
+{}
+{}
+{"Wixom Lake": 3}
+{"Bastrop State Park Lake": 1, "Lady Bird Lake": 1}
+{"the Niobrara River": 3}
+{"Menager Lake": 1, "Menagers Lake": 1, "Menegers Lake": 1}
+{}
+{"Six Lakes": 1}
+{"Cape Fear River": 3, "the Cape Fear River": 2, "Sutton Lake": 1}
+{"Six Lakes": 1}
+{"the Tittabawassee River": 2, "The Congo River": 1, "Great Salt Lake": 1}
+{"the Muskegon River": 2, "Town Line Creek": 1, "Wolf Creek": 1}
+{"Net River": 5, "Great Lakes": 1, "Chicago River": 1, "Lake MichiganNote": 1}
+{}
+{"Rouge River": 8, "the Rouge River": 2, "the Ottawa River": 2, "Ottawa River": 3}
+{"Wixom Lake": 1, "the Tittabawassee River": 1}
+{"the Rouge River": 2, "the Ottawa River": 1}
+{}
+{"Lake Oroville DamOf": 1}
+{"Madison River": 1, "Quake Lake": 6, "Ennis Lake": 1, "Hebgen Lake": 1, "The Madison River": 1, "the Madison River": 1, "Environment River": 1}
+{"the Snake River": 1}
+{}
+{}
+{}
+{"the Paraopeba River": 1}
+{"Lake Dr.": 1}
+{"Atmospheric River": 1, "the San Gabriel River": 2, "The San Gabriel River": 1}
+{}
+{"Forest Lake": 1, "Gills Creek": 2, "Arcadia Lakes": 1}
+{"Great Lakes": 1, "Sanford Lake": 2, "Pitt McGehee Palmer & Rivers": 1}
+{"Lake Delhi Dam": 2, "Lake Delhi": 1, "Lake Delhi/": 1, "the Maquoketa river": 1}
+{}
+{"the Rio Doce river": 1}
+{}
+{"Doce river": 1}
+{"Twain Harte Lake": 4, "Sullivan Creek": 2}
+{}
+{"American Rivers": 2, "Snake River": 2, "2021 American Rivers": 1}
+{"Lake Dunlap": 15, "the Guadalupe River": 1, "Lake Wood": 2}
+{"the Madison River": 5, "madison river": 1}
+{"the Santa Clara River": 1}
+{"the Newell Creek": 1, "Lake Oroville\u2019s": 1}
+{"the Muskegon River": 9, "Muskegon River": 4, "Muskegon Lake": 4, "The Muskegon River": 1, "Lake Michigan": 2, "Bear Lake": 1, "Bear Creek": 1}
+{"the Bacanuchi River": 1}
+{"Sucker Creek": 1, "O'Neal Lake": 2}
+{"Cypress Creek": 1}
+{"the Niobrara River": 2}
+{"the Tittabawassee River": 1, "Wixom Lake": 1}
+{}
+{"the Tittabawassee River": 2, "Lake Wixom": 1, "Tittabawassee River": 1}
+{"Net River": 8, "the Net River": 1, "Great Lakes": 1}
+{}
+{"Great Lakes": 1, "the Tobacco River": 2, "Wixom Lake": 1, "the Tittabawassee River": 1, "Sanford Lake": 1, "The Tittabawassee River": 1}
+{"the Animas River": 2, "Cement Creek": 1}
+{}
+{"Saratoga Lake": 1}
+{}
+{}
+{"Lake Gonzales\u2019": 1, "Lake Gonzales": 5, "Lake Dunlap": 1, "Lake Wood": 1, "Lake Dunlap\u2019s": 1}
+{"River Road": 2}
+{"Lake Lewisville": 1, "the Trinity River": 3, "Lewisville Lake": 1}
+{"Williams Lake": 1}
+{"the Delaware River": 1}
+{"Great Lakes": 2}
+{"Lake Tahoma": 2, "the Catawba River": 1, "River Breeze": 1}
+{"Lake Oroville": 1, "Friends of the River": 2}
+{"Lake McQueeny": 1, "Lakes Wood": 1, "Meadow Lake": 1, "Lake McQueeney": 3, "Lake Dunlap": 5, "Lake Dunlap's": 1, "Lake Wood": 1, "the Guadalupe River": 1}
+{"Wixom Lake": 1, "Sanford Lake": 1, "Great Lakes": 1, "Tittabawassee River": 1, "Tobacco River": 2}
+{"Capilano River": 1, "the Capilano River": 1}
+{"Hebgen Lake": 1, "the East Boulder River": 3, "The East Boulder River": 4, "the Boulder River": 5, "the Yellowstone River": 4, "Yellowstone River": 1, "East Boulder River": 2}
+{"Echo Lake": 44, "ECHO LAKE": 1, "the White River": 8, "White River": 3}
+{"American Rivers": 1, "Lake Conestee Brownfield": 1, "Lake Conestee Nature Park": 1, "Reedy River": 1}
+{"Cachoeira River": 1}
+{"Hazeltine Creek": 2, "Polley Lake": 2, "Quesnel Lake": 2}
+{}
+{}
+{"scareLewisville Lake": 1, "Lewisville Lake": 7}
+{}
+{"the Doce River": 1}
+{"Great River": 1}
+{"the Tittabawassee River": 1, "the Tobacco River": 1, "Sanford Lake": 1}
+{"the Connecticut River": 1, "Great River": 8, "the Deerfield River": 1}
+{"the Tittabawassee River": 1, "the Saginaw River": 1, "Lake Huron": 1, "Wixom Lake": 1, "Duck Creek": 1}
+{}
+{"the Qingjiang River": 1, "Yellow River": 1, "Huai River": 1, "Yangtze River": 1, "the Yangtze River": 2, "the Huai River": 1}
+{}
+{}
+{"the Doce River": 5, "Paraopeba River": 1, "the Paraopeba River": 2, "Doce River": 1}
+{}
+{"Lawn Lake": 1, "Spring Creek": 1, "Carter Lake": 1, "Lake Oroville's": 1, "the Feather River": 1}
+{"Great Lakes": 1}
+{"the Tittabawassee River": 6, "Sanford Lake": 2, "Wixom Lake": 2, "River Road": 1, "The Tittabwasee River": 1, "Sanford Lakes": 1}
+{"the Feather River": 7, "Lake Oroville": 5, "Feather River": 1, "Oroville Lake": 1}
+{}
+{"Quesnel Lake": 2, "Capilano River": 1}
+{}
+{"San Joaquin Rivers": 1, "American Rivers": 2, "the Stanislaus River": 1, "San Joaquin River": 1}
+{"Hazeltine Creek": 1}
+{}
+{"Wixom Lake": 7, "Tobacco Rivers": 1, "American Rivers": 1}
+{"Dalrymple Creek": 1}
+{}
+{"the Madison River": 3, "the Upper Madison River": 2, "River Edge Fly shop": 1}
+{}
+{"Boardman River": 3, "the Boardman River": 3, "Lake Michigan": 1}
+{"Great Lakes": 3, "Lake Michigan": 1}
+{}
+{"Lake Oroville": 1}
+{}
+{}
+{"Lake Gonzales": 5, "the Guadalupe River": 2, "Gonzales Lake": 1, "a Guadalupe Valley Lake": 1, "the Guadalupe Valley Lakes": 1, "Lake Dunlap Dam": 1}
+{"the Missouri River": 1}
+{}
+{}
+{"Great Lakes": 1}
+{"American Rivers": 3, "Feather River": 1, "2021 American Rivers": 1}
+{}
+{"Lake Wood": 19, "Canyon Canyon Lake": 1, "Lake Wood Dam": 2, "Canyon Lake": 2, "Lake Dunlap": 9, "Lake Texana": 1, "Lake McQueeney": 3}
+{"the Tobacco and Tittabawassee Rivers": 1, "the Tittabawassee River": 2, "Sanford Lake": 3, "Tittabawassee River": 2, "River Restoration Ecologist": 1}
+{"the Periyar river": 1, "Vaigai river": 2}
+{}
+{"Rye Brook": 1}
+{"the Tittabawassee River": 4, "Sanford Lake": 1}
+{"Lake ChamplainNew": 3, "Lake George": 1}
+{}
+{}
+{"Tolt River": 1}
+{"Lake Isabella Dam": 1, "Lake Isabella": 13}
+{"Great Lakes": 2, "Sanford Lake": 5, "Wixom Lake": 1, "Lake Michigan": 1}
+{"Lake Dunlap": 6, "Canyon Lake": 1, "Lake Travis": 2}
+{"Lake Charles": 1}
+{"Little River": 2, "Lake Surf": 1}
+{"Lake Hickory": 6, "the Catawba River": 2, "Lakes James": 1, "Lookout Shoals Lake": 1, "Lake James": 1, "Lakes Norman": 1, "Mountain Island Lake": 1, "Catawba River": 1}
+{"Hope Mills Lake": 2}
+{"Lake Surf": 1, "Crains Creek": 1}
+{"Yangtze River": 1, "the Yangtze River": 2}
+{}
+{"the Tamarack River": 1, "the St. Croix River": 3, "St. Croix River": 1}
