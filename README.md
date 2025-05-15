@@ -3,21 +3,16 @@
 ### 1. Organization
 
 - `QA`: saves the question-answering pairs
-
 - `corpus`: save the original corpus
-
 - `hypercube`: construct and save hypercube
-
 - `baselines`: include the reproduced methods where the official codes are not available
-
 - `evaluation`: compute evaluation scores
-
 - `utils`: helper functions
+- `qa_norag.py`: script to run LLMs without retrieval
+- `qa_rag_hurricane.py`: script to run Hypercube-RAG for hurricane dataset
+- `qa_rag_geography.py`: script to run Hypercube-RAG for geography dataset
+- `qa_rag_dam.py`: script to run Hypercube-RAG for dam dataset
 
-- qa_norag.py
-- qa_rag_dam.py
-- qa_rag_geography.py
-- qa_rag_hurricane.py
 
 
 ### 2. Environment
