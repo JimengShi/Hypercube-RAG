@@ -30,12 +30,13 @@ The following script takes the hurricane dataset and GPT-4o as an LLM base.
 
 
 ### Evaluation answers
+We have automatic metrics from the NLP domain and LLM-as-judge to evaluate the quality of answers.
 
-#### nlp metrics
-`python evaluation/nlp_metric.py --data hurricane --model gpt-4o --retrieval_method hypercube --metric all`
+#### NLP metrics
+```python evaluation/nlp_metric.py --data hurricane --model gpt-4o --retrieval_method hypercube --metric all```
 
 
 
-#### llm as judge
-`python evaluation/llm_as_judge.py --data hurricane --model gpt-4o --retrieval_method hypercube`
+#### LLM-as-judge
+```python evaluation/llm_as_judge.py --data hurricane --model gpt-4o --retrieval_method hypercube```
 
