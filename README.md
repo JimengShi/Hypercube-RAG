@@ -16,7 +16,7 @@ pip install accelerate openai together geopy nltk rouge_score sentence_transform
 export CUDA_VISIBLE_DEVICES=GPU_ID
 export OPENAI_API_KEY="your OPENAI_API_KEY"
 ```
-In our work, we multiple datasets `hurricane`, `geography`, `aging_dam` with multiple LLMs, such as `gpt-4`, `gpt-4o`, `gpt-3.5-turbo`, `llama3`, `deepseek`, `qwen. If you want to save the QA results, set the following "save" to true; otherwise, false.
+In our work, we multiple datasets `hurricane`, `geography`, `aging_dam` with multiple LLMs, such as `gpt-4`, `gpt-4o`, `gpt-3.5-turbo`, `llama3`, `deepseek`, `qwen`. If you want to save the QA results, set the following "save" to true; otherwise, false.
 ```
 python qa_norag.py --data `DATASET` --model `MODEL_NAME` --save `true`
 ```
