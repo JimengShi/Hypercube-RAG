@@ -1,4 +1,7 @@
 # Hypercube-RAG
+<div align="center">
+<img src="https://github.com/JimengShi/DL-WaLeF/blob/main/figures/study_domain.jpg" alt="domian" width="600"/>
+</div>
 
 ### 1. Organization
 
