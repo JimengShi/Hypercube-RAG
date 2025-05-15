@@ -3,10 +3,15 @@
 ### 1. Organization
 
 `QA`: saves the question-answering pairs
+
 `corpus`: save the original corpus
+
 `hypercube`: construct and save hypercube
-`baselines`: include the reproduced methods where the official codes are not available.
+
+`baselines`: include the reproduced methods where the official codes are not available
+
 `evaluation`: compute evaluation scores
+
 `utils`: helper functions
 ``
 
