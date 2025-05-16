@@ -6,10 +6,10 @@
 ### 1. Organization
 
 - `QA`: saves the question-answering pairs
-- `corpus`: save the original corpus
-- `hypercube`: construct and save hypercube
-- `baselines`: include the reproduced methods where the official codes are not available. We run graph-based models included in our work using their official GitHub repository. 
-- `evaluation`: compute evaluation scores
+- `corpus`: saves the original corpus
+- `hypercube`: constructs and saves hypercube
+- `baselines`: includes the reproduced methods where the official codes are not available. We run graph-based models included in our work using their official GitHub repository. 
+- `evaluation`: computes evaluation scores
 - `utils`: helper functions
 - `qa_norag.py`: script to run LLMs without retrieval
 - `qa_rag_hurricane.py`: script to run Hypercube-RAG for hurricane dataset
