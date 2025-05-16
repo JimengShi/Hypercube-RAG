@@ -8,7 +8,7 @@
 - `QA`: saves the question-answering pairs
 - `corpus`: save the original corpus
 - `hypercube`: construct and save hypercube
-- `baselines`: include the reproduced methods where the official codes are not available
+- `baselines`: include the reproduced methods where the official codes are not available. We run graph-based models included in our work using their official GitHub repository. 
 - `evaluation`: compute evaluation scores
 - `utils`: helper functions
 - `qa_norag.py`: script to run LLMs without retrieval
