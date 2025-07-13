@@ -1,10 +1,28 @@
-import numpy as np
-from rank_bm25 import BM25Okapi
-from tqdm import tqdm
-import argparse
-import os
 import json
+from tqdm import tqdm
+from collections import defaultdict
+from sentence_transformers import SentenceTransformer
+import numpy as np
+import heapq
+from openai import OpenAI
+import pickle
+import re
+import argparse
+from together import Together
+import sys
+import os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
+
+
+# ================ Load Dataset ================
+def load_dataset(data_path):
+    if data_path.endswith(".json"):
+        with open(data_path, "r") as f:
+            return json.load(f)
+    else:
+        raise ValueError("Unsupported file format. Use JSON or CSV.")
+    
 
 # ================ read corpus ================
 print('Reading the corpus file ...')
@@ -12,29 +30,25 @@ with open('corpus/hurricane/SciDCC-Hurricane.txt') as f:
     readin = f.readlines()
     corpus = [line.strip() for line in tqdm(readin)]
 
-tokenized_corpus = [doc.lower().split() for doc in corpus]
-bm25 = BM25Okapi(tokenized_corpus)
 
-
-# ================ retrive_e5 ================
-def retrive_e5(query, k):
-    tokenized_query = query.lower().split()
-    scores = bm25.get_scores(tokenized_query)
-    top_doc_ids = np.argsort(scores)[::-1][:k]
-    retrieved_docs = '\n\n'.join([f"Document {idx + 1}: {corpus[doc_id]}" for idx, doc_id in enumerate(top_doc_ids)])
-
-    return retrieved_docs
-
+# ================ build embedding index ================
+model = SentenceTransformer('intfloat/e5-base-v2')
+# model = SentenceTransformer('nvidia/NV-Embed-v2', trust_remote_code=True)
+doc_embeddings = model.encode(['passage: ' + text for text in corpus], normalize_embeddings=True)
 
 
 # ================ LLMs ================
 def llm_answer(model_type, query, k=3):
-    """
-    @step 1: retrieve
-    @step 2: input retrieved docs + instructions to llm
-    """
-    # retrieved documents input to llm
-    docs = retrive_e5(query, k)
+    assert model_type in ['gpt-3.5-turbo', 'gpt-4o-mini', 'gpt-4o', 'deepseek', 'llama3', 'llama4', 'gemma', 'qwen']
+
+
+    # get query embedding (semantic return)
+    query_embedding = model.encode(['query: ' + query])
+    scores = np.matmul(doc_embeddings, query_embedding.transpose())[:,0]
+    semantic_docs = [index for _, index in heapq.nlargest(k, ((v, i) for i, v in enumerate(scores)))]
+    
+    docs = '\n\n'.join([f"Document {idx + 1}: {corpus[doc_id]}" for idx, doc_id in enumerate(semantic_docs)])
+
 
     # set up instruction
     instruction = 'Answer the query based on the given retrieved documents. ' \
@@ -45,40 +59,8 @@ def llm_answer(model_type, query, k=3):
     'Documents:\n'
 
     # set up the LLM
-    if model_type == 'gpt-4o':
-        from openai import OpenAI
-        client = OpenAI()
-        completion = client.chat.completions.create(
-            model="gpt-4o",
-            messages=[
-                {"role": "system", "content": instruction + docs},
-                {
-                    "role": "user",
-                    "content": 'Query: ' + query + '\nAnswer:'
-                }
-            ]
-        )
-        res = completion.choices[0].message.content
-        return res
-    
-    elif model_type == 'gpt-4':
-        from openai import OpenAI
-        client = OpenAI()
-        completion = client.chat.completions.create(
-            model="gpt-4",
-            messages=[
-                {"role": "system", "content": instruction + docs},
-                {
-                    "role": "user",
-                    "content": 'Query: ' + query + '\nAnswer:'
-                }
-            ]
-        )
-        res = completion.choices[0].message.content
-        return res
-
-    elif model_type == 'llama3':
-        os.environ["TOGETHER_API_KEY"] = "your TOGETHER_API_KEY"  # or set it externally
+    if model_type == 'llama3':
+        os.environ["TOGETHER_API_KEY"] = "your api key"  # or set it externally
         client = Together(api_key=os.getenv("TOGETHER_API_KEY"))
         completion = client.chat.completions.create(
             model="meta-llama/Llama-3.3-70B-Instruct-Turbo", 
@@ -90,11 +72,37 @@ def llm_answer(model_type, query, k=3):
         res = completion.choices[0].message.content  
         return res
     
-    elif model_type == 'deepseek':
-        os.environ["TOGETHER_API_KEY"] = "your TOGETHER_API_KEY"  
+    elif model_type == 'llama4':
+        os.environ["TOGETHER_API_KEY"] = "your api key"  # or set it externally
         client = Together(api_key=os.getenv("TOGETHER_API_KEY"))
         completion = client.chat.completions.create(
-            model="deepseek-ai/DeepSeek-R1", 
+            model="meta-llama/Llama-4-Scout-17B-16E-Instruct", 
+            messages=[
+                {"role": "system", "content": instruction + docs},
+                {"role": "user", "content": 'Query: ' + query + '\nAnswer:'}
+            ]
+        )
+        res = completion.choices[0].message.content  
+        return res
+    
+    elif model_type == 'gemma':
+        os.environ["TOGETHER_API_KEY"] = "your api key"  # or set it externally
+        client = Together(api_key=os.getenv("TOGETHER_API_KEY"))
+        completion = client.chat.completions.create(
+            model="google/gemma-2b-it", 
+            messages=[
+                {"role": "system", "content": instruction + docs},
+                {"role": "user", "content": 'Query: ' + query + '\nAnswer:'}
+            ]
+        )
+        res = completion.choices[0].message.content  
+        return res
+    
+    elif model_type == 'deepseek':
+        os.environ["TOGETHER_API_KEY"] = "your api key"  # or set it externally
+        client = Together(api_key=os.getenv("TOGETHER_API_KEY"))
+        completion = client.chat.completions.create(
+            model="deepseek-ai/DeepSeek-R1",  # deepseek-ai/DeepSeek-R1-Distill-Llama-70B-free, deepseek-ai/DeepSeek-R1
             messages=[
                 {"role": "system", "content": instruction + docs},
                 {"role": "user", "content": 'Query: ' + query + 'you must show the answer starting with' + '\nAnswer:'}
@@ -112,7 +120,7 @@ def llm_answer(model_type, query, k=3):
         return cleaned_res
     
     elif model_type == 'qwen':
-        os.environ["TOGETHER_API_KEY"] = "your TOGETHER_API_KEY" 
+        os.environ["TOGETHER_API_KEY"] = "your api key"  # or set it externally
         client = Together(api_key=os.getenv("TOGETHER_API_KEY"))
         completion = client.chat.completions.create(
             model="Qwen/Qwen2.5-7B-Instruct-Turbo", 
@@ -122,18 +130,43 @@ def llm_answer(model_type, query, k=3):
             ]
         )
         res = completion.choices[0].message.content  
+        return res        
+    
+    elif model_type == 'gpt-4o-mini':
+        from openai import OpenAI
+        client = OpenAI()
+        completion = client.chat.completions.create(
+            model="gpt-4",
+            messages=[
+                {"role": "system", "content": instruction + docs},
+                {
+                    "role": "user",
+                    "content": 'Query: ' + query + '\nAnswer:'
+                }
+            ]
+        )
+        res = completion.choices[0].message.content
+        return res
+    
+    elif model_type == 'gpt-4o':
+        client = OpenAI()
+        completion = client.chat.completions.create(
+            model="gpt-4o",
+            messages=[
+                {"role": "system", "content": instruction + docs},
+                {
+                    "role": "user",
+                    "content": 'Query: ' + query + '\nAnswer:'
+                }
+            ]
+        )
+        res = completion.choices[0].message.content
         return res
 
 
 
-# ================ Load QA Dataset ================
-def load_dataset(data_path):
-    if data_path.endswith(".json"):
-        with open(data_path, "r") as f:
-            return json.load(f)
-    else:
-        raise ValueError("Unsupported file format. Use JSON or CSV.")
-
+# ================ Evaluation Metrics ================
+from utils.metric import bleu_score, semantic_score
 
 
 
@@ -141,7 +174,7 @@ def load_dataset(data_path):
 def parse_args():
     parser = argparse.ArgumentParser(description="Evaluate QA model performance.")
     parser.add_argument("--data", type=str, required=True, help="Path to the QA dataset (JSON or CSV).")
-    parser.add_argument("--model", type=str, required=True, choices=["gpt-4", "gpt-4o", "gpt-3.5-turbo", "deepseek", 'llama3', "qwen"], help="Select llm to get answer.")
+    parser.add_argument("--model", type=str, required=True, choices=["gpt-4o-mini", "gpt-4o", "gpt-3.5-turbo", "deepseek", 'llama3', 'llama4', 'gemma', "qwen"], help="Select llm to get answer.")
     parser.add_argument("--k", type=int, default=3, help="Number of retrieved documents.")
     parser.add_argument("--save", type=str, default="false", choices=["true", "false"], help="Evaluation metric: one score or multiple scores.")
     return parser.parse_args()
@@ -156,22 +189,27 @@ def main():
 
     # Load dataset
     qa_samples = load_dataset(data_path)
-    # qa_samples = qa_samples[:3]
+    qa_samples = qa_samples[:5]
 
     # Initialize evaluation metrics
     llm_output = []
+
+    # Initialize evaluation metrics
+    total_bleu, total_semantic = 0, 0
 
     for i, sample in enumerate(qa_samples):
         question = sample["question"]
         gold_answer = sample["answer"]
 
         print(f"Q{i+1}: {question}")
-
+        
         predicted_answer = llm_answer(args.model, question, args.k)
         print(f">>> Predicted: {predicted_answer}")
         print(f">>> Ground Truth: {gold_answer}")
         print(f"\n")
 
+        total_bleu += bleu_score(predicted_answer, gold_answer)
+        total_semantic += semantic_score(predicted_answer, gold_answer)
 
         # Save output for each sample
         llm_output.append({
@@ -182,7 +220,12 @@ def main():
         })
 
 
-    output_dir = f"output/{args.data}/{args.model}/"
+    # Averaging Summary Information
+    num_samples = len(qa_samples)
+    print(f"Total samples: {num_samples}, average BLEU: {total_bleu / num_samples:.4f}, average Semantic: {total_semantic / num_samples:.4f}")
+
+
+    output_dir = f"output/hurricane/{args.model}/"
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
     
@@ -195,5 +238,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-
 
