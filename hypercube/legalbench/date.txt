@@ -1,0 +1,95 @@
+{"2017": 2, "30 days": 1, "six (6) months": 1, "thirty (30) days": 1}
+{"2 August 2002": 1, "three years": 1, "2018": 1}
+{"2019": 1, "three years": 1, "two years": 1}
+{"2019": 1, "three years": 1, "thirty days": 1, "two years": 1}
+{"thirty (30) days": 1, "two (2) years": 1}
+{"1997": 1, "1 April to 31 March": 1, "08:00 and 16:30": 1, "14 (fourteen) calendar days": 1, "2 (two) years": 1, "7 (seven) business days": 1, "12 months": 1}
+{"five (5) years": 1}
+{"60 days": 1, "three years": 1, "twelve (12) months": 1}
+{"2001": 1, "five (5) years": 1, "2007": 2}
+{"2002": 2, "196 Stat. 2135": 1, "2002, Public Law 107-296": 1, "49 CFR Part 1520": 1, "Section 552a of Title 5": 1, "Section 29.8(c)": 1, "Executive Order No. 12958": 1, "Section 7211 of Title 5": 1, "Section 1034 of Title 10": 1, "Section 2302(b)(8) of Title 5": 1, "1982": 1, "50 USC 421 et seq.": 1, "Sections 641, 793, 794, 798, and 952 of Title 18": 1, "Section 4(b) of the Subversive Activities Act of 1950": 1, "50 USC 783(b)": 1, "P.L. 104-13": 1, "1995": 1, "44 USC, Chapter 35": 1}
+{"2017": 5, "6 - 8 November 2017": 1, "April 2018": 1, "July 2018": 1, "October/November 2018": 1, "2 May 2017": 1, "ten (10) days": 1, "30 days": 1}
+{"20__": 1}
+{"2014": 1, "30 days": 1, "15 days": 1, "60 days": 1, "3 business days": 1}
+{"ten (10) business days": 1, "Part 209": 2, "R 325.125 through 325.138": 2, "sixty days (60)": 1}
+{"three (3) years": 1}
+{"two business days": 1, "two days": 1, "five (5) years": 1}
+{"2002/015527/30": 1, "7 (seven) business days": 2, "7 (seven) calendar day": 1, "2000": 1}
+{"2019": 2, "May 22, 2019": 1, "five (5) years": 1}
+{"three (3) years": 2, "fifteen (15) days": 1}
+{"2018": 1}
+{}
+{"five years": 1}
+{"seven years": 1}
+{"2016": 2}
+{"2017-2018": 1, "20__": 1, "five (5) days": 1, "two (2) years": 1, "five (5) years": 1, "thirty (30) days": 1}
+{}
+{"1998": 1, "two (2) years": 1, "9.00 am": 1, "second Business Day": 1}
+{"three years": 1}
+{"14 days": 1, "3 business days": 1, "thirty (30) days": 1, "forty-five (45) days": 1}
+{"three (3) year": 1}
+{}
+{"20__": 1, "2 years": 1}
+{"2 years": 1}
+{"thirty (30) days": 1, "five (5) years": 2}
+{"2015": 1, "15 days": 1, "two days": 1, "three years": 1, "ten days": 1, "five years": 1}
+{"201___": 1, "1956": 1, "thirty (30) days": 1, "ten (10) days": 1}
+{"20______": 1, "five years": 1, "five (5) days": 1}
+{"2019": 1, "five years": 1}
+{"14 days": 1, "five (5) years": 2, "45 days": 1}
+{"five working days": 1, "effective date": 1, "two years": 1}
+{"date": 2}
+{"14 days": 1, "48 months": 1}
+{"three (3) years": 1}
+{"2011": 2, "April 18-20, 2011": 1, "three (3) years": 1, "thirty (30) days": 1}
+{"36 months": 1, "3 years": 1}
+{"two (2) years": 1}
+{"1 year": 1, "Effective Date": 2, "Expiration Date": 2, "5 (five) years": 1}
+{"2016": 1, "one (1) year": 1}
+{"30 days": 1, "thirty (30) calendar days": 1}
+{"14 days": 1, "fourteen days": 1, "prior to date of signature": 1, "prior to the effective date": 1, "after the effective date": 1, "2015": 2, "10 days": 1, "ten days": 1}
+{"during and after the duration of the agreement": 1}
+{"2018": 1, "2006": 1, "a day other than a Saturday, Sunday or bank or public holiday in England or Wales": 1, "before or after the date of this Agreement": 1, "from time to time": 3, "during the term of this Agreement": 1, "indefinitely": 1}
+{"During the course": 1}
+{"February 2015": 1}
+{"fifteen (15) days": 1, "one (1) year": 1, "thirty (30) days": 1, "three (3) years": 1}
+{"one year": 1, "five (5) years": 1, "thirty (30) days": 1, "1999": 1}
+{"2018": 1, "one year": 2}
+{"20____": 1, "30 days": 1, "years": 1}
+{"2017": 2, "12 months": 1}
+{"three (3) years": 1, "two (2) years": 1}
+{"November 2013": 1, "thirty (30) days": 2, "one year": 1}
+{"three (3) years": 1, "five (5) years": 1}
+{"three years": 2, "two years": 1, "eighteen months": 1, "1977": 1}
+{"September 11, 2013": 1, "two (2) years": 1, "ten (10) years": 1, "ten (10) business days": 2, "thirty (30) days": 2}
+{"2015-02-19": 1, "Effective Date": 3, "18 months": 2, "18 month anniversary": 1, "twelve (12) months": 1}
+{"one (1) day": 1}
+{"20___": 1, "18 U.S.C. Section 1833(b)": 2, "five (5) years": 1}
+{"Effective Date": 1, "29th May 18": 1}
+{"201___": 1, "20___": 1}
+{"five (5) years": 1}
+{"2000": 1, "18 C.F.R. \u00a7 388.113 (c) (1)": 1, "before or after the date hereof": 2}
+{"thirty days": 1, "three (3) years": 2, "ten (10) days": 1, "five (5) days": 1}
+{"five (5) business days": 2}
+{"200__": 1, "five (5) years": 1, "three (3) years": 1}
+{}
+{"2002": 2, "196 Stat. 2135": 1, "2002, Public Law 107-296": 1, "49 CFR Part 1520": 1, "Section 552a of Title 5": 1, "Section 29.8(c)": 1, "Executive Order No. 12958": 1, "Section 7211 of Title 5": 1, "Section 1034 of Title 10": 1, "Section 2302(b)(8) of Title 5": 1, "1982": 1, "50 USC 421 et seq.": 1, "Sections 641, 793, 794, 798, and 952 of Title 18": 1, "Section 4(b) of the Subversive Activities Act of 1950": 1, "50 USC 783(b)": 1, "P.L. 104-13": 1, "1995": 1, "44 USC, Chapter 35": 1}
+{"5th Floor": 1, "prior": 1, "after": 1, "prompt": 2, "pending": 1, "future": 1}
+{}
+{"five (5) years": 1}
+{"May 8th, 2018": 1}
+{"20__": 1}
+{"two (2) years": 1}
+{"20 calendar days": 1, "five (5) years": 1}
+{"DD Month YYYY": 2, "thirty (30) days": 1, "two years": 2, "year 1": 1, "fifteen (15) days": 1, "sixty (60) days": 1, "two (2) years": 1, "six (6) months": 1}
+{"20_____": 1, "fifteen (15) days": 1, "five (5) years": 1, "five-year period": 1, "one (1) year": 1, "thirty (30) days": 1}
+{"5\u00ad19\u00ad2014": 1}
+{"2015": 1, "365 days": 1, "seven (7) business days": 1}
+{"20": 1}
+{"18 U.S.C. \u00a7 1839": 1, "5 U.S.C. \u00a7 552(b)(4)": 1, "35 U.S.C. \u00a7 200 et seq.": 1, "18 U.S.C. \u00a7 1905": 1, "thirty (30) days": 2, "three (3) years": 1, "two (2) weeks": 1, "1\u201312 months": 1}
+{"May __, 2015": 1, "six (6) months": 1}
+{"three (3) years": 1, "201__": 1}
+{"3 years": 1}
+{"thirty (30) days": 1, "sixty (60) days": 1, "five (5) years": 1}
+{}
+{"ten (10) working days": 1, "three (3) years": 1}
