@@ -1,0 +1,9 @@
+{
+  "total_samples": 977,
+  "average_bleu": 0.07947517224329972,
+  "average_f1": 0.3443205803321503,
+  "average_semantic": 0.6266342629216223,
+  "average_precision": 0.0965199590583427,
+  "average_recall": 0.4790174002047083,
+  "seed": 45
+}

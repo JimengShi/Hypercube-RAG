@@ -18,6 +18,12 @@ RATE_LIMIT = {
         'gpt-4.1-mini': {'PRM': 10_000, "TPM": 10_000_000},
         'gpt-4o': {'PRM': 10_000, "TPM": 2_000_000},
         'gpt-4o-2024-11-20': {'PRM': 10_000, "TPM": 2_000_000}
+    },
+    "tier5": {
+        'gpt-4o-mini': {'PRM': 30_000, "TPM": 150_000_000},
+        'gpt-4.1-mini': {'PRM': 30_000, "TPM": 150_000_000},
+        'gpt-4o': {'PRM': 10_000, "TPM": 30_000_000},
+        'gpt-4o-2024-11-20': {'PRM': 10_000, "TPM": 30_000_000}
     }
 }
 VALID_MODELS = {'gpt-4o', 'gpt-4o-mini', 'gpt-4.1-mini', 'gemini-2.0-flash', 'qwen3-32b', 'gpt-4o-2024-11-20'}
@@ -78,7 +84,7 @@ def chat(
     half_usage=False,
     clear_cache=False,
     model_name: Literal['gpt-4o', 'gpt-4o-mini', 'gpt-4.1-mini', 'gemini-2.0-flash', 'qwen3-32b'] = 'gpt-4.1-mini',
-    tier_list: Literal['tier1', 'tier2', 'tier3', 'tier4', 'tier5'] = 'tier4',
+    tier_list: Literal['tier1', 'tier2', 'tier3', 'tier4', 'tier5'] = 'tier5',
     **params
 ) -> List[str]:
     if model_name != 'gemini-2.0-flash' and model_name != 'qwen3-32b':

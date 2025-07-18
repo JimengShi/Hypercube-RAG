@@ -134,7 +134,7 @@ def build_prompt(query, cells, k, retrieval_method='hypercube'):
     prompt. Later we can feed a list of such prompts to the high-throughput `chat` API
     in one batch call.
     """
-    assert retrieval_method in ['hypercube', 'semantic', 'union']
+    assert retrieval_method in ['hypercube', 'semantic', 'union', 'none']
 
     # --- Retrieve docs from hyper-cube structure ---
     structure_docs = get_docs_from_cells(cells, k)
@@ -144,7 +144,9 @@ def build_prompt(query, cells, k, retrieval_method='hypercube'):
     scores = np.matmul(doc_embeddings, query_embedding.transpose())[:, 0]
     semantic_docs = [index for _, index in heapq.nlargest(k, ((v, i) for i, v in enumerate(scores)))]
 
-    if retrieval_method == 'hypercube':
+    if retrieval_method == 'none':
+        doc_ids = []
+    elif retrieval_method == 'hypercube':
         doc_ids = structure_docs
     elif retrieval_method == 'semantic':
         doc_ids = semantic_docs
@@ -267,7 +269,7 @@ def parse_args():
     parser = argparse.ArgumentParser(description="Evaluate QA model performance.")
     parser.add_argument("--data", type=str, required=True, help="Path to the QA dataset (JSON or CSV).")
     parser.add_argument("--model", type=str, required=True, choices=["gpt-4o-mini", "gpt-4o", "deepseek", 'llama3', 'llama4', 'gemma', "qwen"], help="Select llm to get answer.")
-    parser.add_argument("--retrieval_method", type=str, required=True, default="hypercube", choices=['hypercube', 'semantic', 'union'], help="Retrieval methods.")
+    parser.add_argument("--retrieval_method", type=str, required=True, default="hypercube", choices=['hypercube', 'semantic', 'union', 'none'], help="Retrieval methods.")
     parser.add_argument("--k", type=int, default=5, help="Number of retrieved documents.")
     parser.add_argument("--seed", type=int, default=42, help="Random seed for OpenAI chat completions (default 42, always forwarded).")
     parser.add_argument("--save", type=str, default="true", choices=["true", "false"], help="Evaluation metric: one score or multiple scores.")
@@ -281,22 +283,27 @@ def main():
     data_path = f"QA/{args.data}/contractnli.json"
 
     # Load dataset
-    qa_samples = load_dataset(data_path)[:3]
+    qa_samples = load_dataset(data_path)
     # qa_samples = qa_samples[:5]
 
     # Prepare prompts and supporting evaluation info in batch (query decomposition in parallel)
     questions = [sample["question"] for sample in qa_samples]
 
-    print(f"\nDecomposing {len(questions)} queries using {args.num_threads} threads ...\n")
+    # Only decompose queries when the chosen retrieval method relies on hypercube structure
+    if args.retrieval_method in ["hypercube", "union"]:
+        print(f"\nDecomposing {len(questions)} queries using {args.num_threads} threads ...\n")
 
-    with ThreadPoolExecutor(max_workers=args.num_threads) as executor:
-        cells_list = list(
-            tqdm(
-                executor.map(lambda q: decompose_query(q, seed=args.seed), questions),
-                total=len(questions),
-                desc="Decomposing Queries",
+        with ThreadPoolExecutor(max_workers=args.num_threads) as executor:
+            cells_list = list(
+                tqdm(
+                    executor.map(lambda q: decompose_query(q, seed=args.seed), questions),
+                    total=len(questions),
+                    desc="Decomposing Queries",
+                )
             )
-        )
+    else:
+        # For 'semantic' and 'none' retrieval, skip decomposition to save cost
+        cells_list = [None] * len(questions)
 
     # Build prompts sequentially (light-weight) and collect meta information
     prompts: list[str] = []
@@ -378,12 +385,35 @@ def main():
     output_dir = f"output/{args.data}/{args.model}/"
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
-    
+
+    # Build file paths for responses and their aggregated scores (include seed to avoid overwriting)
+    response_file_path = f"{output_dir}/llm_output_{args.retrieval_method}_{args.k}_seed{args.seed}_response.json"
+    scores_file_path = f"{output_dir}/llm_output_{args.retrieval_method}_{args.k}_seed{args.seed}_scores.json"
+
     if args.save == "true":
-        with open(f"{output_dir}/llm_output_{args.retrieval_method}_{args.k}.json", "w", encoding="utf-8") as f:
+        # Persist the seed along with each record for full reproducibility
+        for record in llm_output:
+            record["seed"] = args.seed
+
+        # Save detailed per-sample responses
+        with open(response_file_path, "w", encoding="utf-8") as f:
             json.dump(llm_output, f, indent=2, ensure_ascii=False)
 
-        print("Saved llm output!")
+        # Save aggregated evaluation metrics only
+        summary_metrics = {
+            "total_samples": num_samples,
+            "average_bleu": total_bleu / num_samples,
+            "average_f1": total_f1 / num_samples,
+            "average_semantic": total_semantic / num_samples,
+            "average_precision": total_precison / num_samples,
+            "average_recall": total_recall / num_samples,
+            "seed": args.seed,
+        }
+
+        with open(scores_file_path, "w", encoding="utf-8") as f:
+            json.dump(summary_metrics, f, indent=2, ensure_ascii=False)
+
+        print(f"Saved responses to {response_file_path} and scores to {scores_file_path}!")
 
 
 if __name__ == "__main__":
