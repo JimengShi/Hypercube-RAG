@@ -104,7 +104,7 @@ def chat(
                         requests_filepath=request_file,
                         save_filepath=save_file,
                         request_url="https://api.openai.com/v1/chat/completions",
-                        api_key=os.environ['HYPERCUBE_OPENAI_API_KEY'],
+                        api_key=os.environ['OPENAI_API_KEY'],
                         max_requests_per_minute=RATE_LIMIT[tier_list][model_name]['PRM'] // 2 if half_usage else RATE_LIMIT[tier_list][model_name]['PRM'],
                         max_tokens_per_minute=RATE_LIMIT[tier_list][model_name]['TPM'] // 2 if half_usage else RATE_LIMIT[tier_list][model_name]['TPM'],
                         token_encoding_name='o200k_base',
