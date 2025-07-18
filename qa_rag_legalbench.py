@@ -153,20 +153,7 @@ def llm_answer(model_type, query, cells, k, retrieval_method='hypercube'):
     'Documents:\n'
 
     # set up the LLM
-    if model_type == 'llama3':
-        os.environ["TOGETHER_API_KEY"] = "e0ac06d3fe4ffe13d93ab0d44c06437fa5b70f448aa2082e7cf81975b25508c0"  # or set it externally
-        client = Together(api_key=os.getenv("TOGETHER_API_KEY"))
-        completion = client.chat.completions.create(
-            model="meta-llama/Llama-3.3-70B-Instruct-Turbo", 
-            messages=[
-                {"role": "system", "content": instruction + docs},
-                {"role": "user", "content": 'Query: ' + query + '\nAnswer:'}
-            ]
-        )
-        res = completion.choices[0].message.content  
-        return res, [id + 1 for id in doc_ids]
-    
-    elif model_type == 'gpt-4o':
+    if model_type == 'gpt-4o':
         from openai import OpenAI
         client = OpenAI()
         completion = client.chat.completions.create(
