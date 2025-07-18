@@ -9,13 +9,14 @@ from openai import OpenAI
 import pickle
 import argparse
 from utils.topk_most_freq import topk_most_freq_id
-from together import Together
 import os
-import re
-import time
+from src.api.openai_api import chat
+from concurrent.futures import ThreadPoolExecutor
 
 # from IPython import embed
 ent2emb = None
+# Track whether new embeddings have been added so we can persist once at the end
+ent2emb_changed = False
 
 
 def embed_string(target_str, emb_model, dict_path='ent2emb/ent2emb_law.pkl', ):
@@ -32,8 +33,9 @@ def embed_string(target_str, emb_model, dict_path='ent2emb/ent2emb_law.pkl', ):
         return 
     else:
         ent2emb[target_str] = emb_model.encode('query: ' + target_str, normalize_embeddings=True)
-        with open(dict_path, 'wb') as f:
-            pickle.dump(ent2emb, f)
+        # Mark that we need to flush to disk later
+        global ent2emb_changed
+        ent2emb_changed = True
 
 
 # ================ Load Dataset ================
@@ -86,6 +88,15 @@ for dimension in dimensions:
                 
                 embed_string(target_str=k, emb_model=model, dict_path='ent2emb/ent2emb_law.pkl', )
 
+# ================ Persist ent2emb once after indexing ================
+
+# Flush the ent2emb cache to disk only once to avoid frequent io bottlenecks
+if ent2emb is not None and ent2emb_changed:
+    ENT2EMB_PATH = 'ent2emb/ent2emb_law.pkl'
+    os.makedirs(os.path.dirname(ENT2EMB_PATH), exist_ok=True)
+    with open(ENT2EMB_PATH, 'wb') as f:
+        pickle.dump(ent2emb, f)
+    print(f"Saved ent2emb cache with {len(ent2emb)} entries to {ENT2EMB_PATH}")
 
 
 def get_docs_from_cells(cells, top_k):
@@ -115,59 +126,44 @@ def get_docs_from_cells(cells, top_k):
     # doc_ids = doc_ids.intersection(set(tmp_ids))
     return list(doc_ids)
 
+# ================ Prompt Builder (Batch Friendly) ================
 
-# ================ LLMs ================
-def llm_answer(model_type, query, cells, k, retrieval_method='hypercube'):
-    assert model_type in ['gpt-3.5-turbo', 'gpt-4o-mini', 'gpt-4o', 'deepseek', 'llama3', 'llama4', 'gemma', 'qwen']
+def build_prompt(query, cells, k, retrieval_method='hypercube'):
+    """Return a single prompt string for the LLM together with the retrieved doc ids (1-indexed).
+    This function contains the same retrieval logic as `llm_answer` but only prepares the
+    prompt. Later we can feed a list of such prompts to the high-throughput `chat` API
+    in one batch call.
+    """
     assert retrieval_method in ['hypercube', 'semantic', 'union']
 
-
-    ### set up retriever searching combination
-    # get docs from cells (hypercube return)
+    # --- Retrieve docs from hyper-cube structure ---
     structure_docs = get_docs_from_cells(cells, k)
 
-    # get query embedding (semantic return)
+    # --- Retrieve docs via semantic similarity ---
     query_embedding = model.encode(['query: ' + query])
-    scores = np.matmul(doc_embeddings, query_embedding.transpose())[:,0]
+    scores = np.matmul(doc_embeddings, query_embedding.transpose())[:, 0]
     semantic_docs = [index for _, index in heapq.nlargest(k, ((v, i) for i, v in enumerate(scores)))]
 
-    
     if retrieval_method == 'hypercube':
         doc_ids = structure_docs
-        print(f'>>> Doc ids by hypercube retrieval: {[id + 1 for id in doc_ids]} \n')
     elif retrieval_method == 'semantic':
         doc_ids = semantic_docs
-        print(f'>>> Doc ids by semantic retrieval: {[id + 1 for id in doc_ids]} \n')
-    elif retrieval_method == 'union':
+    else:  # union
         doc_ids = list(set(structure_docs).union(set(semantic_docs)))
-        doc_ids = doc_ids[:5]
-        print(f'>>> Doc ids by union retrieval: {[id + 1 for id in doc_ids]} \n') 
-    
-    # limit retrieved documents of hypercube as input to llm
+        doc_ids = doc_ids[:k]
+
+    # Build docs context
     docs = '\n\n'.join([f"Document {idx + 1}: {corpus[doc_id]}" for idx, doc_id in enumerate(doc_ids)])
 
+    # Compose final prompt (system prompt will be automatically added by `chat`)
+    instruction = (
+        'Answer the query based on the given retrieved documents. '
+        'Please keep the answer as precise as possible.\nDocuments:\n'
+    )
 
-    # set up instruction
-    instruction = 'Answer the query based on the given retrieved documents. ' \
-    'Please keep the answer as precise as possible. ' \
-    'Documents:\n'
+    prompt = f"{instruction}{docs}\n\nQuery: {query}\nAnswer:"
 
-    # set up the LLM
-    if model_type == 'gpt-4o':
-        from openai import OpenAI
-        client = OpenAI()
-        completion = client.chat.completions.create(
-            model="gpt-4o-2024-11-20",
-            messages=[
-                {"role": "system", "content": instruction + docs},
-                {
-                    "role": "user",
-                    "content": 'Query: ' + query + '\nAnswer:'
-                }
-            ]
-        )
-        res = completion.choices[0].message.content
-        return res, [id + 1 for id in doc_ids]
+    return prompt, [id + 1 for id in doc_ids]
 
 
 from pydantic import (
@@ -181,8 +177,8 @@ from typing import (
 )
 
 
-def decompose_query(query):
-    client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
+def decompose_query(query, seed=42):
+    client = OpenAI(api_key=os.environ["HYPERCUBE_OPENAI_API_KEY"])
     system_prompt = (
         f"You are an expert on question understanding. "
         f"Your task is to:\n"
@@ -241,6 +237,7 @@ def decompose_query(query):
         max_tokens=4096,
         temperature=0,
         n=1,
+        seed=seed,
         response_format=AllQueries,
     )
 
@@ -272,10 +269,10 @@ def parse_args():
     parser.add_argument("--model", type=str, required=True, choices=["gpt-4o-mini", "gpt-4o", "deepseek", 'llama3', 'llama4', 'gemma', "qwen"], help="Select llm to get answer.")
     parser.add_argument("--retrieval_method", type=str, required=True, default="hypercube", choices=['hypercube', 'semantic', 'union'], help="Retrieval methods.")
     parser.add_argument("--k", type=int, default=5, help="Number of retrieved documents.")
-    parser.add_argument("--save", type=str, default="false", choices=["true", "false"], help="Evaluation metric: one score or multiple scores.")
+    parser.add_argument("--seed", type=int, default=42, help="Random seed for OpenAI chat completions (default 42, always forwarded).")
+    parser.add_argument("--save", type=str, default="true", choices=["true", "false"], help="Evaluation metric: one score or multiple scores.")
+    parser.add_argument("--num_threads", type=int, default=8, help="Number of threads for query decomposition (default 8).")
     return parser.parse_args()
-
-
 
 # ================ Main Function ================
 def main():
@@ -284,56 +281,95 @@ def main():
     data_path = f"QA/{args.data}/contractnli.json"
 
     # Load dataset
-    qa_samples = load_dataset(data_path)
+    qa_samples = load_dataset(data_path)[:3]
     # qa_samples = qa_samples[:5]
 
-    # Initialize evaluation metrics
-    llm_output = []
+    # Prepare prompts and supporting evaluation info in batch (query decomposition in parallel)
+    questions = [sample["question"] for sample in qa_samples]
 
-    # Initialize evaluation metrics
-    total_bleu, total_semantic, total_f1 = 0, 0, 0
-    total_precison, total_recall = 0.0, 0.0
+    print(f"\nDecomposing {len(questions)} queries using {args.num_threads} threads ...\n")
+
+    with ThreadPoolExecutor(max_workers=args.num_threads) as executor:
+        cells_list = list(
+            tqdm(
+                executor.map(lambda q: decompose_query(q, seed=args.seed), questions),
+                total=len(questions),
+                desc="Decomposing Queries",
+            )
+        )
+
+    # Build prompts sequentially (light-weight) and collect meta information
+    prompts: list[str] = []
+    doc_ids_all: list[list[int]] = []
+    meta_info = []
 
     for i, sample in enumerate(qa_samples):
         question = sample["question"]
-        gold_answer = " ".join(sample["answers"])  # since there are multiple elements in the list
+        gold_answer = " ".join(sample["answers"])
         relevant_docs = sample["relevant_doc"]
 
-        print(f"Q{i+1}: {question}")
+        cells = cells_list[i]
+        print(f"Q{i+1}: {question}\n>>> Identified cells: {cells}\n")
 
-        cells = decompose_query(query=question)
-        print(f">>> Identified cells from the query: {cells} \n")
+        prompt, return_doc_ids = build_prompt(question, cells, args.k, args.retrieval_method)
+        print(f">>> Selected doc ids: {return_doc_ids} (retrieval_method={args.retrieval_method})\n")
+
+        prompts.append(prompt)
+        doc_ids_all.append(return_doc_ids)
+        meta_info.append((question, gold_answer, relevant_docs))
+
+    # Call the high-throughput chat API once with all prompts
+    # Map CLI model name to the identifier expected by the `chat` helper if necessary
+    MODEL_ALIAS = {
+        'gpt-4o-mini': 'gpt-4o-mini',
+        'gpt-4o': 'gpt-4o-2024-11-20',
+        'qwen': 'qwen3-32b',
+        # Add more aliases here if needed
+    }
+
+    chat_model_name = MODEL_ALIAS.get(args.model)
+    if chat_model_name is None:
+        raise ValueError(f"Model '{args.model}' is not supported by the parallel chat API.")
+
+    print(f"\nSending {len(prompts)} prompts to chat API '{chat_model_name}' in parallel ...\n")
+    chat_kwargs = {"model_name": chat_model_name, "temperature": 0.0, "seed": args.seed}
+
+    responses = chat(prompts, **chat_kwargs)
+
+    # Initialize evaluation metrics
+    llm_output = []
+    total_bleu = total_semantic = total_f1 = 0.0
+    total_precison = total_recall = 0.0
+
+    # Iterate over responses and evaluate
+    for i, (response_text, (question, gold_answer, relevant_docs), return_doc_ids) in enumerate(zip(responses, meta_info, doc_ids_all)):
+        print(f"Q{i+1} Prediction:\n{response_text}\n")
+
+        bleu = bleu_score(response_text, gold_answer)
+        sem = semantic_score(response_text, gold_answer)
+        f1 = f1_score(response_text, gold_answer)
         
-        predicted_answer, return_doc_ids = llm_answer(args.model, question, cells, args.k, args.retrieval_method)
-        print(f">>> Predicted: {predicted_answer}")
-        print(f">>> Ground Truth: {gold_answer}")
-        print(f">>> return_doc_ids: {return_doc_ids}")
-        print(f">>> relevant_docs: {relevant_docs}")
-        print(f"\n")
+        prec = precision_at_k(return_doc_ids, relevant_docs) if return_doc_ids else 0.0
+        rec = recall_at_k(return_doc_ids, relevant_docs) if return_doc_ids else 0.0
 
-        total_bleu += bleu_score(predicted_answer, gold_answer)
-        total_semantic += semantic_score(predicted_answer, gold_answer)
-        total_f1 += f1_score(predicted_answer, gold_answer)
-        
-        if len(return_doc_ids) == 0:
-            return_doc_ids = [0]
-        total_precison += precision_at_k(return_doc_ids, relevant_docs)
-        total_recall += recall_at_k(return_doc_ids, relevant_docs)
+        total_bleu += bleu
+        total_semantic += sem
+        total_f1 += f1
+        total_precison += prec
+        total_recall += rec
 
-        # Save output for each sample
         llm_output.append({
             "index": i+1,
             "question": question,
             "gold_answer": gold_answer,
-            "predicted_answer": predicted_answer,
-            "f1_score": f1_score(predicted_answer, gold_answer),
-            "semantic_score": semantic_score(predicted_answer, gold_answer),
+            "predicted_answer": response_text,
+            "f1_score": f1,
+            "semantic_score": sem,
             "return_doc_ids": return_doc_ids,
-            "precision": precision_at_k(return_doc_ids, [i+1]),
-            "recall": recall_at_k(return_doc_ids, [i+1])
+            "precision": prec,
+            "recall": rec
         })
-
-
+ 
     # Averaging Summary Information
     num_samples = len(qa_samples)
     print(f"Total samples: {num_samples}, average BLEU: {total_bleu / num_samples:.4f}, average F1: {total_f1 / num_samples:.4f}, average Semantic: {total_semantic / num_samples:.4f}, average precision: {total_precison / num_samples:.4f}, average reall: {total_recall / num_samples:.4f}")

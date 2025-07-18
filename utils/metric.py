@@ -5,6 +5,9 @@ from collections import Counter
 import re
 import string
 
+# Cache for SentenceTransformer model to avoid repeated downloads/initializations
+_semantic_model = None
+
 
 # Download NLTK data for tokenization
 nltk.download('punkt')
@@ -88,15 +91,23 @@ def rouge_score(pred, gold):
     scores = scorer.score(pred, gold)
     return scores['rougeL'].fmeasure
 
+def _get_semantic_model():
+    """Load SentenceTransformer model only once and cache it globally."""
+    global _semantic_model
+    if _semantic_model is None:
+        from sentence_transformers import SentenceTransformer
+        _semantic_model = SentenceTransformer('sentence-transformers/all-MiniLM-L6-v2')
+    return _semantic_model
+
+
 def semantic_score(pred, gold):
     """
-    Meaning similarity using contextual embeddings (e.g., from BERT or SentenceTransformers).
-    Higher scores mean the new answer is semantically closer to the ground-truth, even if worded differently. 
-    Captures paraphrasing and meaning better than BLEU/ROUGE.
+    Meaning similarity using contextual embeddings (e.g., from SentenceTransformers).
+    Cached model prevents repeated HuggingFace downloads (avoids 429 errors).
     """
-    from sentence_transformers import SentenceTransformer, util
+    from sentence_transformers import util
 
-    model = SentenceTransformer('all-MiniLM-L6-v2')
+    model = _get_semantic_model()
     embeddings = model.encode([pred, gold])
     similarity = util.cos_sim(embeddings[0], embeddings[1])
 

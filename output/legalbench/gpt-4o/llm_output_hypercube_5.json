@@ -1,0 +1,53 @@
+[
+  {
+    "index": 1,
+    "question": "Consider the Non-Disclosure Agreement between CopAcc and ToP Mentors; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+    "gold_answer": "Any and all proprietary rights, including but not limited to rights to and in inventions, patent rights, utility models, copyrights, trademarks and trade secrets, in and to any Confidential Information shall be and remain with the Participants respectively, and Mentor shall not have any right, license, title or interest in or to any Confidential Information, except the limited right to review, assess and help develop such Confidential Information in connection with the Copernicus Accelerator 2017.",
+    "predicted_answer": "Yes, the document indicates that the Agreement does not grant the Receiving Party any rights to the Confidential Information. It explicitly states that the transmission of Confidential Information does not grant any intellectual property rights, such as patents, copyrights, trade secrets, or trademarks, to the Receiving Party unless expressly set forth in a separate written instrument.",
+    "f1_score": 0.3140495867768595,
+    "semantic_score": 0.5165143609046936,
+    "return_doc_ids": [
+      54,
+      4,
+      45,
+      51,
+      80
+    ],
+    "precision": 0.0,
+    "recall": 0.0
+  },
+  {
+    "index": 2,
+    "question": "Consider the Non-Disclosure Agreement between CopAcc and ToP Mentors; Does the document state that Confidential Information shall only include technical information?",
+    "gold_answer": "“Confidential Information” means any Idea disclosed to Mentor, all data and information, know-how, business concepts, software, procedures, products, services, development projects, and programmes contained in such Idea and/or its description and any conclusions.",
+    "predicted_answer": "No, the document does not state that Confidential Information shall only include technical information. It defines Confidential Information broadly to include technical, business, marketing, planning, pricing, and other types of information and data, as well as other valuable information designated as confidential or provided under circumstances indicating confidentiality.",
+    "f1_score": 0.14999999999999997,
+    "semantic_score": 0.6702540516853333,
+    "return_doc_ids": [
+      4,
+      40,
+      45,
+      51,
+      54
+    ],
+    "precision": 0.0,
+    "recall": 0.0
+  },
+  {
+    "index": 3,
+    "question": "Consider the Non-Disclosure Agreement between CopAcc and ToP Mentors; Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
+    "gold_answer": "Notwithstanding the termination of this Agreement, any Confidential Information must be kept confidential for as long as such Confidential Information is not publicly known unless it becomes part of the public domain through no wrongful act of Mentor.",
+    "predicted_answer": "Yes, the documents mention that some obligations of the Agreement may survive the termination of the Agreement. For example, in Document 5, it states: \"The obligations and restrictions of confidentiality of the Receiving Party under this Agreement shall continue for a period of three (3) years from the date of termination of this Agreement.\" Similarly, in Document 3, it states: \"This Agreement shall survive the term of this Agreement for a period of two (2) years thereafter.\"",
+    "f1_score": 0.1553398058252427,
+    "semantic_score": 0.47593095898628235,
+    "return_doc_ids": [
+      4,
+      40,
+      45,
+      51,
+      54
+    ],
+    "precision": 0.0,
+    "recall": 0.0
+  }
+]
