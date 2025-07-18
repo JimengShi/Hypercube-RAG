@@ -130,7 +130,7 @@ def chat(
 # Entry Point
 if __name__ == '__main__':
     try:
-        responses = chat(['Who is your daddy?', 'What is the meaning of life?'], temperature=0.7, model_name='gpt-4o-2024-11-20')
+        responses = chat(['Who is your daddy?'], model_name='gpt-4o-2024-11-20', temperature=0.7, seed=42)
         for response in responses:
             print(f"Response: {response}")
     except Exception as e:
