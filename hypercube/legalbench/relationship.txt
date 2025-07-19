@@ -12,7 +12,7 @@
 {"relationship": 1, "business relationship": 1, "parties": 8, "party": 10, "disclosing party": 12, "receiving party": 10, "transaction": 3, "agreement": 15, "negotiations": 1, "discussions": 2, "consultations": 1, "business negotiations": 1, "fiduciary capacity": 1}
 {"Agreement": 20, "Data Recipient": 19, "DOHMH": 18, "Parties": 6, "Data": 48, "Authorized Users": 6, "confidentiality": 4, "security": 6, "breach": 4, "termination": 5, "notice": 4, "indemnification": 2, "publication": 3, "modification": 2, "non-assignment": 1, "third party": 2, "jurisdiction": 1, "venue": 1, "applicable law": 1, "agency": 1, "counterparts": 1, "interpretation": 1, "severability": 1, "supersedes": 1}
 {"Agreement": 15, "party": 8, "parties": 3, "representative": 3, "Reporting Entity": 3, "MDHHS": 3, "access": 2, "disclosure": 2, "use": 2}
-{"agreement": 8, "parties": 6, "relationship": 1}
+{"agreement": 8, "parties": 6, "relationship": 1, "Receiving Party": 1, "third party": 1}
 {"agreement": 15, "party": 14, "parties": 10, "disclosing party": 8, "receiving party": 4, "confidential information": 10, "consent": 3, "relationship": 1}
 {"relationship": 3, "business relationship": 2, "joint venture": 1, "partnership": 1, "employment relationship": 1}
 {"relationship": 1, "business relationship": 1, "employment": 1, "joint venture": 1, "agency relationship": 1}
@@ -24,7 +24,7 @@
 {"relationship": 1, "contractual relationships": 1, "agreement": 3, "understanding": 3, "interaction": 3, "obligation": 2, "duties": 2, "promises": 2, "contract": 2, "order": 2, "parties": 1}
 {"relationship": 1, "membership": 2, "parties": 5, "party": 4, "board member": 10, "candidate": 3, "candidates": 2}
 {"agreement": 5, "relationship": 1, "parties": 4, "confidential information": 15, "vendor": 20, "insurer": 3, "provider": 5, "claim request": 4, "claim response": 2, "personal information": 3, "privacy laws": 2, "services": 2, "obligations": 3, "liability": 2, "rights": 2, "damages": 3, "warranty": 2, "jurisdiction": 2, "successors": 1, "assigns": 1}
-{"agreement": 10, "party": 20, "parties": 10, "relationship": 1, "partnership": 1, "joint venture": 1}
+{"agreement": 10, "party": 20, "parties": 10, "relationship": 1, "partnership": 1, "joint venture": 1, "Disclosing Party":28}
 {"Agreement": 10, "relationship": 2, "business relationship": 2}
 {"relationship": 2, "Party": 10, "Parties": 8, "Discloser": 8, "Recipient": 8, "Confidential Information": 20}
 {"agreement": 11, "confidentiality": 8, "disclosure": 6, "information": 15, "party": 15, "parties": 10, "consent": 2, "relationship": 1, "cooperation": 1, "communication": 1, "obligation": 2, "licensees": 1, "successors": 2, "assigns": 2, "understanding": 1, "representatives": 1}

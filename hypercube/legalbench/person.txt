@@ -8,12 +8,12 @@
 {"David Bleecker": 1, "Managing Partner": 1, "employee": 2, "employees": 2, "Partner": 5, "BCG": 5, "representative": 3, "representatives": 5}
 {}
 {"employee": 2, "consultant": 2, "subcontractor": 2, "he": 1, "she": 1, "signer": 1, "his": 2, "her": 2, "Program Manager": 3, "Program Manager\u2019s designee": 2, "official": 2, "individual": 2, "officer": 1, "authorized individual": 1, "authorized representative": 1, "witness": 1}
-{"Mentor": 28, "Organiser": 12, "Participants": 15, "European Commission": 3, "Copernicus Masters": 4, "Copernicus Accelerator": 5, "Anwendungszentrum GmbH Oberpfaffenhofen": 1, "Participant": 3, "professionals": 1, "employees": 2, "employer": 1, "his/her": 5, "he/she": 2}
+{"Mentor": 28, "Organiser": 12, "Participants": 15, "European Commission": 3, "Copernicus Masters": 4, "Copernicus Accelerator": 5, "Anwendungszentrum GmbH Oberpfaffenhofen": 1, "Participant": 3, "professionals": 1, "employees": 2, "employer": 1, "his/her": 5, "he/she": 2, "Receiving Party": 1}
 {"DBT": 3, "Disclosing Party": 10, "Receiving Party": 9, "Party": 1, "Parties": 3, "employees": 1, "employee": 1}
 {"Data Recipient": 24, "DOHMH": 22, "Authorized Users": 6, "employees": 3, "consultants": 3, "Party": 2, "Parties": 2, "New York City Department of Health and Mental Hygiene": 2, "City of New York": 2, "Indemnified Party": 2, "employee": 1, "manager": 0, "male": 0, "female": 0, "child": 0}
 {"Michigan Department of Health and Human Services": 3, "Reporting Entity": 4, "MDHHS": 6, "employees": 1, "individuals": 2, "representatives": 3, "party": 5, "parties": 3, "authorized representative": 3}
-{"State": 10, "Vendor": 10, "employees": 1, "representatives": 1, "parties": 6}
-{"EFCA Pty Ltd": 6, "disclosing party": 10, "receiving party": 2, "employees": 1, "directors": 1, "principals": 2, "representative": 1, "witnessed": 2}
+{"State": 10, "Vendor": 10, "employees": 2, "representatives": 1, "parties": 6, "third persons": 1}
+{"EFCA Pty Ltd": 6, "disclosing party": 10, "receiving party": 2, "employees": 1, "directors": 1, "principals": 2, "representative": 1, "witnessed": 2, "Disclosing Party": 10, "Receiving Party": 2}
 {"ESKOM HOLDINGS SOC LTD": 3, "Eskom": 3, "Counterparty": 8, "Party": 15, "Parties": 18, "Disclosing Party": 10, "Receiving Party": 12, "Representatives": 2, "employees": 1, "officers": 1, "directors": 2, "agents": 2, "Third Party": 6, "shareholders": 1, "advisers": 1}
 {"Evelozcity": 2, "Disclosing Party": 7, "Recipient": 12, "Representatives": 3, "employees": 1, "officers": 1, "directors": 1, "consultants": 1, "professional advisers": 1}
 {"Excelerate": 3, "Burton Technical Group": 1, "Second Party": 5, "Party": 20, "Parties": 15, "Michael Doubleday": 1, "President": 1, "CEO": 1, "employee": 1, "employees": 1}
@@ -24,7 +24,7 @@
 {"Vendor": 10, "Grindrod SA": 10, "employees": 1, "person": 2, "persons": 2, "individual": 1}
 {"Board Member": 15, "Party": 8, "Parties": 5, "HNBA": 11, "candidate": 3, "candidates": 2, "Erica V. Mason": 1, "National President": 1, "Board of Governors": 1, "employee": 1, "employer": 1, "person": 1, "personnel": 1}
 {"Insurance Bureau of Canada": 3, "IBC": 15, "Vendor": 18, "Provider": 8, "Providers": 3, "Insurer": 3, "Insurers": 2, "Provider User": 3, "Insurer User": 2, "employees": 2, "directors": 2, "officers": 2, "agents": 2, "contractors": 2, "consultants": 2, "personnel": 1, "lawyers": 1}
-{"London School of Economics & Political Science": 2, "LSE": 2, "Andrew Webb": 1, "School Secretary": 1, "Representative": 4, "Representatives": 5, "Disclosing Party": 8, "Recipient": 9, "Party": 2, "Parties": 2, "Director": 1}
+{"London School of Economics & Political Science": 2, "LSE": 2, "Andrew Webb": 1, "School Secretary": 1, "Representative": 4, "Representatives": 5, "Disclosing Party": 20, "Recipient": 9, "Party": 2, "Parties": 2, "Director": 1, "employees": 1, "agents": 1, " officers": 1, "professional advisers": 1}
 {"Infomagnet": 2, "Disclosing Party": 10, "Receiving Party": 12, "employees": 2, "consultants": 2, "officer": 1, "lawyers": 2}
 {"Party": 20, "Parties": 10, "Discloser": 9, "Recipient": 9, "employees": 3, "officers": 3, "agents": 3, "affiliates": 3, "attorneys": 1, "person": 2, "personnel": 1, "COMPANY X": 3, "COMPANY Y": 3, "employee": 1, "manager": 0, "male": 0, "female": 0, "child": 0}
 {"Customer": 3, "INaturals": 2, "Company": 2, "Recipient": 2, "employees": 1, "contractors": 1, "agents": 2, "Client": 1, "party": 15, "parties": 10, "heirs": 1, "successors": 2, "assigns": 2, "owners": 1, "licensees": 1, "officers": 1, "directors": 1, "Leila FALCAO": 1, "CEO/Founder": 1, "representatives": 1}
