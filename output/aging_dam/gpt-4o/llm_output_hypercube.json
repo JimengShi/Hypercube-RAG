@@ -1,0 +1,1490 @@
+[
+  {
+    "index": 1,
+    "question": "What location served as a refuge site for Midland residents displaced by the Edenville Dam failure on May 19, 2020?",
+    "gold_answer": "Midland High School served as a refuge site for Midland residents displaced by the Edenville Dam failure on May 19, 2020.",
+    "predicted_answer": "The documents do not specify a particular refuge site for Midland residents displaced by the Edenville Dam failure on May 19, 2020.",
+    "bleu_score": 0.6696434349316394,
+    "semantic_score": 0.786693811416626
+  },
+  {
+    "index": 2,
+    "question": "What was the impact of the Edenville Dam failure in Michigan?",
+    "gold_answer": "The Edenville Dam failure led to a massive release of water from Wixom Lake, draining most of the lake, exposing the lakebed, and causing downstream flooding that threatened to submerge downtown Midland under approximately nine feet of water.",
+    "predicted_answer": "The Edenville Dam failure in Michigan had significant impacts, including the forced evacuation of 10,000 people, the destruction of 150 homes, and damages exceeding $200 million. It resulted in a torrent that overtopped the downstream Sanford Dam and led to widespread flooding in the Midland area. Thousands of homes and businesses sustained damage, with a total property loss of over $250 million. The dam failure also drained much of Wixom Lake, causing economic concerns due to the loss of tourism and property tax base in the area. Additionally, the event highlighted potential safety and environmental issues, involving considerations for whether to restore or remove the dam.",
+    "bleu_score": 0.01743039827726173,
+    "semantic_score": 0.792028546333313
+  },
+  {
+    "index": 3,
+    "question": "What actions were taken due to the dangerous water levels at the Wilmore Dam in Pennsylvania?",
+    "gold_answer": "The dangerous water levels at the Wilmore Dam prompted the evacuation of thousands of people downstream. Evacuees were taken to a nearby high school with assistance from the Red Cross, National Guard, local transit authority, and school transportation services.",
+    "predicted_answer": "Evacuations of thousands of people were ordered after water reached dangerous levels at the Wilmore Dam in Pennsylvania. Emergency management coordinated with the Red Cross, National Guard, local transit authority, and school transportation services to take evacuees to a nearby high school. The water level at the dam required evacuation, but water levels were receding by late afternoon, indicating that people might be able to return to their residences shortly.",
+    "bleu_score": 0.22470560375830853,
+    "semantic_score": 0.8887169361114502
+  },
+  {
+    "index": 4,
+    "question": "What prompted the United Nations Environmental Program to issue recommendations for enhancing tailings dam safety worldwide?",
+    "gold_answer": "The United Nations Environmental Program issued recommendations for enhancing tailings dam safety worldwide due to the dangers posed by aging dams and the high frequency of dam collapses, including the collapse of tailings dams in Brazil, which release large amounts of highly toxic mining waste.",
+    "predicted_answer": "The United Nations Environmental Program issued recommendations for enhancing tailings dam safety worldwide due to the impending danger posed by tailings dams, which release large amounts of highly toxic mining waste when they collapse.",
+    "bleu_score": 0.5000377486696284,
+    "semantic_score": 0.9193795323371887
+  },
+  {
+    "index": 5,
+    "question": "Why were more than a hundred households evacuated in Lynchburg, Va.?",
+    "gold_answer": "More than a hundred households were evacuated in Lynchburg, Va. due to concerns that the aging College Lake Dam might fail following heavy rainfall, which could unleash dangerous floodwaters.",
+    "predicted_answer": "More than a hundred households were evacuated in Lynchburg, Va., due to concerns that an aging dam, the College Lake Dam, might fail after being strained by heavy rainfall, potentially unleashing dangerous floodwaters.",
+    "bleu_score": 0.3849585223423125,
+    "semantic_score": 0.9906052947044373
+  },
+  {
+    "index": 6,
+    "question": "What was the highest water level reached by the Tittabawassee River in Midland during the flood disaster?",
+    "gold_answer": "35 feet",
+    "predicted_answer": "35 feet",
+    "bleu_score": 1.491668146240062e-154,
+    "semantic_score": 0.9999999403953552
+  },
+  {
+    "index": 7,
+    "question": "What caused the evacuation of more than 100,000 people in California on February 12, 2017?",
+    "gold_answer": "The evacuation was caused by a hole that developed in the Oroville Dam's emergency spillway, which threatened to release floodwaters from Lake Oroville into the Feather River, endangering thousands of homes and businesses.",
+    "predicted_answer": "The evacuation of more than 100,000 people in California on February 12, 2017, was caused by concerns that the Oroville Dam's emergency spillway could fail. After days of heavy rain, the reservoir water levels rose significantly, leading to water flowing over the emergency spillway for the first time. This flow caused significant erosion, raising fears that the spillway could collapse and release a large amount of water. The evacuation was ordered as a precautionary measure to protect residents living downstream of the dam.",
+    "bleu_score": 0.03260942036187562,
+    "semantic_score": 0.7202892303466797
+  },
+  {
+    "index": 8,
+    "question": "What actions did Lao authorities take following the dam collapse in the country's southeast?",
+    "gold_answer": "Lao authorities ordered closer monitoring of hydroelectric facilities and the conditions at dam sites. They also formed a committee to investigate the responsibilities and obligations for the disaster.",
+    "predicted_answer": "Following the dam collapse in the country's southeast, Lao authorities ordered closer monitoring of hydroelectric facilities, including water levels in reservoirs and conditions at dam sites. They also formed a committee to investigate the responsibilities and obligations related to the disaster.",
+    "bleu_score": 0.4727709368406564,
+    "semantic_score": 0.9460293650627136
+  },
+  {
+    "index": 9,
+    "question": "What event caused the evacuation of roughly 188,000 people in Northern California in February 2017?",
+    "gold_answer": "The evacuation was caused by the threat of failure of the emergency spillway at Oroville Dam due to erosion after heavy storms, which posed a risk to those living downstream.",
+    "predicted_answer": "The evacuation of roughly 188,000 people in Northern California in February 2017 was caused by damage to the spillways at the Oroville Dam, which threatened to release uncontrolled floodwaters.",
+    "bleu_score": 2.443053280628577e-78,
+    "semantic_score": 0.7864667177200317
+  },
+  {
+    "index": 10,
+    "question": "What caused the nearly 190,000 people in Northern California to be ordered to evacuate in February 2017?",
+    "gold_answer": "Nearly 190,000 people in Northern California were ordered to evacuate in February 2017 due to a spillway at the Oroville Dam developing a hole and suffering significant erosion, which threatened to release uncontrolled floodwaters.",
+    "predicted_answer": "The evacuation was ordered due to damage to the emergency spillway at the Oroville Dam, which was eroding and posed a risk of an uncontrolled release of water, potentially sending a 30-foot wall of water downstream.",
+    "bleu_score": 0.0944347074318007,
+    "semantic_score": 0.7096163034439087
+  },
+  {
+    "index": 11,
+    "question": "How many people have had to flee their homes in the Bago region of Myanmar due to the dam failure?",
+    "gold_answer": "More than 50,000 people have had to flee.",
+    "predicted_answer": "More than 50,000 people.",
+    "bleu_score": 4.4646672960328985e-78,
+    "semantic_score": 0.6410214304924011
+  },
+  {
+    "index": 12,
+    "question": "What does the final report say about the preventability of the Edenville Dam failure?",
+    "gold_answer": "The final report states that the Edenville Dam failure was preventable if different actions had been taken over the decades, particularly in the days leading up to the failure. It also mentions that public ownership or a public-private partnership could have ensured sufficient funding for upgrading the spillway capacity to prevent the failure.",
+    "predicted_answer": "The final report states that the failure of the Edenville Dam was preventable. The report highlights that the failure resulted from a combination of long-term errors and miscalculations in its design, construction, operation, and maintenance over nearly a century. The dam was flawed from its outset in the 1920s, with issues in its design and construction that were followed by years of deficiencies. The report indicates that despite the natural desire to point fingers at a single culprit, the failure cannot be attributed to any one individual, group, or organization. Instead, it was a system-wide failure involving financing, designing, constructing, operating, evaluating, and upgrading the dam. It was also noted that, had the dams been publicly owned or a public-private partnership been established earlier, sufficient funds might have been available for upgrades that could have prevented the disaster.",
+    "bleu_score": 0.04089676578582098,
+    "semantic_score": 0.8466243147850037
+  },
+  {
+    "index": 13,
+    "question": "What underlying issue does the article suggest has received little attention in the context of the Michigan dam failure on May 27, 2020, according to Peter Sinclair?",
+    "gold_answer": "The article suggests that a key underlying issue that has received little attention is the increase in heavy precipitation events, fueled by more moisture in a warming atmosphere, across the upper Midwest in recent decades as a result of climate change.",
+    "predicted_answer": "The underlying issue that received little attention, according to Peter Sinclair, is the increased frequency of heavy precipitation events fueled by more moisture in a warming atmosphere, which has risen almost 40 percent across the upper Midwest in recent decades.",
+    "bleu_score": 0.3556749035819672,
+    "semantic_score": 0.8760355710983276
+  },
+  {
+    "index": 14,
+    "question": "What is the main allegation made against TÜV Süd in relation to the 2019 dam collapse in Brazil?",
+    "gold_answer": "The main allegation made against TÜV Süd is that it negligently certified the Brumadinho dam as safe, even though it did not meet international safety standards, leading to its collapse and the subsequent deadly disaster.",
+    "predicted_answer": "The main allegation made against TÜV Süd in relation to the 2019 dam collapse in Brazil is that they provided stability declarations for the Brumadinho dam prior to its collapse, even though there were safety concerns, such as blocked drainage pipes and visible water seepage, which were noted in their own report.",
+    "bleu_score": 0.15856599293771045,
+    "semantic_score": 0.8488101959228516
+  },
+  {
+    "index": 15,
+    "question": "What impact did the failure of the Itaipu dam have on Brazil and neighboring countries?",
+    "gold_answer": "The failure of the Itaipu dam caused a major blackout affecting millions of people in six Brazilian states, including Rio de Janeiro and Sao Paulo, while also impacting neighboring Paraguay and Uruguay. The blackout was approximately equivalent to the energy needed to power the state of Sao Paulo and its 20 million residents.",
+    "predicted_answer": "The failure of the Itaipu dam resulted in a large swath of central and southern Brazil being plunged into darkness, affecting millions of people in six Brazilian states, including the cities of Rio de Janeiro and Sao Paulo. The blackout was approximately equivalent to the energy needed for the state of Sao Paulo and caused Rio's main streets and avenues to be in a total blackout. Additionally, neighboring Paraguay and Uruguay also reported related blackouts due to the dam failure.",
+    "bleu_score": 0.3374049470622959,
+    "semantic_score": 0.9362127780914307
+  },
+  {
+    "index": 16,
+    "question": "What emergency preparations have Oktibbeha County officials made in response to the potential dam failure?",
+    "gold_answer": "Oktibbeha County officials have enacted an emergency plan, made crews from Mississippi State University and OCH Regional Medical Center available for evacuations, and arranged bus transportation to shelters in the event of a mandatory evacuation. Local law enforcement and fire officials will alert residents of imminent threats, and they will use CodeRED text messages for notifications. Additionally, barricades and road signs are in place to block roads if needed.",
+    "predicted_answer": "Oktibbeha County officials have enacted an emergency plan which includes the following preparations in response to the potential dam failure: \n\n1. Emergency preparations and evacuation plans are in place, with crews from Mississippi State University and OCH Regional Medical Center available to evacuate large numbers of people if necessary. \n2. Local law enforcement and fire officials will alert residents of an imminent threat using lights and sirens, given the lack of an emergency or tornado siren in the inundation area.\n3. In the event of evacuation, residents will be transported by bus to either the Oktibbeha County Safe Room on Lynn Lane or the Red Cross shelter at First Baptist Church. \n4. Pets can be boarded at the Oktibbeha County Humane Society on Industrial Park Road, as they are not allowed at the shelter.\n5. Barricades and road signs are in place to block off closed roads if needed.\n6. County officials have arranged for a CodeRED text message alert system to notify residents in the impacted areas if the threat increases.\n\nAdditionally, inspections and monitoring of the dam will continue, and officials are ready to make necessary evacuation calls promptly to ensure public safety.",
+    "bleu_score": 0.08395031999761571,
+    "semantic_score": 0.8310109972953796
+  },
+  {
+    "index": 17,
+    "question": "What caused the catastrophic failure of the dam in eastern Iowa, leading to massive flooding?",
+    "gold_answer": "The catastrophic failure of the dam in eastern Iowa was caused by massive rain, with nearly 10 inches falling in a 12-hour period, which was too much water for the dam to hold. This rainfall resulted in the roads on either side of the dam, which were part of the cement dam's containment measures, giving out.",
+    "predicted_answer": "The retrieved documents do not contain information about a dam failure in eastern Iowa. However, they describe other dam failures caused by heavy rains and structural issues, such as the collapse of a dam in southeastern Laos due to heavy rains and structural damage, and issues related to dams in China during floods.",
+    "bleu_score": 5.097378222472674e-155,
+    "semantic_score": 0.7634467482566833
+  },
+  {
+    "index": 18,
+    "question": "What caused the dam collapse at a Russian gold mine resulting in the death of at least 15 people?",
+    "gold_answer": "The dam collapse happened after heavy rain near the village of Shchetinkino in Russia's Krasnoyarsk region, which caused rushing water to flood dormitories of workers as they slept.",
+    "predicted_answer": "The dam collapse at the Russian gold mine was caused after heavy rain near the village of Shchetinkino, in Russia’s Krasnoyarsk region. The hydro-technical facility was self-constructed, and it is believed that all applicable rules were violated.",
+    "bleu_score": 0.19357875943447517,
+    "semantic_score": 0.8181533813476562
+  },
+  {
+    "index": 19,
+    "question": "What event prompted the evacuation of nearly 200,000 people near the Oroville Dam in 2017?",
+    "gold_answer": "Parts of two spillways at California’s Oroville Dam crumbled in heavy rains, sparking an evacuation.",
+    "predicted_answer": "The emergency spillway of the Oroville Dam in California threatened to fail due to erosion, prompting the evacuation of nearly 200,000 people living downstream.",
+    "bleu_score": 3.0412750613112224e-155,
+    "semantic_score": 0.7158898711204529
+  },
+  {
+    "index": 20,
+    "question": "What caused the recent dam failure in southeastern Laos?",
+    "gold_answer": "Heavy rains damaged a hydroelectric plant, causing the top of one of five auxiliary earth-fill dams to be swept away, which led to the dam failure.",
+    "predicted_answer": "The recent dam failure in southeastern Laos was caused by heavy rains that damaged the hydroelectric plant. Problems first emerged when the dam's center had sunk by 4.3 inches, which was exacerbated by continued heavy rain and damaged roads, leading to the dam giving way. The South Korean company involved was investigating to determine the reasons for the dam's collapse, which could have been due to heavy rainfall or inadequate construction standards.",
+    "bleu_score": 3.8371247971264324e-79,
+    "semantic_score": 0.6437174677848816
+  },
+  {
+    "index": 21,
+    "question": "What was the main reason for the evacuation orders near the Oroville Dam in 2017?",
+    "gold_answer": "The main reason for the evacuation orders near the Oroville Dam in 2017 was due to erosion of the emergency spillway. If the erosion was not addressed properly, it could have resulted in an uncontrolled release of water, sending a 30-foot wall of water downstream, thereby endangering nearby communities.",
+    "predicted_answer": "The main reason for the evacuation orders near the Oroville Dam in 2017 was the near-failure of an emergency spillway and severe damage to the main spillway due to heavy mountain runoff into the reservoir.",
+    "bleu_score": 0.295567762316931,
+    "semantic_score": 0.9350444078445435
+  },
+  {
+    "index": 22,
+    "question": "What steps have BHP Billiton and Vale taken in response to the Brazilian dam failure at the Samarco iron ore mine?",
+    "gold_answer": "BHP has moved quickly into damage control, expressing sympathy for the workers and communities, and the chief executive, Andrew Mackenzie, made a site visit. Samarco mine management placed an 'Announcement to Society' on its website outlining its commitment to transparency and emergency plans. Vale placed a small notice on its website recognizing the initiation of the emergency plan and confirming collaboration with Samarco.",
+    "predicted_answer": "In response to the Brazilian dam failure at the Samarco iron ore mine, BHP Billiton moved quickly into damage control, with its chief executive expressing sympathy for the affected workers and communities, and making a site visit. Samarco mine management placed an \"Announcement to Society\" on its website outlining its commitment to transparency and emergency plans. Vale, on the other hand, placed a small notice on its website confirming its collaboration with Samarco in the emergency plans.\n\nFurthermore, in the legal and financial aftermath, Samarco has not paid any of the fines imposed due to the incident, and a Renova Foundation was created as part of a judicial agreement to expedite reparations to the affected communities. However, this process has been criticized as being insufficient in addressing the needs of the affected populations. Additionally, Vale has faced multiple lawsuits and fines following similar incidents, indicating ongoing legal and social challenges related to the dam failures.",
+    "bleu_score": 0.12176688925725447,
+    "semantic_score": 0.7211585640907288
+  },
+  {
+    "index": 23,
+    "question": "What was the main legal argument presented by the plaintiffs in the lawsuits against the state of Michigan regarding the 2020 Edenville Dam failure?",
+    "gold_answer": "The plaintiffs in the lawsuits against the state of Michigan regarding the 2020 Edenville Dam failure argued that the state failed to enforce regulations and oversee the maintenance and operations of the dam, thus contributing to the failure. They contended that Michigan regulators should have ensured compliance with safety standards following the transfer of oversight from the federal level.",
+    "predicted_answer": "The main legal argument presented by the plaintiffs against the state of Michigan regarding the 2020 Edenville Dam failure was that federal authorities had handed oversight of the dam to the state of Michigan, which then became responsible for the oversight and management issues that contributed to the failure.",
+    "bleu_score": 0.2335168820033312,
+    "semantic_score": 0.8454357385635376
+  },
+  {
+    "index": 24,
+    "question": "What is the basis of the 6.3 billion lawsuit against BHP in Britain?",
+    "gold_answer": "The lawsuit is based on a 2015 dam failure in Brazil, which led to the country's worst environmental disaster. Claimants allege that BHP ignored safety warnings and disregarded early signs of the dam's rupture.",
+    "predicted_answer": "The basis of the 6.3 billion lawsuit against BHP in Britain is the 2015 collapse of the Fundao tailings dam, which led to Brazil’s worst environmental disaster. The lawsuit has been brought on behalf of over 200,000 Brazilian individuals, businesses, churches, organisations, municipalities, and indigenous people. It alleges that BHP ignored safety warnings as the dam's capacity was increased and disregarded early signs of rupture. The claim seeks to hold BHP accountable for environmental damage and loss caused by the disaster.",
+    "bleu_score": 0.08167314129886684,
+    "semantic_score": 0.8303585648536682
+  },
+  {
+    "index": 25,
+    "question": "Why were residents downstream from Lake Oroville ordered to evacuate?",
+    "gold_answer": "Residents downstream from Lake Oroville were ordered to evacuate because the lake's emergency spillway had sustained damage from erosion and was in danger of bursting, which posed a risk of disastrous flooding.",
+    "predicted_answer": "Residents downstream from Lake Oroville were ordered to evacuate because the emergency spillway, which was being used for the first time due to overflowing from recent storms, was threatened to fail due to erosion. Engineers discovered a hole in the emergency spillway, and there was a fear that the water pressure could force a larger breach, potentially releasing a significant amount of water downstream.",
+    "bleu_score": 0.1305326969920182,
+    "semantic_score": 0.8692317008972168
+  },
+  {
+    "index": 26,
+    "question": "What was identified as the most plausible cause for the Edenville Dam failure?",
+    "gold_answer": "The most plausible cause for the Edenville Dam failure was identified as a phenomenon called 'static liquefaction instability'.",
+    "predicted_answer": "Static liquefaction was identified as the most plausible cause for the Edenville Dam failure.",
+    "bleu_score": 0.41180376356915777,
+    "semantic_score": 0.9330232739448547
+  },
+  {
+    "index": 27,
+    "question": "What is the basis of the 5 billion damages claim against BHP in relation to the 2015 Brazil dam failure?",
+    "gold_answer": "The 5 billion damages claim against BHP is based on allegations of 'woefully negligent' behavior in the lead-up to the 2015 dam failure, which resulted in Brazil's worst environmental disaster, killing 19 people and spilling toxic sludge. Claimants state that BHP ignored safety concerns and warnings, increased production despite risks, and prioritized profit over safety.",
+    "predicted_answer": "The basis of the 5 billion damages claim against BHP in relation to the 2015 Brazil dam failure is that BHP was \"woefully negligent\" in the run-up to the dam failure. The claimants allege that BHP failed to act on repeated warnings from independent safety experts, increased industrial output of iron ore despite safety concerns, and placed the pursuit of profit over human and environmental risk. This negligence led to the dam's collapse, which resulted in the death of 19 people and extensive environmental damage.",
+    "bleu_score": 0.1067155021575875,
+    "semantic_score": 0.9001362323760986
+  },
+  {
+    "index": 28,
+    "question": "What are some of the effects of excessive groundwater pumping in California?",
+    "gold_answer": "Excessive groundwater pumping in California has led to subsidence, where rock settles in on itself and becomes more compact, causing some areas to sink. It also contributes to decreases in water quality, habitat loss, and a higher risk of earthquakes.",
+    "predicted_answer": "Excessive groundwater pumping in California can lead to several significant effects, including:\n\n1. Ground subsidence: Over-pumping can cause the ground to sink as aquifers are depleted, leading to damage to infrastructure such as roads, bridges, and buildings.\n\n2. Depletion of aquifers: Continued excessive extraction can significantly lower the water table, which makes it more difficult and costly to access groundwater supplies in the future.\n\n3. Reduced water quality: As groundwater levels decline, the concentration of contaminants can increase, potentially leading to poorer water quality.\n\n4. Impact on ecosystems: Lower groundwater levels can affect natural habitats, leading to the loss of wetlands and affecting the flora and fauna that depend on these ecosystems.\n\n5. Increased energy costs: As the water table drops, more energy is required to pump water from deeper levels, raising operational costs for agricultural and urban water users.\n\nThese effects highlight the importance of sustainable groundwater management in the region.",
+    "bleu_score": 0.006994888191820825,
+    "semantic_score": 0.7670463919639587
+  },
+  {
+    "index": 29,
+    "question": "What are the possible consequences if a high-hazard-potential dam were to fail in Pennsylvania?",
+    "gold_answer": "If a high-hazard-potential dam were to fail in Pennsylvania, it would probably cause a loss of human life and significant property damage.",
+    "predicted_answer": "If a high-hazard-potential dam were to fail in Pennsylvania, it could lead to a loss of human life and significant property damage. These dams, by definition, have the potential to cause these consequences if they fail. However, the specific impact would depend on the size of the dam, the population density downstream, and the preparedness and emergency action plans in place. Additionally, such a failure could result in flooding in the inundation area, affecting residential areas, infrastructure, and natural environments.",
+    "bleu_score": 0.056834380991511904,
+    "semantic_score": 0.9228522181510925
+  },
+  {
+    "index": 30,
+    "question": "Why have federal officials ordered the draining of the South Bay reservoir?",
+    "gold_answer": "Federal officials ordered the draining of the South Bay reservoir because a major earthquake could collapse the dam and send floodwaters into communities from Monterey Bay to the southern shore of San Francisco Bay.",
+    "predicted_answer": "Federal officials have ordered the draining of the South Bay reservoir due to concerns that its aging dam could fail in the event of a major earthquake, posing a significant safety risk to the surrounding communities. To mitigate this risk, the reservoir is being emptied to allow for necessary repairs and upgrades to the dam infrastructure.",
+    "bleu_score": 0.1434421137790733,
+    "semantic_score": 0.8225041627883911
+  },
+  {
+    "index": 31,
+    "question": "Explicitly exlain what was the primary cause of the Mount Polley Mine dam collapse according to the report?",
+    "gold_answer": "The primary cause of the Mount Polley Mine dam collapse according to the report was due to poor design, specifically the failure of the dam's foundation caused by too much weight on an unknown underground layer of glacial sand and gravel, and a dam face that was too steep.",
+    "predicted_answer": "The primary cause of the Mount Polley Mine dam collapse, according to the report, was poor design. Specifically, the report identifies the failure of the dam's foundation as the likely cause. It states that too much weight was placed on an underground layer of glacial sand and gravel that developers and inspectors were unaware of, and the dam's face was too steep. Additionally, the pond behind the dam was very full, and the weight triggered the collapse.",
+    "bleu_score": 0.2572654107639868,
+    "semantic_score": 0.9723547101020813
+  },
+  {
+    "index": 32,
+    "question": "What was the outcome of the 200,000-strong Brazilian claimant group's lawsuit against BHP in the UK court?",
+    "gold_answer": "The lawsuit faced challenges, as it was first struck out by a lower court for being an abuse of process and unmanageable. However, in a subsequent appeal, the Court of Appeal agreed to reopen the case, granting permission for an appeal, and described it as having a \"real prospect of success.\" The case is expected to continue, with an appeal to be heard next year.",
+    "predicted_answer": "Initially, the 200,000-strong Brazilian claimant group's lawsuit against BHP was struck out by a UK court as an abuse of process, and this decision was upheld by the Court of Appeal. However, in a later development, the Court of Appeal reversed its decision and granted permission for the appeal, indicating the lawsuit had a \"real prospect of success.\" The case was revived for further hearings.",
+    "bleu_score": 0.21681000348343132,
+    "semantic_score": 0.5834574103355408
+  },
+  {
+    "index": 33,
+    "question": "What is the current risk category of the Prado Dam as announced by the U.S. Army Corps of Engineers, and why?",
+    "gold_answer": "The Prado Dam's risk category has been raised from 'moderate' to 'high urgency' due to concerns that a significant flood event, such as a series of strong Pacific storms, could breach its spillway, putting over 1.4 million people and property valued at over 61 billion at risk of flooding.",
+    "predicted_answer": "The current risk category of the Prado Dam is \"high urgency,\" as announced by the U.S. Army Corps of Engineers. This change was due to concerns over a \"significant flood event\" that could breach the spillway of the aging dam, potentially flooding dozens of downstream communities.",
+    "bleu_score": 1.894511768956223e-78,
+    "semantic_score": 0.8932609558105469
+  },
+  {
+    "index": 34,
+    "question": "What factors contribute to the vulnerabilities of aging dams in the U.S.?",
+    "gold_answer": "Aging U.S. dams are vulnerable due to their structural deficiencies, inability to handle intense rainfalls from changing climates, and their reliance on outdated designs. Many dams are privately owned, making it challenging for regulators to enforce necessary improvements. Additionally, the lack of inspection due to insufficient funding, staffing, or authority exacerbates the problem. Overgrown vegetation, eroded spillways, internal leaks, and improper maintenance further increase the risk posed by these aging structures.",
+    "predicted_answer": "Several factors contribute to the vulnerabilities of aging dams in the U.S., including:\n\n1. **Lack of Investment in Maintenance**: Many dams suffer from underinvestment in maintenance, leading to structural deficiencies.\n\n2. **Increasing Extreme Weather Events**: With climate change, extreme weather events such as heavy rains and hurricanes have become more frequent, putting additional stress on dam structures that may not have been designed to handle such conditions.\n\n3. **Aging Infrastructure**: The average age of a U.S. hydroelectric dam is 64 years, and many are classified as high risk. Aging infrastructure increases the likelihood of failure.\n\n4. **Inadequate Engineering Plans**: Existing engineering plans and risk management strategies are not keeping pace with the deteriorating infrastructure or escalating extremes in weather and climate.\n\n5. **Cybersecurity Threats**: Many dams are operated by industrial control systems vulnerable to cyberattacks, which could result in equipment shutdown or unplanned water releases.\n\n6. **Regulatory and Compliance Issues**: There is often insufficient regulatory oversight and enforcement to ensure that dam safety standards are met consistently.\n\n7. **Lack of Emergency Action Plans**: Many dams lack updated Emergency Action Plans, which are crucial for timely and effective responses to potential dam failure scenarios. \n\nThese factors highlight the need for increased investment in dam safety, decommissioning of high-risk dams, and updating management practices to address these vulnerabilities.",
+    "bleu_score": 2.016767947465769e-79,
+    "semantic_score": 0.7958016395568848
+  },
+  {
+    "index": 35,
+    "question": "What was the reason for the state of emergency declared in Hawaii as reported by NPR?",
+    "gold_answer": "The state of emergency in Hawaii was declared due to heavy flooding across the state's islands, which prompted evacuations, damaged homes, and raised alarm over a possible dam failure.",
+    "predicted_answer": "The state of emergency in Hawaii was declared due to damage from heavy flooding, which prompted evacuations, damaged homes, and raised alarm over a possible dam failure.",
+    "bleu_score": 0.7310296287680115,
+    "semantic_score": 0.9762075543403625
+  },
+  {
+    "index": 36,
+    "question": "What significant event regarding the Mosul Dam in Iraq did President Obama announce?",
+    "gold_answer": "President Obama announced that Kurdish and Iraqi forces had retaken control of the Mosul Dam from ISIS.",
+    "predicted_answer": "President Obama announced that Kurdish and Iraqi forces had retaken the Mosul Dam from ISIS control.",
+    "bleu_score": 0.6964705665515707,
+    "semantic_score": 0.9916324615478516
+  },
+  {
+    "index": 37,
+    "question": "What was the outcome of the case against James Pflueger and his property company after the Kaloko Dam disaster?",
+    "gold_answer": "James Pflueger pleaded no contest to felony reckless endangerment and was sentenced to seven months of confinement and five years of probation. His property company pleaded no contest to seven counts of manslaughter, resulting in a civil settlement of $25 million with the victims' families.",
+    "predicted_answer": "James Pflueger pleaded no contest to felony reckless endangerment and was sentenced to seven months of confinement and five years of probation. His property company pleaded no contest to seven counts of manslaughter.",
+    "bleu_score": 0.7009095819242086,
+    "semantic_score": 0.9792060852050781
+  },
+  {
+    "index": 38,
+    "question": "What are some of the deficiencies found in the high-hazard dams in New York, according to the inspection report?",
+    "gold_answer": "Deficiencies noted in the dams include cracks, seepage, and inadequate spillway capacity.",
+    "predicted_answer": "According to the inspection report, deficiencies found in the high-hazard dams in New York include deteriorating concrete, embankment erosion, inoperable low-level outlets, seepage issues, and inadequate spillway capacity. These issues point to concerns about the structural integrity and maintenance of these dams, which pose potential risks if not properly addressed.",
+    "bleu_score": 0.01141760525669605,
+    "semantic_score": 0.6831573843955994
+  },
+  {
+    "index": 39,
+    "question": "What are the two underlying economic drivers affecting the safety of tailings dams in the first half of the 20th century?",
+    "gold_answer": "The two underlying economic drivers affecting the safety of tailings dams are the reduction in ore grades, which means more waste to be stored in tailings dams for the same amount of metal extracted, and the price of metals, as high metal prices push miners to maximize production and lower prices discourage investment in safety.",
+    "predicted_answer": "Global copper ore grades declined, requiring more waste to be stored in tailings dams per tonne of copper extracted, leading to lower margins and less money available for dam safety.",
+    "bleu_score": 0.14233965331252785,
+    "semantic_score": 0.6455805897712708
+  },
+  {
+    "index": 40,
+    "question": "What measures are being taken to protect North Dakota river towns from the possible dam failure?",
+    "gold_answer": "The National Guard is using Black Hawk helicopters to place sandbags, and students filled thousands of sandbags to protect the towns. Emergency management officials are monitoring the Bourbanis Dam for changes and repairing breaches in dikes wherever they occur.",
+    "predicted_answer": "The National Guard has been activated, deploying Black Hawk helicopters to assist in flood protection efforts. They have been placing one-ton sandbags in critical areas to bolster defenses, including the threatened Bourbanis Dam. Crews are monitoring the dam overnight for any changes, and students have been involved in filling sandbags as part of the protective measures. Additionally, there are emergency management operations in place to monitor and repair breaches in dikes as needed.",
+    "bleu_score": 0.06566614211176065,
+    "semantic_score": 0.943569004535675
+  },
+  {
+    "index": 41,
+    "question": "What challenges did the Brumadinho dam collapse highlight about Brazil's mining industry and regulation?",
+    "gold_answer": "The Brumadinho dam collapse highlighted several challenges in Brazil's mining industry, including the vulnerability of mining dams due to their construction and insufficient regulation. There were 87 mining dams in Brazil built like the collapsed structure, with 27 posing risks to people living in downstream areas. The collapse revealed flaws in self-regulation as companies were allowed to self-regulate with independent auditors verifying dam safety, leading to conflicts of interest. This lack of effective government oversight, coupled with the pressure to approve mining projects quickly, contributed to the tragedy. Additionally, alarms to warn of dam failure were ineffective, costing many lives.",
+    "predicted_answer": "The Brumadinho dam collapse highlighted several challenges about Brazil's mining industry and regulation, including:\n\n1. Vulnerability of Mining Dams: The collapse demonstrated the risk inherent in the design and maintenance of mining dams, especially those built using the upstream method, which has been noted for its potential instability.\n\n2. Lack of Regulatory Oversight: The disaster underscored the inadequate regulation and oversight of mining operations, allowing companies to self-regulate and hire independent auditors, creating conflicts of interest.\n\n3. Structural Warnings Ignored: It revealed that despite known warnings and structural issues with such dams, necessary precautions and improvements were not adequately implemented.\n\n4. Insufficient Emergency Preparedness: The failure to activate warning systems and the lack of emergency preparedness plans highlighted a serious gap in safety protocols.\n\n5. Economic Influence on Regulations: The collapse pointed to the influence of the powerful mining industry on regulatory bodies, often leading to lax enforcement of safety standards.\n\nOverall, it brought into focus the need for stricter regulations, more rigorous inspections, and improved safety standards in Brazil’s mining sector.",
+    "bleu_score": 0.05480089731007525,
+    "semantic_score": 0.9071109294891357
+  },
+  {
+    "index": 42,
+    "question": "Who does the Michigan lawsuit blame for the Midland dam failure?",
+    "gold_answer": "The Michigan lawsuit blames Boyce Hydro, the owner of the dam, for the Midland dam failure.",
+    "predicted_answer": "The Michigan lawsuit blames the Michigan Department of Environment, Great Lakes and Energy, the Michigan Department of Natural Resources, and the dam owner, Boyce Hydro, for the Midland dam failure.",
+    "bleu_score": 0.18460735136289305,
+    "semantic_score": 0.904297411441803
+  },
+  {
+    "index": 43,
+    "question": "Why are critics concerned about the potential environmental impact of new mines near the Southeast border of Alaska?",
+    "gold_answer": "Critics are concerned that mine tailings dam failures, similar to the one at the Mount Polley Mine in British Columbia, could occur at new B.C. mines near the Southeast border, potentially polluting Alaska waters and threatening the region's salmon fisheries. They point to the presence of acidic rock and toxic metals in tailings that are stored behind similar dams and worry about regulatory oversight failures.",
+    "predicted_answer": "Critics are concerned about the potential environmental impact of new mines near the Southeast border of Alaska because these mines are planning to store tailings, containing acidic rock and toxic metals, behind dams similar to the one that failed at the Mount Polley Mine in British Columbia. The failure of the tailings dam at Mount Polley led to a catastrophic spill of contaminated water, mud, and rock into nearby waterways, raising fears of a similar disaster affecting waters that drain into Alaska. The proximity of potential new mines and their tailings storage methods similar to Mount Polley's highlight risks to salmon fisheries and ecosystems that are crucial to Southeast Alaska. Critics are also worried about regulatory oversight failures, which could lead to insufficient safety measures for these new projects.",
+    "bleu_score": 0.10186388024979279,
+    "semantic_score": 0.8834817409515381
+  },
+  {
+    "index": 44,
+    "question": "What were some key factors that led to the failure of the Edenville Dam?",
+    "gold_answer": "Key factors that led to the failure of the Edenville Dam included insufficient spillway capacity that Boyce Hydro failed to address despite repeated notices from the Federal Energy Regulatory Commission (FERC), noncompliance with repair requests, financial constraints claimed by Boyce Hydro, and the revocation of its hydroelectric generating license which transferred jurisdiction to EGLE. A pattern of delay and indifference to safety standards contributed to the dam's inability to handle the heavy rainfall in May 2020 which ultimately caused its failure.",
+    "predicted_answer": "The failure of the Edenville Dam was attributed to several key factors:\n\n1. Construction flaws: The dam was constructed in the 1920s with deviations from design plans and specifications, using loose and saturated sands that were susceptible to static liquefaction.\n\n2. Design and maintenance deficiencies: Over the years, there were shortcomings in design and maintenance, including steep downstream slopes and inadequate spillway capacity.\n\n3. Lack of adequate spillway capacity: The spillways were not upgraded to manage high runoff and lake levels, which contributed to the failure.\n\n4. Failure in recognizing potential vulnerabilities: Incorrect conclusions were drawn regarding the stability of the embankments, and there was a lack of recognition for the potential of non-extreme rainfall events to cause damage.\n\n5. Static liquefaction: The report officially names static liquefaction, a process where soil loses its strength due to saturation, as a cause for the failure on the east bank.\n\n6. Human actions: The spillways were not fully opened due to safety concerns by operators, which limited water flow and increased pressure on the structure. \n\nOverall, the dam failure was preventable and resulted from errors, miscalculations, and a failure of the system managing the dam over nearly 100 years, without adequate financial support for necessary upgrades.",
+    "bleu_score": 0.018819424327110784,
+    "semantic_score": 0.6942636370658875
+  },
+  {
+    "index": 45,
+    "question": "What was the outcome of the settlement between BHP, Vale, and local prosecutors regarding the dam failure in Brazil?",
+    "gold_answer": "The settlement with local prosecutors means that compensation payments to relatives of those who died in the disaster, as well as to hundreds of others who lost homes and other properties, can begin. It also allows the companies to prepare to resume operations in the region.",
+    "predicted_answer": "BHP, Vale, and Samarco reached a final compensation settlement with local prosecutors over the 2015 dam failure, which included compensation payments to relatives of the 19 people who died and hundreds of others who lost homes and properties. The settlement, reached nearly three years after the disaster, allowed for the commencement of compensation payments and preparation for resuming operations in the region.",
+    "bleu_score": 0.23112528086255132,
+    "semantic_score": 0.6303284764289856
+  },
+  {
+    "index": 46,
+    "question": "What actions have been taken by the community to address the Hebgen Dam malfunction and its effects on the Madison River?",
+    "gold_answer": "The community gathered along the Madison River early in the morning to save fish affected by the reduced water levels due to the Hebgen Dam malfunction. Volunteers, assisted by the Montana Fish, Wildlife, and Parks (FWP), monitored the river and moved stranded fish back into the main channel. Groups of fishers covered as much area as possible from Hebgen Dam to Ennis.",
+    "predicted_answer": "The community gathered early in the morning on December 1, 2021, to work quickly to save fish along the Madison River. Volunteers, including fishermen and women, were mobilized to monitor the river, assess conditions, and move stranded fish back into the main channel. The goal was to cover as much area as possible from Hebgen Dam to Ennis to help save the trout affected by the drop in water levels due to the dam malfunction. Additionally, environmental groups filed a citizens' complaint requesting a formal investigation of the malfunction, calling for further examination of the dam's safety, and for establishment of a fund to address ecological and economic impacts.",
+    "bleu_score": 0.1881910205594353,
+    "semantic_score": 0.8997823596000671
+  },
+  {
+    "index": 47,
+    "question": "What were some of the immediate consequences of the dam failures in Michigan in May 2020?",
+    "gold_answer": "The immediate consequences of the dam failures in Michigan included the evacuation of 10,000 people, the destruction and damage of an estimated 2,500 properties, and severe flooding that submerged downtown Midland under 9 feet of water. The floodwaters ripped buildings off their foundations, smashed roads and bridges, and raised fears of contamination as the water swept by a chemical plant and hazardous waste sites.",
+    "predicted_answer": "Some of the immediate consequences of the dam failures in Michigan in May 2020 included the evacuation of more than 11,000 people, damage to 2,500 structures, and an estimated $200 million in damages. Additionally, the failures caused significant flooding in the village of Sanford and the cities of Midland and Saginaw.",
+    "bleu_score": 0.174859370140488,
+    "semantic_score": 0.895667552947998
+  },
+  {
+    "index": 48,
+    "question": "What did California Department of Water Resources do that contributed to the failure of the Oroville Dam, according to the independent investigators?",
+    "gold_answer": "Independent investigators found that the failure stemmed from long-term systemic issues such as poor design, a lack of proper maintenance, and inadequate inspections, rather than any single action by the California Department of Water Resources.",
+    "predicted_answer": "According to the independent investigators, the California Department of Water Resources' inadequate maintenance and management, as well as design flaws and operational missteps over the years, contributed to the failure of the Oroville Dam. These failures included not addressing known risks and vulnerabilities in the dam's spillway systems.",
+    "bleu_score": 0.08780442153799381,
+    "semantic_score": 0.7388413548469543
+  },
+  {
+    "index": 49,
+    "question": "What caused the failure of the Samarco tailings dam according to the Fundão Tailings Dam Review Panel?",
+    "gold_answer": "The Samarco tailings dam failed due to three small seismic shocks that triggered liquefaction flowsliding. However, the dam's failure was already well advanced because of construction defects and a change in design that led to an increase in saturation, introducing the potential for liquefaction.",
+    "predicted_answer": "The failure of the Samarco tailings dam was caused by a series of design and maintenance failures, construction defects, increased saturation that introduced the potential for sand liquefaction, the deposition of slimes in unintended areas, and structural problems with the concrete conduit. The failure was accelerated by three small seismic shocks.",
+    "bleu_score": 2.808752816354123e-78,
+    "semantic_score": 0.8856590390205383
+  },
+  {
+    "index": 50,
+    "question": "What challenges are faced in the efforts to repair the Guajataca Dam in Puerto Rico?",
+    "gold_answer": "The challenges faced in repairing the Guajataca Dam include heavy rains which contribute to the reservoir still being almost full, causing pressure on the dam. Additionally, concrete barriers are being flown in by helicopter to fill the breach, with the process being hampered by the dam's location and the need to upgrade Puerto Rico's aging infrastructure.",
+    "predicted_answer": "The challenges faced in the efforts to repair the Guajataca Dam in Puerto Rico include a lack of recent inspections, as it has not been inspected since 2013 despite its high hazard potential. This is compounded by the fact that Puerto Rico's infrastructure, including dams, is outdated, with many dating back to before 1960. Financial difficulties also pose a significant challenge, as Puerto Rico is in bankruptcy restructuring over $72 billion in debt, limiting available funds for infrastructure investments. The Puerto Rico Electric Power Authority, the owner of the Guajataca Dam, is a bankrupt state-owned utility, which further impedes repair and maintenance efforts. Additionally, the island's infrastructure needs are extensive, including dredging of reservoirs, leading to reduced water storage capacity during heavy rainfalls. Overall, the combination of financial constraints, outdated infrastructure, and lack of inspections complicates the repair efforts for the Guajataca Dam.",
+    "bleu_score": 0.01894013976945239,
+    "semantic_score": 0.7935587763786316
+  },
+  {
+    "index": 51,
+    "question": "What prompted the bipartisan congressional panel to seek answers regarding the Edenville Dam failure?",
+    "gold_answer": "The bipartisan congressional panel sought answers after the Edenville Dam broke on May 19, flooding the Midland area and prompting the evacuation of more than 10,000 people. They want to understand actions the Michigan Department of Environment, Great Lakes and Energy took or did not take after jurisdiction shifted to the state from the federal government in 2018.",
+    "predicted_answer": "The bipartisan congressional panel sought answers regarding the Edenville Dam failure to gather more information about the actions Michigan took or didn't take to secure the dam after jurisdiction was shifted to the state from the federal government in 2018. This inquiry aims to ensure such incidents do not happen again in any city in America with a high hazard dam and to address serious gaps in existing laws as they consider future bipartisan legislation to protect communities across the country.",
+    "bleu_score": 0.19849466212576933,
+    "semantic_score": 0.7768508791923523
+  },
+  {
+    "index": 52,
+    "question": "What caused the century-old dam in Bastrop State Park to burst, and what were the repercussions?",
+    "gold_answer": "The century-old dam in Bastrop State Park burst due to being overtopped by more than 35 million gallons of water as a result of a tremendous downpour on wet ground. The repercussions included highlighting the dangers posed by powerful floodwaters in the area, particularly in a state like Texas where many aging dams are exempt from regular inspections. Fortunately, nobody was injured from the incident.",
+    "predicted_answer": "The century-old dam in Bastrop State Park burst due to a tremendous downpour on wet ground, causing the spillway to be overtopped and unable to handle the volume of water. This led more than 35 million gallons of water to barrel down a Central Texas creek. Fortunately, nobody was injured, but the event highlighted the dangers of floodwaters and the issue of aging dams being exempt from regular inspections. As a repercussion, nearly all areas of Bastrop State Park were closed, and cleanup processes began. Additionally, officials were considering rebuilding the lake, which is an important part of the park's aesthetics.",
+    "bleu_score": 0.21015384867684675,
+    "semantic_score": 0.864250123500824
+  },
+  {
+    "index": 53,
+    "question": "What were the main factors contributing to the failure of the Spencer Dam in Nebraska?",
+    "gold_answer": "The main factors contributing to the failure of the Spencer Dam were the wrong classification of the dam as 'significant hazard' instead of 'high hazard', a history of unaddressed ice problems, a lack of a formal emergency plan, and historical ice incidents that were not accounted for in the dam's hazard assessment.",
+    "predicted_answer": "The main factors contributing to the failure of the Spencer Dam in Nebraska were:\n\n1. History of unaddressed ice problems.\n2. No formal emergency plan because regulators wrongly assumed no loss of life would occur if it failed.\n3. The dam was wrongly classified as a \"significant hazard\" instead of a \"high hazard.\"\n4. Past ice incidents in 1935, 1960, and 1966 were not adequately considered, and historical records were lost or unavailable.\n5. Inspections were conducted during warm-weather months, lacking assessment for ice conditions.\n6. The dam’s construction made it harder to pass ice through its flood gates, exacerbating vulnerability during ice flows.",
+    "bleu_score": 0.10675758346960362,
+    "semantic_score": 0.7777188420295715
+  },
+  {
+    "index": 54,
+    "question": "What measures were taken by the Tohono O’odham Nation in response to the potential failure of the Menagers Dam?",
+    "gold_answer": "The Tohono O’odham Nation declared a state of emergency and began evacuating residents of the Menagers Dam community due to unprecedented levels of flooding. Evacuations were assisted by the tribe's police and emergency services, a U.S. Customs and Border Protection team, and a Pima County Sheriff’s Department swift water rescue team. Several shelters were made available to evacuees.",
+    "predicted_answer": "The Tohono O’odham Nation declared a state of emergency, evacuated or urged residents to get to higher ground, assembled an engineering team to inspect the dam, worked with police and emergency services to evacuate at-risk areas, and set up a number of shelters for evacuees. They received assistance from a U.S. Customs and Border Protection team and a Pima County Sheriff’s Department swift water rescue team.",
+    "bleu_score": 0.33751579875200644,
+    "semantic_score": 0.9150250554084778
+  },
+  {
+    "index": 55,
+    "question": "What does a 'high hazard' classification for a dam refer to in Washington State's dam safety terminology?",
+    "gold_answer": "A 'high hazard' classification refers to the potential impact on people, property, and the environment should a dam fail. It does not imply that the dam is unsafe, but indicates the consequences of a dam failure.",
+    "predicted_answer": "A 'high hazard' classification for a dam refers to a situation where a dam's failure or misoperation will likely result in loss of human life. This classification does not refer to the structural integrity of the dam itself, but rather to the potential consequences of its failure.",
+    "bleu_score": 0.10574159826332545,
+    "semantic_score": 0.9418357014656067
+  },
+  {
+    "index": 56,
+    "question": "What is the purpose of the proposed 500 million funding by the Michigan Legislature?",
+    "gold_answer": "The proposed 500 million funding by the Michigan Legislature aims to dedicate funds toward dam repairs and emergency response, particularly focusing on repairs to the failed Midland-area dams and five other identified high-risk dams. The plan also includes creating an emergency response fund and a state match fund for federal money to rehabilitate or remove dams. Additionally, it aims to implement policy reforms for better dam safety and maintenance.",
+    "predicted_answer": "The proposed 500 million funding by the Michigan Legislature is intended to fund dam repairs and emergency response, focusing on repairs to the failed Midland-area dams and five other identified high-risk dams. It also aims to create an emergency response fund and a fund to provide state match dollars for federal money to rehabilitate or remove dams. Additionally, the funding is associated with implementing policy reforms to enhance dam safety and maintenance.",
+    "bleu_score": 0.5641571962094529,
+    "semantic_score": 0.9811843037605286
+  },
+  {
+    "index": 57,
+    "question": "What was Duke Energy's response regarding the potential flow of coal ash into the Cape Fear River?",
+    "gold_answer": "Duke Energy's response was that they could not rule out that coal ash might be escaping and flowing into the Cape Fear River.",
+    "predicted_answer": "Duke Energy's spokeswoman Paige Sheehan stated that floodwaters had overtopped a steel retaining wall containing one of three large coal ash dumps lining the lakeshore, and Duke can't rule out that ash might be escaping and flowing into the river.",
+    "bleu_score": 0.19388212724919313,
+    "semantic_score": 0.6374821662902832
+  },
+  {
+    "index": 58,
+    "question": "What was discussed in the Senate hearing regarding the Edenville Dam failure?",
+    "gold_answer": "The Senate hearing discussed why the Edenville Dam was rated poorly, what went wrong leading to its failure, and future preparations to prevent similar issues. It was noted that much of the problem came from a lack of resources and manpower, and there are flaws that need addressing. Future actions include determining whether to add funding or review the structures, with top priority given to similarly rated dams in the state.",
+    "predicted_answer": "During the Senate hearing regarding the Edenville Dam failure, the Department of Environment, Great Lakes and Energy (EGLE) spoke with legislators about what went wrong leading to the dam's failure. The discussions highlighted the dam's poor rating and the lack of action taken to prevent the catastrophe. The need for addressing resources and manpower issues was emphasized, along with the oversight of the state’s 2,600 dams, which are examined in intervals of three to five years. The hearing aimed to figure out future actions to prevent similar issues from occurring again, and the prioritization of other dams in the state with similar ratings was suggested.",
+    "bleu_score": 0.07915478033058658,
+    "semantic_score": 0.8367023468017578
+  },
+  {
+    "index": 59,
+    "question": "What factors are contributing to the increased risk of dam failures according to Amir AghaKouchak?",
+    "gold_answer": "Climate change is contributing to the increased risk of dam failures by causing some regions to become wetter and increasing the frequency of extreme storms. Additionally, most dams in the United States were designed decades ago and are unsuited to handle the changes in weather patterns, such as increased rainfall and more intense storms associated with global warming.",
+    "predicted_answer": "According to Amir AghaKouchak, the factors contributing to the increased risk of dam failures include global warming causing some regions to become wetter, increasing the frequency of extreme storms, and the unsuitability of dams designed decades ago for a warmer world and stronger storms. Additionally, the outdated design and inadequate maintenance or infrastructure to handle maximum floods add to the risks.",
+    "bleu_score": 0.2745335722239463,
+    "semantic_score": 0.8641660809516907
+  },
+  {
+    "index": 60,
+    "question": "What is the potential impact on U.S. 127 following the failure of the Wraco Lodge Dam?",
+    "gold_answer": "The potential impact on U.S. 127 following the failure of the Wraco Lodge Dam is flooding, with a possibility of water overtopping the highway between mile markers 185 and 186. Motorists are advised not to drive over flooded roads.",
+    "predicted_answer": "The potential impact on U.S. 127 following the failure of the Wraco Lodge Dam is the possibility of water overtopping the highway between mile markers 185 and 186 due to the rapidly moving flood water downstream. Motorists are advised not to drive over flooded roads, and water was reported to be just about a foot and a half from the top of a bridge on U.S. 127. However, there are no immediate plans to shut down the highway.",
+    "bleu_score": 0.2897339288180475,
+    "semantic_score": 0.9309937357902527
+  },
+  {
+    "index": 61,
+    "question": "What caused the partial failure of the Net River dam in Baraga County, Michigan?",
+    "gold_answer": "The partial failure of the Net River dam was caused by corrosion.",
+    "predicted_answer": "Corrosion of a water control structure caused the partial failure of the Net River dam.",
+    "bleu_score": 0.33770274591092314,
+    "semantic_score": 0.9501082301139832
+  },
+  {
+    "index": 62,
+    "question": "What did Beaver dam failure cause?",
+    "gold_answer": "Beaver dam failure caused flooding and road closure.",
+    "predicted_answer": "The Beaver dam failure caused an increase in water levels and speed of currents downstream, impacting the stability of the ice and making it unsafe for residents to ice fish, walk, or recreate on the river.",
+    "bleu_score": 0.011038811226568796,
+    "semantic_score": 0.7470666170120239
+  },
+  {
+    "index": 63,
+    "question": "What measures were taken by Quebec authorities in response to the potential failure of the Rouge River dam?",
+    "gold_answer": "Quebec authorities called for the immediate evacuation of an area along the Rouge River due to the risk of the hydro dam failing. Provincial police assisted with the evacuation of about 250 people, using all-terrain vehicles and helicopters, and evacuees were initially taken to the town hall in Grenville-sur-la-Rouge, with those lacking alternative lodging being transported to an arena in Lachute.",
+    "predicted_answer": "Quebec authorities called for the immediate evacuation of an area along the Rouge River due to the risk of the dam failure. Approximately 250 people were evacuated from 23 residences and 38 cottages in the affected zone. Several dozen officers, aided by all-terrain vehicles and helicopters, assisted in the evacuation, and those without alternative lodging were transported to an arena in Lachute. Quebec provincial police were involved in ensuring that people were safely moved. Additionally, public security measures included increasing the number of firefighters, police officers, and municipal workers on the ground to prepare for potential further flooding. Environment Canada issued a rainfall warning, and the Canadian Forces were called to help with flood protection efforts.",
+    "bleu_score": 0.19261185145635318,
+    "semantic_score": 0.8449724316596985
+  },
+  {
+    "index": 64,
+    "question": "What was identified as the cause of the Edenville Dam failure in May 2020?",
+    "gold_answer": "The Edenville Dam failure in May 2020 was attributed to 'static liquefaction,' according to a report from the Federal Energy Regulatory Commission. It was caused when loose sand at the base of the dam could not hold back the water after days of heavy rain.",
+    "predicted_answer": "The cause of the Edenville Dam failure in May 2020 was identified as static liquefaction, a process where the soil becomes completely saturated with water and loses its strength. The Edenville Dam was constructed with a higher concentration of loose sand, which was more susceptible to static liquefaction and failure. Additionally, parts of the dam, including the east face that failed, were constructed with downstream faces that were too steep, placing additional stress on the structure when it was holding back a record amount of water.",
+    "bleu_score": 0.07367902477395098,
+    "semantic_score": 0.9249246120452881
+  },
+  {
+    "index": 65,
+    "question": "How many people were evacuated due to the risk of the Rouge River dam failure in Quebec?",
+    "gold_answer": "About 250 people were evacuated.",
+    "predicted_answer": "250 people",
+    "bleu_score": 8.38826642100846e-155,
+    "semantic_score": 0.6467838883399963
+  },
+  {
+    "index": 66,
+    "question": "Why were mandatory evacuations issued in relation to the Bell Falls Dam in Quebec?",
+    "gold_answer": "Mandatory evacuations were issued amid fears of the Bell Falls Dam failing, as the dam was dangerously over capacity, posing a risk to everyone downstream.",
+    "predicted_answer": "Mandatory evacuations were issued due to fears of the Bell Falls Dam being dangerously over capacity, which posed a risk of dam failure. Authorities were closely monitoring the situation and issued the evacuation order to ensure the safety of those down river.",
+    "bleu_score": 0.18623449082862328,
+    "semantic_score": 0.9155105948448181
+  },
+  {
+    "index": 67,
+    "question": "Why doesn't Alabama have a dam safety program?",
+    "gold_answer": "There are two main deterrents preventing Alabama from considering dam safety: cost and need. The cost includes the expense of hiring staff to travel, inspect dams, and draft emergency action plans (EAPs), as well as the responsibility for private dam owners to maintain their own dams. Additionally, there is a lack of perceived need due to the absence of catastrophic dam failures in the state.",
+    "predicted_answer": "Alabama is the only state in the U.S. without a dam safety regulatory program. This means Alabama lacks a statewide system to oversee the safety of dams through regular inspections, compliance checks, or emergency action planning, which are typical functions in dam safety programs in other states. This absence could be due to various factors including historical choices, budgetary priorities, or differing assessments of risk and regulatory needs. However, without a program, Alabama might face challenges in effectively managing and mitigating potential risks associated with dam failures.",
+    "bleu_score": 3.730285240693015e-155,
+    "semantic_score": 0.8295673727989197
+  },
+  {
+    "index": 68,
+    "question": "What caused anxiety among Ennis residents on Labor Day?",
+    "gold_answer": "The anxiety among Ennis residents was caused by the failure of a structure at the Hebgen Lake Dam, which allowed a significant increase in water flow and led to the closure of the Madison River to recreation. Rumors that the dam had failed or there was an imminent evacuation exacerbated the situation.",
+    "predicted_answer": "The failure at the Hebgen Dam's intake tower caused anxiety among Ennis residents on Labor Day.",
+    "bleu_score": 0.0693167055723383,
+    "semantic_score": 0.7115301489830017
+  },
+  {
+    "index": 69,
+    "question": "What were some of the immediate actions taken by the Idaho Transportation Department in response to the Teton Dam failure?",
+    "gold_answer": "The Idaho Transportation Department's immediate actions included closing roads in the affected area to combat the unpredictability of the water's path. The department also awarded repair contracts rapidly, with the first contract being awarded within two days of the disaster. ITD personnel and Federal Highway Administration staff were actively engaged in flood repair operations, with the department ultimately spending an estimated 15 million dollars on rebuilding roads during that summer and the next.",
+    "predicted_answer": "In response to the Teton Dam failure, the Idaho Transportation Department's immediate actions included closing roads in the area to combat the unpredictability of the water's path. They also began flood-repair operations, with highway personnel from Rigby assisting. A special design section from ITD Headquarters and other districts was quickly mobilized, leading to the awarding of the first contract for repairs within two days. These efforts continued with additional contracts soon after, as road reconstruction work was prioritized.",
+    "bleu_score": 0.2631467407923246,
+    "semantic_score": 0.8641625046730042
+  },
+  {
+    "index": 70,
+    "question": "What should you do if you encounter unusual activity detection from Bloomberg's website?",
+    "gold_answer": "If you encounter unusual activity detection from Bloomberg's website, you should click the box to confirm that you are not a robot. Additionally, ensure that your browser supports JavaScript and cookies, and that you are not blocking them from loading. If problems persist, you can contact Bloomberg's support team and provide the block reference ID for further assistance.",
+    "predicted_answer": "If you encounter unusual activity detection from Bloomberg's website, you should make sure that your browser supports JavaScript and cookies, and that you are not blocking them from loading. If the issue persists, you can contact Bloomberg's support team and provide the reference ID mentioned in the message for assistance.",
+    "bleu_score": 0.5949711036090021,
+    "semantic_score": 0.9392300248146057
+  },
+  {
+    "index": 71,
+    "question": "What percentage of dam failures in India is caused by flooding?",
+    "gold_answer": "According to the Central Water Commission, 44% of total reported dam failure cases in India are a result of breaching due to flooding.",
+    "predicted_answer": "The documents provided do not contain information on the percentage of dam failures in India caused by flooding. Please refer to relevant data sources or research studies for this information.",
+    "bleu_score": 3.773397132234776e-155,
+    "semantic_score": 0.8014017939567566
+  },
+  {
+    "index": 72,
+    "question": "What was the immediate financial impact on Vale's stock following the dam collapse at their Corrego do Feijao mine?",
+    "gold_answer": "The stock price for Vale's ADR traded in the U.S. fell more than 14 percent on Monday, striking a new 52-week low, following the dam collapse at their Corrego do Feijao mine.",
+    "predicted_answer": "The stock price for Vale's ADR traded in the U.S. fell more than 14 percent on the Monday following the dam collapse, reaching a new 52-week low.",
+    "bleu_score": 0.5633809697190242,
+    "semantic_score": 0.9696082472801208
+  },
+  {
+    "index": 73,
+    "question": "How many people were confirmed dead and missing after the mining dam collapse in Brazil?",
+    "gold_answer": "At least 110 people were confirmed dead, and authorities were still searching for 238 missing people.",
+    "predicted_answer": "At least 154 people were confirmed dead, and more were missing after the mining dam collapse in Brumadinho, Brazil.",
+    "bleu_score": 0.23245562954004562,
+    "semantic_score": 0.6666653752326965
+  },
+  {
+    "index": 74,
+    "question": "What caused the evacuation of residents near the Spring Valley Dam in Virginia?",
+    "gold_answer": "Residents near the Spring Valley Dam in Virginia were ordered to evacuate due to the danger of the dam failing, which could cause flooding in the immediate area, following heavy rains.",
+    "predicted_answer": "Heavy rains put the Spring Valley Dam in danger of failing, which could cause flooding in the immediate area of the dam.",
+    "bleu_score": 0.36294534163823844,
+    "semantic_score": 0.698175847530365
+  },
+  {
+    "index": 75,
+    "question": "What is the potential impact of a rare mega-storm on the Whittier Narrows Dam?",
+    "gold_answer": "The rare mega-storm could overwhelm the Whittier Narrows Dam, causing it to fail and resulting in catastrophic flooding from Pico Rivera to Long Beach. The floodwaters may inundate numerous cities and potentially turn evacuation routes into rivers, severely affecting up to 1 million people. Officials have highlighted the need for upgrades to the dam to prevent significant loss of life and economic impacts.",
+    "predicted_answer": "The potential impact of a rare mega-storm on the Whittier Narrows Dam includes catastrophic flooding from Pico Rivera to Long Beach. The dam could be overwhelmed due to epic runoff from the San Gabriel Mountains, leading to water flowing over its crest or seepage eroding the sandy soil underneath. Unusually heavy rains could trigger a premature opening of the dam’s spillway, releasing more than 20 times what the downstream channel could safely contain. This could result in as many as 1 million people being affected, with some areas experiencing floodwaters up to 20 feet deep. The overall structural and economic damage from such a storm, known as an ARkStorm, could amount to more than $725 billion statewide.",
+    "bleu_score": 0.08291383397184121,
+    "semantic_score": 0.8885630369186401
+  },
+  {
+    "index": 76,
+    "question": "How much funding did FEMA award to Sanford for home demolitions after the dam failure?",
+    "gold_answer": "Nearly 1 million dollars.",
+    "predicted_answer": "Nearly 1 million.",
+    "bleu_score": 9.53091075863908e-155,
+    "semantic_score": 0.7885257601737976
+  },
+  {
+    "index": 77,
+    "question": "How many dams failed and how many are in danger of failing in South Carolina due to the flooding described in the document?",
+    "gold_answer": "14 dams failed and 62 more are in danger of failing.",
+    "predicted_answer": "14 dams failed and 62 more are in danger of failing.",
+    "bleu_score": 0.7016879391277372,
+    "semantic_score": 1.0000001192092896
+  },
+  {
+    "index": 78,
+    "question": "What reasons did the Allens cite for suing the Federal Energy Regulatory Commission regarding the Edenville Dam failure?",
+    "gold_answer": "The Allens sued the Federal Energy Regulatory Commission (FERC) for showing 'gross incompetency and deliberate indifference' by granting Boyce Hydro a license to operate the dam without ensuring the company could safely manage it. They claim FERC failed to scrutinize Boyce Hydro's financial and operational capacity to make the dam safe, failed to order a drawdown of the reservoir with upcoming bad weather in mind, and because FERC hesitated to enforce safety regulations while allowing Boyce Hydro to claim financial inability to make necessary fixes.",
+    "predicted_answer": "The Allens cited \"gross incompetency and deliberate indifference\" by the Federal Energy Regulatory Commission (FERC) as reasons for their lawsuit, claiming that the agency negligently granted Boyce Hydro a license to operate the dam without ensuring the company could safely do so. They argue FERC failed to scrutinize Boyce Hydro's financial ability, competency, or motivation to maintain the dam safely, and did not mandate a reservoir drawdown despite forecasts of major rain.",
+    "bleu_score": 0.3165402451018809,
+    "semantic_score": 0.9541246294975281
+  },
+  {
+    "index": 79,
+    "question": "What was the cause of the Lake Delhi dam break on July 24, 2010?",
+    "gold_answer": "A storm system that led to heavy rain in eastern Iowa caused the Lake Delhi dam to break. The storm system also dropped the largest recorded hailstone in South Dakota on July 23, 2010, contributing to heavy, continuous rainfall over eastern Iowa from July 22-24.",
+    "predicted_answer": "The cause of the Lake Delhi dam break on July 24, 2010, was a storm system that led to heavy rain in eastern Iowa, causing a quick rise in river levels and resulting in record flooding.",
+    "bleu_score": 0.24837211817442365,
+    "semantic_score": 0.8657712340354919
+  },
+  {
+    "index": 80,
+    "question": "What communities are at risk if the Mojave River Dam in California fails?",
+    "gold_answer": "The communities of Hesperia, Barstow, Apple Valley, and Victorville are at risk if the Mojave River Dam in California fails.",
+    "predicted_answer": "Hesperia, Barstow, Apple Valley, and Victorville.",
+    "bleu_score": 0.17923344640485428,
+    "semantic_score": 0.5552518963813782
+  },
+  {
+    "index": 81,
+    "question": "What is the main reason BHP wants to strike out or suspend the English lawsuit over the Brazil dam failure?",
+    "gold_answer": "BHP claims the English lawsuit is pointless and wasteful as it duplicates the proceedings already occurring in Brazil, where victims are already receiving redress.",
+    "predicted_answer": "BHP wants to strike out or suspend the English lawsuit because it believes the claim duplicates proceedings in Brazil and the ongoing work of the Renova Foundation, which was created to manage reparations and repairs.",
+    "bleu_score": 1.5557919842672855e-78,
+    "semantic_score": 0.8024336695671082
+  },
+  {
+    "index": 82,
+    "question": "What is Kerala's main concern regarding the Mullaperiyar dam?",
+    "gold_answer": "Kerala's main concern is the deteriorating condition of the 126-year-old Mullaperiyar dam, which is compounded by its construction with lime surkhi concrete and the lack of consideration for seismic forces in its design. The state believes that the consequences of a dam failure would be catastrophic, potentially affecting more than 30 lakh people living downstream.",
+    "predicted_answer": "Kerala's main concern regarding the Mullaperiyar dam is the fear of dam failure, which could be catastrophic and beyond human imagination, affecting the life and safety of more than 30 lakh people residing downstream. Due to the dam's age and deteriorating condition, Kerala advocates for its decommissioning and the construction of a new dam. They argue that the water level should be kept at 139 feet due to the dam's vulnerability and limited storage capacity.",
+    "bleu_score": 0.09019611142288782,
+    "semantic_score": 0.8246101140975952
+  },
+  {
+    "index": 83,
+    "question": "What is the basis of the 6.6 billion USD lawsuit against BHP in London?",
+    "gold_answer": "The lawsuit is based on the collapse of the Fundao dam in 2015, which was owned by the Samarco venture between BHP and Vale, and ranks as Brazil's worst environmental disaster. It caused a torrent of more than 40 million cubic meters of mining waste to sweep into the Doce river and Atlantic Ocean, resulting in the deaths of nineteen people and the obliteration of villages.",
+    "predicted_answer": "The $6.6 billion USD lawsuit against BHP in London is based on the 2015 collapse of the Fundao dam, which is owned by the Samarco joint venture between BHP and Brazilian iron ore mining giant Vale. The disaster resulted in Brazil's worst environmental disaster, killing 19 people and releasing more than 40 million cubic meters of mining waste into communities, the Rio Doce river, and the Atlantic Ocean. The lawsuit seeks to hold BHP accountable in English courts for this disaster, emulating similar lawsuits against other companies like Vedanta and Shell for environmental damages. Claimants argue that BHP ignored safety warnings, increased the dam's capacity, and disregarded early signs of rupture. They also criticize the lengthiness of Brazilian litigation, which they believe cannot provide full redress in a realistic timeframe.",
+    "bleu_score": 0.12243651666126164,
+    "semantic_score": 0.8709092140197754
+  },
+  {
+    "index": 84,
+    "question": "Why were the evacuation advisories for areas below Twain Harte Lake lifted?",
+    "gold_answer": "The evacuation advisories for areas below Twain Harte Lake were lifted because state inspectors determined that the dam was structurally sound for continued use.",
+    "predicted_answer": "The evacuation advisories for areas below Twain Harte Lake were lifted after state inspectors determined that the dam was structurally sound for continued use.",
+    "bleu_score": 0.8843865924896842,
+    "semantic_score": 0.9941379427909851
+  },
+  {
+    "index": 85,
+    "question": "What lessons were learned from the St. Francis Dam failure that are applicable to the Oroville Dam crisis?",
+    "gold_answer": "Lessons learned from the St. Francis Dam failure that are applicable to the Oroville Dam crisis include the need for adequate oversight, awareness, and application of knowledge in dam safety. The failures highlight the importance of addressing warning signs within dam structures, ensuring independent reviews, and maintaining sufficient external oversight, as was reinforced by changes to dam safety laws after these incidents.",
+    "predicted_answer": "The lessons learned from the St. Francis Dam failure that are applicable to the Oroville Dam crisis include:\n\n1. Importance of Structural Stability and Design Considerations: The St. Francis Dam failure highlighted the dangers of not adequately considering the stability of the base and structural design. In particular, the repeated increases in height without increasing the dam's foundation thickness were factors leading to its failure. Similarly, for the Oroville Dam, ensuring that the spillway and other structural components are designed to withstand stress and environmental factors is crucial.\n\n2. Need for Expert Oversight and Regulation: The St. Francis Dam disaster led to changes in laws and regulations, such as the requirement for dam designs to be reviewed by competent authorities and the establishment of the state Board of Registration for civil engineers. This emphasizes the need for regular oversight and inspection by independent experts, a practice reinforced by new legislation following the Oroville crisis that requires regular inspections and revision of safety practices.\n\n3. Recognition of Human Factors and Overconfidence: The failure of both dams involved dismissing warning signs and overconfidence in engineers’ capabilities. The St. Francis Dam reflected a reliance on William Mulholland's judgment without external validation, an aspect mirrored by a lack of comprehensive awareness and application of collective industry knowledge in Oroville.\n\n4. Importance of Learning from Past Mistakes: The history and outcomes of the St. Francis Dam failure remind us of the necessity to learn and act on the historical knowledge to prevent recurrence. For Oroville, it was crucial to acknowledge and apply lessons from past incidents to enhance safety measures effectively.\n\n5. Legislative and Policy Changes: Just as the St. Francis Dam disaster initiated changes in policy and regulation regarding dam safety, the Oroville crisis also prompted legislative actions to improve and enforce dam safety standards. This is essential to mitigate risks associated with dam infrastructure.",
+    "bleu_score": 0.006052391830946628,
+    "semantic_score": 0.858485221862793
+  },
+  {
+    "index": 86,
+    "question": "What financial measures does the landmark bill propose to aid in dam removal and improve dam safety in the U.S.?",
+    "gold_answer": "The bill proposes several financial measures including: a total of 9.75 billion over 5 years to improve dam safety, 4.71 billion for a 30% tax credit to incentivize investments in dam safety, environmental improvements, grid flexibility and availability, and a public climate resilience fund of 7.5 billion over 5 years for the removal of dams that have reached the end of their useful life. Additionally, the bill invests 12 billion over 5 years in federal dams and research programs to improve environmental performance, decarbonization, renewable power generation, and dam safety.",
+    "predicted_answer": "The landmark bill proposes several financial measures to aid in dam removal and improve dam safety in the U.S.:\n\n1. $9.75 billion over 5 years to increase federal financial assistance for improving dam safety.\n2. $4.71 billion for a 30% Tax Credit to incentivize investments in dam safety, environmental improvements, grid flexibility and availability, and dam removal.\n3. $7.5 billion over 5 years for creating a public source of climate resilience and conservation funding for the removal of dams that have reached the end of their useful life. \n4. $12 billion over 5 years to invest in existing federal dams and relevant research programs to enhance environmental performance and improve dam safety.",
+    "bleu_score": 0.39605113385891744,
+    "semantic_score": 0.9001309275627136
+  },
+  {
+    "index": 87,
+    "question": "What caused Lake Dunlap to drain on May 14, 2019?",
+    "gold_answer": "Lake Dunlap began to drain on May 14, 2019, due to a spill gate failure at the dam, which caused water to surge over the dam and downstream at about 11,000 cubic-feet-per-second.",
+    "predicted_answer": "A spill gate failure caused Lake Dunlap to drain on May 14, 2019.",
+    "bleu_score": 0.16345094915068195,
+    "semantic_score": 0.8833010196685791
+  },
+  {
+    "index": 88,
+    "question": "Why did environmental groups file a complaint on the Madison River regarding the Hebgen Dam malfunction?",
+    "gold_answer": "Environmental groups filed a complaint due to the Hebgen Dam malfunction that dewatered the Madison River for nearly 48 hours, which raised concerns about the ecological and economic impacts, including the deaths of trout and sculpin and potential damage to brown trout eggs.",
+    "predicted_answer": "Environmental groups filed a complaint regarding the Hebgen Dam malfunction on the Madison River due to concerns about the dewatering incident in November, where the dam's outflow gate failure reduced stream flows significantly, impacting the aquatic environment. This sudden drop killed an unknown number of fish and may have compromised trout eggs due to freezing temperatures. The groups are seeking a formal investigation into the ecological and economic impacts, as well as additional monitoring and safety reviews of the dam, by the Federal Energy Regulatory Commission. They are also asking for a fund to be set up for ecological restoration and economic mitigation for local communities impacted by the river-related recreation revenue losses.",
+    "bleu_score": 0.05790027001270496,
+    "semantic_score": 0.8299922347068787
+  },
+  {
+    "index": 89,
+    "question": "What event is the Santa Clarita Valley Historical Society advocating to be declared a national memorial, and how significant was it?",
+    "gold_answer": "The Santa Clarita Valley Historical Society is advocating for the site of the St. Francis Dam to be declared a national memorial. The St. Francis Dam failure was the worst man-made disaster in California history, resulting in the loss of more than 400 lives.",
+    "predicted_answer": "The Santa Clarita Valley Historical Society is advocating for the site of the St. Francis Dam to be declared a national memorial. The significance of the event is that the dam's collapse resulted in the loss of more than 400 lives, making it the worst man-made disaster in California history.",
+    "bleu_score": 0.6432278209319969,
+    "semantic_score": 0.9664322733879089
+  },
+  {
+    "index": 90,
+    "question": "What measures are in place to ensure the safety of the Newell Creek Dam despite concerns after the Oroville Dam incident?",
+    "gold_answer": "The Newell Creek Dam has a concrete siding built to a height that can withstand a force five times that seen in the area's devastating 1982 flood. It uses two secondary outlet drains for controlled water release, unlike Oroville Dam's unlined emergency spillway. Water flow is controlled by five gates that were all replaced within the past five years, and an emergency release pipeline has a higher capacity. Additionally, the city conducts regular inspections and monitoring, and the dam has been tested to meet seismic safety standards.",
+    "predicted_answer": "The safety measures in place for the Newell Creek Dam include:\n\n1. The dam has concrete siding built to withstand a force five times that of the area's devastating 1982 flood.\n2. It uses two secondary outlet drains coming out of the \"toe\" of the dam, unlike the unlined emergency spillway of Oroville Dam. \n3. Water flow is managed through a series of five gates that were replaced within the past five years.\n4. Regular local monitoring of the dam, the area surrounding the reservoir, the spillway, and drains known as weirs is conducted.\n5. The dam undergoes annual inspections by the State Division of Safety of Dams.\n6. The city conducts testing to ensure the dam meets the latest seismic safety standards.\n7. The emergency action plan is being updated, with current reliance on a plan developed in the 1980s.\n\nOverall, these measures address potential structural vulnerabilities and ensure robust emergency preparedness.",
+    "bleu_score": 0.14774445848693812,
+    "semantic_score": 0.8617982268333435
+  },
+  {
+    "index": 91,
+    "question": "What were the potential consequences if the Hardy and Croton dams had failed during the Flood of 1986 on the Muskegon River?",
+    "gold_answer": "If the Hardy and Croton dams had failed during the Flood of 1986, there would have been catastrophic destruction. The Croton Dam would have failed 75 minutes after Hardy, leading to a 47-foot surge of water. A 52-foot surge would have reached Newaygo 8.5 hours later, threatening the city's water supply. A 46-foot surge would hit Old Woman’s Bend 10.25 hours later. A 19-foot surge would take out the county bridge on Maple Island Road 14 hours later. The Muskegon Causeway would be washed out 34 hours later by a 19-foot surge, and the water surge would reach 22 feet at the Muskegon Channel at Lake Michigan 35 hours later. This would leave Muskegon cut off from northern Muskegon County, and significant damage would occur downriver, including flooding at Harbour Towne development and the entire Ovals at Pere Marquette Park.",
+    "predicted_answer": "If the Hardy and Croton dams had failed during the Flood of 1986 on the Muskegon River, the consequences would have been severe. Croton Dam would have failed 75 minutes after Hardy Dam, leading to a surge of 47 feet of water hitting the second dam. The Newaygo M-37 Bridge would have washed out as a 52-foot surge of water hit the city, threatening the city's water supply. Additionally, various surges of water ranging up to 46 feet would have affected areas downstream, washing away bridges and inundating areas along the river. The Muskegon Causeway would have been washed out with a 19-foot water surge 34 hours later, and the Muskegon Lake area, including downtown Muskegon, would have suffered tremendous damage. The entire Harbour Towne development on the west end of the lake would have been flooded, and North Muskegon would become a virtual island as surrounding bodies of water would have overflowed. The B.C. Cobb coal-powered plant would also have been at risk of shutting down due to flooding. Overall, the destruction would have been catastrophic with immense loss of property and potential threats to life.",
+    "bleu_score": 0.18042127173756037,
+    "semantic_score": 0.8768357038497925
+  },
+  {
+    "index": 92,
+    "question": "What recent mining tragedy in Brazil is highlighted as a cautionary tale against the Pebble Mine in Alaska?",
+    "gold_answer": "The recent mining tragedy highlighted is the collapse of a tailings dam at Vale S.A.’s Corrego do Feijao mine in southeastern Brazil, which killed nearly 100 people and left hundreds missing.",
+    "predicted_answer": "The recent mining tragedy in Brazil highlighted as a cautionary tale against the Pebble Mine in Alaska is the catastrophic tailings dam failure at Vale S.A.’s Corrego do Feijao mine in southeastern Brazil, which resulted in 99 deaths and more than 250 individuals missing.",
+    "bleu_score": 0.3032007949060868,
+    "semantic_score": 0.9145113825798035
+  },
+  {
+    "index": 93,
+    "question": "What has been identified as the source of the dam failure in rural Michigan's northern Lower Peninsula?",
+    "gold_answer": "The failure of the Edenville Dam in Michigan's northern Lower Peninsula has been a focal point of investigation, but a definitive source has not been explicitly identified in the provided documents. The discussions around the dam failure have focused on its aftermath, restoration, and potential future steps. Further investigation is needed to determine the precise cause.",
+    "predicted_answer": "The source of the dam failure in rural Michigan's northern Lower Peninsula, specifically the Edenville Dam, was due to high water levels that it could not withstand.",
+    "bleu_score": 2.177345304883339e-78,
+    "semantic_score": 0.8269669413566589
+  },
+  {
+    "index": 94,
+    "question": "What action is suggested to prevent a catastrophic Barker dam failure in Houston?",
+    "gold_answer": "The document suggests that Congress must act immediately to shore up the earthen berms of the Addicks and Barker dams to prevent a catastrophic failure. It emphasizes the importance of passing bills similar to the Texas Flood Accountability Act of 2017, compelling the Army Corps of Engineers to report on the conditions of Houston-area dams and reservoirs. Additionally, it calls for funding to bolster existing reservoirs, construct a new one on Cypress Creek, and update bayou infrastructure.",
+    "predicted_answer": "The action suggested to prevent a catastrophic Barker dam failure in Houston is to compel the Army Corps of Engineers to assess the conditions and needs of Houston-area dams and reservoirs, propose the Texas Flood Accountability Act of 2017, and include funding necessary to bolster the existing reservoirs, construct a third reservoir on Cypress Creek, update bayou infrastructure, and establish coastal storm surge protection.",
+    "bleu_score": 0.26657022396761965,
+    "semantic_score": 0.8286115527153015
+  },
+  {
+    "index": 95,
+    "question": "What were the primary factors that led to the failure of the Spencer Dam in 2019?",
+    "gold_answer": "The Spencer Dam failed due to a combination of factors including the inability of the Platte and Missouri river systems to drain rain and ice from the 'bomb cyclone' weather event in March 2019, which led to truck-sized ice chunks clogging the gates. This caused overtopping of the dam's earthen berm and eventually overwhelmed the structure. Ice chunks clogged the spillway gates, and modifications made in the '40s had narrowed the dam's spillway gates, exacerbating the threat of ice runs.",
+    "predicted_answer": "The primary factors that led to the failure of the Spencer Dam in 2019 included an unusually intense snow and rainstorm which resulted in water overtopping the dam. The dam was built in 1927 to generate hydroelectricity, not for flood control, which contributed to its inability to handle the extreme conditions. Additionally, state inspectors had previously noted deficiencies that could lead to dam failure during rare, extreme storm events, although efforts to address past water seepage were made by installing a drain system.",
+    "bleu_score": 4.644288347822309e-155,
+    "semantic_score": 0.8107154965400696
+  },
+  {
+    "index": 96,
+    "question": "What are the main accusations against the state of Michigan in the lawsuit filed by Midland-area residents regarding the Edenville Dam breach and flooding?",
+    "gold_answer": "The lawsuit accuses the state of Michigan, specifically the Michigan Department of Environment, Great Lakes and Energy, of 'affirmative acts of mismanagement and concealment' in the operation of the Edenville Dam, which led to the dam's failure and subsequent property damage and economic harm. It alleges that the state abused its powers by falsely stating the dam was structurally sound, concealed information, and made false public statements to hide the dangers associated with the dam. It also claims the state neglected necessary repairs during its oversight period after the Federal Energy Regulatory Commission revoked the dam's power generation license.",
+    "predicted_answer": "The main accusations against the state of Michigan in the lawsuit filed by Midland-area residents are:\n\n1. The state's actions in the lead-up to the May 19, 2020, dam failure constituted an unconstitutional taking, also known as inverse condemnation.\n2. The state failed to push dam owner Boyce Hydro to improve its spillway capacity.\n3. The state pressured Boyce to raise lake levels during the winter out of concern for a native mussel.\n4. The state granted Boyce a permit to raise water levels weeks ahead of the flood, despite knowing of the dam's inadequate spillway capacity.\n5. The state took \"affirmative action\" to keep water levels high, exacerbating the risk of flooding.",
+    "bleu_score": 1.2363737833507624e-78,
+    "semantic_score": 0.7089201211929321
+  },
+  {
+    "index": 97,
+    "question": "How much damages are Sanford residents Dan and Cathy Allen seeking from the federal government following the Michigan dam failure?",
+    "gold_answer": "1.25 million.",
+    "predicted_answer": "1.25 million.",
+    "bleu_score": 1.5319719891192393e-231,
+    "semantic_score": 0.9805842041969299
+  },
+  {
+    "index": 98,
+    "question": "How much needed to rebuild the Edenville and Sanford dams after the flooding in Midland County?",
+    "gold_answer": "Over 250 million.'",
+    "predicted_answer": "250 million.",
+    "bleu_score": 0,
+    "semantic_score": 0.9129096865653992
+  },
+  {
+    "index": 99,
+    "question": "What is the reason for the continued draw down of the Net River water level into 2023?",
+    "gold_answer": "The continued draw down of the Net River water level into 2023 is due to a partial dam failure in April, which requires repairs to the damaged area.",
+    "predicted_answer": "The continued draw down of the Net River water level into 2023 is due to the need to make repairs to a damaged area following a partial dam failure caused by corrosion of a water control structure, which led to a sinkhole.",
+    "bleu_score": 0.40069408658882905,
+    "semantic_score": 0.8859630227088928
+  },
+  {
+    "index": 100,
+    "question": "What specific issue did engineers face with the Toddbrook Dam that led to the evacuation of Whaley Bridge?",
+    "gold_answer": "Engineers faced the issue of a section of the concrete apron wall collapsing at the Toddbrook Dam following heavy rain, which led to the evacuation of Whaley Bridge due to the risk of dam failure.",
+    "predicted_answer": "The specific issue engineers faced with the Toddbrook Dam was the damage to the auxiliary spillway during heavy rainfall. Cracks appeared on the spillway, and part of it began to collapse, leading to concerns about the dam potentially failing and prompting the evacuation of Whaley Bridge.",
+    "bleu_score": 0.09122945601849691,
+    "semantic_score": 0.7872263789176941
+  },
+  {
+    "index": 101,
+    "question": "What caused the massive damage in mid-Michigan as shown in the satellite photos?",
+    "gold_answer": "The massive damage in mid-Michigan was caused by the failure of two dams, which led to bridges and roads being wiped out as water roared out of lakes Wixom and Sanford and toward Midland.",
+    "predicted_answer": "The massive damage in mid-Michigan, as shown in the satellite photos, was caused by the failure of two dams, the Edenville Dam and the Sanford Dam, following a storm that dumped over 6 inches of rain. The failure was attributed to a rare event called static liquefaction, which occurred when loose sand at the base of the Edenville Dam could not hold back the water after days of heavy rain, leading to devastating flooding.",
+    "bleu_score": 0.09277648035062164,
+    "semantic_score": 0.7395551204681396
+  },
+  {
+    "index": 102,
+    "question": "What are the consequences faced by the mining companies BHP and Vale after the dam failure in Bento Rodrigues, Brazil?",
+    "gold_answer": "The mining companies BHP and Vale have been fined 260 million for their responsibility in the dam failure. This fine will be used to help those affected by the environmental disaster and to clean up the area flooded by the sludge.",
+    "predicted_answer": "After the dam failure in Bento Rodrigues, Brazil, BHP and Vale faced several consequences:\n\n1. Lawsuits: BHP faced a £5 billion damages claim in England for negligence regarding the dam's failure, which is part of the largest group action case to be heard in England. \n\n2. Settlement and Fines: They settled a 20 billion reais (USD $5 billion) civil claim with local authorities to establish a clean-up fund. Additionally, they were fined 260 million for the mining accident, which was used to help those affected by the disaster and clean up the area.\n\n3. Reputational Impact and Share Price Drop: BHP’s share price dropped 8% following the accident news. The disaster also damaged the reputations of both companies.\n\n4. Cleanup and Recovery: There were significant cleanup costs, estimated at 1.4 billion, and challenges with rescheduling iron ore production and shipping. \n\n5. Infrastructure and Safety Concerns: The disaster prompted reviews and potential upgrades in safety and waste management systems.\n\n6. Social Impact: The mining companies faced loss of trust from workers and communities in the region.\n\n7. Regulatory and Insurance Impacts: There may be increased regulatory oversight and higher insurance premiums for the mining industry as a consequence.",
+    "bleu_score": 0.007103781279860393,
+    "semantic_score": 0.7882549166679382
+  },
+  {
+    "index": 103,
+    "question": "What caused the dam failure in Putnam County?",
+    "gold_answer": "The dam failure in Putnam County was caused by a blockage from a beaver dam.",
+    "predicted_answer": "The dam failure in Putnam County was caused by a blockage from a beaver dam.",
+    "bleu_score": 1.0,
+    "semantic_score": 1.0
+  },
+  {
+    "index": 104,
+    "question": "What percentage of financial responsibility was assigned to the town of Fort Ann for the Hadlock Pond dam failure?",
+    "gold_answer": "23%",
+    "predicted_answer": "23%",
+    "bleu_score": 1.821831989445342e-231,
+    "semantic_score": 1.0000001192092896
+  },
+  {
+    "index": 105,
+    "question": "How many other dams in Michigan are rated at the same condition and risk level as Edenville Dam after its failure?",
+    "gold_answer": "Five other dams in Michigan are rated at the same condition and risk level as Edenville Dam after its failure.",
+    "predicted_answer": "The retrieved documents do not provide information about how many other dams in Michigan are rated at the same condition and risk level as the Edenville Dam after its failure.",
+    "bleu_score": 0.5203382915681315,
+    "semantic_score": 0.7774491310119629
+  },
+  {
+    "index": 106,
+    "question": "What actions are being taken in response to the imminent failure of McIver Lake Dam in Fluvanna County?",
+    "gold_answer": "Pumping apparatus has been on-site, pumping at approximately 1,000 gallons per minute. Additional pumping equipment is being brought to the site to aid in remediation efforts.",
+    "predicted_answer": "Pumping apparatus has been on-site, pumping at approximately 1,000 gallons per minute, and additional pumping equipment is being sent to aid in remediation efforts.",
+    "bleu_score": 0.6180687713056897,
+    "semantic_score": 0.9811857342720032
+  },
+  {
+    "index": 107,
+    "question": "What caused the Lake Gonzales dam spill gate failure, and what impact has it had on the local area?",
+    "gold_answer": "A large tree became lodged in the spill gate on August 3rd, leading to the dam's spill gate failure due to the tree's weight and resulting water pressure. The failure has drastically changed the lake's appearance, reduced its size from nearly 700 acres, and caused concerns among locals about the future of the lake. The ecosystem, wildlife, and possible endangered species have been affected, with locals reporting areas that were once underwater are now completely dry.",
+    "predicted_answer": "The Lake Gonzales dam spill gate failure was caused by a large tree that became lodged in the spill gate. The weight of the tree and the resulting water pressure may have led to the failure of the spill gate. The impact on the local area has been significant: the lake no longer spans nearly 700 acres, drastically altering its appearance. Residents are concerned about the future of the lake and its ecosystems, as areas that were previously used for swimming and fishing are now completely dry. The spill gate failure has affected the local wildlife and environment, with fish such as catfish, gar, and bass at risk of dying due to the lack of water. Locals are worried about the potential impact on endangered species along the 14-mile stretch of river. Furthermore, there are challenges in finding solutions and funding to repair the dam, adding to residents' uncertainty.",
+    "bleu_score": 0.08543911107752007,
+    "semantic_score": 0.8225206732749939
+  },
+  {
+    "index": 108,
+    "question": "What prompted the cancellation of the Flash Flood Warning in Putnam County?",
+    "gold_answer": "The Flash Flood Warning in Putnam County was cancelled after a dam failure, as reported by the Emergency Management Agency.",
+    "predicted_answer": "The Flash Flood Warning in Putnam County was cancelled after a dam failure, as there were no additional impacts expected for the county.",
+    "bleu_score": 0.5903800963663989,
+    "semantic_score": 0.966181218624115
+  },
+  {
+    "index": 109,
+    "question": "What measures have been taken to temporarily prevent further erosion at the Lewisville Dam?",
+    "gold_answer": "Sandbags and tarps have been deployed in an attempt to prevent further erosion along a 160-foot-long slide on the Lewisville Dam.",
+    "predicted_answer": "Sandbags and tarps have been deployed to temporarily prevent further erosion along a 160-foot-long slide in the Lewisville Dam.",
+    "bleu_score": 0.5811117076371678,
+    "semantic_score": 0.9815347194671631
+  },
+  {
+    "index": 110,
+    "question": "What was the root cause of the Mount Polley dam failure according to the report?",
+    "gold_answer": "The root cause of the Mount Polley dam failure was identified as the design flaw that did not take into account the complexity of the sub-glacial and pre-glacial geological environment associated with the perimeter embankment foundation, which was akin to loading a gun and then pulling the trigger by constructing with a steep slope over a sloped glacial lake.",
+    "predicted_answer": "Poor design, specifically the failure of the dam’s foundation due to too much weight placed on an unknown underground layer of glacial sand and gravel, and the dam’s face being too steep were identified as the root causes of the Mount Polley dam failure.",
+    "bleu_score": 0.09934583972680014,
+    "semantic_score": 0.8452161550521851
+  },
+  {
+    "index": 111,
+    "question": "What potential impact could the failure of the dam near Sabetha have on local infrastructure?",
+    "gold_answer": "If the dam near Sabetha were to fail, it could cause flash flooding downstream on the Delaware River, affecting agricultural lands and County Roads 220 and 250. However, it is not expected to extend over US-36 highway or into areas with significant residential or commercial development.",
+    "predicted_answer": "The potential impact of the dam failure near Sabetha could include flooding of agricultural lands and County Roads 220 and 250. However, the maps indicate that water would not extend over US-36 highway or other areas with significant residential or commercial development.",
+    "bleu_score": 0.40406595056941297,
+    "semantic_score": 0.8267595171928406
+  },
+  {
+    "index": 112,
+    "question": "What actions are recommended to prevent future dam failures in Michigan?",
+    "gold_answer": "The state task force recommends a comprehensive and immediate attention to Michigan's aging dams, with a list of 86 recommendations including legal, regulatory, and funding fixes. These include creating surveillance and monitoring plans, a revolving loan fund for dam improvements, an emergency fund for hazard fixes, a grant program for scoping or design projects, requiring dam owners to have insurance for catastrophic failure, and increasing inspection frequency. The report emphasizes the need for legislative action to implement these recommendations.",
+    "predicted_answer": "The documents do not provide information specifically about actions recommended to prevent future dam failures in Michigan. However, measures generally recommended to prevent future dam failures may include: \n- Improved monitoring of water levels in reservoirs and conditions at dam sites.\n- Comprehensive reviews of dam planning, design, and management.\n- Enhanced warning systems to alert communities of potential failures.\n- Regular inspections and maintenance of existing dams.\n- Strengthening dam construction standards to withstand severe weather conditions.",
+    "bleu_score": 1.1128835475779667e-231,
+    "semantic_score": 0.7043421864509583
+  },
+  {
+    "index": 113,
+    "question": "What emergency situation was canceled in western North Carolina related to a dam, and why?",
+    "gold_answer": "The emergency related to the dam at Lake Tahoma in Marion, N.C., was canceled after an engineer confirmed the dam's safety, rescinding the evacuation order that was initially triggered by fears of its imminent collapse.",
+    "predicted_answer": "The emergency situation related to the dam at Lake Tahoma in western North Carolina was canceled after an engineer conducted a safety inspection and gave the all-clear, following initial fears about a possible dam failure due to high water levels.",
+    "bleu_score": 0.2756753219737688,
+    "semantic_score": 0.8681064248085022
+  },
+  {
+    "index": 114,
+    "question": "What were some of the errors made by managers during the Oroville Dam crisis?",
+    "gold_answer": "Managers overestimated the durability of the spillways and failed to communicate the risks effectively. They also continued to focus on the main spillway damage, which led to the emergency spillway deteriorating and triggering an evacuation. Furthermore, they assured the public there was 'no imminent threat' just hours before the emergency spillway showed signs of failing.",
+    "predicted_answer": "Managers during the Oroville Dam crisis made several errors, including underestimating the durability of the spillways, failing to acknowledge potential new crises while dealing with existing ones, miscommunicating with the public and local officials, and not fully informing downstream officials as the emergency unfolded. Additionally, they focused on the broken main spillway while the reservoir levels continued to rise, and delayed taking necessary actions which nearly led to the emergency spillway's failure.",
+    "bleu_score": 0.09402483836793204,
+    "semantic_score": 0.714372992515564
+  },
+  {
+    "index": 115,
+    "question": "Why are Texas officials planning to drain four lakes in Guadalupe County?",
+    "gold_answer": "Texas officials plan to drain the four lakes due to the risk of failure of the 90-year-old dams supporting them. Two dams have already experienced catastrophic failures, posing a safety hazard that could flood entire neighborhoods if they worsen. The Guadalupe-Blanco River Authority states they must lower the dams because they cannot ensure public safety with the aging spill gates.",
+    "predicted_answer": "Texas officials plan to drain four lakes in Guadalupe County due to the risk of failure associated with the aging, over 90-year-old dams. The dams' floodgates have already experienced failures, creating safety hazards that could potentially flood neighborhoods. The Guadalupe-Blanco River Authority acknowledges the inability to guarantee public safety with the current state of the spill gates, necessitating the drainage to avoid further failures. The lack of adequate funding for maintaining these underfunded, aging infrastructure components has contributed to this decision.",
+    "bleu_score": 0.18893975555474513,
+    "semantic_score": 0.9243283867835999
+  },
+  {
+    "index": 116,
+    "question": "What is the amount that the Four Lakes Task Force agreed to pay Boyce Hydro LLC for the ownership of the dams in Midland and Gladwin counties, and how is this money distributed?",
+    "gold_answer": "The Four Lakes Task Force agreed to pay 1.576 million for the ownership of the dams. Of this amount, 270,000 will go to Boyce Hydro, 152,000 will go to local suppliers with liens on Boyce properties, and the remaining 1.154 million will be distributed as the U.S. Bankruptcy Court for the Eastern District of Michigan in Bay City deems appropriate.",
+    "predicted_answer": "The Four Lakes Task Force agreed to pay Boyce Hydro LLC $9.4 million for the ownership of the Wixom, Sanford, Secord, and Smallwood dams, and lake bottoms. The agreement also includes calls for Boyce Trusts or FLTF to make repairs and upgrades on all the dams by the end of 2023.",
+    "bleu_score": 0.20841224866845684,
+    "semantic_score": 0.8465585112571716
+  },
+  {
+    "index": 117,
+    "question": "What measures have been taken regarding the Cleveland Dam's gate following the malfunction?",
+    "gold_answer": "The dam’s gate has been raised to its maximum height and locked, and it will be left locked through the winter until the findings of the investigation are known.",
+    "predicted_answer": "The dam’s gate has been raised to its maximum height and locked. It will be left locked through the winter and likely won't be lowered again until spring or summer, when the findings of Metro Vancouver’s investigation are known.",
+    "bleu_score": 0.4582433168892013,
+    "semantic_score": 0.9255390763282776
+  },
+  {
+    "index": 118,
+    "question": "What are Leon Royer's main concerns regarding the tailings dam at the East Boulder Mine?",
+    "gold_answer": "Leon Royer's main concerns are that the tailings dam could fail, leading to potential damage downstream. He is worried about the lack of evacuation plans for a breach, the absence of a back-up dam, and inadequate bonded compensation if lands are buried under waste from the mine. Royer also advocates for a larger bond amount and a downstream failsafe dam to prevent waste rock from reaching landowners.",
+    "predicted_answer": "Leon Royer's main concerns regarding the tailings dam at the East Boulder Mine include the potential failure of the dam, the lack of evacuation plans or a back-up dam for a breach, insufficient bonded compensation for lands buried under waste, and the possibility of catastrophic impacts on downstream landowners and the environment. He is skeptical of engineering assurances and references past dam failures in other regions as reasons for concern. Additionally, he is advocating for greater protection measures such as a downstream failsafe dam and a larger bond amount to ensure compensation in the case of a failure.",
+    "bleu_score": 0.14507692951607523,
+    "semantic_score": 0.9045390486717224
+  },
+  {
+    "index": 119,
+    "question": "What are the potential options being considered for the Echo Lake dam in Burlington?",
+    "gold_answer": "The options being considered for the Echo Lake dam in Burlington are either removing the dam, which would allow the lake to drain back into the White River, or investing approximately $5 million to upgrade the dam and maintain the lake. Removal would cost about $1.1 to $2 million, factoring in contingency funds and engineering work, whereas saving the lake would involve rebuilding the dam and dredging pollution and sediment from the lake bottom.",
+    "predicted_answer": "The potential options being considered for the Echo Lake dam in Burlington are:\n\n1. Remove the dam, which would drain Echo Lake into the White River and restore the river flow through the 70-acre site. This option could cost 1.1 million to 2 million.\n\n2. Invest about 5 million to save the lake by rebuilding and fortifying the dam and dredging years of pollution and sediment from the lake bottom.",
+    "bleu_score": 0.3071248326677892,
+    "semantic_score": 0.9525908827781677
+  },
+  {
+    "index": 120,
+    "question": "What percentage of dams in the six-county region of Greenville, Spartanburg, Pickens, Oconee, Anderson, and Laurens counties do not have a listed Emergency Action Plan (EAP)?",
+    "gold_answer": "69 percent of dams.",
+    "predicted_answer": "69%",
+    "bleu_score": 0,
+    "semantic_score": 0.5835092067718506
+  },
+  {
+    "index": 121,
+    "question": "What has the weather phenomenon associated with the heavy rainfall in Bahia been identified as?",
+    "gold_answer": "The heavy rainfall in Bahia has been associated with La Nina, a weather phenomenon that typically occurs every three to five years and leads to cooler Pacific Ocean temperatures than normal.",
+    "predicted_answer": "La Nina",
+    "bleu_score": 7.720899511627474e-232,
+    "semantic_score": 0.5236827731132507
+  },
+  {
+    "index": 122,
+    "question": "What disciplinary actions were taken against former engineer Todd Martin in connection with the Mount Polley tailings dam failure?",
+    "gold_answer": "Todd Martin agreed to pay a fine of $25,000 and $69,000 in legal costs. Martin admitted to certain allegations, including unprofessional conduct related to his engineering work at the Mount Polley Mine. Additionally, if he applies to register as an engineer again, there are additional steps he will be required to follow as outlined in the consent order.",
+    "predicted_answer": "Todd Martin agreed to pay a fine of 25,000 and 69,000 in legal costs for his role in the Mount Polley tailings dam failure. Additionally, if he applies to register as an engineer again, there are additional steps he will be required to follow as outlined in the consent order.",
+    "bleu_score": 0.5913975419634515,
+    "semantic_score": 0.8895564675331116
+  },
+  {
+    "index": 123,
+    "question": "What was the outcome of the London Court of Appeal regarding the 7 billion dam lawsuit against BHP in Brazil?",
+    "gold_answer": "The London Court of Appeal agreed to reopen the 7 billion lawsuit against BHP, reversing a previous decision to strike out the case.",
+    "predicted_answer": "The London Court of Appeal reversed its previous decision and agreed to reopen the 7 billion lawsuit against BHP, granting permission for an appeal.",
+    "bleu_score": 0.5064726638571051,
+    "semantic_score": 0.9352207183837891
+  },
+  {
+    "index": 124,
+    "question": "What are the potential consequences if the Mosul Dam were to collapse?",
+    "gold_answer": "If the Mosul Dam were to collapse, it could result in severe flooding, killing an estimated half-million people due to floodwaters, power outages, loss of farmland, and eventual drought. Specifically, Mosul could be flooded with up to 30 meters of water within three and a half hours, and Baghdad could be submerged in five meters of water within three days.",
+    "predicted_answer": "If the Mosul Dam were to collapse, the potential consequences would include catastrophic flooding that could result in the death of an estimated 500,000 civilians. The city of Mosul, located 31 miles downstream, could be inundated with a flood wave up to 65 feet deep, leading to significant loss of life and property. Floodwaters could also reach Baghdad, causing additional devastation. Additionally, there would be broader impacts such as power outages, loss of farmland, and an eventual drought due to the dam's failure.",
+    "bleu_score": 0.16278641379655984,
+    "semantic_score": 0.8970639109611511
+  },
+  {
+    "index": 125,
+    "question": "When is the construction work on the Lewisville Lake dam expected to start?",
+    "gold_answer": "2019",
+    "predicted_answer": "2019",
+    "bleu_score": 1.821831989445342e-231,
+    "semantic_score": 1.0000001192092896
+  },
+  {
+    "index": 126,
+    "question": "What was the total amount initially established as security by Samarco, Vale, and BHP Billiton Brasil to support the remediation and compensation programs related to the dam failure?",
+    "gold_answer": "675 million.",
+    "predicted_answer": "675 million",
+    "bleu_score": 1.5319719891192393e-231,
+    "semantic_score": 0.9752040505409241
+  },
+  {
+    "index": 127,
+    "question": "What charges were brought against Samarco CEO Ricardo Vescovi and other executives following the dam collapse in Minas Gerais, Brazil?",
+    "gold_answer": "Qualified homicide with eventual intent, causing flooding that threatens man or property, and pollution of drinking water.",
+    "predicted_answer": "They were charged with \"qualified homicide with eventual intent,\" causing flooding that threatens man or property, and pollution of drinking water.",
+    "bleu_score": 0.6026060185337684,
+    "semantic_score": 0.8469183444976807
+  },
+  {
+    "index": 128,
+    "question": "What did the National Weather Service issue for the southern portion of Oneida County due to a potential dam failure at the Trenton Dam power project?",
+    "gold_answer": "The National Weather Service issued a flash flood watch for the southern portion of Oneida County, including the cities of Rome and Utica.",
+    "predicted_answer": "The National Weather Service issued a flash flood watch for the southern portion of Oneida County due to a potential dam failure at the Trenton Dam power project.",
+    "bleu_score": 0.512367245490926,
+    "semantic_score": 0.7531998753547668
+  },
+  {
+    "index": 129,
+    "question": "What impact might the stuck open gates at the Beaverton Dam have on the local area?",
+    "gold_answer": "The stuck open gates at the Beaverton Dam may cause increased water levels and instability of ice, making it unsafe for residents to ice fish, walk, or recreate on the river. Residents are urged to stay off the ice and water due to the risk of fluctuating river levels and increased speed of currents.",
+    "predicted_answer": "The stuck open gates at the Beaverton Dam may lead to increased water levels and the speed of currents downstream, impacting the stability of ice and open water. This instability poses safety risks for activities such as fishing or recreating on the Tittabawassee River and lake beds in the areas spanning from Edenville to the City of Midland. Authorities have urged residents to stay off the ice and water over the next few days to ensure safety.",
+    "bleu_score": 0.22986484823718284,
+    "semantic_score": 0.8708775639533997
+  },
+  {
+    "index": 130,
+    "question": "What are the emergency planning preparations mentioned by Great River Hydro for potential dam failures?",
+    "gold_answer": "Great River Hydro introduced interactive 'inundation maps' to help emergency planners and fire chiefs along the Connecticut River prepare for potential dam failures. These maps show the extent of flooding in various areas in the event of a dam failure. The company also engages in emergency drills and planning to ensure preparedness.",
+    "predicted_answer": "Great River Hydro introduced emergency planners and fire chiefs to interactive inundation maps to show how much areas would be affected in the event of a dam failure. They are also working on improving communication with state and local emergency planners, conducting annual drills and emergency planning. The emergency planning is part of their licensing with the Federal Energy Regulatory Commission. They are also emphasizing the maintenance of the dams to prevent such failures and have a robust security system in place.",
+    "bleu_score": 0.14803165809903227,
+    "semantic_score": 0.8382321000099182
+  },
+  {
+    "index": 131,
+    "question": "What were the main factors contributing to the failure of the Edenville Dam in Michigan in 2020?",
+    "gold_answer": "The main factors contributing to the failure of the Edenville Dam included design and construction shortcomings dating back to the 1920s, operating and maintenance deficiencies, and an overall flawed system for financing, designing, constructing, operating, evaluating, and upgrading the dams. Incorrect conclusions were drawn regarding the dam's stability, and static liquefaction in the embankment was identified as a cause of failure. Additionally, the gates weren't lifted high enough to allow sufficient flow over the spillway, and the spillway capacity wasn't upgraded.",
+    "predicted_answer": "The main factors contributing to the failure of the Edenville Dam in Michigan in 2020 included poor construction methods, particularly the use of a higher concentration of loose sand susceptible to static liquefaction, insufficient spillway capacity to handle extreme flooding, regulatory failures, and inadequate enforcement of safety standards. The dam was initially constructed between 1923 to 1925 with unstable soil that made it vulnerable to liquefaction. Additionally, the dam owners, Boyce Hydro, failed to comply with state and federal guidance to improve spillway capacity for years, and there were delays and mismanagement in regulatory oversight. Heavy rainfall preceding the failure also exacerbated the situation, although it was not considered extreme. Overall, these factors combined with the dam's inability to handle the rising water levels contributed significantly to the disaster.",
+    "bleu_score": 0.09665664046278591,
+    "semantic_score": 0.8093492388725281
+  },
+  {
+    "index": 132,
+    "question": "What is the impact of a potential Mosul Dam collapse on the city of Mosul according to U.S. officials?",
+    "gold_answer": "According to U.S. officials, a collapse of the Mosul Dam could result in a flood wave over 20 meters (65 feet) deep at the City of Mosul, leading to a significant loss of life and property.",
+    "predicted_answer": "A potential Mosul Dam collapse could result in a flood wave over 20 meters (65 feet) deep at the city of Mosul, leading to a significant loss of life and property, and could result in up to 500,000 civilian deaths according to U.S. officials. Approximately 50% of the city of Mosul could be inundated with water, and the flood waters would also impact cropland and farmland.",
+    "bleu_score": 0.2896664067620213,
+    "semantic_score": 0.9393976926803589
+  },
+  {
+    "index": 133,
+    "question": "What measures have been taken to alleviate the flooding impact in Anhui, China?",
+    "gold_answer": "In Anhui, China, floodwaters breached levees protecting the town of Guzen, leaving area residents trapped. To alleviate the impact, around 1,500 firefighters were deployed to rescue those in the province. Additionally, a dam in Anhui was blasted on Sunday to allow floodwaters to flow downriver.",
+    "predicted_answer": "In Anhui, China, measures taken to alleviate the impact of flooding include blasting open a dam to release rising waters and opening the Wangjiaba dam’s sluice gates on the Huai River to flood cropland and forests to prevent more extensive damage downriver. Additionally, around 1,500 firefighters were mobilized to rescue those trapped in the province due to the flooding.",
+    "bleu_score": 0.0927870535560363,
+    "semantic_score": 0.770078718662262
+  },
+  {
+    "index": 134,
+    "question": "What is the main concern expressed in the document regarding the effects of Florence's floodwaters in North Carolina?",
+    "gold_answer": "The main concern expressed is that coal ash from an adjacent dump might be flowing into the Cape Fear River after floodwaters overtopped a retaining wall at a Wilmington power plant.",
+    "predicted_answer": "The main concern is the breach of the dam at Sutton Lake in Wilmington, North Carolina, causing potential coal ash pollution as floodwaters overtopped a steel retaining wall, possibly allowing coal ash to escape and flow into the Cape Fear River.",
+    "bleu_score": 0.11500204700163927,
+    "semantic_score": 0.7719266414642334
+  },
+  {
+    "index": 135,
+    "question": "What is the purpose of National Dam Safety Awareness Day?",
+    "gold_answer": "National Dam Safety Awareness Day was created to encourage and promote individual and community responsibility for dam safety and provide information on preventing future dam failures. It also serves as a reminder to perform inspections, take necessary precautions for climate change patterns, update emergency action and evacuation plans, and share dam safety information with communities.",
+    "predicted_answer": "The purpose of National Dam Safety Awareness Day is to raise awareness about the importance of dam safety, educate the public on the risks associated with dams, and promote the benefits of having well-maintained and safe dams. It aims to encourage the responsibility of owners, operators, and communities to ensure the safety and integrity of dams and to remember past dam failures and the need for preparedness to prevent similar catastrophes.",
+    "bleu_score": 0.0770582007318759,
+    "semantic_score": 0.9547606706619263
+  },
+  {
+    "index": 136,
+    "question": "What were the two major mining waste disasters in Brazil within three years that raised environmental concerns?",
+    "gold_answer": "The two major mining waste disasters in Brazil were the January 2019 collapse of a Vale Mining tailings storage dam in Brumadinho, killing more than 150 people with over 180 missing and feared dead, and the November 2015 collapse of another Vale-affiliated dam in Minas Gerais state, which killed 19 people and polluted the Doce River for 500 miles to the Atlantic Ocean.",
+    "predicted_answer": "1. The collapse of a Vale Mining tailings storage dam in Brumadinho in January 2019.\n2. The collapse of the Fundão dam operated by Samarco and owned by Vale and BHP Billiton in November 2015.",
+    "bleu_score": 0.151644658629685,
+    "semantic_score": 0.7328301668167114
+  },
+  {
+    "index": 137,
+    "question": "What is the purpose of the $7 billion federal loan program initiated by the U.S. Army Corps of Engineers?",
+    "gold_answer": "The $7 billion federal loan program initiated by the U.S. Army Corps of Engineers is intended to help finance the rehabilitation, modernization, or replacement of aging dams and related infrastructure to improve safety, efficiency, and flood risk management. This initiative aims to address critical infrastructure issues and ensure the reliability and resilience of the nation's water resources infrastructure.",
+    "predicted_answer": "The purpose of the $7 billion federal loan program initiated by the U.S. Army Corps of Engineers is to offer federally backed low-interest loans for repairing aging dams owned by states, local governments, and private entities across the U.S., enhancing public safety, reducing risk to vulnerable communities, and increasing climate resiliency.",
+    "bleu_score": 0.26655204423966795,
+    "semantic_score": 0.8883449671268463
+  },
+  {
+    "index": 138,
+    "question": "What were the main reasons for nearly draining Horsetooth Reservoir in 2001?",
+    "gold_answer": "The main reasons for nearly draining Horsetooth Reservoir in 2001 were increased seepage, heightening foundation pressures, a lack of protective measures to prevent internal erosion, and concerns about dam failure. To address these issues, a $77 million repair project was undertaken to fortify the dams by adding sand, gravel, and other materials, as well as injecting grout into cracks in the dams' structures.",
+    "predicted_answer": "The main reasons for nearly draining Horsetooth Reservoir in 2001 were to perform a two-and-a-half-year modernization project to address aging infrastructure issues with the reservoir's four dams, which showed increased seepage, heightening foundation pressures, and a lack of protective measures to prevent internal erosion. The project involved retrofitting the dams with clay cores blanketed with layers of sand and fine gravel and fortifying buttresses, along with other repairs to ensure the dams' structural integrity and to bring them up to modern standards.",
+    "bleu_score": 0.25972208410573105,
+    "semantic_score": 0.9079945683479309
+  },
+  {
+    "index": 139,
+    "question": "Which two dams failed in mid-May?",
+    "gold_answer": "mid-Michigan's Edenville and Sanford dams.",
+    "predicted_answer": "Edenville Dam and Sanford Dam.",
+    "bleu_score": 9.283142785759642e-155,
+    "semantic_score": 0.871150553226471
+  },
+  {
+    "index": 140,
+    "question": "What caused the 500-year flood event in mid-Michigan in May 2020?",
+    "gold_answer": "The 500-year flood event in mid-Michigan in May 2020 was caused by a heavy rainstorm fueled by tropical moisture from Tropical Storm Arthur. The rainfall totaled up to 7 inches in some areas, leading to the collapse of the Edenville Dam and severe damage to the Sanford Dam, which resulted in significant flooding and the evacuation of more than 10,000 people.",
+    "predicted_answer": "The 500-year flood event in mid-Michigan in May 2020 was caused by the failure of the Edenville and Sanford Dams following more than 15-20cm of heavy rain over a 48-hour period, which placed additional stress on the already saturated water system. This led to the river surpassing flood stage, and the dams' failure resulted in a torrent of water rushing down the Tittabawassee River.",
+    "bleu_score": 0.23988457612989933,
+    "semantic_score": 0.8462799191474915
+  },
+  {
+    "index": 141,
+    "question": "What measures were suggested to prevent the failure of the main spillway at Oroville Dam in the future?",
+    "gold_answer": "The measures suggested to prevent the failure of the main spillway at Oroville Dam in the future included the design of a new spillway with anti-cavitation measures and new energy dissipation features, proper aeration of water flow to minimize cavitation, and an alignment of the new spillway chute almost parallel with the existing one at a short distance to the northwest.",
+    "predicted_answer": "To prevent the failure of the main spillway at Oroville Dam in the future, several measures were suggested: \n1. Immediate design of a replacement for the main spillway to allow construction during the low-flow season.\n2. Incorporating anti-cavitation measures into the new spillway design to minimize damage from water turbulence.\n3. Adding new energy dissipation features at the Feather River.\n4. Considering a new alignment for the spillway chute, almost parallel to the existing spillway, to allow construction to proceed even while the current spillway is in use.\n5. Rebuilding the spillway with a training wall at a very shallow angle to connect it to the existing infrastructure.",
+    "bleu_score": 0.14476608198589314,
+    "semantic_score": 0.8630183935165405
+  },
+  {
+    "index": 142,
+    "question": "What were the main causes of the Córrego do Feijão mine's tailings dam collapse according to the independent report?",
+    "gold_answer": "The independent report concluded that the collapse of the Córrego do Feijão mine's tailings dam was triggered by structural instability caused by liquefaction. The situation was worsened by inadequate drainage of the reservoir and the dam not being designed to contain liquefied material. Other technical causes included the combination of a steep upstream-constructed dam, high water level, weak fine tailings within the dam, and the brittle nature of the tailings.",
+    "predicted_answer": "The main causes of the Córrego do Feijão mine's tailings dam collapse according to the independent report included safety concerns such as blocked drainage pipes, cracks, water visibly seeping from areas, risks of liquefaction, and potentially unstable construction methods with thin safety margins. There were recommendations to avoid heavy equipment on the dam or detonations nearby and to manage water levels to reduce pressure.",
+    "bleu_score": 0.12961050074600247,
+    "semantic_score": 0.933685302734375
+  },
+  {
+    "index": 143,
+    "question": "What were the main findings of the Auditor-General’s report regarding dam safety in B.C.?",
+    "gold_answer": "The Auditor-General’s report found that the B.C. government is failing to effectively regulate the safety of hundreds of potentially dangerous dams. Key findings included gaps in oversight, with nearly 200 dams that should have been regulated not being so, reliance on overworked staff, a clunky database with missing information, and significant deficiencies in 87 high-risk dams that hadn't addressed safety problems for over seven years. The report highlighted the ministry's failure to follow up with dam owners to enforce compliance and correct deficiencies promptly.",
+    "predicted_answer": "The Auditor-General’s report found that the B.C. government is failing to effectively regulate the safety of hundreds of potentially dangerous dams. Specifically, the report identified that 87 high-risk dams have had significant deficiencies that remained unaddressed for over seven years. Nearly 200 dams that should have been regulated were not, and the ministry lacked a process to track down unregulated dams. The oversight suffered from overworked staff, a flawed database, and delayed safety report approvals. The dam safety enforcement was found to be inadequate, relying too much on self-regulation by dam owners. The ministry accepted the report's recommendations but lacked specific commitments on implementing them. An average of three structural dam failures occurred each year over the past five years.",
+    "bleu_score": 0.25671040458290173,
+    "semantic_score": 0.9629395008087158
+  },
+  {
+    "index": 144,
+    "question": "What actions were taken in response to the flooding caused by the Moccasin Dam in Tuolumne County?",
+    "gold_answer": "In response to the flooding caused by the Moccasin Dam, workers at the California Fish and Wildlife Trout hatchery were evacuated, and State Route 49 was closed at State Route 120 due to parts of the road being washed out. The sheriff's department went into emergency mode, and authorities started closely monitoring the situation.",
+    "predicted_answer": "In response to the flooding caused by the Moccasin Dam in Tuolumne County, several actions were undertaken:\n\n1. The California Fish and Wildlife Trout hatchery was evacuated due to flooding.\n2. The sheriff's department went into emergency mode after water authorities advised that the dam might fail.\n3. State Route 49 was closed at State Route 120 due to floodwaters washing out part of the road.\n4. The situation was closely monitored by authorities, and a flash flood warning was issued.\n5. The San Francisco Public Utilities Commission monitored the situation, as the spillway of the dam was damaged.\n6. The Don Pedro Reservoir, located a mile downstream, contained the floodwaters.\n7. State Route 120 was reopened once the Moccasin Dam was determined to be sound and no longer in danger of failing, but State Route 49 remained closed due to an undercut roadway.",
+    "bleu_score": 0.09890559255548402,
+    "semantic_score": 0.7892693877220154
+  },
+  {
+    "index": 145,
+    "question": "What is one recommendation made for managing flood risks in California's Central Valley?",
+    "gold_answer": "Giving rivers more room to safely accommodate large floods is recommended, as it provides multiple benefits such as clean water, groundwater recharge, open space for recreation, and wetlands for cleansing water.",
+    "predicted_answer": "One recommendation made for managing flood risks in California's Central Valley is promoting emergency preparedness and developing emergency plans that can be implemented before infrastructure upgrades are completed. This includes revising existing evacuation plans and working with federal, state, and local agencies to minimize environmental impacts and improve preparedness programs.",
+    "bleu_score": 5.9156491556594584e-232,
+    "semantic_score": 0.5300357937812805
+  },
+  {
+    "index": 146,
+    "question": "What are the main allegations made by Imperial Metals against the engineering firms in the lawsuit in British Columbia?",
+    "gold_answer": "The lawsuit alleges negligence and breach of contract by Knight Piesold and AMEC, claiming they failed to conduct proper investigations of the subsurface conditions of the tailings storage facility, leading to an inadequate safety standard and the dam's collapse.",
+    "predicted_answer": "The documents do not provide details about any specific allegations made by Imperial Metals against the engineering firms in a lawsuit in British Columbia. Please refer to other sources for this information.",
+    "bleu_score": 1.0901460182896916e-231,
+    "semantic_score": 0.41227391362190247
+  },
+  {
+    "index": 147,
+    "question": "What were some of the social and environmental impacts of the Samarco mine disaster according to the document?",
+    "gold_answer": "The Samarco mine disaster resulted in significant social and environmental impacts. It led to the deaths of 11 workers and members of the community. The disaster affected around 15 million people, destroying 600 properties and the water supply to more than 260,000 people in downstream communities. It also devastated livelihoods by destroying crops, killing fish, turtles, and other animals crucial to community survival. Environmentally, it spread dam tailings over 440 kilometers, causing what Brazilian President Dilma Rousseff described as one of the world's biggest environmental disasters, with long-term recovery estimates extending over 50 years.",
+    "predicted_answer": "The Samarco mine disaster had significant social and environmental impacts. Socially, the disaster resulted in the deaths of 19 people and affected roughly 1.6 million Brazilians, including indigenous and traditional communities who relied on the Doce River for their livelihoods. Many affected individuals have not yet been compensated, and the registration system set up by Samarco has been criticized for undercounting those harmed, such as fisherfolk and farmers. Environmentally, the disaster released 50 million tons of iron mining waste into the Doce River, polluting it for 500 miles to the Atlantic Ocean, killing fish and wildlife, and contaminating drinking water sources. The pollution resulted in high levels of metals such as manganese, aluminum, and iron being detected in the river, and 269 hectares (665 acres) of native Atlantic Forest were destroyed. Additionally, the disaster disrupted ecosystems by killing aquatic creatures and polluting vast stretches of the river, impacting both biodiversity and human communities dependent on the river.",
+    "bleu_score": 0.05610256872058375,
+    "semantic_score": 0.7603655457496643
+  },
+  {
+    "index": 148,
+    "question": "What is the stance of the residents living around Wixom Lake regarding the restoration of the lake after the dam failure?",
+    "gold_answer": "Residents living around Wixom Lake are strongly in favor of the lake being restored. They consider the restoration as the only option, as evidenced by Robert Beltz's statement that if the dam is not rebuilt, they would not accept the lake disappearing as an option.",
+    "predicted_answer": "Residents living around Wixom Lake believe restoration of the lake is the only option. They are very concerned about the possibility of the dam not being rebuilt and see the restoration of the lake as vital for their community and economy.",
+    "bleu_score": 0.15061170385947736,
+    "semantic_score": 0.9237015247344971
+  },
+  {
+    "index": 149,
+    "question": "What was the reason for the evacuations in Talgai, Queensland?",
+    "gold_answer": "A hole in a privately-owned irrigation dam led to evacuations and flood warnings due to fears that the dam wall would collapse and flood the southern Queensland town of Talgai.",
+    "predicted_answer": "The evacuations in Talgai, Queensland, were prompted by a leak in an irrigation dam, which led to fears that the dam wall might collapse and cause flooding in the area.",
+    "bleu_score": 0.20563241139732097,
+    "semantic_score": 0.8548932671546936
+  },
+  {
+    "index": 150,
+    "question": "What actions did Brazilian regulators take against Vallourec's mine after the waste pile collapse?",
+    "gold_answer": "After the waste pile collapse at Vallourec's mine, Brazilian regulators ordered the suspension of operating licenses for the mine and fined the company. Additionally, there was an order for the company to present a plan to stabilize the area and address the damages caused by the collapse.",
+    "predicted_answer": "Brazilian regulators fined Vallourec 51.6 million USD for the spill and suspended operations at the mine.",
+    "bleu_score": 4.3751030724761364e-155,
+    "semantic_score": 0.6605321168899536
+  },
+  {
+    "index": 151,
+    "question": "What were the concerns regarding the exposed spawning areas for rainbow trout after the dam failure on the Madison River?",
+    "gold_answer": "The concerns regarding the exposed spawning areas for rainbow trout after the dam failure on the Madison River were primarily related to the potential entrapment and vulnerability of the fish as water levels dropped. As it got colder, there was a worry that the fish could be trapped and affected adversely, impacting the local fishing community and the livelihoods depending on it. Volunteers were mobilized to move stranded fish back into the main channel of the river to mitigate the impact on the trout population.",
+    "predicted_answer": "The concerns regarding exposed spawning areas for rainbow trout after the Hebgen Dam malfunction on the Madison River were the potential for fish to be trapped as the river levels dropped. The urgency was to save the fish and support the community that relies on this industry. Volunteers and Montana Fish, Wildlife & Parks were actively involved in monitoring the river, rescuing stranded fish, and ensuring that the fish were moved back to the main channel to prevent further harm.",
+    "bleu_score": 0.21008897460967466,
+    "semantic_score": 0.9020504355430603
+  },
+  {
+    "index": 152,
+    "question": "What were the main factors identified in the Vale report that led to the Brumadinho dam failure?",
+    "gold_answer": "The main factors identified in the Vale report that led to the Brumadinho dam failure were poor drainage, heavy seasonal rain, a brittle wall structure, and high shear stresses in the downstream slope of the dam. Additionally, the design and construction of the dam contributed to its steepness and lack of sufficient drainage, resulting in high water levels and structural stresses.",
+    "predicted_answer": "The main factors identified in the Vale report that led to the Brumadinho dam failure were heavy seasonal rain, poor drainage, and a brittle wall structure. Additionally, the report highlighted high shear stresses in the downstream slope of the dam, a steep design with insufficient drainage, resulting in high water levels and structural stresses within the dam, as well as a significant portion of the tailings remaining saturated, which is a prerequisite for undrained flow liquefaction.",
+    "bleu_score": 0.4360067448627905,
+    "semantic_score": 0.9522141814231873
+  },
+  {
+    "index": 153,
+    "question": "How many damage claims have been filed by residents following the Boardman River dam failure near Traverse City?",
+    "gold_answer": "53",
+    "predicted_answer": "53",
+    "bleu_score": 1.821831989445342e-231,
+    "semantic_score": 1.0
+  },
+  {
+    "index": 154,
+    "question": "What were the main reasons for the failure of the Midland dam in Michigan despite repeated warnings?",
+    "gold_answer": "The failure of the Midland dam in Michigan was attributed to weak regulations that failed to enforce necessary structural corrections. Over nearly three decades, government regulators warned the Edenville Dam was at risk of failing in a flood. Despite these warnings and the dam's structural deficiencies, needed repairs were never completed. A complex mix of factors contributed, including the high cost of repairs, the dam's private ownership providing public benefits, and a regulatory system powerless to enforce changes. The shift of regulatory oversight from federal to state authorities also brought challenges, as Michigan regulators lacked adequate staffing and resources to address the issues in a timely manner.",
+    "predicted_answer": "The main reasons for the failure of the Edenville Dam upstream of Midland, Michigan, despite repeated warnings, include the inability of the dam to handle torrential rains and the surging water caused by the extreme weather conditions. The dam's structure was overwhelmed, leading to its collapse and subsequent massive flooding in the area. Extreme precipitation events, sometimes intensified by climate change, also contributed to the dam's failure. These factors highlighted the vulnerability of aging dam infrastructure in the U.S.",
+    "bleu_score": 1.5828916629951367e-78,
+    "semantic_score": 0.7612330317497253
+  },
+  {
+    "index": 155,
+    "question": "What was the cause of the Edenville Dam failure according to the independent forensic team's report?",
+    "gold_answer": "The independent forensic team concluded that the Edenville Dam failure was caused by 'static liquefaction (sudden loss of soil strength) in a section of the embankment.' The report noted that a construction defect existed since the dam was constructed in the 1920s, leading to embankments with sections of very loose sands, which was a vulnerability not recognized for almost 100 years.",
+    "predicted_answer": "The independent forensic team's report officially names static liquefaction as the cause for the Edenville Dam failure. Static liquefaction is a process where the soil becomes completely saturated with water and loses its strength, which caused the soil on the east bank of the Edenville Dam to fail. The dam was constructed with a higher concentration of loose sand, which was more susceptible to static liquefaction and failure.",
+    "bleu_score": 2.5486459767142817e-78,
+    "semantic_score": 0.8569655418395996
+  },
+  {
+    "index": 156,
+    "question": "What critical feedback did Robert Bea provide regarding the Oroville Dam spillway collapse?",
+    "gold_answer": "Robert Bea, a founder of UC Berkeley's Center for Catastrophic Risk Management, criticized the Department of Water Resources (DWR) for being responsible for the Oroville spillway collapse due to issues in the gated spillway design, construction, and maintenance activities. He described the evacuation of roughly 180,000 people as an avoidable trauma and provided a detailed independent analysis based on DWR's records and photos.",
+    "predicted_answer": "Robert Bea criticized the Department of Water Resources (DWR) for the Oroville Dam spillway collapse, stating that the disaster was developed and propagated during the design, construction, and maintenance activities of the gated spillway. He highlighted that the spillway collapse was a trauma that did not have to happen and pointed out that multiple things went wrong both in design and in subsequent maintenance.",
+    "bleu_score": 0.1947749287076285,
+    "semantic_score": 0.8395973443984985
+  },
+  {
+    "index": 157,
+    "question": "What was the impact of the Kelly Barnes Dam failure on national dam safety policies?",
+    "gold_answer": "The Kelly Barnes Dam failure led to the establishment of the National Dam Safety Program and spurred many state dam safety programs. It prompted President Carter to initiate inspections of more than 9,000 non-federal dams, revealing unsafe conditions in many of them and resulting in improved dam safety policies at both state and federal levels.",
+    "predicted_answer": "The Kelly Barnes Dam failure in 1977 had a significant impact on national dam safety policies. It led to the establishment of the National Dam Safety Program and many state dam safety programs around the country, aimed at reducing the risk of dam failures and incidents in the U.S. Following the failure, President Carter directed the inspection of more than 9,000 non-federal dams that posed a high potential for loss of life and property. This initiative revealed unsafe conditions in many non-federal dams and contributed to more sound dam safety policies at both state and federal levels. The event underscored the necessity of proper legislation, funding, and cohesive national strategies for dam safety, which were lacking prior to the disaster.",
+    "bleu_score": 0.16998727764788943,
+    "semantic_score": 0.9408019185066223
+  },
+  {
+    "index": 158,
+    "question": "What impact could a potential Howard Hanson Dam failure have on the Kent Valley region?",
+    "gold_answer": "Upwards of 22,000 people and over $4 billion in economic activity would be disrupted in the Kent Valley alone in the event of a failure at the Howard Hanson Dam.",
+    "predicted_answer": "A potential failure of the Howard Hanson Dam could disrupt upwards of 22,000 people and over $4 billion in economic activity in the Kent Valley region.",
+    "bleu_score": 0.43434098825795264,
+    "semantic_score": 0.9256147146224976
+  },
+  {
+    "index": 159,
+    "question": "Why did Lake Gonzales drain, according to the document?",
+    "gold_answer": "Lake Gonzales drained due to a failure of the dam's spill gates. The Guadalupe-Blanco River Authority was unable to raise one of the gates, so they opened another to lower the water level, which led to the lake draining.",
+    "predicted_answer": "Lake Gonzales drained due to the failure of its dam's spill gate. A large tree became lodged in the spill gate, and the weight of the tree along with the resulting water pressure may have led to the gate's failure. Additionally, the dam's spill gates are over 90 years old, contributing to their vulnerability.",
+    "bleu_score": 0.11828881468585298,
+    "semantic_score": 0.844472348690033
+  },
+  {
+    "index": 160,
+    "question": "What was the cause of the original Hauser Dam's failure in 1908?",
+    "gold_answer": "The original Hauser Dam failed because water pressure eroded away the ash and gravel by the footing of the pillars, eventually causing the footings to give way and a breach to occur in the dam.",
+    "predicted_answer": "The original Hauser Dam's failure in 1908 was caused by water pressure eroding away the ash and gravel by the footing of the pillars, leading to a breach.",
+    "bleu_score": 0.3541147486064146,
+    "semantic_score": 0.9302136898040771
+  },
+  {
+    "index": 161,
+    "question": "How many flood victims are seeking damage claims from FERC over a dam failure?",
+    "gold_answer": "More than 400 flood victims are seeking damage claims.",
+    "predicted_answer": "The documents provided do not contain specific information about the number of flood victims seeking damage claims from FERC over a dam failure.",
+    "bleu_score": 1.8177844930557915e-155,
+    "semantic_score": 0.5340588092803955
+  },
+  {
+    "index": 162,
+    "question": "What is the main reason for the current danger posed by the Guajataca Dam in Puerto Rico?",
+    "gold_answer": "The Guajataca Dam has not been inspected since 2013, despite having a 'high hazard potential' rating, which significantly contributed to its current danger. The dam has developed fissures, and water is pouring out into nearby neighborhoods, necessitating evacuations.",
+    "predicted_answer": "The main reason for the current danger posed by the Guajataca Dam in Puerto Rico is that it has fissures in its 120-foot wall, which have not been inspected since 2013. This lack of inspection, combined with the dam's high hazard rating, poses a significant risk as water has been pouring out of one section of the large reservoir into small neighborhoods down in the valley.",
+    "bleu_score": 0.049335788328675946,
+    "semantic_score": 0.8057058453559875
+  },
+  {
+    "index": 163,
+    "question": "Which parties filed lawsuits against Boyce Hydro following the mid-Michigan dam failures, and what were the outcomes of these suits?",
+    "gold_answer": "Several parties filed lawsuits against Boyce Hydro following the dam failures. On May 22, Kimberly Borchard, Timothy Dana, and Holly Kovacs sued Boyce Hydro for negligence, nuisance, trespass, strict liability, and intentional infliction of emotional distress. Charges against one of the co-defendants, FLTF, were dropped. Another lawsuit by Carol Clarkson and others accused Boyce Hydro of negligence and trespass and initially included state departments, but those charges were dropped. Several cases were set for trial in 2022, but some, like the lawsuit by John Colburn and a class action by Charles Kinzel and Debra Kroening, were dismissed. A lawsuit by Attorney General Dana Nessel was halted due to Boyce Hydro's bankruptcy filing.",
+    "predicted_answer": "Dan and Cathy Allen filed a lawsuit against the Federal Energy Regulatory Commission, holding it accountable for the dam failures, although the lawsuit targets the federal agency rather than Boyce Hydro directly. Additionally, about 300 people represented by attorney Ven Johnson filed lawsuits against the state of Michigan for the dam failure, citing unconstitutional taking. The outcomes of these specific lawsuits against Boyce Hydro and other involved parties were not detailed in the retrieved documents.",
+    "bleu_score": 0.043747991044266334,
+    "semantic_score": 0.7355048060417175
+  },
+  {
+    "index": 164,
+    "question": "What were the main causes of the Oroville Dam spillway incident?",
+    "gold_answer": "The Oroville Dam spillway incident was caused by a long-term systemic failure to recognize and address inherent spillway design and construction weaknesses, poor foundation bedrock quality, and deteriorated service spillway chute conditions.",
+    "predicted_answer": "The main causes of the Oroville Dam spillway incident were a long-term systemic failure to recognize and address inherent spillway design and construction weaknesses, poor foundation bedrock quality, and deteriorated service spillway chute conditions. The spillway was built on unstable bedrock, and the concrete separating the bedrock and water rushing over the spillway was worn paper-thin over years of use, resulting in concrete chunks eroding away. Additionally, the emergency spillway's effectiveness had never been tested, and it led to erosion when utilized, prompting an evacuation order.",
+    "bleu_score": 0.1537455172395787,
+    "semantic_score": 0.8745582699775696
+  },
+  {
+    "index": 165,
+    "question": "Why was the Hall Park Dam in northeast Norman, Oklahoma reclassified from a low hazard to a high hazard dam?",
+    "gold_answer": "The Hall Park Dam was reclassified from a low hazard to a high hazard dam due to the development behind the structure, which increased the risk that its failure could pose to people and property.",
+    "predicted_answer": "The Hall Park Dam in northeast Norman, Oklahoma, was reclassified from a low hazard dam to a high hazard dam due to development behind the structure, which increased the potential risk and hazard in the event of its failure.",
+    "bleu_score": 0.4824318132207493,
+    "semantic_score": 0.8722211122512817
+  },
+  {
+    "index": 166,
+    "question": "What are some of the long-term environmental effects mentioned as a result of the Lake Wood dam failure?",
+    "gold_answer": "The long-term environmental effects include the loss of aquatic life and trees, failing retaining walls and bulkheads, and an overgrowth of grass and trees. Specifically, cypress and pecan trees are suffering or dying due to a lack of water, with some trees having their roots compromised despite recent wet weather. There was also significant harm to local wildlife, with 122,000 mussels, including the threatened golden orb, killed.",
+    "predicted_answer": "Some of the long-term environmental effects mentioned as a result of the Lake Wood dam failure include the loss of aquatic life, with a report of 122,000 mussels killed, including threatened species like the giant washboards and the golden orb. Additionally, the draining of Lake Wood resulted in the death or suffering of cypress and decades-old pecan trees. The lack of water led to an overgrowth of grass, brush, and trees towering 25 to 30 feet high in the lake bed. The environmental damage extended beyond foliage, as the change affected the stability and integrity of bulkheads and retaining walls. The situation also allowed cattle to roam freely into the lake bed and onto other properties.",
+    "bleu_score": 0.05692188263857636,
+    "semantic_score": 0.7289583086967468
+  },
+  {
+    "index": 167,
+    "question": "What prompted the reassessment of dam safety in Michigan?",
+    "gold_answer": "The failures of the Edenville and Sanford Dams in May 2020, which led to significant flooding and damage but no major injuries or fatalities, prompted the reassessment of dam safety in Michigan.",
+    "predicted_answer": "The reassessment of dam safety in Michigan was prompted by the failure of the Edenville and Sanford dams, which resulted in massive flooding in Midland County. This disaster highlighted the vulnerability of aging dam infrastructure, especially as heavy rain events become more frequent due to climate change. The catastrophic event demonstrated the risks associated with outdated infrastructure in the face of increasing extreme weather events.",
+    "bleu_score": 0.08842266942874716,
+    "semantic_score": 0.856387197971344
+  },
+  {
+    "index": 168,
+    "question": "What are the main concerns of Kerala and Tamil Nadu regarding the Mullaperiyar Dam?",
+    "gold_answer": "Kerala's main concern is the safety of the Mullaperiyar Dam due to its age and structural condition, fearing that it may not withstand greater hydraulic pressure, leading to a potential dam failure and catastrophic downstream disaster. Kerala has also alleged leaks and cracks in the structure. On the other hand, Tamil Nadu's primary concern is maintaining sufficient water levels in the dam, as it relies on the water from the reservoir to divert into the Vaigai river for its water needs, and therefore insists on maintaining water at 142-ft.",
+    "predicted_answer": "The main concern of Kerala regarding the Mullaperiyar Dam is its structural safety due to its old age and deteriorating condition. Kerala fears that the dam might not withstand increased hydraulic pressure, leading to a catastrophic failure. They advocate for a lower water level of 136 feet and even call for the decommissioning of the dam and the construction of a new one to prevent potential disasters.\n\nOn the other hand, Tamil Nadu's primary concern is water availability. It prefers maintaining the water level at 142 feet to ensure more water can be diverted to Tamil Nadu's Vaigai river, which supports its agricultural and drinking water needs. This difference of opinion between dam safety and water availability has been a contentious issue between the two states.",
+    "bleu_score": 0.1376230940014919,
+    "semantic_score": 0.9398675560951233
+  },
+  {
+    "index": 169,
+    "question": "What caused the partial dam failure in Westmoreland County?",
+    "gold_answer": "A major rain event caused the partial dam failure in Westmoreland County.",
+    "predicted_answer": "The query is not addressed in the provided documents, so I cannot provide an accurate answer. Please provide more information or refer to other reliable sources for details about the partial dam failure in Westmoreland County.",
+    "bleu_score": 0.06978735645255275,
+    "semantic_score": 0.8471977114677429
+  },
+  {
+    "index": 170,
+    "question": "What are some factors contributing to the increased risk of dam failure as discussed in the document?",
+    "gold_answer": "Factors contributing to the increased risk of dam failure include a lack of investment in maintenance, growing vulnerability to climate change, deteriorating infrastructure, escalating extremes in weather and climate, and the potential for cyberattacks.",
+    "predicted_answer": "Some factors contributing to the increased risk of dam failure as discussed in the documents include heavy rains that can damage the infrastructure, as seen in the Laos dam failure. Additionally, conditions such as tremendous storms or earthquakes can weaken or destroy dams, as noted in the Great River Hydro plan for dam failure. Lack of river space to flood safely due to inadequate infrastructure, exacerbated by volatile weather patterns potentially driven by climate change, is another factor contributing to the risk. Additionally, the failure to meet safety standards as was the case with the Edenville Dam, further increases the risk of dam failures.",
+    "bleu_score": 0.03228340841382329,
+    "semantic_score": 0.7647948265075684
+  },
+  {
+    "index": 171,
+    "question": "What was one of the contributing factors to the catastrophic flooding in Midland County, Michigan?",
+    "gold_answer": "The catastrophic flooding in Midland County, Michigan, was contributed to by the collapse of the Edenville Dam and subsequent failure of the Sanford Dam following record rainfall.",
+    "predicted_answer": "The collapse of the Edenville Dam, caused by a rare event called static liquefaction, was one of the contributing factors to the catastrophic flooding in Midland County, Michigan.",
+    "bleu_score": 0.2503907238945183,
+    "semantic_score": 0.8260800838470459
+  },
+  {
+    "index": 172,
+    "question": "How many staff members were responsible for dam safety in New York as of June 2018, and how many dams were they overseeing?",
+    "gold_answer": "As of 2018, New York had 11 staff members responsible for overseeing more than 5,800 dams.",
+    "predicted_answer": "11 staff members were responsible for overseeing more than 5,800 dams in New York as of June 2018.",
+    "bleu_score": 0.3760392305513499,
+    "semantic_score": 0.9816589951515198
+  },
+  {
+    "index": 173,
+    "question": "What are the key differences in Pebble's tailings dam design compared to those that have recently failed?",
+    "gold_answer": "Pebble's tailings dam design uses a flow-through style that allows water to pass through the dam and be collected and treated, compared to the upstream dams that failed due to water-inundated tailings slurries. The design also involves separating water and tailings to reduce failure risk and impacts, building on bedrock to avoid weak layers, and maintaining a gradual slope for stability.",
+    "predicted_answer": "The key difference highlighted regarding Pebble's tailings dam design is the emphasis on its modern technology and engineering claims that promise they can withstand the inherent dangers of mining. According to the designer of the failed dams, Knight-Piesold, they have also been involved in designing dams for Pebble Mine. The company claims that modern dam design technologies are based on proven scientific principles and asserts there’s no basis they would not stand the test of time. This contrasts with the older dams that have failed, such as Vale’s Brumadinho dam, which despite being certified as safe and reportedly exceeding safety standards, still failed catastrophically. Pebble's management expresses confidence, stating they are \"convinced that there will never be a failure at Pebble,\" indicating a strong belief in their design's integrity and compliance with safety standards. However, the recent failures demonstrate that despite technological assurances, dams can still fail if not properly managed or inspected.",
+    "bleu_score": 0.01479255578788326,
+    "semantic_score": 0.712213933467865
+  },
+  {
+    "index": 174,
+    "question": "What were the immediate concerns for Puerto Rico's recovery after Hurricane Maria?",
+    "gold_answer": "Immediate concerns for Puerto Rico's recovery included ensuring hospitals could continue to operate on generator power, addressing the accessibility of fuel for generators, and ensuring medical care for those trapped at home without power. Additionally, there were concerns about getting supplies to those in need and dealing with impassable roads due to downed trees and power lines.",
+    "predicted_answer": "The immediate concerns for Puerto Rico's recovery after Hurricane Maria included ensuring hospitals could continue operating on generators due to a lack of electrical power, addressing the severely damaged communication system, securing adequate relief supplies of food and potable water, and managing the accessibility to diesel for generators. Additionally, there was a need for medical support for individuals who required crucial health aid, such as those needing air conditioning, oxygen, or medication. Concerns about the lack of power and communication were compounded by the threat posed by a failing dam, which risked flash flooding in certain areas.",
+    "bleu_score": 0.09422631014513401,
+    "semantic_score": 0.8189300894737244
+  },
+  {
+    "index": 175,
+    "question": "What are the measures being taken by Seattle Public Utilities in response to the false alarm about the Tolt River Dam failure?",
+    "gold_answer": "Seattle Public Utilities is designing upgrades to the siren system, which includes ordering replacement sirens, starting design work, and obtaining necessary federal permits. They hope to have the permits by the end of the year and to install the sirens in the first half of 2022.",
+    "predicted_answer": "Seattle Public Utilities is designing upgrades to the siren system, which includes ordering replacement sirens, starting design work, and getting the necessary permits. They aim to obtain the needed federal permits by the end of the year, and the sirens should be installed in the first half of 2022.",
+    "bleu_score": 0.6002602176080511,
+    "semantic_score": 0.9933156967163086
+  },
+  {
+    "index": 176,
+    "question": "What are the main issues with the Lake Isabella Dam, and what solutions are being considered to address them?",
+    "gold_answer": "The main issues with the Lake Isabella Dam include the potential for internal erosion, the risk of overtopping in extreme flood conditions, and its location on an active earthquake fault. To address these issues, the Army Corps of Engineers is considering blasting a larger spillway into bedrock adjacent to the main dam and constructing a downstream buttress to reinforce the auxiliary dam. These measures would include modern features like drains and filters to prevent dam failure.",
+    "predicted_answer": "The main issues with the Lake Isabella Dam are:\n\n1. Internal erosion: The dam is in danger of eroding internally, which could lead to failure.\n2. Inadequate spillway: The spillway is too small to handle the probable maximum flood, risking overtopping.\n3. Active fault line: The dam lies on an active fault line, which could result in a strong earthquake affecting the structural integrity of the dam.\n\nSolutions being considered to address these issues include:\n\n1. Restricting the lake level: This reduces hydrostatic pressure, decreasing the risk of seepage.\n2. Blasting a bigger spillway: Creating a much larger spillway out of bedrock adjacent to the main dam to allow for faster water release.\n3. Constructing a buttress: Building an entirely new dam downstream from the auxiliary dam using excavated rock, with necessary drains and filters to prevent failure.\n4. Evacuation plans and monitoring: Implementing interim measures like evacuation plans and reducing the amount of water stored behind the dam.",
+    "bleu_score": 0.09132741084132641,
+    "semantic_score": 0.9164378046989441
+  },
+  {
+    "index": 177,
+    "question": "What was the reason behind the purchase of the Midland dams by Mueller and Michel?",
+    "gold_answer": "They bought them as a tax shelter to avoid paying $600,000 in capital gains taxes to the IRS, after they needed to reinvest money from the sale of an Illinois property within a year.",
+    "predicted_answer": "Mueller and Michel purchased the Midland dams to avoid paying taxes by reinvesting money from the sale of an Illinois property. They used trusts set up by their multimillionaire ancestor, William D. Boyce, to buy the dams as a tax shelter.",
+    "bleu_score": 0.2081431084475255,
+    "semantic_score": 0.5692243576049805
+  },
+  {
+    "index": 178,
+    "question": "What are some of the impacts of the dam failure at Lake Dunlap on the local community?",
+    "gold_answer": "The dam failure at Lake Dunlap led to a significant draining of water, which affected homeowners, wildlife, and business owners. Homeowners experienced a drop in property values and stranded boats. Wildlife suffered as dead fish and turtles were left in the hot sun. Business owners were concerned about losing visitors and business during the busy Memorial Day weekend, as the lake was a popular spot for recreational activities.",
+    "predicted_answer": "The dam failure at Lake Dunlap caused several impacts on the local community, including:\n\n1. Loss of Lake: The complete drainage of Lake Dunlap affected recreational activities and the aesthetic value of the area as the lake was a key attraction.\n   \n2. Environmental Damage: There was significant environmental damage, with the flow of water causing issues for aquatic life and potentially affecting flora and fauna in the area.\n\n3. Property Impact: Homeowners along the lakefront lost their waterfront properties, impacting property values and potentially affecting property taxes.\n\n4. Economic Consequences: The lack of water affected local businesses that relied on lake-based tourism and recreation, potentially reducing income and local economic activity.\n\n5. Emotional and Cultural Effects: Residents experienced emotional distress due to the loss of the lake, as it was part of their community and contributed to their quality of life. \n\nThis situation prompted discussions about repairs and the search for funding solutions, highlighting both community efforts to address the issue and challenges in finding quick resolutions.",
+    "bleu_score": 0.038735468112653354,
+    "semantic_score": 0.7934104800224304
+  },
+  {
+    "index": 179,
+    "question": "What actions have been taken to assist residents in Iberville Parish affected by the flooding?",
+    "gold_answer": "The Louisiana Office of State Fire Marshal has 15 deputies in Bayou Pigeon helping local fire departments evacuate residents using five boats and a high water vehicle. The Red Cross has opened a shelter at the Civic Center in Plaquemine for evacuees. The Louisiana Department of Transportation is assisting in repairing the portion of the temporary aqua dam levee that was compromised.",
+    "predicted_answer": "The Iberville Parish Council's Office of Emergency Preparedness issued an emergency message for residents of Bayou Pigeon and Bayou Sorrel to evacuate. The Louisiana Office of State Fire Marshal deployed 15 deputies to assist local fire departments in evacuating residents using boats and a high water vehicle. Additionally, the Red Cross has opened a shelter at the Carl F. Grant Civic Center in Plaquemine for evacuees. The Louisiana Department of Transportation is working to repair the compromised aqua dam levee.",
+    "bleu_score": 0.38467813372657406,
+    "semantic_score": 0.8266217708587646
+  },
+  {
+    "index": 180,
+    "question": "What measures were taken by engineers to stabilize the Woodlake Dam following Hurricane Matthew?",
+    "gold_answer": "Engineers were able to stabilize the Woodlake Dam by lowering hundreds of sandbags into the dam to mitigate the damage caused by the storm.",
+    "predicted_answer": "Engineers stabilized the Woodlake Dam by lowering hundreds of sandbags into the dam. Additionally, auxiliary pumps were used to decrease the water level to a desired 218 feet to protect against potential failure.",
+    "bleu_score": 0.2851837364761798,
+    "semantic_score": 0.8609241247177124
+  },
+  {
+    "index": 181,
+    "question": "What was the risk associated with the flooding in Catawba due to heavy rains in the North Carolina mountains in May 2013?",
+    "gold_answer": "There was a risk of a possible failure of the Oxford Dam holding back the waters of Lake Hickory, which could have led to a dam safety emergency.",
+    "predicted_answer": "The risk associated with the flooding in Catawba due to heavy rains in the North Carolina mountains in May 2013 was the potential failure of the Oxford Dam. Heavy rainfall led to a significant increase in water levels, prompting Duke Energy to manage the situation by raising the gates of the dam. However, mechanical issues with one of the gates posed a risk of water overtopping the dam, which could have resulted in a dam safety emergency. The water level went higher than the safe threshold, raising concerns about dam failure and necessitating emergency alert conditions.",
+    "bleu_score": 0.02535192030596362,
+    "semantic_score": 0.6416143774986267
+  },
+  {
+    "index": 182,
+    "question": "What was Hope Mills Board of Commissioners' plan following the discovery of a sinkhole in the newly built dam?",
+    "gold_answer": "Hope Mills Board of Commissioners approved a plan to investigate the failure of the dam and presented a plan of action during a meeting that included reopening the road across the lake and ensuring safety in the area.",
+    "predicted_answer": "The Hope Mills Board of Commissioners approved a plan to find out what caused the town's dam to fail. This plan included presenting a plan of action for reopening the road across the lake and ensuring the area remained safe for residents.",
+    "bleu_score": 0.4162143789022586,
+    "semantic_score": 0.9427974224090576
+  },
+  {
+    "index": 183,
+    "question": "What were the consequences of the Woodlake Dam almost breaching after Hurricane Matthew?",
+    "gold_answer": "The near breach of the Woodlake Dam after Hurricane Matthew forced hundreds of evacuations and the displacement of several neighborhoods in Moore County.",
+    "predicted_answer": "The consequences of the Woodlake Dam almost breaching after Hurricane Matthew included the ordering of evacuation for residents downstream of the dam due to the risk of the dam's failure, which posed an extraordinary threat to life or property. Flooding forced Woodlake residents to evacuate the gated community, and a neighborhood in Woodlake Country Club was flooded. The state's intervention included lowering sandbags into the dam to stabilize the structure, and auxiliary pumps were used to decrease the water level. The evacuation affected homes along 55 roads in the area. Emergency officials reported that some residents refused to leave the flooded area, and the National Guard was involved in airlifting residents from waterlogged properties. The aftermath saw Moore County officials working to manage the crisis and prevent further erosion and potential dam collapse.",
+    "bleu_score": 0.0015809947348218616,
+    "semantic_score": 0.7869417071342468
+  },
+  {
+    "index": 184,
+    "question": "What concerns are being raised about China's dams amid the recent catastrophic floods?",
+    "gold_answer": "Concerns are being raised about China's overreliance on dams as they face increasing strain during the floods, with some dams breaking or requiring intentional release of water without sufficient warning. The gargantuan Three Gorges Dam and other dams are being scrutinized due to rising water levels and their ability to withstand extreme conditions. There are also criticisms of the mismanagement of flood systems, unequal treatment of rural populations, and calls to revamp China's flood control approach to rely less on dams.",
+    "predicted_answer": "Concerns being raised about China's dams amid the recent catastrophic floods include the increasing strain they face due to torrential rains and the risk of serious damage, even in small dams. There are fears about the Three Gorges Dam as the reservoir has risen significantly above the warning level. China's overreliance on dams, excessive construction in low-lying areas, mismanaged flood systems, and lack of government accountability are exacerbating flood damage. The inequality in flood management, where protection is prioritized for cities at the expense of rural areas, is also a significant concern. The potential failure of dams due to poor maintenance and the overestimation of their reliability in controlling floods are other critical issues being discussed.",
+    "bleu_score": 0.0564783136094291,
+    "semantic_score": 0.8565065860748291
+  },
+  {
+    "index": 185,
+    "question": "What is the main allegation against TÜV SÜD in the claim related to the 2019 Brazil dam collapse?",
+    "gold_answer": "The main allegation against TÜV SÜD is that the company certified the Brumadinho tailings dam as safe when it was actually unsafe, allegedly due to concerns about losing Vale, the world's largest iron ore producer and operator of the dam, as a client.",
+    "predicted_answer": "The main allegation against TÜV SÜD in the claim related to the 2019 Brazil dam collapse is that TÜV SÜD provided declarations of stability for the Brumadinho dam which collapsed, leading to the disaster.",
+    "bleu_score": 0.14595178764361807,
+    "semantic_score": 0.7675204277038574
+  },
+  {
+    "index": 186,
+    "question": "Which dam failure in northwestern Wisconsin triggered flooding near the Minnesota border?",
+    "gold_answer": "Radigan Flowage Dam",
+    "predicted_answer": "Radigan Flowage Dam",
+    "bleu_score": 1.2213386697554703e-77,
+    "semantic_score": 1.0
+  }
+]
