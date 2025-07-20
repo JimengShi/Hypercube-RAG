@@ -134,7 +134,7 @@
 {}
 {"over 20 million tons": 1, "40-foot": 1, "40 miles per hour": 1}
 {"500 miles": 3, "50 million tons": 1, "some 70 miles": 1, "11.7 million cubic meters": 1, "413 million cubic feet": 1, "15 meters": 1, "49 feet": 1, "more than 3 million cubic meters": 1, "more than 3.9 million cubic yards": 1, "at least 269 hectares": 1, "665 acres": 1, "More than 11 million cubic meters": 1}
-{}
+{"7 billion": 1, "7 billion federal loan program": 1}
 {"more than a foot": 1, "10-foot": 1, "5,360 feet": 1, "70 feet": 1, "about 7,000 acre feet": 1}
 {}
 {"up to 7 inches": 1, "more than 10,000 people": 1, "around 3-4 inches": 1, "8.10 inches": 1, "7.20 inches": 1, "about 7 miles": 1, "about 35 feet": 1, "38-foot": 1}

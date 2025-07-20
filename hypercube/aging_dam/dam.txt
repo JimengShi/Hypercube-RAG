@@ -74,7 +74,7 @@
 {"the Spring Valley Dam": 2}
 {"the Whittier Narrows Dam": 2, "Whittier Narrows Dam": 4, "Oroville Dam": 1}
 {}
-{"Beaver Creek Dam": 2}
+{"Beaver Creek Dam": 2, "dams failed": 1, "dams in danger of failing": 1}
 {"Edenville Dam": 5, "the Edenville Dam": 2, "Sanford Dam": 1}
 {"Lake Delhi Dam": 2}
 {"Mojave River Dam": 1, "the Mojave River Dam": 1, "The Mojave River Dam": 1}

@@ -9,7 +9,7 @@
 {"Oroville Dam": 1}
 {}
 {}
-{"Festival of Races": 1, "Sloan Auto Fair": 1}
+{"Festival of Races": 1, "Sloan Auto Fair": 1, "flooding in Midland County": 1}
 {"the Great Flood of 1986": 1}
 {}
 {}
@@ -111,7 +111,7 @@
 {}
 {}
 {"Alberto": 2}
-{"Stanley Cup": 2}
+{"Stanley Cup": 2, "Oroville Dam crisis": 1}
 {"TribFest22": 1, "Hurricane Harvey": 2, "Harvey": 1}
 {}
 {}
