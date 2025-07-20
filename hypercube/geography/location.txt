@@ -11,7 +11,7 @@
 {"UK": 7, "Ireland": 3, "South West England": 1, "North West Ireland": 1, "Thunnus": 1, "Atlantic": 5, "the Atlantic Ocean": 1}
 {"Americas": 1, "South America": 1, "Africa": 1, "India": 1, "Australia": 2, "Asia": 4, "Singapore": 1, "Germany": 1}
 {"the United States'": 1, "San Francisco": 1, "Reno": 1, "U.S.": 1, "Kenya": 1, "Tanzania": 1, "UC": 1, "Santa Barbara": 1, "East Africa": 1}
-{"The Atlantic Coast": 1, "Atlantic": 2, "New England": 6, "Massachusetts": 1, "Rhode Island": 1, "New York": 1, "New Jersey": 1, "Delaware": 1, "Maryland": 1, "Virginia": 1, "North Carolina": 1, "the Atlantic Coast": 1, "Mid-Atlantic": 1}
+{"The Atlantic Coast": 1, "Atlantic": 2, "New England": 6, "Massachusetts": 1, "Rhode Island": 1, "New York": 1, "New Jersey": 1, "Delaware": 1, "Maryland": 1, "Virginia": 1, "North Carolina": 1, "the Atlantic Coast": 1, "Mid-Atlantic": 1, "U.S. Atlantic Coast": 1}
 {"Northern Hemisphere": 1, "Southeast Asia": 2, "the Southern Ocean": 2}
 {"UC": 1, "Santa Barbara": 1, "California": 1}
 {"Colombia": 7, "Andes Mountains": 1, "Tolima": 1, "Hawaii": 1, "California": 1, "Puerto Rico": 1, "the United States": 1}
@@ -58,7 +58,7 @@
 {"UK": 4, "South, South East": 1, "East Asia": 1, "Tokyo": 2, "Shanghai": 3, "Bangkok": 2, "New Orleans": 1, "Jakarta": 3, "Indonesia": 1, "Berlin": 2, "Germany": 3, "France": 1, "IDRCEC": 1}
 {"IIASA": 1, "Mediterranean": 1, "the Middle East": 1, "China": 1, "South-East": 1, "West Africa": 1, "the East of Brazil": 1, "CCS": 1, "Earth": 2}
 {"U.S.": 1}
-{"Pine Island": 2, "Antarctica": 2, "Antarctic": 1, "Amundsen Sea'": 1, "west Antarctic": 1, "Mirounga": 1, "the Amundsen Sea": 1, "Gothenburg": 1, "Rhode Island": 1, "the El Nino-Southern Oscillation": 1}
+{"Pine Island": 2, "Antarctica": 2, "Antarctic": 1, "Amundsen Sea'": 1, "west Antarctic": 1, "Mirounga": 1, "the Amundsen Sea": 1, "Gothenburg": 1, "Rhode Island": 1, "the El Nino-Southern Oscillation": 1, "ocean": 1}
 {"UC": 3, "Santa Cruz": 3, "the West Coast": 3, "San Francisco Bay": 1, "the Northeast Pacific": 1, "the North Coast": 2, "California": 1, "Northern California": 3, "Monterey Bay": 1}
 {"Grassholm Island": 1, "Wales": 1, "Edinburgh": 1}
 {"Antarctica": 3, "Earth": 1, "the Amery Ice Shelf": 1, "West Virginia": 1}
@@ -305,7 +305,7 @@
 {"California": 1}
 {"the Ryukyu Archipelago": 3, "Australia": 1, "Nature": 1, "Pacific sea": 3, "Japan": 4, "Ishigaki": 3, "Okinawa": 2}
 {"High Mountain Asia": 1, "the Middle East": 2, "North Africa": 1, "North America": 2, "South America": 1, "Australia": 1, "Yangtze": 1, "Asia": 1, "Nile": 1, "Niger": 1, "Africa": 1, "the Colorado River": 1, "Indus": 1}
-{"Arctic": 10, "the Beaufort Sea": 2, "Casas": 5, "ECCC": 1, "the Greenland Sea": 1, "Greenland": 1, "Alaska": 1, "Canada": 1}
+{"Arctic": 10, "the Beaufort Sea": 2, "Casas": 5, "ECCC": 1, "the Greenland Sea": 1, "Greenland": 1, "Alaska": 1, "Canada": 1, "northern communities": 1}
 {"Gulf Stream": 3, "the east coast": 1, "U.S.": 1, "Canada": 1, "Atlantic": 1, "the Atlantic Ocean": 1}
 {"Earth": 5, "UC": 1, "San Diego": 1, "California": 1, "North": 1, "South": 1, "the west coast": 1, "Central America": 1}
 {"the Arctic Ocean": 1, "Arctic": 5, "floe": 2, "Siberia": 1, "Bremerhaven": 1, "Germany": 1, "Arctic Ocean": 1, "Russia": 1, "Central Arctic": 1}

@@ -21,7 +21,7 @@ print(f'Length of date_list: {len(date_list)}')
 
 
 # # Process whole documents and extract for one ENTITY
-# with open('geography/event.txt','w') as fout:
+# with open('hypercube/geography/event.txt','w') as fout:
 #     for t in tqdm(date_list):
 #         text = (t)
 #         doc = nlp(text)
@@ -71,7 +71,7 @@ crater_pattern = re.compile(r'\bcrater(s)?\b', re.IGNORECASE)
 flood_pattern = re.compile(r'\bflood(s|ing)?\b', re.IGNORECASE)
 
 # Process the text and count occurrences
-with open('geography/theme.txt', 'w') as fout:
+with open('hypercube/geography/theme.txt', 'w') as fout:
     for text in tqdm(date_list):
         theme_dict = Counter()
         

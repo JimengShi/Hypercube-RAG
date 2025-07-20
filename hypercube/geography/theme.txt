@@ -11,7 +11,7 @@
 {"bluefin tuna": 4}
 {}
 {"cattle annotations": 1, "cattle": 7, "satellite imagery,\"": 1, "satellite": 3}
-{"climate change": 1, "sea level": 1, "bird": 1}
+{"climate change": 1, "sea level": 1, "bird": 1, "piping plovers": 6}
 {"biodiversity": 1, "bird species": 4, "bird species,\"": 1, "extinct": 1, "bird": 1}
 {"microbial": 2}
 {"precipitation": 1, "sea level)": 1, "sea level.": 1}
@@ -19,7 +19,7 @@
 {"sea level.scientists": 1, "antarctic ice sheet,": 1, "sea level": 3, "climate change": 1, "antarctic ice sheet": 2}
 {"antarctic ice sheet": 2, "sediment cores": 1}
 {"mantle": 5, "gem diamonds,": 1, "inclusions": 2, "iron isotopes": 2}
-{"surface water": 1, "mantle": 9, "sea level": 1, "sea levels": 1, "water storage": 2}
+{"surface water": 1, "mantle": 9, "sea level": 1, "sea levels": 1, "water storage": 2, "ocean size": 2}
 {"climate change": 2}
 {"satellite imagery": 2, "precipitation": 1, "bird": 1}
 {"moths": 5, "vize island": 2}
@@ -58,7 +58,7 @@
 {"sea level": 1, "climate change": 3, "oil and gas": 1, "satellite": 1, "flood": 1}
 {"climate change": 2, "freshwater": 1, "biosphere": 1}
 {}
-{"meltwater": 10, "seals": 4, "meltwater distribution": 2, "meltwater-rich": 4, "sea level": 1, "seal": 1}
+{"meltwater": 10, "seals": 4, "meltwater distribution": 2, "meltwater-rich": 4, "sea level": 1, "seal": 1, "ecological benefit": 1, "ocean": 1, "glacial meltwater": 5}
 {"satellite imagery": 1, "satellite": 1}
 {"bird": 1}
 {"sea levels": 1, "satellite": 3, "satellites": 1, "satellite-based": 1}
@@ -132,7 +132,7 @@
 {"mantle": 6}
 {}
 {"satellites": 2, "crater": 1}
-{"monarch butterflies": 1}
+{"monarch butterflies": 1, "non-migrating populations": 3}
 {"satellite-transmitted": 1, "climate change": 1}
 {"bird": 1}
 {"biodiversity": 1, "extinct": 1}
@@ -167,7 +167,7 @@
 {}
 {}
 {"freshwater": 1, "extinct": 1}
-{"biodiversity.": 1}
+{"biodiversity.": 1, "parasite": 10}
 {}
 {}
 {"biodiversity": 1}
@@ -206,7 +206,7 @@
 {"climate change": 3, "coral bleaching,": 1, "ocean acidification.": 1}
 {"carbon sinks:": 1, "sea level": 1, "mangrove forests": 2, "global mangrove": 1, "climate change": 1, "flood": 1}
 {"primates": 4, "climate change": 2}
-{"plastic contaminants": 1}
+{"plastic contaminants": 1, "microplastics": 1, "ocean pollution": 1}
 {"climate change": 1, "satellite": 2}
 {"carbon sinks": 1, "carbon sink": 2, "carbon dioxide": 1}
 {"satellite": 2, "land temperatures,": 1, "satellite-observed": 1, "flood": 1}
@@ -305,7 +305,7 @@
 {"flood": 1}
 {"coral reef": 3, "coral bleaching": 1, "blue starfish": 5}
 {"mountain water": 1, "meltwater peaks": 1}
-{"climate change": 2, "freshwater": 1, "seals": 1, "flood": 1}
+{"climate change": 2, "freshwater": 1, "seals": 1, "flood": 1, "wave heights": 3}
 {"satellite": 1, "surface waters": 1, "carbon dioxide": 1}
 {"satellites": 1}
 {"satellite": 2, "satellite imagery,": 1}
@@ -349,7 +349,7 @@
 {"carbon dioxide": 17, "carbon sink": 3, "meltwater": 3, "surface water,": 1, "food web": 2, "ice melt": 2, "carbon sink,": 1, "seal": 1}
 {"carbon dioxide": 3}
 {"extinct": 1, "sea levels": 1}
-{"carbon dioxide": 11, "microbial": 1, "climate change": 1}
+{"carbon dioxide": 11, "microbial": 1, "climate change": 1, "climate models": 1}
 {}
 {"climate change": 3}
 {"biodiversity": 1, "bird": 1}
@@ -400,7 +400,7 @@
 {"carbon dioxide": 1, "coral reef": 5, "biodiversity": 1, "satellite imagery.": 1}
 {"carbon dioxide": 7, "sediment core": 2}
 {"hunting records": 1, "extinct": 1, "bird": 1}
-{"satellite": 3, "carbon dioxide": 3, "seals": 1, "carbon sink": 1, "bird": 1, "seal": 1}
+{"satellite": 3, "carbon dioxide": 3, "seals": 1, "carbon sink": 1, "bird": 1, "seal": 1, "green snow algae": 3}
 {"extinct": 1, "whale populations": 3, "whale population.": 1, "satellite": 1}
 {"climate change": 3, "precipitation": 1}
 {"oil palm": 7, "biodiversity.": 1, "biodiversity": 1}

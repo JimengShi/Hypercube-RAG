@@ -19,7 +19,7 @@
 {}
 {"1908": 1, "2013": 1}
 {}
-{"today": 3, "the last 541 million years": 1}
+{"today": 3, "the last 541 million years": 1, "early Earth": 3}
 {"1900": 1, "today": 1}
 {"Annual": 1, "between 1997-2019": 1, "decades": 1, "the turn of the century": 2, "a decade": 1, "the past 20 years": 1, "a few decades": 1}
 {"the summer": 1, "daily": 1, "July 2020": 1, "at least 20 days": 1, "decades": 1}
