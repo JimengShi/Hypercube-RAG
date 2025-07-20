@@ -50,8 +50,6 @@ with open('corpus/aging_dam/corpus.txt') as f:
     readin = f.readlines()
     corpus = [line.strip() for line in tqdm(readin)]
 
-corpus = corpus[:100]
-
 
 # ================ build embedding index ================
 # model = SentenceTransformer('intfloat/e5-base-v2')
@@ -218,7 +216,7 @@ def llm_answer(model_type, query, cells, k=3, retrieval_method='hypercube'):
         from openai import OpenAI
         client = OpenAI()
         completion = client.chat.completions.create(
-            model="gpt-4o",
+            model="gpt-4o-2024-08-06",
             messages=[
                 {"role": "system", "content": instruction + docs},
                 {
