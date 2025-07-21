@@ -14,16 +14,16 @@
 {"Michigan Department of Health and Human Services": 4, "Reporting Entity": 4, "Michigan Trauma Registry": 5, "MDHHS": 5, "Regional Trauma Networks": 1, "Michigan Administrative Code": 2, "Public Health Code": 2}
 {"State of Illinois": 3, "Vendor": 9, "Department of Innovation & Technology Services": 1, "parties": 5}
 {"EFCA Pty Ltd": 1, "disclosing party": 10, "receiving party": 1, "parties": 9}
-{"ESKOM HOLDINGS SOC LTD": 3, "Counterparty": 5, "Party": 10, "Parties": 10, "Disclosing Party": 7, "Receiving Party": 7, "Third Party": 6}
+{"ESKOM HOLDINGS SOC LTD": 3, "Counterparty": 5, "Party": 10, "Parties": 10, "Disclosing Party": 7, "Receiving Party": 7, "Third Party": 6, "Eskom": 10}
 {"Evelozcity": 2, "Disclosing Party": 8, "Recipient": 8, "Original Equipment Suppliers Association": 1, "Representatives": 2, "State of California": 1}
-{"Excelerate, Inc.": 3, "Burton Technical Group": 1, "Second Party": 4, "Party": 10, "Parties": 11, "disclosing Party": 8, "receiving Party": 10}
+{"Excelerate, Inc.": 3, "Burton Technical Group": 1, "Second Party": 4, "Party": 10, "Parties": 11, "disclosing Party": 8, "receiving Party": 10, "Excelerate": 4}
 {"Metro Vancouver Office Project": 2, "First Nations Health Authority": 4, "FNHA": 9, "Company": 10, "RFP": 5, "Freedom of Information and Protection of Privacy Act": 1, "Province of British Columbia": 1, "BC courts": 1}
 {"Focus Group": 5, "company": 4, "Owner": 2, "Kenall Manufacturing, Co.": 1}
 {"the company": 4, "Furtwangen University": 3, "the university": 3, "contracting parties": 4, "university": 5, "receiving party": 2, "parties": 1, "Dean": 1, "company": 2, "university law": 1, "university and the student": 1, "university and the student but a relationship governed by examination regulations": 1, "university does not have the right": 1, "university is not liable": 1, "Furtwangen University, Stamp": 1, "Company, Stamp": 1, "Company Representative": 1, "Thesis Supervisor": 1, "2nd HFU-Supervisor": 1}
 {"GreenStorm Solutions Pty Ltd": 1, "Party-1": 2, "Party-2": 2, "Parties": 15, "party": 5}
 {"Grindrod South Africa (Proprietary) Limited": 1, "Vendor": 8, "Grindrod SA": 9, "Parties": 1}
 {"BOARD OF GOVERNORS": 1, "Hispanic National Bar Association": 4, "HNBA": 12, "Board Member": 14, "Party": 5, "Parties": 3, "Board of Governors": 1}
-{"Insurance Bureau of Canada": 3, "Vendor": 8, "Financial Services Commission of Ontario": 1, "Ontario insurance regulator": 1, "Insurers": 2, "Providers": 2, "HCAI System": 10, "PMS System": 4, "Provider": 3, "Insurer": 2, "Personal Information Protection and Electronic Documents Act": 2, "Personal Health Information Protection Act": 2, "Privacy Laws": 1, "HCAI Electronic Access Terms and Conditions": 1, "Services": 1, "EULA": 3, "HCAI": 1}
+{"Insurance Bureau of Canada": 3, "IBC": 3, "Vendor": 8, "Financial Services Commission of Ontario": 1, "Ontario insurance regulator": 1, "Insurers": 2, "Providers": 2, "HCAI System": 10, "PMS System": 4, "Provider": 3, "Insurer": 2, "Personal Information Protection and Electronic Documents Act": 2, "Personal Health Information Protection Act": 2, "Privacy Laws": 1, "HCAI Electronic Access Terms and Conditions": 1, "Services": 1, "EULA": 3, "HCAI": 1, "PRACTICE MANAGEMENT SYSTEM": 1, "PMS": 1}
 {"LONDON SCHOOL OF ECONOMICS & POLITICAL SCIENCE": 2, "PARTY": 8, "Disclosing Party": 8, "Recipient": 5, "Recipient Party": 1, "DISCLOSING PARTY": 1, "LSE": 2}
 {"Infomagnet Ltd.": 2, "Disclosing Party": 12, "Receiving Party": 13, "Agreement": 1, "England and Wales": 2}
 {"COMPANY X": 8, "COMPANY Y": 8, "Party": 12, "Parties": 8}

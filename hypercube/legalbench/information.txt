@@ -14,16 +14,16 @@
 {"confidential information": 2, "technical information": 0, "public information": 1, "news": 0}
 {"confidential information": 15, "technical information": 1, "public information": 1, "Confidential Information": 15}
 {"confidential information": 12, "technical information": 0, "public information": 1, "news": 0, "disclose Confidential Information": 1}
-{"confidential information": 22, "technical information": 1, "public information": 1, "news": 0}
-{"confidential information": 15, "technical information": 0, "public information": 1, "news": 0}
-{"confidential information": 4, "technical information": 1, "public information": 2, "news": 0}
-{"confidential information": 15, "technical information": 0, "public information": 0, "news": 0}
+{"confidential information": 22, "technical information": 1, "public information": 1, "news": 0, "Confidential Information": 22}
+{"confidential information": 15, "technical information": 0, "public information": 1, "news": 0, "Confidential Information": 15}
+{"confidential information": 4, "technical information": 1, "public information": 2, "news": 0, "Confidential Information": 4}
+{"confidential information": 15, "technical information": 0, "public information": 0, "news": 0, "Confidential Information": 20}
 {"confidential information": 5, "technical information": 1, "public information": 0, "news": 0}
 {"confidential information": 10, "technical information": 0, "public information": 1, "news": 0}
-{"confidential information": 10, "technical information": 1, "public information": 0, "news": 0}
+{"confidential information": 10, "technical information": 1, "public information": 0, "news": 0, "Confidential Information": 1}
 {"confidential information": 10, "technical information": 1, "public information": 1}
-{"confidential information": 10, "technical information": 0, "public information": 2, "news": 0}
-{"confidential information": 10, "technical information": 1, "public information": 1, "news": 0}
+{"confidential information": 10, "technical information": 0, "public information": 2, "news": 0, "Confidential Information": 21}
+{"confidential information": 10, "technical information": 1, "public information": 1, "news": 0, "Confidential Information": 26}
 {"confidential information": 21, "technical information": 0, "public information": 1, "news": 0, "Confidential Information": 21}
 {"confidential information": 18, "technical information": 0, "public information": 1, "news": 0}
 {"confidential information": 28, "technical information": 0, "public information": 1, "news": 0}

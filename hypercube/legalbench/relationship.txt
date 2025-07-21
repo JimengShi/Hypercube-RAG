@@ -16,16 +16,16 @@
 {"agreement": 15, "party": 14, "parties": 10, "disclosing party": 8, "receiving party": 4, "confidential information": 10, "consent": 3, "relationship": 1}
 {"relationship": 3, "business relationship": 2, "joint venture": 1, "partnership": 1, "employment relationship": 1}
 {"relationship": 1, "business relationship": 1, "employment": 1, "joint venture": 1, "agency relationship": 1}
-{"relationship": 1, "agreement": 1, "parties": 5, "party": 10}
+{"relationship": 1, "agreement": 1, "parties": 5, "party": 10, "Receiving Party": 1}
 {"relationship": 1, "partners": 1, "independent contractors": 1, "agency": 1}
 {"Focus Group": 5, "Non\u2010Disclosure Agreement": 2, "confidentiality": 2, "trust": 2, "participants": 1, "Personally Identifiable Information": 1, "identity": 1, "Respondent": 1, "employer(s)": 1}
 {"Non-Disclosure Agreement": 1, "contracting parties": 3, "cooperation": 2, "mutual trust": 1, "disagreements": 1, "amicably": 1, "confidential information": 6, "confidentiality": 5, "relationship": 1, "examination regulations": 2, "bilateral confidentiality agreements": 1}
 {"relationship": 2, "business relationships": 1, "non-disclosure": 1, "non-circumvention": 1, "non-solicitation": 1, "non-competition": 1, "confidentiality": 2, "business contacts": 1, "business entity formation": 1, "partnership": 1, "agency": 1, "fiduciary duty": 1}
 {"relationship": 1, "contractual relationships": 1, "agreement": 3, "understanding": 3, "interaction": 3, "obligation": 2, "duties": 2, "promises": 2, "contract": 2, "order": 2, "parties": 1}
-{"relationship": 1, "membership": 2, "parties": 5, "party": 4, "board member": 10, "candidate": 3, "candidates": 2}
-{"agreement": 5, "relationship": 1, "parties": 4, "confidential information": 15, "vendor": 20, "insurer": 3, "provider": 5, "claim request": 4, "claim response": 2, "personal information": 3, "privacy laws": 2, "services": 2, "obligations": 3, "liability": 2, "rights": 2, "damages": 3, "warranty": 2, "jurisdiction": 2, "successors": 1, "assigns": 1}
-{"agreement": 10, "party": 20, "parties": 10, "relationship": 1, "partnership": 1, "joint venture": 1, "Disclosing Party":28}
-{"Agreement": 10, "relationship": 2, "business relationship": 2}
+{"relationship": 1, "membership": 2, "parties": 5, "party": 4, "board member": 10, "candidate": 3, "candidates": 2, "third parties": 1, "third party": 1}
+{"agreement": 5, "relationship": 1, "parties": 4, "confidential information": 15, "vendor": 20, "insurer": 3, "provider": 5, "claim request": 4, "claim response": 2, "personal information": 3, "privacy laws": 2, "services": 2, "obligations": 3, "liability": 2, "rights": 2, "damages": 3, "warranty": 2, "jurisdiction": 2, "successors": 1, "assigns": 1, "third party": 2, "third parties": 2}
+{"agreement": 10, "party": 20, "parties": 10, "relationship": 1, "partnership": 1, "joint venture": 1, "Disclosing Party": 28}
+{"Agreement": 10, "relationship": 2, "business relationship": 2, "Receiving Party": 27}
 {"relationship": 2, "Party": 10, "Parties": 8, "Discloser": 8, "Recipient": 8, "Confidential Information": 20}
 {"agreement": 11, "confidentiality": 8, "disclosure": 6, "information": 15, "party": 15, "parties": 10, "consent": 2, "relationship": 1, "cooperation": 1, "communication": 1, "obligation": 2, "licensees": 1, "successors": 2, "assigns": 2, "understanding": 1, "representatives": 1}
 {"relationship": 1, "parties": 5, "contract": 8, "agreement": 10, "confidentiality": 2, "business": 5, "employment": 2, "partnerships": 1, "alliances": 1, "non-disclosure": 2, "non-solicitation": 1, "non-competition": 1}
