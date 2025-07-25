@@ -1,0 +1,1920 @@
+[
+  {
+    "index": 1,
+    "question": "1/2000 in UK have abnormal PrP positivity.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      2233
+    ]
+  },
+  {
+    "index": 2,
+    "question": "1,000 genomes project enables mapping of genetic sequence variation consisting of rare variants with larger penetrance effects than common variants.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      2426
+    ]
+  },
+  {
+    "index": 3,
+    "question": "A high microerythrocyte count raises vulnerability to severe anemia in homozygous alpha (+)- thalassemia trait subjects.",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      2814
+    ]
+  },
+  {
+    "index": 4,
+    "question": "A total of 1,000 people in the UK are asymptomatic carriers of vCJD infection.",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      2233
+    ]
+  },
+  {
+    "index": 5,
+    "question": "ADAR1 binds to Dicer to cleave pre-miRNA.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      1101
+    ]
+  },
+  {
+    "index": 6,
+    "question": "AIRE is expressed in some skin tumors.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      2065
+    ]
+  },
+  {
+    "index": 7,
+    "question": "ALDH1 expression is associated with better breast cancer outcomes.",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      4968
+    ]
+  },
+  {
+    "index": 8,
+    "question": "ALDH1 expression is associated with poorer prognosis in breast cancer.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      4968
+    ]
+  },
+  {
+    "index": 9,
+    "question": "AMP-activated protein kinase (AMPK) activation increases inflammation-related fibrosis in the lungs.",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      5014
+    ]
+  },
+  {
+    "index": 10,
+    "question": "APOE4 expression in iPSC-derived neurons increases AlphaBeta production and tau phosphorylation causing GABA neuron degeneration.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      918
+    ]
+  },
+  {
+    "index": 11,
+    "question": "APOE4 expression in iPSC-derived neurons increases AlphaBeta production and tau phosphorylation, delaying GABA neuron degeneration.",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      918
+    ]
+  },
+  {
+    "index": 12,
+    "question": "Activation of PPM1D suppresses p53 function.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      1103,
+      817
+    ]
+  },
+  {
+    "index": 13,
+    "question": "All hematopoietic stem cells segregate their chromosomes randomly.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      783
+    ]
+  },
+  {
+    "index": 14,
+    "question": "Angiotensin converting enzyme inhibitors are associated with increased risk for functional renal insufficiency.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      1138
+    ]
+  },
+  {
+    "index": 15,
+    "question": "Anthrax spores can be disposed of easily after they are dispersed.",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      4357
+    ]
+  },
+  {
+    "index": 16,
+    "question": "Antibiotic induced alterations in the gut microbiome reduce resistance against Clostridium difficile",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      1176
+    ]
+  },
+  {
+    "index": 17,
+    "question": "Antiretroviral therapy reduces rates of tuberculosis across a broad range of CD4 strata.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      937
+    ]
+  },
+  {
+    "index": 18,
+    "question": "Articles published in open access format are less likely to be cited than traditional journals.",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      4012
+    ]
+  },
+  {
+    "index": 19,
+    "question": "Articles published in open access format are more likely to be cited than traditional journals.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      4012
+    ]
+  },
+  {
+    "index": 20,
+    "question": "Assembly of invadopodia is triggered by focal generation of phosphatidylinositol-3,4-biphosphate and the activation of the nonreceptor tyrosine kinase Src.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      4621,
+      1280,
+      2787,
+      2610,
+      2072
+    ]
+  },
+  {
+    "index": 21,
+    "question": "Asymptomatic visual impairment screening in elderly populations does not lead to improved vision.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      3854
+    ]
+  },
+  {
+    "index": 22,
+    "question": "Auditory entrainment is strengthened when people see congruent visual and auditory information.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      1276,
+      2382
+    ]
+  },
+  {
+    "index": 23,
+    "question": "Autologous transplantation of mesenchymal stem cells causes a higher rate of opportunistic infections than induction therapy with anti-interleukin-2 receptor antibodies.",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      1808
+    ]
+  },
+  {
+    "index": 24,
+    "question": "Autologous transplantation of mesenchymal stem cells causes fewer opportunistic infections than induction therapy with anti-interleukin-2 receptor antibodies.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      1808
+    ]
+  },
+  {
+    "index": 25,
+    "question": "Autologous transplantation of mesenchymal stem cells has lower rates of rejection than induction therapy with anti-interleukin-2 receptor antibodies.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      1808
+    ]
+  },
+  {
+    "index": 26,
+    "question": "Autophagy declines in aged organisms.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      197
+    ]
+  },
+  {
+    "index": 27,
+    "question": "Bariatric surgery has a positive impact on mental health.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      2884
+    ]
+  },
+  {
+    "index": 28,
+    "question": "Basophils counteract disease development in patients with systemic lupus erythematosus (SLE).",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      2082
+    ]
+  },
+  {
+    "index": 29,
+    "question": "Birth-weight is positively associated with breast cancer.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      2614,
+      3956,
+      3465,
+      2734
+    ]
+  },
+  {
+    "index": 30,
+    "question": "Blocking the interaction between TDP-43 and respiratory complex I proteins ND3 and ND6 leads to increased TDP-43-induced neuronal loss.",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      2684
+    ]
+  },
+  {
+    "index": 31,
+    "question": "Bone marrow cells contribute to adult macrophage compartments.",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      2104
+    ]
+  },
+  {
+    "index": 32,
+    "question": "Breast cancer development is determined exclusively by genetic factors.",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      2833
+    ]
+  },
+  {
+    "index": 33,
+    "question": "CHEK2 is not associated with breast cancer.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      2210
+    ]
+  },
+  {
+    "index": 34,
+    "question": "CR is associated with higher methylation age.",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      3271
+    ]
+  },
+  {
+    "index": 35,
+    "question": "CX3CR1 on the Th2 cells impairs T cell survival",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      3173
+    ]
+  },
+  {
+    "index": 36,
+    "question": "CX3CR1 on the Th2 cells promotes T cell survival",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      3173
+    ]
+  },
+  {
+    "index": 37,
+    "question": "CX3CR1 on the Th2 cells promotes airway inflammation.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      3173
+    ]
+  },
+  {
+    "index": 38,
+    "question": "CX3CR1 on the Th2 cells suppresses airway inflammation.",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      3173
+    ]
+  },
+  {
+    "index": 39,
+    "question": "Carriers of the alcohol aldehyde dehydrogenase deficiency mutation drink less that non-carries.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      552
+    ]
+  },
+  {
+    "index": 40,
+    "question": "Cell autonomous sex determination in somatic cells does not occur in Galliformes.",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      789
+    ]
+  },
+  {
+    "index": 41,
+    "question": "Cell autonomous sex determination in somatic cells occurs in Passeriformes.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      789
+    ]
+  },
+  {
+    "index": 42,
+    "question": "Cellular aging closely links to an older appearance.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      2321
+    ]
+  },
+  {
+    "index": 43,
+    "question": "Chenodeosycholic acid treatment increases whole-body energy expenditure.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      282
+    ]
+  },
+  {
+    "index": 44,
+    "question": "Chenodeosycholic acid treatment reduces whole-body energy expenditure.",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      282
+    ]
+  },
+  {
+    "index": 45,
+    "question": "Chronic aerobic exercise alters endothelial function, improving vasodilating mechanisms mediated by NO.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      201,
+      1829
+    ]
+  },
+  {
+    "index": 46,
+    "question": "Combination nicotine replacement therapies with varenicline or bupropion lead to significantly higher long-term abstinence rates at 52 weeks than varenicline monotherapy.",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      1940
+    ]
+  },
+  {
+    "index": 47,
+    "question": "Combining phosphatidylinositide 3-kinase and MEK 1/2 inhibitors is effective at treating KRAS mutant tumors.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      954,
+      2350,
+      2438
+    ]
+  },
+  {
+    "index": 48,
+    "question": "Commelina yellow mottle virus' (ComYMV) genome consists of 7489 baise pairs.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      2371
+    ]
+  },
+  {
+    "index": 49,
+    "question": "Crosstalk between dendritic cells (DCs) and innate lymphoid cells (ILCs) is important in the regulation of intestinal homeostasis.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      3031
+    ]
+  },
+  {
+    "index": 50,
+    "question": "Cytochrome c is released from the mitochondrial intermembrane space to cytosol during apoptosis.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      4672
+    ]
+  },
+  {
+    "index": 51,
+    "question": "Deamination of cytidine to uridine on the minus strand of viral DNA results in catastrophic G-to-A mutations in the viral genome.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      769
+    ]
+  },
+  {
+    "index": 52,
+    "question": "Deletion of αvβ8 does not result in a spontaneous inflammatory phenotype.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      2795
+    ]
+  },
+  {
+    "index": 53,
+    "question": "Dexamethasone decreases risk of postoperative bleeding.",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      3439
+    ]
+  },
+  {
+    "index": 54,
+    "question": "Diabetic patients with acute coronary syndrome experience increased short-term and long-term risk for bleeding events.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      1421,
+      1091
+    ]
+  },
+  {
+    "index": 55,
+    "question": "Enhanced early production of inflammatory chemokines improves viral control in the lung.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      2899
+    ]
+  },
+  {
+    "index": 56,
+    "question": "Epigenetic modulating agents (EMAs) modulate antitumor immune response in a cancer model system.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      1723,
+      1701
+    ]
+  },
+  {
+    "index": 57,
+    "question": "Errors in peripheral IV drug administration are most common during bolus administration and multiple-step medicine preparations.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      2631
+    ]
+  },
+  {
+    "index": 58,
+    "question": "Exposure to fine particulate air pollution is relate to anxiety prevalence.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      146
+    ]
+  },
+  {
+    "index": 59,
+    "question": "Female carriers of the Apolipoprotein E4 (APOE4) allele have increased risk for dementia.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      1165
+    ]
+  },
+  {
+    "index": 60,
+    "question": "FoxO3a activation in neuronal death is mediated by reactive oxygen species (ROS).",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      4087
+    ]
+  },
+  {
+    "index": 61,
+    "question": "Free histones are degraded by a Rad53-dependent mechanism once DNA has been replicated.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      2411
+    ]
+  },
+  {
+    "index": 62,
+    "question": "GATA-3 is important for hematopoietic stem cell (HSC) function.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      1751
+    ]
+  },
+  {
+    "index": 63,
+    "question": "Gene expression does not vary appreciably across genetically identical cells.",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      2099,
+      91
+    ]
+  },
+  {
+    "index": 64,
+    "question": "Glycolysis is one of the primary glycometabolic pathways in cells.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      2868
+    ]
+  },
+  {
+    "index": 65,
+    "question": "Headaches are not correlated with cognitive impairment.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      2785
+    ]
+  },
+  {
+    "index": 66,
+    "question": "High cardiopulmonary fitness causes increased mortality rate.",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      2161
+    ]
+  },
+  {
+    "index": 67,
+    "question": "High levels of CRP reduces the risk of exacerbations in chronic obstructive pulmonary disease (COPD).",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      4131
+    ]
+  },
+  {
+    "index": 68,
+    "question": "High-sensitivity cardiac troponin T (HSCT-T) dosage may not be diagnostic if the onset of symptoms occurs less than 3 hours before acute myocardial injury (AMI).",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      4424
+    ]
+  },
+  {
+    "index": 69,
+    "question": "Histone demethylase recruitment and a transient decrease in histone methylation is necessary for ligand-dependent induction of transcription by nuclear receptors.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      2226
+    ]
+  },
+  {
+    "index": 70,
+    "question": "Human T-lymphotropic virus type-I-associated myelopathy / tropical spastic paraparesis (HAM/TSP) patients produce Immunoglobulin G (IgG) antibodies which cross-react with an immunodominant epitope in Tax.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      1028
+    ]
+  },
+  {
+    "index": 71,
+    "question": "Hyperfibrinogenemia decreases rates of femoropopliteal bypass thrombosis.",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      2125
+    ]
+  },
+  {
+    "index": 72,
+    "question": "Hyperfibrinogenemia increases rates of femoropopliteal bypass thrombosis.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      2125
+    ]
+  },
+  {
+    "index": 73,
+    "question": "Hypocretin neurones induce panicprone state in rats.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      2584
+    ]
+  },
+  {
+    "index": 74,
+    "question": "Hypoglycemia increases the risk of dementia.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      2171
+    ]
+  },
+  {
+    "index": 75,
+    "question": "Hypothalamic glutamate neurotransmission is crucial to energy balance.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      1976,
+      3688
+    ]
+  },
+  {
+    "index": 76,
+    "question": "IRG1 has antiviral effects against neurotropic viruses.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      1642
+    ]
+  },
+  {
+    "index": 77,
+    "question": "In adult tissue, most T cells are memory T cells.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      3456
+    ]
+  },
+  {
+    "index": 78,
+    "question": "In mouse models, the loss of CSF1R facilitates MOZ-TIF2-induced leuekmogenesis.",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      1560
+    ]
+  },
+  {
+    "index": 79,
+    "question": "In young and middle-aged adults, current or remote uses of ADHD medications do not increase the risk of serious cardiovascular events.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      1860
+    ]
+  },
+  {
+    "index": 80,
+    "question": "Incidence of heart failure decreased by 10% in women since 1979.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      2962
+    ]
+  },
+  {
+    "index": 81,
+    "question": "Incidence rates of cervical cancer have decreased.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      2092,
+      4499,
+      3803
+    ]
+  },
+  {
+    "index": 82,
+    "question": "Incidence rates of cervical cancer have increased due to nationwide screening programs based primarily on cytology to detect uterine cervical cancer.",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      3803
+    ]
+  },
+  {
+    "index": 83,
+    "question": "Increased microtubule acetylation repairs LRRK2 Roc-COR domain mutation induced locomotor deficits.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      1677
+    ]
+  },
+  {
+    "index": 84,
+    "question": "Increased vessel density along with a reduction in fibrosis decreases the efficacy of chemotherapy treatments.",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      3112,
+      473
+    ]
+  },
+  {
+    "index": 85,
+    "question": "Inositol lipid 3-phosphatase PTEN converts Ptdlns(3,4)P 2 into phosphatidylinositol 4-phosphate.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      3572
+    ]
+  },
+  {
+    "index": 86,
+    "question": "Insomnia can be effectively treated with cognitive behavioral therapy.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      1093,
+      4232
+    ]
+  },
+  {
+    "index": 87,
+    "question": "LDL cholesterol has no involvement in the development of cardiovascular disease.",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      390
+    ]
+  },
+  {
+    "index": 88,
+    "question": "Leuko-increased blood increases infectious complications in red blood cell transfusion.",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      3543
+    ]
+  },
+  {
+    "index": 89,
+    "question": "Leuko-reduced blood reduces infectious complications in red blood cell transfusion.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      3543
+    ]
+  },
+  {
+    "index": 90,
+    "question": "Low nucleosome occupancy correlates with low methylation levels across species.",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      2747
+    ]
+  },
+  {
+    "index": 91,
+    "question": "Lupus-prone mice infected with curliproducing bacteria have higher autoantibody titers compared to controls.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      333
+    ]
+  },
+  {
+    "index": 92,
+    "question": "Ly49Q directs the organization of neutrophil migration to inflammation sites by regulating membrane raft functions.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      1038
+    ]
+  },
+  {
+    "index": 93,
+    "question": "Ly6C hi monocytes have a lower inflammatory capacity than Ly6C lo monocytes.",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      1365,
+      4506
+    ]
+  },
+  {
+    "index": 94,
+    "question": "Lymphadenopathy is observed in knockin mouse lacking the SHP-2 MAPK pathway.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      3933
+    ]
+  },
+  {
+    "index": 95,
+    "question": "Macrolides have no protective effect against myocardial infarction.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      4262
+    ]
+  },
+  {
+    "index": 96,
+    "question": "Macrolides protect against myocardial infarction.",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      4262
+    ]
+  },
+  {
+    "index": 97,
+    "question": "Macropinocytosis contributes to a cell's supply of amino acids via the intracellular uptake of protein.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      1506
+    ]
+  },
+  {
+    "index": 98,
+    "question": "Many proteins in human cells can be post-translationally modified at lysine residues via acetylation.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      521
+    ]
+  },
+  {
+    "index": 99,
+    "question": "Mathematical models predict that using Artemisinin-based combination therapy over nongametocytocidal drugs have a dramatic impact in reducing malaria transmission.",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      330
+    ]
+  },
+  {
+    "index": 100,
+    "question": "Metastatic colorectal cancer treated with a single agent fluoropyrimidines resulted in reduced efficacy and lower quality of life when compared with oxaliplatin-based chemotherapy in elderly patients.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      2503
+    ]
+  },
+  {
+    "index": 101,
+    "question": "Mice that lack Interferon-γ or its receptor exhibit high resistance to experimental autoimmune myocarditis.",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      3580
+    ]
+  },
+  {
+    "index": 102,
+    "question": "MicroRNA is involved in the regulation of Neural Stem Cell (NSC) differentiation and proliferation dynamic homeostasis",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      434
+    ]
+  },
+  {
+    "index": 103,
+    "question": "Mitochondria are uninvolved in apoptosis.",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      1522
+    ]
+  },
+  {
+    "index": 104,
+    "question": "Monoclonal antibody targeting of N-cadherin inhibits metastasis.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      3288
+    ]
+  },
+  {
+    "index": 105,
+    "question": "Most termination events in Okazaki fragments are sequence specific.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      4514
+    ]
+  },
+  {
+    "index": 106,
+    "question": "Mutant mice lacking SVCT2 have greatly increased ascorbic acid levels in both brain and adrenals.",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      2972
+    ]
+  },
+  {
+    "index": 107,
+    "question": "N348I mutations cause resistance to zidovudine (AZT).",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      2485
+    ]
+  },
+  {
+    "index": 108,
+    "question": "NFAT4 activation requires IP3R-mediated Ca2+ mobilization.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      4168
+    ]
+  },
+  {
+    "index": 109,
+    "question": "NR5A2 is important in development of endometrial tissues.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      2565
+    ]
+  },
+  {
+    "index": 110,
+    "question": "Nanoparticles can be targeted against specific cell types by incorporating aptamers into lipid nanoparticles.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      267
+    ]
+  },
+  {
+    "index": 111,
+    "question": "Neutrophil extracellular traps (NETs) are released by ANCA-stimulated neutrophils.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      2767
+    ]
+  },
+  {
+    "index": 112,
+    "question": "New drugs for tuberculosis often do not penetrate the necrotic portion of a tuberculosis lesion in high concentrations.",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      2667
+    ]
+  },
+  {
+    "index": 113,
+    "question": "Non-invasive ventilation use should be decreased if there is inadequate response to conventional treatment.",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      2261
+    ]
+  },
+  {
+    "index": 114,
+    "question": "Normal expression of RUNX1 has tumor-promoting effects.",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      366
+    ]
+  },
+  {
+    "index": 115,
+    "question": "Obesity is determined solely by environmental factors.",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      209,
+      2920,
+      3980,
+      4091,
+      592
+    ]
+  },
+  {
+    "index": 116,
+    "question": "Occupancy of ribosomes by IncRNAs do not make functional peptides.",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      1497
+    ]
+  },
+  {
+    "index": 117,
+    "question": "Occupancy of ribosomes by IncRNAs mirror 5 0-UTRs",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      1497
+    ]
+  },
+  {
+    "index": 118,
+    "question": "Omnivores produce less trimethylamine N-oxide from dietary I-carnitine than vegetarians.",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      2436
+    ]
+  },
+  {
+    "index": 119,
+    "question": "PD-1 triggering on monocytes reduces IL-10 production by monocytes.",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      1819
+    ]
+  },
+  {
+    "index": 120,
+    "question": "PDPN promotes efficient motility along stromal surfaces by activating the C-type lectin receptor to rearrange the actin cytoskeleton in dendritic cells.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      1336
+    ]
+  },
+  {
+    "index": 121,
+    "question": "PKG-la plays an essential role in expression of pain hypersensitivity in PGK-la knockout mice.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      1894
+    ]
+  },
+  {
+    "index": 122,
+    "question": "Participating in six months of physical activity improves cognitive functioning.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      300
+    ]
+  },
+  {
+    "index": 123,
+    "question": "Patients in stable partnerships have a faster progression from HIV to AIDS.",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      2695
+    ]
+  },
+  {
+    "index": 124,
+    "question": "Peroxynitrite is required for nitration of TCR/CD8.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      1029
+    ]
+  },
+  {
+    "index": 125,
+    "question": "Podocytes are motile and migrate in the presence of injury.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      24
+    ]
+  },
+  {
+    "index": 126,
+    "question": "Polymeal nutrition reduces cardiovascular mortality.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      1563
+    ]
+  },
+  {
+    "index": 127,
+    "question": "Pretreatment with the Arp2/3 inhibitor CK-666 affects lamelliopodia formation.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      394,
+      1584
+    ]
+  },
+  {
+    "index": 128,
+    "question": "Primary cervical cancer screening with HPV detection has higher longitudinal sensitivity than conventional cytology to detect cervical intraepithelial neoplasia grade 2.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      5002,
+      4020,
+      4066,
+      1700
+    ]
+  },
+  {
+    "index": 129,
+    "question": "Proteins synthesized at the growth cone are ubiquitinated at a higher rate than proteins from the cell body.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      543
+    ]
+  },
+  {
+    "index": 130,
+    "question": "Pseudogene PTENP1 regulates the expression of PTEN by functioning as an miRNA decoy.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      1256
+    ]
+  },
+  {
+    "index": 131,
+    "question": "Pyridostatin destabilizes the G - quadruplex in the telomeric region.",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      2628
+    ]
+  },
+  {
+    "index": 132,
+    "question": "Radioiodine treatment of non-toxic multinodular goitre reduces thyroid volume.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      1695
+    ]
+  },
+  {
+    "index": 133,
+    "question": "Rapid phosphotransfer rates govern fidelity in two component systems",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      1939
+    ]
+  },
+  {
+    "index": 134,
+    "question": "Rapid up-regulation and higher basal expression of interferon-induced genes increase survival of granule cell neurons that are infected by West Nile virus.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      1642
+    ]
+  },
+  {
+    "index": 135,
+    "question": "Rapid up-regulation and higher basal expression of interferon-induced genes reduce survival of granule cell neurons that are infected by West Nile virus.",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      1642
+    ]
+  },
+  {
+    "index": 136,
+    "question": "Recurrent mutations occur frequently within CTCF anchor sites adjacent to oncogenes.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      1008
+    ]
+  },
+  {
+    "index": 137,
+    "question": "Reduced responsiveness to interleukin-2 in regulatory T cells is associated with greater resistance to autoimmune diseases such as Type 1 Diabetes.",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      2292,
+      2298,
+      1978
+    ]
+  },
+  {
+    "index": 138,
+    "question": "Replacement of histone H2A with H2A.Z slows gene activation in yeasts by stabilizing +1 nucleosomes.",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      3722,
+      2644
+    ]
+  },
+  {
+    "index": 139,
+    "question": "Ribosomopathies have a low degree of cell and tissue specific pathology.",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      2057
+    ]
+  },
+  {
+    "index": 140,
+    "question": "S-nitrosylated GAPDH physiologically transnitrosylates histone deacetylases.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      3046
+    ]
+  },
+  {
+    "index": 141,
+    "question": "Sildenafil improves erectile function in men who experience sexual dysfunction as a result of the use of SSRI antidepressants.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      4663
+    ]
+  },
+  {
+    "index": 142,
+    "question": "Silencing of Bcl2 is important for the maintenance and progression of tumors.",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      4571
+    ]
+  },
+  {
+    "index": 143,
+    "question": "Smc5/6 engagment drives the activation of SUMO E3 ligase Mms21 by ATP-dependent remolding.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      2752
+    ]
+  },
+  {
+    "index": 144,
+    "question": "Stroke patients with prior use of direct oral anticoagulants have a lower risk of in-hospital mortality than stroke patients with prior use of warfarin.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      704
+    ]
+  },
+  {
+    "index": 145,
+    "question": "Subcutaneous fat depots undergo extensive browning processes after cold exposure.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      3067
+    ]
+  },
+  {
+    "index": 146,
+    "question": "Suboptimal nutrition is not predictive of chronic disease",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      2241
+    ]
+  },
+  {
+    "index": 147,
+    "question": "Synaptic activity enhances local release of brain derived neurotrophic factor from postsynaptic dendrites.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      862
+    ]
+  },
+  {
+    "index": 148,
+    "question": "T regulatory cells (tTregs) lacking αvβ8 are more adept at suppressing pathogenic T-cell responses during active inflammation.",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      2795
+    ]
+  },
+  {
+    "index": 149,
+    "question": "TCR/CD3 microdomains are a required to induce the immunologic synapse to activate T cells.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      4337,
+      1625
+    ]
+  },
+  {
+    "index": 150,
+    "question": "TNFAIP3 is a tumor suppressor in glioblastoma.",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      6
+    ]
+  },
+  {
+    "index": 151,
+    "question": "Taking 400mg of α-tocopheryl acetate helps to prevent prostate cancer.",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      1996
+    ]
+  },
+  {
+    "index": 152,
+    "question": "Taxation of sugar-sweetened beverages had no effect on the incidence rate of type II diabetes in India.",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      1742
+    ]
+  },
+  {
+    "index": 153,
+    "question": "Teaching hospitals do not provide better care than non-teaching hospitals.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      2278
+    ]
+  },
+  {
+    "index": 154,
+    "question": "Tetraspanin-3 is a causative factor in the development of acute myelogenous leukemia",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      1911
+    ]
+  },
+  {
+    "index": 155,
+    "question": "The DdrB protein from Deinococcus radiodurans is an alternative SSB.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      2484
+    ]
+  },
+  {
+    "index": 156,
+    "question": "The PRR MDA5 is a sensor of RNA virus infection.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      4217
+    ]
+  },
+  {
+    "index": 157,
+    "question": "The US health care system can save up to $750 million if 7% of patients waiting for kidney transplants participate in the optimized national kidney paired donation program.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      2664
+    ]
+  },
+  {
+    "index": 158,
+    "question": "The YAP1 and TEAD complex tanslocates into the nucleus where it interacts with transcription factors and DNA-binding proteins that modulate target gene transcription.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      5035
+    ]
+  },
+  {
+    "index": 159,
+    "question": "The center of the granuloma in an immune cell induces a pro-inflammatory immune response.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      618
+    ]
+  },
+  {
+    "index": 160,
+    "question": "The extracellular domain of TMEM27 is cleaved in human beta cells.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      3546
+    ]
+  },
+  {
+    "index": 161,
+    "question": "The genomic aberrations found in matasteses are very similar to those found in the primary tumor.",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      2968
+    ]
+  },
+  {
+    "index": 162,
+    "question": "The locus rs647161 is associated with colorectal carcinoma.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      1681
+    ]
+  },
+  {
+    "index": 163,
+    "question": "The minor G allele of FOXO3 is related to more severe symptoms of Crohn's Disease.",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      2277
+    ]
+  },
+  {
+    "index": 164,
+    "question": "The myocardial lineage develops from cardiac progenitors of mesodermal origin.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      842
+    ]
+  },
+  {
+    "index": 165,
+    "question": "The relationship between a breast cancer patient's capacity to metabolize tamoxifen and treatment outcome is dependent on the patient's genetic make-up.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      3581
+    ]
+  },
+  {
+    "index": 166,
+    "question": "The repair of Cas9-induced double strand breaks in human DNA is error-prone.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      4912
+    ]
+  },
+  {
+    "index": 167,
+    "question": "The risk of breast cancer among parous women increases with placental weight of pregnancies, and this association is strongest for premenopausal breast cancer.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      4569
+    ]
+  },
+  {
+    "index": 168,
+    "question": "The risk of male prisoners harming themselves is ten times that of female prisoners.",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      2273
+    ]
+  },
+  {
+    "index": 169,
+    "question": "The severity of cardiac involvement in amyloidosis can be described by the degree of transmurality of late gadolinium enhancement in MRI.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      2240
+    ]
+  },
+  {
+    "index": 170,
+    "question": "The sliding activity of kinesin-8 protein Kip3 promotes bipolar spindle assembly.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      1869
+    ]
+  },
+  {
+    "index": 171,
+    "question": "The tip of the inner tube of the toxic type VI secretion system (T6SS) antibacterial effector in Escherichia coli (E. coli) carries toxic effector proteins.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      2048,
+      4011,
+      807
+    ]
+  },
+  {
+    "index": 172,
+    "question": "There is an inverse relationship between hip fractures and statin use.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      910
+    ]
+  },
+  {
+    "index": 173,
+    "question": "Thigh-length graduated compression stockings (GCS) did not reduce deep vein thrombosis in patients admitted to hospital who are immobile because of acute stroke.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      1954
+    ]
+  },
+  {
+    "index": 174,
+    "question": "Tirasemtiv has no effect on fast-twitch muscle.",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      2071
+    ]
+  },
+  {
+    "index": 175,
+    "question": "Transplanted human glial cells can differentiate within the host animal.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      2611
+    ]
+  },
+  {
+    "index": 176,
+    "question": "Transplanted human glial progenitor cells are incapable of forming a neural network with host animals' neurons.",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      2611
+    ]
+  },
+  {
+    "index": 177,
+    "question": "UCB T cells maintain high TCR diversity after transplantation.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      4024
+    ]
+  },
+  {
+    "index": 178,
+    "question": "UCB T cells reduce TCR diversity after transplantation.",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      4024
+    ]
+  },
+  {
+    "index": 179,
+    "question": "Ubiquitin ligase UBC13 generates a K63-linked polyubiquitin moiety at PCNA K164.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      3023
+    ]
+  },
+  {
+    "index": 180,
+    "question": "Ultrasound guidance significantly raises the number of traumatic procedures when attempting needle insertion.",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      2505
+    ]
+  },
+  {
+    "index": 181,
+    "question": "Upregulation of mosGCTL-1 is induced upon infection with West Nile virus.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      2112
+    ]
+  },
+  {
+    "index": 182,
+    "question": "Varenicline monotherapy is more effective after 12 weeks of treatment compared to combination nicotine replacement therapies with varenicline or bupropion.",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      1940
+    ]
+  },
+  {
+    "index": 183,
+    "question": "Vitamin D deficiency effects the term of delivery.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      447
+    ]
+  },
+  {
+    "index": 184,
+    "question": "Vitamin D deficiency is unrelated to birth weight.",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      447
+    ]
+  },
+  {
+    "index": 185,
+    "question": "Women with a higher birth weight are more likely to develop breast cancer later in life.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      2614,
+      3956,
+      3465,
+      2734
+    ]
+  },
+  {
+    "index": 186,
+    "question": "aPKCz causes tumour enhancement by affecting glutamine metabolism.",
+    "answers": [
+      "CONTRADICT"
+    ],
+    "relevant_doc": [
+      2768
+    ]
+  },
+  {
+    "index": 187,
+    "question": "cSMAC formation enhances weak ligand signalling.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      53
+    ]
+  },
+  {
+    "index": 188,
+    "question": "mTORC2 regulates intracellular cysteine levels through xCT inhibition.",
+    "answers": [
+      "SUPPORT"
+    ],
+    "relevant_doc": [
+      3514
+    ]
+  }
+]
