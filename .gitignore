@@ -205,3 +205,6 @@ __marimo__/
 QA/legalbench/raw
 corpus/legalbench/raw
 ent2emb/
+*.pkl
+
+output/

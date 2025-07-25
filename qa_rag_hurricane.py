@@ -216,7 +216,7 @@ def llm_answer(model_type, query, cells, k=3, retrieval_method='hypercube'):
     
     elif model_type == 'gpt-4o':
         from openai import OpenAI
-        client = OpenAI()
+        client = OpenAI(api_key=os.environ["MY_OPENAI_API_KEY"])
         completion = client.chat.completions.create(
             model="gpt-4o",
             messages=[
@@ -225,7 +225,8 @@ def llm_answer(model_type, query, cells, k=3, retrieval_method='hypercube'):
                     "role": "user",
                     "content": 'Query: ' + query + '\nAnswer:'
                 }
-            ]
+            ],
+            seed=42
         )
         res = completion.choices[0].message.content
         return res
@@ -259,7 +260,7 @@ from typing import (
 
 
 def decompose_query(query):
-    client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
+    client = OpenAI(api_key=os.environ["MY_OPENAI_API_KEY"])
     system_prompt = (
         f"You are an expert on question understanding. "
         f"Your task is to:\n"
@@ -309,6 +310,7 @@ def decompose_query(query):
         temperature=0,
         n=1,
         response_format=AllQueries,
+        seed=42
     )
 
     try:
@@ -330,8 +332,6 @@ def decompose_query(query):
 # ================ Evaluation Metrics ================
 from utils.metric import bleu_score, semantic_score
 
-
-
 # ================ Argument Parser ================
 def parse_args():
     parser = argparse.ArgumentParser(description="Evaluate QA model performance.")
@@ -352,6 +352,7 @@ def main():
 
     # Load dataset
     qa_samples = load_dataset(data_path)
+    qa_samples = qa_samples[:3]
 
     # Initialize evaluation metrics
     llm_output = []
@@ -395,7 +396,7 @@ def main():
         os.makedirs(output_dir)
     
     if args.save == "true":
-        with open(f"{output_dir}/llm_output_{args.retrieval_method}.json", "w", encoding="utf-8") as f:
+        with open(f"{output_dir}/llm_output_{args.retrieval_method}_k{args.k}_serial.json", "w", encoding="utf-8") as f:
             json.dump(llm_output, f, indent=2, ensure_ascii=False)
 
         print("Saved llm output!")
@@ -403,4 +404,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-

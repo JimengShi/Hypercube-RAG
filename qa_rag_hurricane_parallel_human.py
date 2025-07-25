@@ -18,7 +18,7 @@ ent2emb = None
 # Track whether new embeddings have been added so we can persist once at the end
 ent2emb_changed = False
 
-def embed_string(target_str, emb_model, dict_path='ent2emb/ent2emb_law.pkl', ):
+def embed_string(target_str, emb_model, dict_path='ent2emb/ent2emb_hurricane.pkl', ):
     global ent2emb
     if ent2emb is None:
         if os.path.exists(dict_path):
@@ -48,7 +48,7 @@ def load_dataset(data_path):
 
 # ================ read corpus ================
 print('Reading the corpus file ...')
-with open('corpus/legalbench/contractnli.txt') as f:
+with open('corpus/hurricane/SciDCC-Hurricane.txt') as f:
     readin = f.readlines()
     corpus = [line.strip() for line in tqdm(readin)]
 
@@ -63,21 +63,17 @@ doc_embeddings = model.encode(['passage: ' + text for text in corpus], normalize
 print('Reading the hypercube files ...')
 
 
-dimensions = ['date', 'organization', 'quantity', 'location', 'person', 'company', 'money_finance', 'relationship', 'law_agreement_regulation', 'information']
+dimensions = ['date', 'event', 'location', 'organization', 'person', 'theme']
 hypercube = {'date': defaultdict(list),
-             'organization': defaultdict(list),
-             'quantity': defaultdict(list),
+             'event': defaultdict(list),
              'location': defaultdict(list),
              'person': defaultdict(list),
-             'company': defaultdict(list),
-             'money_finance': defaultdict(list),
-             'relationship': defaultdict(list),
-             'law_agreement_regulation': defaultdict(list),
-             'information': defaultdict(list),}
+             'theme': defaultdict(list),
+             'organization': defaultdict(list),}
 
 
 for dimension in dimensions:
-    with open(f'hypercube/legalbench/{dimension}.txt') as f:
+    with open(f'hypercube/hurricane_human/{dimension}.txt') as f:
         readin = f.readlines()
         # readin = readin[:50]
         for i, line in tqdm(enumerate(readin), total=len(readin), desc=f"{dimension}"):
@@ -85,13 +81,13 @@ for dimension in dimensions:
             for k in tmp:
                 hypercube[dimension][k].append(i)
                 
-                embed_string(target_str=k, emb_model=model, dict_path='ent2emb/ent2emb_law.pkl', )
+                embed_string(target_str=k, emb_model=model, dict_path='ent2emb/ent2emb_hurricane.pkl', )
 
 # ================ Persist ent2emb once after indexing ================
 
 # Flush the ent2emb cache to disk only once to avoid frequent io bottlenecks
 if ent2emb is not None and ent2emb_changed:
-    ENT2EMB_PATH = 'ent2emb/ent2emb_law.pkl'
+    ENT2EMB_PATH = 'ent2emb/ent2emb_hurricane.pkl'
     os.makedirs(os.path.dirname(ENT2EMB_PATH), exist_ok=True)
     with open(ENT2EMB_PATH, 'wb') as f:
         pickle.dump(ent2emb, f)
@@ -137,7 +133,7 @@ def get_docs_from_entities(entities, top_k):
     tmp_ids = []
     for ent in entities:
         # Ensure embedding exists for the entity
-        embed_string(target_str=ent, emb_model=model, dict_path='ent2emb/ent2emb_law.pkl')
+        embed_string(target_str=ent, emb_model=model, dict_path='ent2emb/ent2emb_hurricane.pkl')
 
         # Direct match across every dimension
         for dim in dimensions:
@@ -162,7 +158,7 @@ def build_prompt(query, cells, k, retrieval_method='hypercube'):
     prompt. Later we can feed a list of such prompts to the high-throughput `chat` API
     in one batch call.
     """
-    assert retrieval_method in ['hypercube', 'semantic', 'union', 'none', 'hypercube_no_dim']
+    assert retrieval_method in ['hypercube', 'semantic', 'union', 'none']
 
     # --- Retrieve docs from hyper-cube structure (only if applicable) ---
     structure_docs = []
@@ -174,10 +170,7 @@ def build_prompt(query, cells, k, retrieval_method='hypercube'):
     scores = np.matmul(doc_embeddings, query_embedding.transpose())[:, 0]
     semantic_docs = [index for _, index in heapq.nlargest(k, ((v, i) for i, v in enumerate(scores)))]
 
-    if retrieval_method == 'hypercube_no_dim':
-        # cells is expected to be a list[str] of entities with no dimension labels
-        doc_ids = get_docs_from_entities(cells, k)
-    elif retrieval_method == 'none':
+    if retrieval_method == 'none':
         doc_ids = []
     elif retrieval_method == 'hypercube':
         doc_ids = structure_docs
@@ -219,27 +212,17 @@ def decompose_query(query, seed=42):
         f"Your task is to:\n"
         f"1. **Comprehend the given question**: understand what the question asks, how to answer it step by step, and all concepts, aspects, or directions that are relevant to each step.\n"
         f"2. **Compose queries to retrieve documents for answering the question**: each document are indexed by the entities or phrases occurred inside and those entities or phrases lie within following dimensions: {dimensions}. "
-        f"Date dimension can be date-related, time-related, period-related and duration-related entities/phrases.\n"
-        f"Person dimension can be people name-related and people-related, male-related, female-related, child-related, and employee-related, manager-related, attorney-related entities/phrases.\n"
-        f"Quantity dimension can be quantity-related, ratio-related, percentage-related entities/phrases/numbers.\n"
-        f"Location dimension can be geographic locations-related, nationality-related, city-related, state-related, prinvince-related entities/phrases/numbers/zipcodes.\n"
-        f"Organization dimension can be organization-related and parties-related and department-related, and university-related entities/phrases.\n"
-        f"Company dimension can be company-related entities/phrases.\n"
-        f"money_finance dimension can be money-related, finance-related, transactions-related, grant-related, fund-related, asset-related entities/phrases.\n"
-        f"relationship dimension can be relationship-related entities/phrases.\n"
-        f"law_agreement_regulation dimension can be law-related, agreement-related, regulation-related, rule-based entities/phrases.\n"
-        f"information dimension can be confidential information-related, technical information-related, public information-related, news-based entities/phrases.\n"
         f"For each of the above dimension, synthesize queries that are informative, self-complete, and mostly likely to retrieve target documents for answering the question.\n"
         f"Note that each of your query should be an entity or a short phrase and its associated dimension.\n\n"
         f"Example Input:\n"
-        f"Question: Consider the Non-Disclosure Agreement between CopAcc and ToP Mentors; Does the document state that Confidential Information shall only include technical information?\n"
+        f"Question: How Indian Monsoons Influence Atlantic Hurricane Paths?\n"
         f"Example Output:\n"
         f"Query 1:\n"
-        f"query_dimension: 'law_agreement_regulation'; query_content: 'Non-Disclosure Agreement'; query_content: 'Non-Disclosure Agreement'\n"
+        f"query_dimension: 'location'; query_content: 'Atlantic';\n"
         f"Query 2:\n"
-        f"query_dimension: 'quantity'; query_content: 'technical information'; query_content: 'Confidential Information';\n"
+        f"query_dimension: 'theme'; query_content: 'Indian Monsoons';\n"
         f"Query 3:\n"
-        f"query_dimension: 'person'; query_content: 'Mentors';\n"
+        f"query_dimension: 'theme'; query_content: 'Hurricane Paths';\n"
     )
 
     input_prompt = (
@@ -251,8 +234,8 @@ def decompose_query(query, seed=42):
             ...,
             title='Entity or phrase to query the documents'
         )
-        # 'person', 'date'
-        query_dimension: Literal['date', 'organization', 'quantity', 'location', 'person', 'company', 'money_finance', 'relationship', 'law_agreement_regulation', 'information'] = Field(
+        
+        query_dimension: Literal['person', 'theme', 'event', 'location', 'organization', 'date'] = Field(
             ...,
             title='Dimension of the entity or phrase to query documents'
         )
@@ -284,75 +267,23 @@ def decompose_query(query, seed=42):
         
         for ent in detected_ents.list_of_queries:
             cells[ent.query_dimension].append(ent.query_content)
-            embed_string(target_str=ent.query_content, emb_model=model, dict_path='ent2emb/ent2emb_law.pkl', )
+            embed_string(target_str=ent.query_content, emb_model=model, dict_path='ent2emb/ent2emb_hurricane.pkl', )
         return cells
     
     except Exception as e:
         print(str(e))
         return None
 
-# ================ Entity Extraction without Dimensions ================
-
-def decompose_query_entities(query, seed=42):
-    """Return a plain list of entities/phrases extracted from the query (no dimension labels)."""
-    client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
-
-    system_prompt = (
-        "You are an expert on question understanding. "
-        "Extract a comprehensive list of entities or short phrases from the given question that would be helpful for retrieving relevant documents. "
-        "Extract as many entities as possible. "
-        "Example Input:\n"
-        "Question: Consider the Non-Disclosure Agreement between CopAcc and ToP Mentors; Does the document state that Confidential Information shall only include technical information?\n"
-        "Example Output:\n"
-        "entities: ['Non-Disclosure Agreement', 'Confidential Information', 'technical information', 'CopAcc', 'ToP Mentors']\n"
-    )
-
-    input_prompt = f"Question: {query}"
-
-    class Entities(BaseModel):
-        entities: List[str] = Field(
-            ..., title="List of extracted entities or phrases from the question"
-        )
-
-    response = client.beta.chat.completions.parse(
-        model="gpt-4o-2024-08-06",
-        messages=[
-            {'role': 'system', 'content': system_prompt},
-            {'role': 'user', 'content': input_prompt}
-        ],
-        max_tokens=4096,
-        temperature=0,
-        n=1,
-        seed=seed,
-        response_format=Entities,
-    )
-
-    try:
-        ent_list = response.choices[0].message.parsed.entities
-        if ent_list is None or len(ent_list) == 0:
-            return None
-
-        # Cache embeddings
-        for ent in ent_list:
-            embed_string(target_str=ent, emb_model=model, dict_path='ent2emb/ent2emb_law.pkl')
-
-        return ent_list
-    except Exception as e:
-        print(str(e))
-        return None
-
-
 # ================ Evaluation Metrics ================
 from utils.metric import bleu_score, semantic_score, f1_score
-from utils.metric import precision_at_k, recall_at_k
 
 # ================ Argument Parser ================
 def parse_args():
     parser = argparse.ArgumentParser(description="Evaluate QA model performance.")
     parser.add_argument("--data", type=str, required=True, help="Path to the QA dataset (JSON or CSV).")
     parser.add_argument("--model", type=str, required=True, choices=["gpt-4o-mini", "gpt-4o", "deepseek", 'llama3', 'llama4', 'gemma', "qwen"], help="Select llm to get answer.")
-    parser.add_argument("--retrieval_method", type=str, required=True, default="hypercube", choices=['hypercube', 'semantic', 'union', 'none', 'hypercube_no_dim'], help="Retrieval methods.")
-    parser.add_argument("--k", type=int, default=5, help="Number of retrieved documents.")
+    parser.add_argument("--retrieval_method", type=str, required=True, default="hypercube", choices=['hypercube', 'semantic', 'union', 'none'], help="Retrieval methods.")
+    parser.add_argument("--k", type=int, default=3, help="Number of retrieved documents.")
     parser.add_argument("--seed", type=int, default=42, help="Random seed for OpenAI chat completions (default 42, always forwarded).")
     parser.add_argument("--save", type=str, default="true", choices=["true", "false"], help="Evaluation metric: one score or multiple scores.")
     parser.add_argument("--num_threads", type=int, default=8, help="Number of threads for query decomposition (default 8).")
@@ -362,7 +293,7 @@ def parse_args():
 def main():
     args = parse_args()
 
-    data_path = f"QA/{args.data}/contractnli.json"
+    data_path = f"QA/{args.data}/synthetic_qa.json"
 
     # Load dataset
     qa_samples = load_dataset(data_path)
@@ -372,14 +303,11 @@ def main():
     questions = [sample["question"] for sample in qa_samples]
 
     # Decide whether to perform entity extraction based on retrieval method
-    if args.retrieval_method in ["hypercube", "union", "hypercube_no_dim"]:
+    if args.retrieval_method in ["hypercube", "union"]:
         print(f"\nDecomposing {len(questions)} queries using {args.num_threads} threads ...\n")
 
         # Choose the appropriate decomposition function
-        if args.retrieval_method == "hypercube_no_dim":
-            decompose_fn = lambda q: decompose_query_entities(q, seed=args.seed)
-        else:
-            decompose_fn = lambda q: decompose_query(q, seed=args.seed)
+        decompose_fn = lambda q: decompose_query(q, seed=args.seed)
 
         with ThreadPoolExecutor(max_workers=args.num_threads) as executor:
             cells_list = list(
@@ -400,8 +328,7 @@ def main():
 
     for i, sample in enumerate(qa_samples):
         question = sample["question"]
-        gold_answer = " ".join(sample["answers"])
-        relevant_docs = sample["relevant_doc"]
+        gold_answer = sample["answer"]
 
         cells = cells_list[i]
         print(f"Q{i+1}: {question}\n>>> Identified cells: {cells}\n")
@@ -411,7 +338,7 @@ def main():
 
         prompts.append(prompt)
         doc_ids_all.append(return_doc_ids)
-        meta_info.append((question, gold_answer, relevant_docs))
+        meta_info.append((question, gold_answer))
 
     # Call the high-throughput chat API once with all prompts
     # Map CLI model name to the identifier expected by the `chat` helper if necessary
@@ -437,21 +364,16 @@ def main():
     total_precison = total_recall = 0.0
 
     # Iterate over responses and evaluate
-    for i, (response_text, (question, gold_answer, relevant_docs), return_doc_ids) in enumerate(zip(responses, meta_info, doc_ids_all)):
+    for i, (response_text, (question, gold_answer), return_doc_ids) in enumerate(zip(responses, meta_info, doc_ids_all)):
         print(f"Q{i+1} Prediction:\n{response_text}\n")
 
         bleu = bleu_score(response_text, gold_answer)
         sem = semantic_score(response_text, gold_answer)
         f1 = f1_score(response_text, gold_answer)
-        
-        prec = precision_at_k(return_doc_ids, relevant_docs) if return_doc_ids else 0.0
-        rec = recall_at_k(return_doc_ids, relevant_docs) if return_doc_ids else 0.0
 
         total_bleu += bleu
         total_semantic += sem
         total_f1 += f1
-        total_precison += prec
-        total_recall += rec
 
         llm_output.append({
             "index": i+1,
@@ -461,8 +383,6 @@ def main():
             "f1_score": f1,
             "semantic_score": sem,
             "return_doc_ids": return_doc_ids,
-            "precision": prec,
-            "recall": rec
         })
  
     # Averaging Summary Information
@@ -475,8 +395,8 @@ def main():
         os.makedirs(output_dir)
 
     # Build file paths for responses and their aggregated scores (include seed to avoid overwriting)
-    response_file_path = f"{output_dir}/llm_output_{args.retrieval_method}_{args.k}_seed{args.seed}_response.json"
-    scores_file_path = f"{output_dir}/llm_output_{args.retrieval_method}_{args.k}_seed{args.seed}_scores.json"
+    response_file_path = f"{output_dir}/llm_output_{args.retrieval_method}_human_{args.k}_seed{args.seed}_response.json"
+    scores_file_path = f"{output_dir}/llm_output_{args.retrieval_method}_human_{args.k}_seed{args.seed}_scores.json"
 
     if args.save == "true":
         # Persist the seed along with each record for full reproducibility

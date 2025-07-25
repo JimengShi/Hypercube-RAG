@@ -17,16 +17,18 @@ RATE_LIMIT = {
         'gpt-4o-mini': {'PRM': 10_000, "TPM": 10_000_000},
         'gpt-4.1-mini': {'PRM': 10_000, "TPM": 10_000_000},
         'gpt-4o': {'PRM': 10_000, "TPM": 2_000_000},
-        'gpt-4o-2024-11-20': {'PRM': 10_000, "TPM": 2_000_000}
+        'gpt-4o-2024-11-20': {'PRM': 10_000, "TPM": 2_000_000},
+        'gpt-4o-2024-08-06': {'PRM': 10_000, "TPM": 2_000_000}
     },
     "tier5": {
         'gpt-4o-mini': {'PRM': 30_000, "TPM": 150_000_000},
         'gpt-4.1-mini': {'PRM': 30_000, "TPM": 150_000_000},
         'gpt-4o': {'PRM': 10_000, "TPM": 30_000_000},
-        'gpt-4o-2024-11-20': {'PRM': 10_000, "TPM": 30_000_000}
+        'gpt-4o-2024-11-20': {'PRM': 10_000, "TPM": 30_000_000},
+        'gpt-4o-2024-08-06': {'PRM': 10_000, "TPM": 30_000_000}
     }
 }
-VALID_MODELS = {'gpt-4o', 'gpt-4o-mini', 'gpt-4.1-mini', 'gemini-2.0-flash', 'qwen3-32b', 'gpt-4o-2024-11-20'}
+VALID_MODELS = {'gpt-4o', 'gpt-4o-mini', 'gpt-4.1-mini', 'gemini-2.0-flash', 'qwen3-32b', 'gpt-4o-2024-11-20', 'gpt-4o-2024-08-06'}
 VALID_TIERS = {'tier1', 'tier2', 'tier3', 'tier4', 'tier5'}
 
 # Utility Functions
@@ -40,7 +42,7 @@ def validate_inputs(inputs: list[str], model_name: str, tier_list: str):
     if tier_list not in VALID_TIERS:
         raise ValueError(f"Invalid tier_list: {tier_list}. Must be one of {VALID_TIERS}.")
 
-def create_request_file(inputs: List[str], model_name: str, params: Dict) -> str:
+def create_request_file(inputs: List[str], model_name: str, params: Dict, system_prompts: List[str] | None = None) -> str:
     """Generate the request JSONL file."""
     os.makedirs(CACHE_DIR, exist_ok=True)
     timestamp = int(time.time() * 1000)
@@ -49,7 +51,7 @@ def create_request_file(inputs: List[str], model_name: str, params: Dict) -> str
     content = [
         {
             'model': model_name,
-            'messages': [{"role": "system", "content": "You are a helpful assistant."}, {'role': "user", 'content': input_text}],
+            'messages': [{"role": "system", "content": system_prompts[idx]} if system_prompts is not None else {"role": "system", "content": "You are a helpful assistant."}, {'role': "user", 'content': input_text}],
             'metadata': {"id": idx},
             **params
         }
@@ -81,10 +83,11 @@ memory = Memory(CACHE_DIR, verbose=0)
 @memory.cache
 def chat(
     inputs: List[str],
+    system_prompts: List[str] | None = None,
     half_usage=False,
     clear_cache=False,
     model_name: Literal['gpt-4o', 'gpt-4o-mini', 'gpt-4.1-mini', 'gemini-2.0-flash', 'qwen3-32b'] = 'gpt-4.1-mini',
-    tier_list: Literal['tier1', 'tier2', 'tier3', 'tier4', 'tier5'] = 'tier5',
+    tier_list: Literal['tier1', 'tier2', 'tier3', 'tier4', 'tier5'] = 'tier4',
     **params
 ) -> List[str]:
     if model_name != 'gemini-2.0-flash' and model_name != 'qwen3-32b':
@@ -92,7 +95,7 @@ def chat(
         validate_inputs(inputs, model_name, tier_list)
 
         # File paths
-        request_file = create_request_file(inputs, model_name, params)
+        request_file = create_request_file(inputs, model_name, params, system_prompts)
         timestamp = int(time.time() * 1000)
         save_file = f'{CACHE_DIR}/chat_response_{timestamp}.jsonl'
 
@@ -104,7 +107,7 @@ def chat(
                         requests_filepath=request_file,
                         save_filepath=save_file,
                         request_url="https://api.openai.com/v1/chat/completions",
-                        api_key=os.environ['OPENAI_API_KEY'],
+                        api_key=os.environ['MY_OPENAI_API_KEY'],
                         max_requests_per_minute=RATE_LIMIT[tier_list][model_name]['PRM'] // 2 if half_usage else RATE_LIMIT[tier_list][model_name]['PRM'],
                         max_tokens_per_minute=RATE_LIMIT[tier_list][model_name]['TPM'] // 2 if half_usage else RATE_LIMIT[tier_list][model_name]['TPM'],
                         token_encoding_name='o200k_base',

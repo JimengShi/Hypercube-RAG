@@ -18,7 +18,7 @@ ent2emb = None
 # Track whether new embeddings have been added so we can persist once at the end
 ent2emb_changed = False
 
-def embed_string(target_str, emb_model, dict_path='ent2emb/ent2emb_hurricane.pkl', ):
+def embed_string(target_str, emb_model, dict_path='./ent2emb.pkl', ):
     global ent2emb
     if ent2emb is None:
         if os.path.exists(dict_path):
@@ -81,13 +81,13 @@ for dimension in dimensions:
             for k in tmp:
                 hypercube[dimension][k].append(i)
                 
-                embed_string(target_str=k, emb_model=model, dict_path='ent2emb/ent2emb_hurricane.pkl', )
+                embed_string(target_str=k, emb_model=model, dict_path='./ent2emb.pkl', )
 
 # ================ Persist ent2emb once after indexing ================
 
 # Flush the ent2emb cache to disk only once to avoid frequent io bottlenecks
 if ent2emb is not None and ent2emb_changed:
-    ENT2EMB_PATH = 'ent2emb/ent2emb_hurricane.pkl'
+    ENT2EMB_PATH = './ent2emb.pkl'
     os.makedirs(os.path.dirname(ENT2EMB_PATH), exist_ok=True)
     with open(ENT2EMB_PATH, 'wb') as f:
         pickle.dump(ent2emb, f)
@@ -133,7 +133,7 @@ def get_docs_from_entities(entities, top_k):
     tmp_ids = []
     for ent in entities:
         # Ensure embedding exists for the entity
-        embed_string(target_str=ent, emb_model=model, dict_path='ent2emb/ent2emb_hurricane.pkl')
+        embed_string(target_str=ent, emb_model=model, dict_path='./ent2emb.pkl')
 
         # Direct match across every dimension
         for dim in dimensions:
@@ -183,15 +183,16 @@ def build_prompt(query, cells, k, retrieval_method='hypercube'):
     # Build docs context
     docs = '\n\n'.join([f"Document {idx + 1}: {corpus[doc_id]}" for idx, doc_id in enumerate(doc_ids)])
 
-    # Compose final prompt (system prompt will be automatically added by `chat`)
+    # Build system and user prompts separately (to align with serial version where docs go in system role)
     instruction = (
         'Answer the query based on the given retrieved documents. '
         'Please keep the answer as precise as possible.\nDocuments:\n'
     )
 
-    prompt = f"{instruction}{docs}\n\nQuery: {query}\nAnswer:"
+    system_prompt = f"{instruction}{docs}"
+    user_prompt = f"Query: {query}\nAnswer:"
 
-    return prompt, [id + 1 for id in doc_ids]
+    return system_prompt, user_prompt, [id + 1 for id in doc_ids]
 
 
 from pydantic import (
@@ -206,7 +207,7 @@ from typing import (
 
 
 def decompose_query(query, seed=42):
-    client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
+    client = OpenAI(api_key=os.environ["MY_OPENAI_API_KEY"])
     system_prompt = (
         f"You are an expert on question understanding. "
         f"Your task is to:\n"
@@ -283,7 +284,7 @@ def parse_args():
     parser.add_argument("--data", type=str, required=True, help="Path to the QA dataset (JSON or CSV).")
     parser.add_argument("--model", type=str, required=True, choices=["gpt-4o-mini", "gpt-4o", "deepseek", 'llama3', 'llama4', 'gemma', "qwen"], help="Select llm to get answer.")
     parser.add_argument("--retrieval_method", type=str, required=True, default="hypercube", choices=['hypercube', 'semantic', 'union', 'none'], help="Retrieval methods.")
-    parser.add_argument("--k", type=int, default=5, help="Number of retrieved documents.")
+    parser.add_argument("--k", type=int, default=3, help="Number of retrieved documents.")
     parser.add_argument("--seed", type=int, default=42, help="Random seed for OpenAI chat completions (default 42, always forwarded).")
     parser.add_argument("--save", type=str, default="true", choices=["true", "false"], help="Evaluation metric: one score or multiple scores.")
     parser.add_argument("--num_threads", type=int, default=8, help="Number of threads for query decomposition (default 8).")
@@ -297,7 +298,7 @@ def main():
 
     # Load dataset
     qa_samples = load_dataset(data_path)
-    # qa_samples = qa_samples[:5]
+    qa_samples = qa_samples[:3]
 
     # Prepare prompts and supporting evaluation info in batch (query decomposition in parallel)
     questions = [sample["question"] for sample in qa_samples]
@@ -322,7 +323,8 @@ def main():
         cells_list = [None] * len(questions)
 
     # Build prompts sequentially (light-weight) and collect meta information
-    prompts: list[str] = []
+    prompts: list[str] = []  # user role messages
+    system_prompts: list[str] = []  # system role messages corresponding to each prompt
     doc_ids_all: list[list[int]] = []
     meta_info = []
 
@@ -333,10 +335,11 @@ def main():
         cells = cells_list[i]
         print(f"Q{i+1}: {question}\n>>> Identified cells: {cells}\n")
 
-        prompt, return_doc_ids = build_prompt(question, cells, args.k, args.retrieval_method)
+        system_prompt, user_prompt, return_doc_ids = build_prompt(question, cells, args.k, args.retrieval_method)
         print(f">>> Selected doc ids: {return_doc_ids} (retrieval_method={args.retrieval_method})\n")
 
-        prompts.append(prompt)
+        prompts.append(user_prompt)
+        system_prompts.append(system_prompt)
         doc_ids_all.append(return_doc_ids)
         meta_info.append((question, gold_answer))
 
@@ -344,7 +347,7 @@ def main():
     # Map CLI model name to the identifier expected by the `chat` helper if necessary
     MODEL_ALIAS = {
         'gpt-4o-mini': 'gpt-4o-mini',
-        'gpt-4o': 'gpt-4o-2024-11-20',
+        'gpt-4o': 'gpt-4o',
         'qwen': 'qwen3-32b',
         # Add more aliases here if needed
     }
@@ -354,9 +357,9 @@ def main():
         raise ValueError(f"Model '{args.model}' is not supported by the parallel chat API.")
 
     print(f"\nSending {len(prompts)} prompts to chat API '{chat_model_name}' in parallel ...\n")
-    chat_kwargs = {"model_name": chat_model_name, "temperature": 0.0, "seed": args.seed}
+    chat_kwargs = {"model_name": chat_model_name, "temperature": 1.0, "seed": args.seed}
 
-    responses = chat(prompts, **chat_kwargs)
+    responses = chat(prompts, system_prompts, **chat_kwargs)
 
     # Initialize evaluation metrics
     llm_output = []
@@ -395,8 +398,8 @@ def main():
         os.makedirs(output_dir)
 
     # Build file paths for responses and their aggregated scores (include seed to avoid overwriting)
-    response_file_path = f"{output_dir}/llm_output_{args.retrieval_method}_{args.k}_seed{args.seed}_response.json"
-    scores_file_path = f"{output_dir}/llm_output_{args.retrieval_method}_{args.k}_seed{args.seed}_scores.json"
+    response_file_path = f"{output_dir}/llm_0806_output_{args.retrieval_method}_{args.k}_seed{args.seed}_response.json"
+    scores_file_path = f"{output_dir}/llm_0806_output_{args.retrieval_method}_{args.k}_seed{args.seed}_scores.json"
 
     if args.save == "true":
         # Persist the seed along with each record for full reproducibility
