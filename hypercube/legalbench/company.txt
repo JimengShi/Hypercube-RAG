@@ -4,12 +4,12 @@
 {"AdvanIDe": 1, "AdvanIDe Europe GmbH": 2, "AdvanIDe Holdings Pte Ltd": 2, "AdvanIDe Americas, Inc.": 2}
 {"AG Projects": 5}
 {"AFRIGIS (PTY) LTD": 1, "AfriGIS": 5, "CLIENT NAME": 1, "Client": 3, "Parties": 5, "Disclosing Party": 3, "Receiving Party": 6}
-{"Aspiegel Limited": 1, "Company": 1, "Parties": 3, "Party": 8, "Disclosing Party": 5, "Recipient Party": 5, "Representative(s)": 2}
+{"Aspiegel Limited": 1, "Company": 1, "Parties": 3, "Party": 8, "Disclosing Party": 5, "Recipient Party": 5, "Representative(s)": 2, "Aspiegel": 3}
 {"The Bleecker Consulting Group, LLC": 3, "BCG": 4, "Partner": 4}
 {"Transnet Limited": 3, "Transnet": 8, "Luxrail": 1, "the Blue Train": 1, "the Target": 4, "the Bidder": 5, "the Disclosing Party": 6, "the Receiving Party": 6, "the Parties": 3}
 {"Department of Homeland Security": 3, "United States Government": 7, "PCII Program": 2, "PCII Program Manager": 3, "Authorized Entity": 4, "DHS": 1, "Executive Order No. 12958": 1, "Military Whistleblower Protection Act": 1, "Whistleblower Protection Act": 1, "Intelligence Identities Protection Act of 1982": 1, "Subversive Activities Act of 1950": 1, "Department of Justice": 1}
 {"Anwendungszentrum GmbH Oberpfaffenhofen": 1, "Copernicus Masters": 4, "Copernicus Accelerator": 5, "European Commission": 2, "Copernicus participating countries": 1, "European Satellite Navigation Competition (ESNC)": 1, "Satellite Masters Conference": 1, "Organiser": 10}
-{"Data Boiler Technologies, LLC.": 2}
+{"Data Boiler Technologies, LLC.": 2, "Data Boiler Technologies": 2, "DBT": 2}
 {"New York City Department of Health and Mental Hygiene": 1, "City of New York": 1, "DOHMH": 15, "Data Recipient": 23}
 {"Michigan Department of Health and Human Services": 4, "Reporting Entity": 3, "Michigan Trauma Registry": 4, "MDHHS": 5, "Health Insurance Portability and Accountability Act": 1, "HIPAA": 1, "Michigan Identity Theft Protection Act": 1, "Michigan Administrative Code": 2, "Public Health Code": 2, "Regional Trauma Networks": 1}
 {"State of Illinois": 4, "Vendor": 10, "Department of Innovation & Technology Services": 1}
@@ -20,40 +20,40 @@
 {"First Nations Health Authority": 4, "Company": 9}
 {"Focus Group": 5, "company": 4, "Owner": 2, "Kenall Manufacturing, Co.": 1}
 {"Furtwangen University": 4, "the company": 4}
-{"GreenStorm Solutions Pty Ltd": 1, "Party-1": 1, "Party-2": 1}
+{"GreenStorm Solutions Pty Ltd": 1, "Party-1": 1, "Party-2": 1, "GreenStorm": 1}
 {"Grindrod South Africa (Proprietary) Limited": 1, "Grindrod SA": 8}
 {"Hispanic National Bar Association": 5, "HNBA": 15, "Board Member": 12, "Board of Governors": 2}
 {"Insurance Bureau of Canada": 3, "IBC": 15, "Financial Services Commission of Ontario": 1, "FSCO": 1, "HCAI System": 15, "Insurers": 2, "Providers": 2, "Vendor": 15, "PMS System": 4, "Personal Information Protection and Electronic Documents Act": 2, "Personal Health Information Protection Act": 2, "Ontario": 3, "Canada": 2, "HCAI Electronic Access Terms and Conditions": 1, "Services": 1, "DLL": 1, "EXE": 1, "End User License Agreement": 2, "EULA": 3, "PMS Software": 3, "Toronto": 1}
 {"London School of Economics & Political Science": 2}
-{"Infomagnet Ltd.": 2}
+{"Infomagnet Ltd.": 2, "INFOMAGNET": 3}
 {"COMPANY X": 8, "COMPANY Y": 8, "Party": 10, "Parties": 8, "Discloser": 7, "Recipient": 7}
 {"INaturals": 2, "Customer": 3, "Company": 1}
 {"JB Machine LLC": 1}
 {"JUST BIOFIBER STRUCTURAL SOLUTIONS CORP.": 2}
 {"CPK Manufacturing LLC": 1, "Kenway Composites": 2}
 {"Kerber Applied Research Inc.": 1}
-{"LiiON, LLC": 1, "LiION LLC": 1}
+{"LiiON, LLC": 1, "LiION LLC": 1, "LiiON": 3}
 {"Disclosing Party/Writer": 6, "Receiving Party/Producer": 6, "Parties": 5, "Film Writers Association": 2, "Mumbai": 2, "India": 2, "Companies Act, 1956": 1}
 {"Product Development Experts, Inc.": 2}
 {"The Knights of Unity Sp. z o.o.": 1}
 {"The HoG, Centre for Data Governance, NIC": 1, "NCDG": 2, "HEAD OF USER DEPARTMENT": 1, "USER DEPARTMENT": 2}
-{"Shenzhen Artop Inno Co. Ltd": 2, "Recipient": 15, "Entrusting party": 15, "Parties": 1, "People's Republic of China": 2, "ShenZhen ARTOP Inno co., ltd": 1, "ARTOP Building": 1}
-{"Dollar General Portfolio": 1, "The Kase Group": 1, "TKG": 2}
+{"Shenzhen Artop Inno Co. Ltd": 2, "Recipient": 15, "Entrusting party": 15, "Parties": 1, "People's Republic of China": 2, "ShenZhen ARTOP Inno co., ltd": 1, "ARTOP Building": 1, "Artop": 1, "Inno": 1}
+{"Dollar General Portfolio": 1, "The Kase Group": 1, "TKG": 2, "Dollar General": 1}
 {"Fintricity Group Limited": 1, "Fintricity": 4, "Fintricity Affiliates": 1, "FINTRICITY Affiliate": 1, "FINTRICITY Group": 1, "Company Affiliate": 1, "Company": 2}
 {"M5 Computer Security": 2, "M5 Systems": 1}
 {"Semiconductor Components Industries, LLC": 1, "ON Semiconductor": 2}
 {"ROI Corporation": 4}
 {"Seeed Development Limited": 3, "Seeed": 7, "Customer": 8, "Parties": 10, "Party": 8}
 {"Teqball Holding S.\u00e0 r.l.": 1, "Luxembourg Trade and Companies Register": 1, "International Federation of Teqball": 1, "F\u00e9d\u00e9ration Internationale de Teqball": 1, "Registre du Commerce du Canton de Vaud": 1, "Ametis Conseils SA": 1, "I. Budapest TEQBALL Sportegyes\u00fclet": 1, "F\u0151v\u00e1rosi T\u00f6rv\u00e9nysz\u00e9k": 1}
-{"Media News Group, Inc.": 2}
+{"Media News Group, Inc.": 2, "Media News Group": 2}
 {"SAF Industries, LLC": 1, "Gar Kenyon": 1, "GK": 7, "GKT": 2, "SUPPLIER": 12, "Connecticut, USA": 2, "International Chamber of Commerce": 1}
 {"GWI Project Managers": 2}
 {"Mandarin Trading (Pty) Ltd": 3, "ResRequest": 2, "Business Partner": 5}
-{"Jasmine Technologies Ltd": 1}
+{"Jasmine Technologies Ltd": 1, "Street Stream": 1}
 {"University of Nebraska": 6, "Central Administration": 1}
 {"New York City Bar Association": 2, "Corporation Law Committee": 2, "THE ASSOCIATION OF THE BAR OF THE CITY OF NEW YORK": 1, "Company": 10, "Buyer": 15, "Buyer\u2019s Parent Company": 1, "Affiliates": 5, "Representatives": 8, "Person": 3, "Definitive Transaction Agreement": 2, "LAW FIRM": 3}
 {"UW Oshkosh": 2, "Board of Regents of the University of Wisconsin System": 1, "University of Wisconsin Oshkosh": 1}
-{"Petro-Lubricant Testing Laboratories, Inc.": 1, "Petro-Lube": 11, "(Your Company Name)": 10}
+{"Petro-Lubricant Testing Laboratories, Inc.": 1, "Petro-Lube": 11, "(Your Company Name)": 10, "Petrolube": 11}
 {"QEP Energy Company": 3, "Owner": 15, "Receiving Company": 18, "BMO Capital Markets Corp.": 1}
 {"Company": 3, "Third Party": 3, "Disclosing Party": 2, "Recipient": 1}
 {"Red River Oil Inc.": 3, "Tudor, Pickering, Holt & Co. Securities \u2013 Canada, ULC": 1, "National Bank Financial Inc.": 1}
@@ -65,11 +65,11 @@
 {"Axial": 2}
 {"State of Ohio": 2, "Bureau of Workers' Compensation": 2, "Department of Administrative Services": 1, "DAS": 1, "Bureau of Workers\u2019 Compensation Pharmacy Program": 1}
 {"TSE Industries, Inc.": 1, "TSE-OK, LLC": 1, "WHK BioSystems, LLC": 1, "TSE": 2, "Company": 1}
-{"Tabun Kitchen": 1}
+{"Tabun Kitchen": 1, "Tabun Kitchen Investments": 1}
 {"INVESTISSEMENTS P. A. INC.": 2, "Franchisor": 12, "Franchise": 10, "Tazza Caffe": 1, "potential Franchisee": 10}
 {"University of Arkansas at Little Rock": 4, "Board of Trustees of the University of Arkansas": 1}
 {"Vermont Electric Power Company, Inc.": 1, "Vermont Transco LLC": 1, "VELCO": 12, "Federal Energy Regulatory Commission": 1, "North American Electric Reliability Corporation": 1, "NERC CIP": 1, "Freedom of Information Act": 1, "State of Vermont": 1}
-{"Allazo Electronics, Inc.": 2}
+{"Allazo Electronics, Inc.": 2, "Allazo Electronics": 2}
 {"WECC": 15, "North American Electric Reliability Corporation": 1, "FERC": 2}
 {"AMC-Consult A/S": 2, "Company": 2, "Disclosing Party": 8, "Receiving Party": 8, "Affiliates": 2}
 {"Dominion Energy South Carolina, Inc.": 2, "Dominion Energy": 2, "DESC": 2, "South Carolina Public Service Authority": 2, "Santee Cooper": 2}
@@ -77,7 +77,7 @@
 {"Partner Ireland Insurance Limited": 2, "eHandshake": 1, "partnerre.com": 1}
 {"Epsteen & Associates": 1, "Broker": 9, "Seller": 13, "Business": 15, "Buyer": 18}
 {"Euler Hermes North America Insurance Company": 1, "Euler Hermes": 10, "Company": 8, "Affiliates": 4}
-{"FullStory, Inc.": 2}
+{"FullStory, Inc.": 2, "FullStory": 2}
 {"Lightning Source UK Ltd.": 4}
 {"Khronos Mutual Non-Disclosure Agreement": 1, "The Khronos Group Inc.": 1, "Khronos": 5, "Participant": 5, "California Corporation": 1, "Member": 1, "California": 2, "Santa Clara County": 1, "United States District Court for the Northern District of California": 1}
 {"Lyophilization Technology, Inc.": 2}
@@ -92,4 +92,4 @@
 {"thoughtbot, inc.": 1}
 {"TPI Composites, Inc.": 3, "[Insert Company]": 3}
 {"Company": 9, "VMware": 1}
-{"Wayne Fueling Systems LLC": 3, "Company": 3}
+{"Wayne Fueling Systems LLC": 3, "Company": 3, "Wayne Fueling Systems": 3}

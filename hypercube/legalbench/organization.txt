@@ -1,18 +1,18 @@
 {"Recipient": 8, "Disclosing Party": 10, "Affiliates": 6, "Agreement": 30, "Parties": 2}
-{"bpost SA/NV": 3, "City of Brussels": 1, "Sellers": 10, "Munt Center/Centre Monnaie": 1, "Deloitte Real Estate": 2, "Laga": 2, "Advisors": 4, "Belgian Law": 1, "Courts of Brussels": 1, "Deloitte Consulting & Advisory CVBA": 1, "Deloitte Touche Tohmatsu Limited": 1, "Laga partners": 1}
-{"NSK Europe Limited": 2, "Party": 15, "Parties": 10, "Disclosing Party": 6, "Receiving Party": 8, "Affiliate": 3, "Representatives": 2}
+{"bpost SA/NV": 3, "City of Brussels": 1, "Sellers": 10, "Munt Center/Centre Monnaie": 1, "Deloitte Real Estate": 2, "Laga": 2, "Advisors": 4, "Belgian Law": 1, "Courts of Brussels": 1, "Deloitte Consulting & Advisory CVBA": 1, "Deloitte Touche Tohmatsu Limited": 1, "Laga partners": 1, "The Munt": 2}
+{"NSK Europe Limited": 2, "Party": 15, "Parties": 10, "Disclosing Party": 6, "Receiving Party": 8, "Affiliate": 3, "Representatives": 2, "NSK": 2, "Suppliers": 2}
 {"AdvanIDe companies worldwide": 1, "AdvanIDe Europe GmbH": 2, "AdvanIDe Holdings Pte Ltd": 2, "AdvanIDe Americas, Inc.": 2, "Disclosing Party": 6, "Receiving Party": 7, "Parties": 8, "Suntec Tower One": 1, "Singapore": 3}
 {"AG Projects": 4, "DISCLOSING PARTY": 10, "RECEIVING PARTY": 10, "parties": 4, "Netherlands": 2, "Amsterdam Chamber of Commerce": 1}
 {"AFRIGIS (PTY) LTD": 1, "AfriGIS": 4, "CLIENT NAME": 1, "Client": 3, "the Parties": 4, "Disclosing Party": 4, "Receiving Party": 7, "Party": 10, "Parties": 10}
-{"Aspiegel Limited": 2, "Company": 1, "Party": 20, "Parties": 10, "Disclosing Party": 6, "Recipient Party": 7, "Representative": 2, "Representatives": 5}
-{"Mutual Non-Disclosure Agreement": 1, "parties": 3, "Company": 1, "Individual": 1, "Partner": 4, "The Bleecker Consulting Group, LLC": 2, "BCG": 4, "Business Entity Type": 2, "Limited Liability Company": 1, "State of Incorporation": 2, "Florida": 2, "Principal Address": 2, "David Bleecker": 1, "Managing Partner": 1, "representative": 3, "representatives": 5, "court": 2, "federal courts": 1, "Superior Court of Broward County": 1, "Partner and BCG": 1}
-{"TRANSNET LIMITED": 3, "Transnet": 8, "Disclosing Party": 5, "Receiving Party": 6, "Bidder": 4, "Parties": 4, "Luxrail": 1, "Blue Train": 1, "Target": 5}
+{"Aspiegel Limited": 2, "Company": 1, "Party": 20, "Parties": 10, "Disclosing Party": 6, "Recipient Party": 7, "Representative": 2, "Representatives": 5, "Aspiegel": 3}
+{"Mutual Non-Disclosure Agreement": 1, "parties": 3, "Company": 1, "Individual": 1, "Partner": 4, "The Bleecker Consulting Group, LLC": 2, "BCG": 4, "Business Entity Type": 2, "Limited Liability Company": 1, "State of Incorporation": 2, "Florida": 2, "Principal Address": 2, "David Bleecker": 1, "Managing Partner": 1, "representative": 3, "representatives": 5, "court": 2, "federal courts": 1, "Superior Court of Broward County": 1, "Partner and BCG": 1, "The Bleecker Consulting Group": 2, "Consulting Group": 2}
+{"TRANSNET LIMITED": 3, "Transnet": 8, "Disclosing Party": 5, "Receiving Party": 6, "Bidder": 4, "Parties": 4, "Luxrail": 1, "Blue Train": 1, "Target": 5, "BT": 1}
 {"DEPARTMENT OF HOMELAND SECURITY": 3, "United States Government": 6, "PCII Program": 2, "PCII Program Manager": 3, "Authorized Entity": 4, "DHS": 1}
 {"Copernicus Masters": 4, "Copernicus Accelerator": 5, "Anwendungszentrum GmbH Oberpfaffenhofen": 1, "Organiser": 10, "European Commission": 3, "Mentor": 20, "Participants": 12, "Copernicus Participating countries": 1, "European Satellite Navigation Competition (ESNC)": 1, "Satellite Masters Conference": 1, "Federal Republic of Germany": 1, "Munich (Landgericht M\u00fcnchen I)": 1}
 {"Data Boiler Technologies, LLC.": 2, "DBT": 2, "Parties": 2, "Disclosing Party": 10, "Receiving Party": 8}
 {"New York City Department of Health and Mental Hygiene": 3, "City of New York": 2, "DOHMH": 20, "Data Recipient": 21, "Division of _____________________": 1, "Gotham Center": 1, "Recipient Party": 1, "Parties": 3, "Authorized Users": 6, "Institutional Review Board (IRB)": 1, "DOHMH IRB": 1, "Indemnified Party": 2}
 {"Michigan Department of Health and Human Services": 4, "Reporting Entity": 4, "Michigan Trauma Registry": 5, "MDHHS": 5, "Regional Trauma Networks": 1, "Michigan Administrative Code": 2, "Public Health Code": 2}
-{"State of Illinois": 3, "Vendor": 9, "Department of Innovation & Technology Services": 1, "parties": 5}
+{"State of Illinois": 3, "Vendor": 9, "Department of Innovation & Technology Services": 1, "parties": 5, "DoiT": 1}
 {"EFCA Pty Ltd": 1, "disclosing party": 10, "receiving party": 1, "parties": 9}
 {"ESKOM HOLDINGS SOC LTD": 3, "Counterparty": 5, "Party": 10, "Parties": 10, "Disclosing Party": 7, "Receiving Party": 7, "Third Party": 6, "Eskom": 10}
 {"Evelozcity": 2, "Disclosing Party": 8, "Recipient": 8, "Original Equipment Suppliers Association": 1, "Representatives": 2, "State of California": 1}
@@ -24,72 +24,72 @@
 {"Grindrod South Africa (Proprietary) Limited": 1, "Vendor": 8, "Grindrod SA": 9, "Parties": 1}
 {"BOARD OF GOVERNORS": 1, "Hispanic National Bar Association": 4, "HNBA": 12, "Board Member": 14, "Party": 5, "Parties": 3, "Board of Governors": 1}
 {"Insurance Bureau of Canada": 3, "IBC": 3, "Vendor": 8, "Financial Services Commission of Ontario": 1, "Ontario insurance regulator": 1, "Insurers": 2, "Providers": 2, "HCAI System": 10, "PMS System": 4, "Provider": 3, "Insurer": 2, "Personal Information Protection and Electronic Documents Act": 2, "Personal Health Information Protection Act": 2, "Privacy Laws": 1, "HCAI Electronic Access Terms and Conditions": 1, "Services": 1, "EULA": 3, "HCAI": 1, "PRACTICE MANAGEMENT SYSTEM": 1, "PMS": 1}
-{"LONDON SCHOOL OF ECONOMICS & POLITICAL SCIENCE": 2, "PARTY": 8, "Disclosing Party": 8, "Recipient": 5, "Recipient Party": 1, "DISCLOSING PARTY": 1, "LSE": 2}
-{"Infomagnet Ltd.": 2, "Disclosing Party": 12, "Receiving Party": 13, "Agreement": 1, "England and Wales": 2}
+{"LONDON SCHOOL OF ECONOMICS & POLITICAL SCIENCE": 2, "PARTY": 8, "Disclosing Party": 8, "Recipient": 5, "Recipient Party": 1, "DISCLOSING PARTY": 1, "LSE": 3}
+{"Infomagnet Ltd.": 2, "Disclosing Party": 12, "Receiving Party": 13, "Agreement": 1, "England and Wales": 2, "INFOMAGNET": 3}
 {"COMPANY X": 8, "COMPANY Y": 8, "Party": 12, "Parties": 8}
 {"Customer": 3, "INaturals": 2, "Company": 2, "Recipient": 2, "party": 15, "parties": 8}
 {"JB Machine LLC": 1, "Recipient": 6, "Company": 3, "Owner": 18, "Client": 2, "Parties": 3, "Contractors": 1, "Employee": 2}
-{"JUST BIOFIBER STRUCTURAL SOLUTIONS CORP.": 2, "Parties": 3, "Party": 5, "Receiving Party": 5, "Disclosing Party": 10, "Representatives": 2}
+{"JUST BIOFIBER STRUCTURAL SOLUTIONS CORP.": 2, "Parties": 3, "Party": 5, "Receiving Party": 5, "Disclosing Party": 10, "Representatives": 2, "JBF": 1}
 {"CPK Manufacturing LLC": 1, "Kenway Composites": 2, "Delaware": 2, "Augusta": 2, "Maine": 2, "Company": 5, "Party": 15, "Parties": 10, "Disclosing Party": 8, "Recipient": 6, "Representative": 5, "Group": 3, "Holding Company": 2, "Subsidiary": 2, "Serious Fraud Office": 1, "Court": 2, "Ian D. Kopp": 2, "President": 1}
 {"KERBER APPLIED RESEARCH INC.": 1, "parties": 8, "party": 12, "disclosing party": 3, "receiving party": 4, "furnishing party": 3}
 {"LiiON, LLC.": 1, "Company": 3, "Vendor": 3, "Disclosing Party": 4, "Receiving Party": 5, "Affiliates": 3, "LiION LLC": 2}
-{"Disclosing Party/Writer": 5, "Receiving Party/Producer": 5, "Parties": 5, "Party": 8, "Film Writers Association": 2}
+{"Disclosing Party/Writer": 5, "Receiving Party/Producer": 5, "Parties": 5, "Party": 8, "SWA": 1, "Film Writers Association": 2}
 {"Product Development Experts, Inc.": 2, "Inventor": 2, "disclosing party": 8, "receiving party": 8, "party": 30, "parties": 10, "PARTIES": 2}
-{"The Knights of Unity Sp. z o.o.": 1, "Parties": 5, "disclosing party": 10, "receiving party": 13, "Company": 1}
+{"The Knights of Unity Sp. z o.o.": 1, "Parties": 5, "disclosing party": 10, "receiving party": 13, "Company": 1, "The Knights of Unity": 1}
 {"HoG, Centre for Data Governance, NIC": 1, "NCDG": 2, "HEAD OF USER DEPARTMENT": 1, "USER DEPARTMENT": 2, "Parties": 8, "Party": 5, "Disclosing Party": 7, "Receiving Party": 12, "Affiliate": 2}
-{"Entrusting party": 18, "Recipient": 18, "Parties": 2, "Shenzhen Artop Inno Co. Ltd": 1, "People's Republic of China": 2, "ShenZhen ARTOP Inno co., ltd": 1}
-{"Buyer": 15, "Owner": 15, "The Kase Group": 2, "TKG": 3, "Broker": 2, "Buyer\u2019s Broker": 2, "parties": 1}
+{"Entrusting party": 18, "Recipient": 18, "Parties": 2, "Shenzhen Artop Inno Co. Ltd": 1, "People's Republic of China": 2, "ShenZhen ARTOP Inno co., ltd": 1, "Artop": 1, "Inno": 1}
+{"Buyer": 15, "Owner": 15, "The Kase Group": 2, "TKG": 3, "Broker": 2, "Buyer\u2019s Broker": 2, "parties": 1, "Dollar General Portfolio": 1, "Portfolio Entity": 1}
 {"FINTRICITY": 4, "Fintricity": 2, "Fintricity Affiliates": 1, "FINTRICITY Affiliate": 1, "FINTRICITY Group": 1, "Company Affiliate": 2, "Disclosing Party": 4, "Receiving Party": 3, "recipient": 8, "Company": 3}
 {"Discloser": 9, "Recipient": 14, "M5 Computer Security": 2, "M5 Systems": 1, "parties": 3}
-{"Semiconductor Components Industries, LLC": 1, "ON Semiconductor": 2, "Discloser": 5, "Recipient": 5, "party": 8}
+{"Semiconductor Components Industries, LLC": 1, "ON Semiconductor": 2, "Discloser": 5, "Recipient": 5, "party": 8, "Industry Analyst": 1, "Industry Analysts": 1}
 {"Vendor": 3, "Disclosing Party": 9, "Receiving Party": 5, "ROI Corporation": 4, "Agent for the Vendor": 2, "Party": 1, "Parties": 1}
 {"Seeed Development Limited": 3, "Seeed": 8, "Customer": 8, "Parties": 12, "Party": 13, "Disclosing Party": 2, "Receiving Party": 2, "Recipient": 1, "Hong Kong International Arbitration Centre (HKIAC)": 2}
-{"Teqball Holding S.\u00e0 r.l.": 1, "Luxembourg Trade and Companies Register": 1, "Parties": 6, "Party": 10, "Group Companies": 5, "International Federation of Teqball": 1, "F\u00e9d\u00e9ration Internationale de Teqball": 1, "Registre du Commerce du Canton de Vaud": 1, "I. Budapest TEQBALL Sportegyes\u00fclet": 1, "F\u0151v\u00e1rosi T\u00f6rv\u00e9nysz\u00e9k": 1, "Disclosing Party": 4, "Receiving Party": 5, "Authorized Persons": 3}
+{"Teqball Holding S.\u00e0 r.l.": 1, "Luxembourg Trade and Companies Register": 1, "Parties": 6, "Party": 10, "Group Companies": 5, "International Federation of Teqball": 1, "F\u00e9d\u00e9ration Internationale de Teqball": 1, "Registre du Commerce du Canton de Vaud": 1, "I. Budapest TEQBALL Sportegyes\u00fclet": 1, "F\u0151v\u00e1rosi T\u00f6rv\u00e9nysz\u00e9k": 1, "Disclosing Party": 4, "Receiving Party": 5, "Authorized Persons": 3, "Sqiller": 1}
 {"Media News Group, Inc.": 2, "Disclosing Party": 15, "Recipient": 19, "Party": 6, "Parties": 5}
-{"SAF Industries, LLC": 1, "Gar Kenyon": 2, "GK": 6, "SUPPLIER": 12, "International Chamber of Commerce": 1}
-{"GWI Project Managers": 2, "Parties": 2, "party": 12, "disclosing party": 2, "receiving party": 2}
-{"Mandarin Trading (Pty) Ltd": 3, "ResRequest": 2, "Business Partner": 5, "party": 10}
+{"SAF Industries, LLC": 1, "Gar Kenyon": 2, "GK": 6, "SUPPLIER": 12, "International Chamber of Commerce": 1, "Gar": 1, "Kenyon": 1}
+{"GWI Project Managers": 2, "Parties": 2, "party": 12, "disclosing party": 2, "receiving party": 2, "GWI": 3, "Technology Hubs": 1, "Technohubs": 1}
+{"Mandarin Trading (Pty) Ltd": 3, "ResRequest": 2, "Business Partner": 5, "party": 10, "ResRequest": 3, "ResConnect": 1}
 {"Jasmine Technologies Ltd": 2, "Discloser": 8, "Recipient": 10, "Disclosers": 20, "Parties": 2, "Authorised Person": 4, "Group Member": 2}
-{"University of Nebraska": 7, "University": 5, "Central Administration": 1}
+{"University of Nebraska": 7, "University": 5, "Central Administration": 1, "NU": 7}
 {"New York City Bar Association": 2, "Corporation Law Committee": 2, "THE ASSOCIATION OF THE BAR OF THE CITY OF NEW YORK": 1, "Company": 15, "Buyer": 15, "Affiliates": 6, "Representatives": 8, "Person": 3, "LAW FIRM": 3}
 {"UW Oshkosh": 2, "Board of Regents of the University of Wisconsin System": 1, "University of Wisconsin Oshkosh": 1, "Party": 4, "Parties": 3, "Disclosing Party": 8, "Receiving Party": 12, "Company": 1, "Office of Sponsored Programs": 1, "Principal Investigator of the University": 1}
 {"Petro-Lubricant Testing Laboratories, Inc.": 3, "Petro-Lube": 11, "Disclosing Party": 3, "Receiving Party": 2, "Party": 10, "Parties": 8, "(Your Company Name)": 11}
-{"QEP Energy Company": 3, "Owner": 15, "Receiving Company": 15, "Party": 2, "Parties": 3, "Affiliates": 5}
+{"QEP Energy Company": 3, "Owner": 15, "Receiving Company": 15, "Party": 2, "Parties": 3, "Affiliates": 5, "QEP": 1, "BMO": 1}
 {"Parties": 3, "Company": 2, "Third Party": 2, "Disclosing Party": 2, "Recipient": 1, "party": 8}
-{"Red River Oil Inc.": 2, "Disclosing Party": 20, "Recipient": 19, "Representatives": 10, "Tudor, Pickering, Holt & Co. Securities \u2013 Canada, ULC": 2, "National Bank Financial Inc.": 2}
-{"Roundhouse Creative Pty Ltd": 1, "Roundhouse Creative P/L": 2, "Parties": 8, "Party": 15, "Recipient": 4}
+{"Red River Oil Inc.": 2, "Disclosing Party": 20, "Recipient": 19, "Representatives": 10, "Tudor, Pickering, Holt & Co. Securities \u2013 Canada, ULC": 2, "National Bank Financial Inc.": 2, "RROI": 1}
+{"Roundhouse Creative Pty Ltd": 1, "Roundhouse Creative P/L": 2, "Parties": 8, "Party": 15, "Recipient": 4, "Roundhouse": 1, "Creative": 1}
 {"SAMED": 18, "Board": 22, "Committee": 15, "South African Medical Devices Industry Association": 2, "parties": 4}
-{"Signal Energy, LLC": 1, "EMJ Corporation": 1, "Signal Wind Energy, LLC": 1, "Signal Solar, LLC": 1, "Company": 8, "Counterparty": 12, "Party": 6, "Parties": 8, "Disclosing Party": 5, "Receiving Party": 7, "Agents": 2}
+{"Signal Energy, LLC": 1, "EMJ Corporation": 1, "Signal Wind Energy, LLC": 1, "Signal Solar, LLC": 1, "Company": 8, "Counterparty": 12, "Party": 6, "Parties": 8, "Disclosing Party": 5, "Receiving Party": 7, "Agents": 2, "SE_NDCA": 1}
 {"Receiving Party": 10, "SINTEC UK LIMITED": 1, "SINTEC": 19, "Parties": 3, "London Court of International Arbitration": 1, "LCIA": 1, "SINTEC UK LTD": 1}
-{"Sony Pictures Television Inc.": 1, "Sony Pictures": 5, "Tribune Company": 1, "Company": 15, "Disclosing Party": 5, "Receiving Party": 5, "United States Securities and Exchange Commission": 1, "Corporate Legal Department": 1, "Sony Pictures Entertainment Inc.": 1, "General Counsel": 2, "Eddie Lazarus": 2, "Chris Mansolillo": 1, "JAMS": 2, "Los Angeles County Superior Court": 2, "California Court of Appeal": 1}
+{"Sony Pictures Television Inc.": 1, "Sony Pictures": 5, "Tribune Company": 1, "Company": 15, "Disclosing Party": 5, "Receiving Party": 5, "United States Securities and Exchange Commission": 1, "Corporate Legal Department": 1, "Sony Pictures Entertainment Inc.": 1, "General Counsel": 2, "Eddie Lazarus": 2, "Chris Mansolillo": 1, "JAMS": 2, "Los Angeles County Superior Court": 2, "California Court of Appeal": 1, "Sony Pictures Television": 1, "Sony": 6}
 {"Axial": 2, "Standard Non-Disclosure Agreement": 1, "Agreement": 10, "Disclosing Party": 12, "Recipient": 11, "Parties": 5, "Party": 5, "Representatives": 5, "Legal Order": 2}
-{"State of Ohio": 3, "Bureau of Workers' Compensation": 3, "Department of Administrative Services": 1, "DAS": 2, "Recipient": 12, "Discloser": 12, "Parties": 3, "Party": 2, "BWC Information Systems": 1, "Pharmacy Benefits Manager": 2, "PBM": 1, "Bureau of Workers\u2019 Compensation Pharmacy Program": 2, "RFP CSP903918": 3}
-{"TSE Industries, Inc.": 1, "TSE-OK, LLC": 1, "WHK BioSystems, LLC": 1, "TSE": 2, "Company": 2, "Parties": 3, "Disclosing Party": 3, "Receiving Party": 3, "Office of the Directorate of Defense Trade Controls": 1}
+{"State of Ohio": 3, "Bureau of Workers' Compensation": 3, "Department of Administrative Services": 1, "DAS": 2, "Recipient": 12, "Discloser": 12, "Parties": 3, "Party": 2, "BWC Information Systems": 1, "Pharmacy Benefits Manager": 2, "PBM": 1, "SupplementOne": 1, "Bureau of Workers\u2019 Compensation Pharmacy Program": 2, "RFP CSP903918": 3}
+{"TSE Industries, Inc.": 1, "TSE-OK, LLC": 1, "WHK BioSystems, LLC": 1, "TSE": 2, "Company": 2, "Parties": 3, "Disclosing Party": 3, "Receiving Party": 3, "Office of the Directorate of Defense Trade Controls": 1, "WHK": 1, "OK": 1}
 {"Tabun Kitchen": 1, "Party 1": 5, "Party 2": 5, "the parties": 2, "Disclosing Party": 8, "Receiving Party": 9, "Parties": 3}
-{"INVESTISSEMENTS P. A. INC.": 2, "Franchisor": 12, "Franchisee": 3, "Franchise": 8, "Agreement": 15, "Annex \u201cA\u201d": 2}
-{"University of Arkansas at Little Rock": 3, "Board of Trustees of the University of Arkansas": 1, "University": 1, "Disclosing Party": 5, "Receiving Party": 5, "Recipient": 2, "Recipient Party": 1, "Party": 1}
+{"INVESTISSEMENTS P. A. INC.": 2, "Franchisor": 12, "Franchisee": 3, "Franchise": 8, "Agreement": 15, "Annex \u201cA\u201d": 2, "Tazza": 1, "CAFFE": 1}
+{"University of Arkansas at Little Rock": 3, "Board of Trustees of the University of Arkansas": 1, "University": 1, "Disclosing Party": 5, "Receiving Party": 5, "Recipient": 2, "Recipient Party": 1, "Party": 1, "UALR": 4}
 {"Vermont Electric Power Company, Inc.": 1, "Vermont Transco LLC": 1, "VELCO": 15, "Federal Energy Regulatory Commission": 1, "North American Electric Reliability Corporation": 1, "NERC CIP": 1, "Recipient": 12, "Recipient Party": 1, "DISCLOSING PARTY": 1}
-{"Customer": 2, "Allazo Electronics, Inc.": 2, "Seller": 2, "Disclosing Party": 8, "Receiving Party": 10, "parties": 5}
+{"Customer": 2, "Allazo Electronics, Inc.": 2, "Seller": 2, "Disclosing Party": 8, "Receiving Party": 10, "parties": 5, "Mutual Customer": 1}
 {"WECC": 18, "Data Recipient": 28, "North American Electric Reliability Corporation": 1, "FERC": 2}
-{"Parties": 5, "AMC-Consult A/S": 2, "Company": 3, "Disclosing Party": 9, "Receiving Party": 9, "Affiliates": 2}
-{"Individual Receiving Party": 1, "Company Receiving Party": 1, "Receiving Party": 12, "Dominion Energy South Carolina, Inc.": 2, "Dominion Energy": 2, "DESC": 3, "South Carolina Public Service Authority": 1, "Santee Cooper": 2, "Disclosing Party": 5, "Disclosing Parties": 10}
-{"DEPARTMENT OF HOMELAND SECURITY": 3, "United States Government": 7, "PCII Program": 2, "PCII Program Manager": 3, "Authorized Entity": 4, "DHS": 1}
-{"Partner Ireland Insurance Limited": 2, "PARTIES": 1, "Party": 6, "Parties": 8, "Providing Party": 6, "Receiving Party": 12, "Representatives": 1}
+{"Parties": 5, "AMC-Consult A/S": 2, "Company": 3, "Disclosing Party": 9, "Receiving Party": 9, "Affiliates": 2, "AMC": 4}
+{"Individual Receiving Party": 1, "Company Receiving Party": 1, "Receiving Party": 12, "Dominion Energy South Carolina, Inc.": 2, "Dominion Energy": 2, "DESC": 3, "South Carolina Public Service Authority": 1, "Santee Cooper": 2, "Disclosing Party": 5, "Disclosing Parties": 10, "CEII": 34}
+{"DEPARTMENT OF HOMELAND SECURITY": 3, "United States Government": 7, "PCII Program": 2, "PCII Program Manager": 3, "Authorized Entity": 4, "DHS": 2}
+{"Partner Ireland Insurance Limited": 2, "PARTIES": 1, "Party": 6, "Parties": 8, "Providing Party": 6, "Receiving Party": 12, "Representatives": 1, "eHandshake": 1}
 {"Buyer": 12, "Epsteen & Associates": 1, "Broker": 12, "Seller": 11, "Business": 11}
 {"Euler Hermes North America Insurance Company": 2, "Euler Hermes": 15, "Company": 10, "Affiliates": 5, "Party": 2, "parties": 2}
 {"FullStory, Inc.": 2, "Recipient": 10, "Discloser": 10, "Affiliate": 3, "party": 8, "parties": 5, "governmental agency or department": 1}
 {"Lightning Source UK Ltd.": 3, "LSUK": 8, "Recipient": 10, "Party": 2, "parties": 2}
 {"KHRONOS MUTUAL NON-DISCLOSURE AGREEMENT": 1, "Khronos Mutual Non-Disclosure Agreement": 1, "The Khronos Group Inc.": 1, "Khronos": 6, "Participant": 6, "Member": 1, "California Corporation": 1, "disclosing party": 2, "receiving party": 2, "parties": 5, "party": 15, "California state courts of Santa Clara County": 1, "United States District Court for the Northern District of California, San Jose": 1}
 {"Lyophilization Technology, Inc.": 2, "LTI": 2, "Party": 24, "Parties": 8, "disclosing Party": 8, "receiving Party": 10, "Representatives": 1, "Pennsylvania": 1, "State of Delaware": 1, "courts of Delaware": 1}
-{"PROGRAM RESEARCH AGREEMENT": 1, "NON-DISCLOSURE AGREEMENT": 1, "MITACS-ACCELERATE INTERNSHIPS": 1, "MITACS-ELEVATE FELLOWSHIPS": 1, "McGill University": 3, "Mitacs Accelerate Internship Program": 1, "Mitacs Elevate Fellowship Program": 1, "Mitacs": 1, "The Royal Institution for the Advancement of Learning": 1, "Sponsor": 8, "Intern": 8, "Parties": 8, "Academic Supervisor": 4, "Project": 8, "Mitacs Accelerate": 2, "Mitacs Elevate": 2, "Canadian companies": 1, "Intellectual Property": 1, "Background Intellectual Property": 1, "Project Intellectual Property": 1, "Confidential Information": 4, "Discloser": 2, "Recipient": 3, "Disclosure": 1, "Publication": 2, "Board of Governors": 1, "Office of Sponsored Research": 1, "James Administration Building": 1, "Qu\u00e9bec": 2, "Canada": 2}
+{"PROGRAM RESEARCH AGREEMENT": 1, "NON-DISCLOSURE AGREEMENT": 1, "MITACS-ACCELERATE INTERNSHIPS": 1, "MITACS-ELEVATE FELLOWSHIPS": 1, "McGill University": 3, "Mitacs Accelerate Internship Program": 1, "Mitacs Elevate Fellowship Program": 1, "Mitacs": 1, "The Royal Institution for the Advancement of Learning": 1, "Sponsor": 8, "Intern": 8, "Parties": 8, "Academic Supervisor": 4, "Project": 8, "Mitacs Accelerate": 2, "Mitacs Elevate": 2, "Canadian companies": 1, "Intellectual Property": 1, "Background Intellectual Property": 1, "Project Intellectual Property": 1, "Confidential Information": 4, "Discloser": 2, "Recipient": 3, "Disclosure": 1, "Publication": 2, "Board of Governors": 1, "Office of Sponsored Research": 1, "James Administration Building": 1, "Qu\u00e9bec": 2, "Canada": 2, "Mitacs": 3}
 {"Carnegie Mellon University": 4, "Parties": 5, "Party": 8, "Disclosing Party": 11, "Recipient": 7, "Office of Sponsored Programs": 2}
 {"Motorola Mobility": 4, "Motorola": 8, "CXD": 1}
 {"Inria": 10, "Institut National de Recherche en Informatique et en Automatique": 1, "CNRS": 2, "Control System Dept": 1, "GIPSA-Lab": 1, "Grenoble Traffic Lab": 3, "GTL": 5, "NECS team": 2, "Organization": 6, "Parties": 2, "French Courts": 1}
 {"VENDOR/SUPPLIER": 1, "Recipient": 10, "Oceaneering International, Inc.": 5, "Delaware corporation": 1, "Oceaneering": 10, "parties": 4, "Representatives": 3}
-{"Alliance for Sustainable Energy, LLC": 2, "National Renewable Energy Laboratory": 2, "U.S. Department of Energy": 3, "DOE": 6, "Parties": 5, "Party": 3, "Receiving Party": 5, "Disclosing Party": 6, "Alliance": 3, "COMPANY NAME": 1, "COMPANY SHORT": 3}
-{"Potential Purchaser": 15, "Simply Fashions Stores, Ltd.": 2, "Adinath Corp.": 2, "Company": 28, "Parties": 3, "Affiliated Entities": 5, "Representatives": 8}
-{"STONY HILL BUSINESS BROKERS, LLC": 2, "Buyer": 15, "Broker": 20, "Seller": 15, "Business": 14, "Commonwealth of Pennsylvania": 1, "Bucks County, Pennsylvania": 2, "American Arbitration Association": 1, "parties": 3}
-{"thoughtbot, inc.": 2, "Disclosing Party": 8, "Receiving Party": 10, "parties": 5}
-{"TPI Composites, Inc.": 3, "Party": 2, "Parties": 5, "Disclosing Party": 6, "Receiving Party": 6, "U.S. Commerce Department": 2, "Delaware": 2}
+{"Alliance for Sustainable Energy, LLC": 2, "National Renewable Energy Laboratory": 2, "U.S. Department of Energy": 3, "DOE": 6, "Parties": 5, "Party": 3, "Receiving Party": 5, "Disclosing Party": 6, "Alliance": 3, "COMPANY NAME": 1, "COMPANY SHORT": 3, "NREL": 10}
+{"Potential Purchaser": 15, "Simply Fashions Stores, Ltd.": 2, "Adinath Corp.": 2, "Company": 28, "Parties": 3, "Affiliated Entities": 5, "Representatives": 8, "Simply Fashion": 2}
+{"STONY HILL BUSINESS BROKERS, LLC": 2, "Buyer": 15, "Broker": 20, "Seller": 15, "Business": 14, "Commonwealth of Pennsylvania": 1, "Bucks County, Pennsylvania": 2, "American Arbitration Association": 1, "parties": 3, "Stony Hill": 2}
+{"thoughtbot, inc.": 2, "Disclosing Party": 8, "Receiving Party": 10, "parties": 5, "thoughtbot": 2}
+{"TPI Composites, Inc.": 3, "Party": 2, "Parties": 5, "Disclosing Party": 6, "Receiving Party": 6, "U.S. Commerce Department": 2, "Delaware": 2, "TPI": 8}
 {"Company": 6, "Recipient": 10, "United States": 1, "State of California": 2, "VMware": 1}
 {"Wayne Fueling Systems LLC": 3, "Company": 3, "Disclosing Party": 6, "Receiving Party": 8, "Affiliate": 4, "Authorized Parties": 5, "Agreement": 20, "party": 15}
