@@ -1,0 +1,8 @@
+{
+  "total_samples": 977,
+  "average_BLEU": 0.112,
+  "average_F1": 0.382,
+  "average_Semantic": 0.6335,
+  "average_Precision": 0.217,
+  "average_Recall": 0.651
+}
