@@ -31,7 +31,7 @@
 {"Jazlynn Hall": 1, "Maria Uriarte": 1, "Uriarte": 1, "Hall": 1}
 {}
 {"Fanglin Sun": 1, "Carson": 1}
-{"Jianjun Yin": 1, "Yin": 7}
+{"Jianjun Yin": 1, "Yin": 7, "scientists": 3}
 {"Filipe Fran\u00c3\u00a7a": 2, "Cassandra E. Benkwitt": 1, "Guadalupe Peralta": 1, "Alexander Lees": 1, "Nick Graham": 1, "Joice Ferreira": 1}
 {"Heather Abernathy": 1, "Abernathy": 3, "\"Abernathy": 1, "Mike Cherry": 1, "Heather": 1}
 {"Dilkina": 3, "Caleb Robinson": 1, "Robinson": 1, "Juan Moreno Cruz": 2}
@@ -523,8 +523,8 @@
 {"Taher": 2}
 {"William Patzert": 1, "Patzert": 3}
 {}
-{"Jago Cooper": 1, "Cooper": 3}
-{"Caroline Fife": 1, "Fife": 1, "Latisha A. Smith": 1, "Erik A. Maus": 1, "James J. McCarthy": 1, "Michelle Koehler": 1, "Trina Hawkins": 1}
+{"Jago Cooper": 1, "Cooper": 3, "Caribbean people": 1}
+{"Caroline Fife": 1, "Fife": 1, "Latisha A. Smith": 1, "Erik A. Maus": 1, "James J. McCarthy": 1, "Michelle Koehler": 1, "Trina Hawkins": 1, "researchers": 2, "families": 2}
 {"Jeff Chambers": 1, "Chambers": 3, "Hongcheng Zeng": 1, "Robinson Negr\u00c3\u00b3n-Ju\u00c3\u00a1rez": 1, "David Baker": 1, "George Hurtt": 1, "Mark Powell": 1}
 {}
 {"Richard Teeuw": 1, "Teeuw": 6}
@@ -680,7 +680,7 @@
 {"Roger Ottmar": 1, "Ottmar": 2}
 {"Raymond Seed": 1, "Robert Bea": 1}
 {"Cliff Jacobs": 1, "David Parsons": 1}
-{"Ronald Kessler": 1, "Kessler": 4, "post-Katrina": 1}
+{"Ronald Kessler": 1, "Kessler": 4, "post-Katrina": 1, "survivors": 6}
 {}
 {"James Elsner": 1, "Elsner": 4}
 {"Thomas Glass": 1}

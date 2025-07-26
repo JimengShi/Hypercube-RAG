@@ -56,7 +56,7 @@
 {}
 {"Alberto": 1, "Hurricane Florence": 1, "Hurricane Michael": 1}
 {"Hurricane Harvey": 3, "Harvey": 1}
-{"Superstorm Sandy": 1, "Sandy": 2, "Hurricane Katrina": 1, "Caregivers Journey of Hope workshop": 1}
+{"Superstorm Sandy": 1, "Sandy": 2, "Hurricane Katrina": 1}
 {"Floyd": 1, "Matthew": 1, "Florence": 1, "Hurricane Floyd": 1, "Hurricane Matthew": 1, "Hurricane Florence": 1}
 {}
 {}
@@ -227,7 +227,7 @@
 {}
 {}
 {"Hurricane Isaac": 1}
-{"El Ni\u00c3\u00b1o": 2, "Tropical Storm Ana": 1, "Ana": 1}
+{"El Ni\u00c3\u00b1o": 2, "Ana": 1}
 {}
 {}
 {"Super Typhoon Maysak": 1, "TRMM": 1}
@@ -313,7 +313,7 @@
 {"Hurricane Sandy": 3, "Sandy": 1}
 {"Category 3": 1, "Hurricane Hunter": 1}
 {}
-{"Nadine": 1, "Hurricane Nadine": 1}
+{"Nadine": 1, "Hurricane Nadine": 1, "HS3 mission": 1}
 {"the Hurricane Sandy": 1}
 {}
 {}
@@ -365,7 +365,7 @@
 {"Hurricane Sandy": 1, "Sandy": 10}
 {"El Nino": 3, "the Pacific Decadal Oscillation": 1, "El Ninos": 1, "Hurricane Linda": 1, "Linda": 1}
 {"Katrina": 2}
-{"Hurricane Leslie": 1, "Hurricane Nadine": 1, "Nadine": 5, "Hurricane Ginger": 1, "Hurricane/Typhoon": 1, "Tropical Depression 14": 1, "Tropical Storm Nadine": 4, "HS3 mission": 1}
+{"Hurricane Leslie": 1, "Hurricane Nadine": 1, "Nadine": 5, "Hurricane Ginger": 1, "Hurricane/Typhoon": 1, "Tropical Depression 14": 1, "Tropical Storm Nadine": 4}
 {"Hurricane Irene": 2, "Irene": 1}
 {}
 {"the Flood Risk Conference": 1, "Hurricane Katrina": 1}
@@ -518,7 +518,7 @@
 {"El Ni\u00c3\u00b1o": 6, "El Ni\u00c3\u00b1o Modoki": 1, "La Ni\u00c3\u00b1a": 1, "La Nina": 2, "El Ni\u00c3\u00b1o-La Ni\u00c3\u00b1a": 1}
 {"Katrina": 2}
 {}
-{}
+{"hurricanes": 1}
 {}
 {"Hurricane Andrew": 1}
 {"The Atlantic Ocean Hurricane Season": 1, "Hurricane season": 1, "El Ni\u00c3\u00b1o": 2}
@@ -554,7 +554,7 @@
 {}
 {"Hurricanes Hanna": 1, "Hanna": 1}
 {"Katrina": 2}
-{"Hurricanes Gustav": 1}
+{"Hurricanes Gustav": 1, "NCAR study": 1}
 {}
 {"Hurricane Wilma": 1}
 {}
@@ -624,7 +624,7 @@
 {"Hurricane Hugo": 2}
 {"La Nina": 1, "Carol": 1}
 {"Category 1 hurricane": 1, "Category 2": 1, "Hurricane Fran": 1}
-{"Hurricane Katrina": 2, "Katrina": 4, "the Hanshin-Awaji Earthquake": 1, "Kashmir earthquake": 1}
+{"Hurricane Katrina": 2, "Katrina": 4, "the Hanshin-Awaji Earthquake": 1}
 {}
 {}
 {"Tropical Depression Charley": 1}
@@ -632,7 +632,7 @@
 {"El Ni\u00c3\u00b1o": 1}
 {"Hurricane Andrew": 1}
 {"El Ni\u00c3\u00b1o": 6}
-{"La Niña": 1}
+{"La Ni\u00f1a": 1}
 {"El Ni\u00c3\u00b1o": 1, "Subtropical Storm Andrea": 1, "Andrea": 1, "2007 Atlantic hurricane season": 1}
 {"Hurricane Charley's": 1, "Hurricane         ": 1}
 {"post-Katrina": 1, "SAEM Annual Meeting": 1}
@@ -654,7 +654,7 @@
 {}
 {"La Ni\u00c3\u00b1a conditions": 1, "La Ni\u00c3\u00b1a episodes": 2, "La Ni\u00c3\u00b1a": 2, "La            ": 1, "El Ni\u00c3\u00b1o and La Ni\u00c3\u00b1a events": 1, "El Ni\u00c3\u00b1o conditions": 1, "La Ni\u00c3\u00b1a event": 1, "Atlantic            ": 1}
 {"the International Polar Year": 1}
-{"La Nina": 1, "El Ni\u00c3\u00b1o": 3, "Katrina": 1, "Rita": 1, "Wilma": 1, "Florence": 1, "Gordon": 1, "Helene": 1, "Isaac": 1, "El Ni\u00c3\u00b1o\u00e2\u0080\u0094a": 1, "Carlotta": 1, "Hurricane John": 1, "Hurricane Paul": 1}
+{"La Nina": 1, "El Ni\u00c3\u00b1o": 3, "Katrina": 1, "Rita": 1, "Wilma": 1, "Florence": 1, "Gordon": 1, "Helene": 1, "Isaac": 1, "El Ni\u00c3\u00b1o\u00e2\u0080\u0094a": 1, "Carlotta": 1, "Hurricane John": 1, "Hurricane Paul": 1, "Atlantic hurricane season": 1, "El Niño": 1}
 {}
 {"Hurricane Katrina": 1}
 {"Hurricane Ernesto": 1, "Ernesto": 1, "Tropical Storm Bilis": 1}
@@ -779,7 +779,7 @@
 {}
 {"Hurricane Nora": 2, "Nora": 2}
 {}
-{}
+{"CBLAST experiment": 1}
 {"post-hurricane": 1}
 {}
 {"Hurricane Floyd": 2, "Floyd": 1}
@@ -803,7 +803,7 @@
 {"the Madden-Julian Oscillation": 2}
 {"Hurricane Andrew": 1, "Hurricane Camille": 1, "Camille": 2, "Andrew": 1}
 {"Dennis": 1}
-{"the La Ni": 1, "Bret": 1, "Floyd": 1, "Arlene": 1, "the Quasi-Biennial Oscillation": 2, "La Ni a": 1, "El Ni o": 1, "La Ni\u00c3\u00b1a conditions": 1}
+{"the La Nina": 1, "Bret": 1, "Floyd": 1, "Arlene": 1, "the Quasi-Biennial Oscillation": 2, "La Ni a": 1, "El Ni o": 1, "La Ni\u00c3\u00b1a conditions": 1}
 {"Hurricane Lenny": 1}
 {"Hurricane Floyd": 2, "Hurricane Floyd's": 1}
 {}

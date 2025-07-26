@@ -85,7 +85,7 @@
 {"St. Tammany Parish": 4, "New Orleans": 1, "Bahamas": 1, "Florida": 1, "Louisiana": 1}
 {"India": 2, "Atlantic": 7, "Atlantic Ocean": 1, "Richland": 1, "Washington": 1, "Pacific Ocean": 1, "La Ni\u00c3\u00b1a": 6, "the North Atlantic": 1, "the Atlantic Ocean": 1, "Americas": 1}
 {"Florida": 2, "Earth": 5, "kilometers": 1, "Pasadena": 1, "California": 1, "Washington": 1, "Greenbelt": 1, "Maryland": 1, "Hampton": 1, "Virginia": 1}
-{"the American Northeast": 1, "USA": 1, "earth": 1, "Earth": 1}
+{"the American Northeast": 1, "USA": 1, "Earth": 1}
 {"Midwest": 1, "the United States": 3, "Earth": 2, "Texas": 1, "the Atlantic Ocean": 1}
 {"Australia": 1}
 {"South Santee River": 4, "South Carolina": 7, "Duck": 4, "North Carolina": 6, "the Albemarle and Pamlico Sounds": 2, "Neuse": 1, "Pamlico Rivers": 1, "Edisto Beach": 2, "Virginia": 1, "Cape Charles Light Virginia": 1, "Chesapeake Bay": 1, "New Point Comfort": 1, "North and South Carolina": 1}
@@ -523,7 +523,7 @@
 {"Florida": 1}
 {"Pacific Ocean": 1, "Pacific": 7, "Atlantic": 8, "Earth": 1, "Greenbelt": 1, "Md.": 1, "Pasadena": 2, "the Gulf Stream": 1, "Providence": 1, "Rhode Island": 1, "U.S.": 1, "La Ni\u00c3\u00b1a": 3, "the Pacific Decadal Oscillation's": 1, "the Pacific Ocean": 1, "Caribbean": 1}
 {}
-{"Caribbean": 4, "Britain": 1, "Cuba": 2, "Canada": 1, "Los Buchillones": 1}
+{"Caribbean": 4, "Britain": 1, "Cuba": 2, "Canada": 1, "Los Buchillones": 1, "coastal areas": 1}
 {"Houston": 2, "the United States": 1}
 {"U.S.": 2, "United States": 1, "Gulf Coast": 1, "Texas": 1, "Louisiana": 1, "Florida": 1, "North Carolina": 1}
 {"New Orleans'": 1, "New Orleans": 7, "Gulf": 1}
@@ -632,7 +632,7 @@
 {"tropics": 2, "the Pacific Ocean": 1, "North America": 1, "Europe": 1, "Massachusetts": 1, "the Eastern Seaboard": 1, "Pacific": 1}
 {}
 {"Caribbean": 1, "Laguna Playa Grande": 3, "Vieques": 3, "Puerto Rico": 1, "Atlantic": 6, "the New England": 1, "the Mid-Atlantic": 1, "the United States": 1, "New York": 1, "the Gulf Coast": 1, "Louisiana": 1, "Lake Ossa": 1, "Cameroon": 1, "Africa": 1}
-{"Carteret County": 1, "North Carolina": 2, "Georgia": 1, "Silver Spring": 1, "Md.": 1, "Louisiana": 2, "Terrebonne Parish": 1, "Martin": 1, "Florida": 3, "S.C.": 1, "Indian River County": 1, "Fla.": 1, "U.S.": 1, "Gulf of Mexico": 2, "La Ni\u00c3\u00b1a": 2, "Atlantic Ocean": 1, "South Carolina": 1, "the Gulf of Mexico": 1, "Gulf": 1, "the State of Florida": 1, "Caribbean": 1}
+{"Carteret County": 1, "North Carolina": 2, "Georgia": 1, "Silver Spring": 1, "Md.": 1, "Louisiana": 2, "Terrebonne Parish": 1, "Martin": 1, "Florida": 3, "S.C.": 1, "Indian River County": 1, "Fla.": 1, "U.S.": 1, "Gulf of Mexico": 2, "La Ni\u00c3\u00b1a": 1, "Atlantic Ocean": 1, "South Carolina": 1, "the Gulf of Mexico": 1, "Gulf": 1, "the State of Florida": 1, "Caribbean": 1}
 {"Atlantic": 5, "the Atlantic            ": 1, "La Ni\u00c3\u00b1a": 5, "East": 1, "Gulf": 1, "Caribbean": 1, "the East Pacific": 1, "the United States": 1, "America": 1}
 {"Gulf": 1, "Atlantic": 2, "Texas": 1, "Maine": 1, "Florida": 1}
 {"New Orleans": 3, "US": 1, "Chicago": 1, "IL": 1}

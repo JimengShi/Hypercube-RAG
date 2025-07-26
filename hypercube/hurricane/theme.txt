@@ -21,7 +21,7 @@
 {"tropical cyclones": 15, "cyclone": 19, "rainfall": 14, "tropical cyclones.the": 1, "tropical cyclones'": 1, "climate models": 1, "tropical cyclone": 4, "tropical cyclones,": 1, "storm": 1, "flood": 1}
 {"storm": 5, "climate change": 2, "rainfall": 1, "hurricane landfall": 1}
 {"storm surges": 1, "rainfall": 1, "public health": 1, "flood": 1}
-{"coral reefs,": 2, "storm": 3, "coral reefs": 5, "coral reef": 1, "flood": 1}
+{"coral reefs,": 2, "storm": 3, "coral reefs": 5, "coral reef": 1, "flood": 1, "tropical storms": 1, "sea-level rise": 2}
 {"cyclone": 14, "coral reefs": 2, "storm": 1, "coral reef": 1}
 {"tropical cyclones": 1, "cyclone": 1, "storm": 2, "global warming": 1, "flood": 1}
 {"tropical cyclones": 4, "cyclone": 6, "tropical cyclone": 2, "major hurricane,": 1, "storm": 1}
@@ -31,7 +31,7 @@
 {"rainfall": 3, "storm": 3, "sustained winds": 1, "sustained wind": 1, "tropical cyclone": 1, "cyclone": 1, "flood": 1}
 {"storm surge": 1, "flood": 1}
 {"storm": 7, "tropical cyclones,\"": 1, "tropical cyclones": 1, "cyclone": 1, "hurricane landfall": 1}
-{"tropical cyclones,": 1, "storm surge.": 1, "storm surges,": 1, "storm surge": 4, "tropical cyclone": 1, "cyclone": 1, "storm": 1, "climate models": 1}
+{"tropical cyclones,": 3, "storm surge.": 1, "storm surges,": 1, "storm surge": 4, "tropical cyclone": 1, "cyclone": 1, "storm": 1, "climate models": 1, "extra-tropical cyclones": 2}
 {"El Ni\u00f1o": 3, "coral reefs": 3, "climate extremes": 1, "coral reefs,": 2, "storm": 1, "water quality": 1, "climate change": 2, "coral bleaching": 1, "ocean temperature": 1, "coral reefs.dr": 1, "flood": 1}
 {"climate change": 2, "hurricane landfall": 1}
 {"climate change": 1}
@@ -125,7 +125,7 @@
 {"storm": 1, "sea surface temperature": 1, "intense hurricanes": 1}
 {"storm": 2}
 {"storm surges": 1, "storm surge": 1, "storm": 1, "climate change": 1, "flood": 1}
-{"storm": 1}
+{"storm": 1, "decision-making model": 1, "social choice model": 1}
 {"tropical cyclones": 6, "cyclone": 7, "storm": 7, "tropical cyclone": 1, "storm intensity": 1, "climate change": 1, "hurricane intensity": 1}
 {"coral reefs": 1, "storm": 1, "coral reefs,": 1, "disaster": 1}
 {"El Ni\u00f1o": 1, "cyclone": 8, "storm surges": 4, "storm": 5, "storm surges,\"": 1, "climate variability": 1, "storm surge": 1, "flood": 1}
@@ -196,7 +196,7 @@
 {"human health": 1, "water quality": 1, "fisheries": 1}
 {"storm": 8, "storm surge": 1, "greenhouse gas": 1}
 {"storm": 3, "tropical cyclones": 1, "cyclone": 1, "climate models": 1, "disaster": 1}
-{"hurricane prediction": 4, "storm": 1, "tropical cyclones": 1, "cyclone": 1, "wind speed": 2, "major hurricane": 1}
+{"hurricane prediction": 4, "storm": 1, "tropical cyclones": 1, "cyclone": 1, "wind speed": 2, "major hurricane": 1, "predictive hurricane models": 1}
 {"tropical cyclones": 6, "cyclone": 8, "tropical cyclone": 2, "carbon uptake": 2, "rainfall": 2, "tropical cyclones.\"according": 1, "climate change": 2, "tropical cyclones,": 1, "hurricane landfall": 1}
 {"disaster": 1}
 {"climate change": 6, "human health": 1, "human health,": 1, "public health": 1, "disaster": 1}
@@ -313,7 +313,7 @@
 {"storm surges": 1, "storm surge,": 1, "storm": 2, "flood": 1}
 {"wind speed": 4, "storm": 3, "cyclone": 1}
 {"global warming": 2, "rainfall": 1, "climate models": 2, "flood": 1}
-{"tropical cyclone": 1, "cyclone": 1, "storm": 9, "tropical cyclones.hs3": 1, "global hawk.": 1, "global hawk": 5, "tropical cyclones.": 1}
+{"tropical cyclone": 1, "cyclone": 1, "storm": 9, "tropical cyclones.hs3": 1, "global hawk.": 1, "global hawk": 5, "tropical cyclones.": 1, "SAL": 3}
 {}
 {}
 {"hurricane season": 2, "named storms": 11, "storm": 13, "named storms,": 1, "cyclone": 1, "named storms.": 1}
@@ -518,13 +518,13 @@
 {"El Ni\u00f1o": 8, "La Ni\u00f1a": 3, "storm": 3, "hurricane season": 1, "hurricane landfall": 1}
 {"mental health": 1}
 {"tropical cyclones": 3, "cyclone": 21, "storm": 11, "rainfall": 1, "tropical cyclones,": 1, "tropical cyclone's": 1, "hurricane landfall": 1}
-{"hurricane season": 1, "wind speed": 1, "tropical cyclone.\"things": 1, "storm surge,": 1, "oil and gas": 1}
+{"hurricane season": 1, "wind speed": 1, "tropical cyclone.\"things": 1, "storm surge,": 1, "oil and gas": 1, "data frequency": 1}
 {"storm": 4}
 {"flood": 1}
 {"El Ni\u00f1o": 2, "hurricane season": 2, "tropical cyclone": 4, "cyclone": 5, "tropical cyclones": 1, "tropical cyclones,": 1, "rainfall": 2, "storm": 1, "ocean temperatures": 1, "sea surface temperature": 1, "ocean temperature": 1, "major hurricane": 1}
 {"tropical cyclone": 1, "cyclone": 5, "tropical cyclones": 4, "global warming": 1, "tropical cyclones,": 1}
-{"climate change": 4, "rainfall": 1, "storm surges": 1, "flood": 1}
-{"storm": 1}
+{"climate change": 4, "rainfall": 1, "storm surges": 1, "flood": 1, "hurricanes": 1}
+{"storm": 1, "generator safety": 1}
 {"storm": 1, "hurricane landfall": 1}
 {"storm surges,": 1, "storm surges": 1, "storm surge": 1, "storm surge.however,": 1, "storm": 1, "disaster": 1}
 {"coral reef": 1, "disaster": 1}
@@ -554,8 +554,8 @@
 {"sea surface temperature": 1, "major hurricanes": 1}
 {"disaster": 1}
 {"disaster": 1}
-{"global warming": 3, "hurricane intensity": 1, "climate change": 4, "rainfall": 1, "storm": 2, "climate models": 1}
-{"storm": 1, "disaster": 1}
+{"global warming": 3, "hurricane intensity": 1, "climate change": 4, "rainfall": 1, "storm": 2, "climate models": 1, "coastal communities": 1}
+{"storm": 1, "disaster": 1, "advanced EWS": 1}
 {"climate change": 7, "storm": 3, "storm surge": 2, "flood": 1}
 {"storm": 7, "storm surge": 4, "storm surge,": 3, "storm surge.\u00e2\u0080\u009d": 1, "rainfall": 1, "hurricane landfall": 1}
 {"storm surges.": 1, "rainfall": 1, "storm": 3, "disaster": 1}
@@ -591,7 +591,7 @@
 {"hurricane monitoring": 1, "storm": 4, "tropical cyclones).nicholas": 1, "cyclone": 2, "microphone": 1}
 {"La Ni\u00f1a": 1, "El Ni\u00f1o": 1, "named storms": 1, "storm": 2, "major hurricanes": 2, "sustained winds": 1, "named storms,": 1, "intense hurricanes": 1, "major hurricane": 3, "hurricane season": 1, "sea surface temperature": 1, "tropical cyclone": 2, "cyclone": 2, "hurricane landfall": 1}
 {"climate conditions,": 1, "climate extremes.": 1, "storm": 1, "climate change": 1, "flood": 1}
-{}
+{"marsh roots": 1}
 {"global warming": 1, "storm": 1}
 {"storm": 1, "climate change": 4, "flood": 1}
 {"ocean temperatures": 2, "storm": 2, "hurricane season": 1, "climate change": 1}
@@ -654,7 +654,7 @@
 {"global warming": 2, "storm": 1, "ocean temperatures,": 1, "hurricane intensity": 1}
 {"La Ni\u00f1a": 7, "El Ni\u00f1o": 2, "rainfall": 2, "hurricane season": 1, "fisheries": 1}
 {"cyclone": 1, "climate change": 3}
-{"La Ni\u00f1a": 1, "El Ni\u00f1o": 4, "hurricane season": 4, "named storms,": 2, "major hurricanes": 1, "major hurricanes.": 1, "storm": 27, "rainfall": 2, "ocean temperatures": 1, "african dust": 3, "named storms": 1, "hurricane landfall": 1}
+{"La Ni\u00f1a": 1, "El Ni\u00f1o": 4, "hurricane season": 4, "named storms,": 2, "major hurricanes": 1, "major hurricanes.": 1, "storm": 27, "rainfall": 2, "ocean temperatures": 1, "african dust": 3, "named storms": 1, "hurricane landfall": 1, "El Niño": 1}
 {"major hurricanes": 1, "storm": 8, "water quality": 1, "rainfall": 1, "hurricane landfall": 1}
 {"disaster": 1}
 {"storm": 1, "cyclone": 1}
@@ -679,8 +679,8 @@
 {"climate models": 1}
 {}
 {"economic losses": 1, "storm": 1, "disaster": 1}
-{"storm": 1}
-{"public health": 2, "disaster": 1}
+{"storm": 1, "Atlantic hurricanes": 1, "driftsondes": 5}
+{"public health": 2, "disaster": 1, "mental health": 3, "survivors": 6}
 {"storm": 3, "ocean temperatures": 1, "central pressure": 1, "storm surge": 1, "storm surge.": 1, "storm surges": 1, "hurricane landfall": 1}
 {"hurricane season": 1, "tropical cyclones": 1, "cyclone": 1, "hurricane intensity": 1, "sea surface temperature": 1, "climate change": 1}
 {"climate change": 1, "disaster": 1}
@@ -707,7 +707,7 @@
 {"storm": 2, "wind speed": 1, "hurricane intensity": 1, "global warming": 1}
 {"coral reefs,": 1, "hurricane landfall": 1}
 {"rainfall": 2, "tropical cyclones": 2, "cyclone": 6, "tropical cyclone": 4, "wind speed": 1, "storm surge,\u00e2\u0080\u009d": 1, "storm surge.many": 1, "storm surge": 1, "tropical cyclone.": 1, "storm": 3, "tropical cyclones,": 1, "storm intensity": 1, "flood": 1}
-{"water quality": 7, "storm": 1, "flood": 1}
+{"water quality": 7, "storm": 1, "flood": 1, "storm-induced changes": 1, "phytoplankton dynamics": 1}
 {"El Ni\u00f1o": 4, "rainfall": 3, "storm": 8, "hurricane season": 1, "named storms": 1, "sustained winds": 1, "major hurricanes": 2, "tropical cyclone": 1, "cyclone": 1, "hurricane landfall": 1}
 {"human health": 3, "flood": 1}
 {"storm": 11, "major hurricane": 1, "disaster": 1}
@@ -761,7 +761,7 @@
 {"rainfall": 2, "hurricane intensity": 1, "disaster": 1}
 {"major hurricane,": 1, "storm surge": 3, "hurricane landfall": 1}
 {"storm": 3}
-{"sea surface temperature": 6, "storm": 3, "hurricane season": 1, "tropical cyclone.": 2, "tropical cyclone": 4, "cyclone": 5, "tropical cyclones,": 1, "tropical cyclones": 1, "wind speed": 1, "hurricane landfall": 1}
+{"sea surface temperature": 6, "storm": 3, "hurricane season": 1, "tropical cyclone.": 2, "tropical cyclone": 4, "cyclone": 5, "tropical cyclones,": 1, "tropical cyclones": 1, "wind speed": 1, "hurricane landfall": 1, "warm water masses": 2, "hurricane intensification": 1}
 {"rainfall": 9, "tropical cyclones.": 2, "cyclone": 3, "storm": 12, "tropical cyclones": 2, "tropical cyclones,": 1, "tropical cyclones,\"": 2, "tropical cyclone's": 1, "flood": 1}
 {"rainfall": 2, "storm": 2, "hurricane season": 1}
 {"rainfall": 2, "storm": 2}
@@ -778,8 +778,8 @@
 {"storm": 1, "major hurricane": 1, "disaster": 1}
 {"storm": 1, "rainfall": 1}
 {"storm": 1}
-{"coral reefs": 1, "storm": 2, "coral reefs.": 1}
-{"storm surges,": 1, "hurricane landfall": 1}
+{"coral reefs": 1, "storm": 2, "coral reefs.": 1, "storm effects": 1, "modern storm effects": 1, "hurricanes": 2}
+{"storm surges,": 1, "hurricane landfall": 1, "CBLAST": 1, "Hurricane Hunter": 1}
 {"global warming": 2, "major hurricane": 1}
 {"wind speed": 2, "hurricane landfall": 1}
 {"economic losses": 1, "disaster": 1}
@@ -819,7 +819,7 @@
 {"storm": 4, "hurricane season": 1, "wind speed": 1}
 {"intense hurricanes": 2, "storm": 5, "major hurricanes": 2, "major hurricanes,": 2, "hurricane landfall": 1}
 {"storm": 2, "hurricane landfall": 1}
-{}
+{"magma": 11, "volcanic system": 1}
 {"economic losses": 1, "storm": 1, "flood": 1}
 {"storm": 3, "hurricane landfall": 1}
 {"El Ni\u00f1o": 5, "La Ni\u00f1a": 2, "climate variability": 2, "hurricane season": 1, "storm": 1, "disaster": 1}
