@@ -87,5 +87,5 @@ python evaluation/llm_as_judge.py --data hurricane --model gpt-4o --retrieval_me
 
 #### 5.2 Retrieval Performance
 <div align="left">
-<img src="https://github.com/JimengShi/Hypercube-RAG/blob/main/figures/retrieval_performance.jpg" alt="retrieval_performance" width="1000"/> 
+<img src="https://github.com/JimengShi/Hypercube-RAG/blob/main/figures/retrieval_performance.png" alt="retrieval_performance" width="1000"/> 
 </div>
