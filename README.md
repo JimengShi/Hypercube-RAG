@@ -15,6 +15,8 @@
 - `qa_rag_hurricane.py`: script to run Hypercube-RAG for hurricane dataset
 - `qa_rag_geography.py`: script to run Hypercube-RAG for geography dataset
 - `qa_rag_dam.py`: script to run Hypercube-RAG for dam dataset
+- `qa_rag_legalbench.py`: script to run Hypercube-RAG for legalbench dataset
+- `qa_rag_scifact.py`: script to run Hypercube-RAG for scifact dataset
 
 
 
