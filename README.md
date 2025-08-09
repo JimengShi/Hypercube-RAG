@@ -76,3 +76,10 @@ python evaluation/nlp_metric.py --data hurricane --model gpt-4o --retrieval_meth
 python evaluation/llm_as_judge.py --data hurricane --model gpt-4o --retrieval_method hypercube
 ```
 
+
+### 5. Results
+
+#### QA Performance
+<div align="left">
+<img src="https://github.com/JimengShi/Hypercube-RAG/blob/main/figures/qa_performance.jpg" alt="qa_performance" width="1000"/> 
+</div>
