@@ -53,9 +53,13 @@ with open('corpus/legalbench/contractnli.txt') as f:
 
 
 # ================ build embedding index ================
-model = SentenceTransformer('intfloat/e5-base-v2')
-# model = SentenceTransformer('nvidia/NV-Embed-v2', trust_remote_code=True)
-doc_embeddings = model.encode(['passage: ' + text for text in corpus], normalize_embeddings=True)
+# model = SentenceTransformer('intfloat/e5-base-v2')
+# doc_embeddings = model.encode(['passage: ' + text for text in corpus], normalize_embeddings=True)
+model = SentenceTransformer('nvidia/NV-Embed-v2', trust_remote_code=True)
+model.max_seq_length = 32768
+model.tokenizer.padding_side="right"
+doc_embeddings = model.encode(['passage: ' + text for text in corpus], batch_size=2, normalize_embeddings=True)
+
 
 
 # ================ construct hypercube ================
@@ -78,7 +82,6 @@ hypercube = {'date': defaultdict(list),
 for dimension in dimensions:
     with open(f'hypercube/legalbench/{dimension}.txt') as f:
         readin = f.readlines()
-        # readin = readin[:50]
         for i, line in tqdm(enumerate(readin), total=len(readin), desc=f"{dimension}"):
             tmp = json.loads(line)
             for k in tmp:
@@ -135,9 +138,9 @@ def llm_answer(model_type, query, cells, k, retrieval_method='hypercube'):
     if retrieval_method == 'hypercube':
         doc_ids = structure_docs
         print(f'>>> Doc ids by hypercube retrieval: {[id + 1 for id in doc_ids]} \n')
-    elif retrieval_method == 'semantic':
+    elif retrieval_method == 'e5' or retrieval_method == 'nvembed':
         doc_ids = semantic_docs
-        print(f'>>> Doc ids by semantic retrieval: {[id + 1 for id in doc_ids]} \n')
+        print(f'>>> Doc ids by {retrieval_method} retrieval: {[id + 1 for id in doc_ids]} \n')
     elif retrieval_method == 'union':
         doc_ids = list(set(structure_docs).union(set(semantic_docs)))
         doc_ids = doc_ids[:5]
@@ -153,7 +156,20 @@ def llm_answer(model_type, query, cells, k, retrieval_method='hypercube'):
     'Documents:\n'
 
     # set up the LLM
-    if model_type == 'gpt-4o':
+    if model_type == 'llama3':
+        os.environ["TOGETHER_API_KEY"] = "your TOGETHER_API_KEY"  # or set it externally
+        client = Together(api_key=os.getenv("TOGETHER_API_KEY"))
+        completion = client.chat.completions.create(
+            model="meta-llama/Llama-3.3-70B-Instruct-Turbo", 
+            messages=[
+                {"role": "system", "content": instruction + docs},
+                {"role": "user", "content": 'Query: ' + query + '\nAnswer:'}
+            ]
+        )
+        res = completion.choices[0].message.content  
+        return res, [id + 1 for id in doc_ids]
+    
+    elif model_type == 'gpt-4o':
         from openai import OpenAI
         client = OpenAI()
         completion = client.chat.completions.create(
@@ -233,7 +249,7 @@ def decompose_query(query):
         )
         
     response = client.beta.chat.completions.parse(
-        model="gpt-4o-2024-08-06",
+        model="gpt-4o-2024-11-20",
         messages=[
             {'role': 'system', 'content': system_prompt},
             {'role': 'user', 'content': input_prompt}
@@ -252,7 +268,7 @@ def decompose_query(query):
         
         for ent in detected_ents.list_of_queries:
             cells[ent.query_dimension].append(ent.query_content)
-            embed_string(target_str=ent.query_content, emb_model=model, dict_path='./ent2emb.pkl', )
+            embed_string(target_str=ent.query_content, emb_model=model, dict_path='ent2emb/ent2emb_law.pkl', )
         return cells
     
     except Exception as e:
@@ -270,7 +286,7 @@ def parse_args():
     parser = argparse.ArgumentParser(description="Evaluate QA model performance.")
     parser.add_argument("--data", type=str, required=True, help="Path to the QA dataset (JSON or CSV).")
     parser.add_argument("--model", type=str, required=True, choices=["gpt-4o-mini", "gpt-4o", "deepseek", 'llama3', 'llama4', 'gemma', "qwen"], help="Select llm to get answer.")
-    parser.add_argument("--retrieval_method", type=str, required=True, default="hypercube", choices=['hypercube', 'semantic', 'union'], help="Retrieval methods.")
+    parser.add_argument("--retrieval_method", type=str, required=True, default="hypercube", choices=['hypercube', 'e5', 'union', 'nvembed'], help="Retrieval methods.")
     parser.add_argument("--k", type=int, default=5, help="Number of retrieved documents.")
     parser.add_argument("--save", type=str, default="false", choices=["true", "false"], help="Evaluation metric: one score or multiple scores.")
     return parser.parse_args()
@@ -285,7 +301,6 @@ def main():
 
     # Load dataset
     qa_samples = load_dataset(data_path)
-    # qa_samples = qa_samples[:5]
 
     # Initialize evaluation metrics
     llm_output = []
@@ -309,12 +324,13 @@ def main():
         print(f">>> Ground Truth: {gold_answer}")
         print(f">>> return_doc_ids: {return_doc_ids}")
         print(f">>> relevant_docs: {relevant_docs}")
+        # print(f'Semantic_score: {semantic_score(predicted_answer, gold_answer):.4f}')
         print(f"\n")
 
         total_bleu += bleu_score(predicted_answer, gold_answer)
         total_semantic += semantic_score(predicted_answer, gold_answer)
         total_f1 += f1_score(predicted_answer, gold_answer)
-        
+
         if len(return_doc_ids) == 0:
             return_doc_ids = [0]
         total_precison += precision_at_k(return_doc_ids, relevant_docs)
@@ -329,8 +345,9 @@ def main():
             "f1_score": f1_score(predicted_answer, gold_answer),
             "semantic_score": semantic_score(predicted_answer, gold_answer),
             "return_doc_ids": return_doc_ids,
-            "precision": precision_at_k(return_doc_ids, [i+1]),
-            "recall": recall_at_k(return_doc_ids, [i+1])
+            "relevant_docs": relevant_docs,
+            "precision": precision_at_k(return_doc_ids, relevant_docs),
+            "recall": recall_at_k(return_doc_ids, relevant_docs)
         })
 
 
@@ -338,14 +355,29 @@ def main():
     num_samples = len(qa_samples)
     print(f"Total samples: {num_samples}, average BLEU: {total_bleu / num_samples:.4f}, average F1: {total_f1 / num_samples:.4f}, average Semantic: {total_semantic / num_samples:.4f}, average precision: {total_precison / num_samples:.4f}, average reall: {total_recall / num_samples:.4f}")
 
+    
+
+    # Assume you have these variables already defined
+    results = {
+        "total_samples": num_samples,
+        "average_BLEU": round(total_bleu / num_samples, 4),
+        "average_F1": round(total_f1 / num_samples, 4),
+        "average_Semantic": round(total_semantic / num_samples, 4),
+        "average_Precision": round(total_precison / num_samples, 4),
+        "average_Recall": round(total_recall / num_samples, 4)
+    }
+
 
     output_dir = f"output/{args.data}/{args.model}/"
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
     
     if args.save == "true":
-        with open(f"{output_dir}/llm_output_{args.retrieval_method}_{args.k}.json", "w", encoding="utf-8") as f:
+        with open(f"{output_dir}/llm_output_{args.retrieval_method}_k{args.k}_responses.json", "w", encoding="utf-8") as f:
             json.dump(llm_output, f, indent=2, ensure_ascii=False)
+
+        with open(f"{output_dir}/llm_output_{args.retrieval_method}_k{args.k}_scores.json", "w", encoding="utf-8") as f:
+            json.dump(results, f, indent=2, ensure_ascii=False)
 
         print("Saved llm output!")
 
