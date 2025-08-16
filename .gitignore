@@ -208,3 +208,5 @@ ent2emb/
 *.pkl
 
 output/
+CLAUDE.md
+core
