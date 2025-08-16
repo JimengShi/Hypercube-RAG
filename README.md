@@ -1,6 +1,6 @@
 # Hypercube-RAG
 <div align="left">
-<img src="https://github.com/JimengShi/Hypercube-RAG/blob/runchu/asset/hypercube_rag.jpg
+<img src="https://github.com/JimengShi/Hypercube-RAG/blob/main/figures/hypercube_rag.jpg" alt="hypercuberag" width="1000"/> 
 </div>
 
 ### 1. Organization
@@ -18,13 +18,47 @@
 
 
 
-### 2. Environment
+### 2. Setup
+
+#### 2.1 Quick Setup (Recommended)
+```bash
+python setup.py
+```
+
+This automated setup script will:
+1. Create a Python virtual environment (`hypercube_env`)
+2. Install all required dependencies
+3. Download the dataset from Hugging Face Hub
+4. Set up the complete project structure
+
+After setup, activate the environment:
+```bash
+source hypercube_env/bin/activate  # Linux/Mac
+# OR
+hypercube_env\Scripts\activate     # Windows
+```
+
+#### 2.2 Manual Environment Setup
 ```
 conda create --name hypercube python==3.10
 conda activate hypercube
 
 pip install accelerate openai together geopy nltk rouge_score sentence_transformers spacy
 ```
+
+#### 2.3 Dataset Download
+**Important**: The dataset is now hosted on Hugging Face Hub and should be downloaded automatically by the setup script. The `data/` directory is gitignored since data comes from Hugging Face, not Git.
+
+Manual download (if needed):
+```python
+from datasets import load_dataset
+dataset = load_dataset("Rtian/hypercube-rag")
+```
+
+The setup creates:
+- `data/query/` - Query datasets (9 datasets)
+- `data/corpus/` - Document corpora (9 datasets) 
+- `data/hypercube/` - Multi-dimensional entity indices (4 datasets)
 
 ### 3. Run the framework
 #### 3.0 Construct knowledge hypercube 

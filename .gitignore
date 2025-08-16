@@ -198,7 +198,10 @@ __marimo__/
 # Project Specific
 # ==============================================================================
 
-# Raw data
+# Dataset files (downloaded from Hugging Face)
+data/
+
+# Raw data (legacy)
 QA/legalbench/raw
 corpus/legalbench/raw
 
