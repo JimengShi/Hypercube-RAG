@@ -1,0 +1,77 @@
+NON - DISCLOSURE AGREEMENT
+This Agreement made on this _____ day of __________, ______ (the ‘Effective Date’)
+BETWEEN:
+The HoG, Centre for Data Governance, NIC, here in after referred to as NCDG, (which shall unless exclude by or repugnant to the context be deemed to include his/her successor in office or assigned) of the FIRST PART.
+And
+Between The HEAD OF USER DEPARTMENT, here in after referred to as USER DEPARTMNET (which expression shall unless exclude by or repugnant to the context be deemed to include his/her successor in office or assigned) of the SECOND PART.
+USER DEPARTMENT and NCDG hereinafter collectively referred to as the “Parties” and individually referred to as the “Party” as per the context.
+I. Background:
+1. The Parties are, or will be, evaluating, discussing and negotiating a potential contractual relationship concerning the ___________________________________________ ________________ ________________ ___________ (the ‘Project’).
+2. The Parties may, in these evaluations, discussions and negotiations, disclose to each other information that is technically and /or commercially confidential.
+3. The Parties have agreed that disclosure and use of such technical and/or commercial confidential information shall be made and on the terms and conditions of this Agreement.
+Now it is agreed as follows:
+II. Definitions:
+In this Agreement the following terms shall, unless the context otherwise requires, have the following meanings:
+1. ‘Disclosing Party’ means the Party disclosing Confidential Information to the other Party under this Agreement.
+2. ‘Receiving Party’ means the Party receiving Confidential Information from the other Party under this Agreement.
+3. ‘Confidential Information’ means any information or sensitive data , which shall include but is not limited to, design, fabrication & assembly drawings, know-how, processes, product specifications, raw materials, trade secrets, market opportunities, or business or financial affairs of the Parties or their customers, product samples, inventions, concepts and any other technical and/or commercial information, disclosed directly or indirectly and in any form
+whatsoever (including, but not limited to, disclosure made in writing, oral or in the form of samples, models, computer programs, drawings or other instruments) furnished by the Disclosing Party to the Receiving Party under this Agreement.
+4. Such Confidential Information shall also include but shall not be limited to:
+a) information disclosed by the Disclosing Party in writing marked as confidential at the time of disclosure;
+b) information disclosed by the Disclosing Party orally which is slated to be confidential at the time of disclosure;
+c) information disclosed in any other manner is designated in writing as Confidential Information at the time of disclosure; or
+d) notwithstanding sub-clauses a,b & c of this definition, any information whose nature makes it obvious that it is confidential.
+e) Such Confidential Information shall not include any information which:is, at the time of disclosure, publicly known; or
+f) becomes at a later date, publicly available otherwise than a wrongful act or negligence or breach of this Agreement of or by the Receiving Party; or
+g) the Receiving Party can demonstrate by its written records was in its possession, or known to the Receiving Party, before receipt under this Agreement, and which was not previously acquired under an obligation of confidentiality; or
+h) is legitimately obtained at any time by the Receiving Party from a third party without restrictions in respect of disclosure or use; or
+i) the Receiving Party can demonstrate to the satisfaction of the Disclosing Party, has been developed independently of its obligations under this Agreement and without access to the Confidential Information.
+j) ‘Purpose’ means the evaluations, discussions, negotiations and execution regarding a contractual relationship between the Parties in respect of the Project defined in paragraph (i) of the Background section.
+k) ‘Affiliate’ means any legal entity which, at the time of disclosure to it on any `Confidential Information, is directly or indirectly controlling, controlled by or under common control with any of the Parties.
+l) ‘Contemplated Agreement’ means any future legally binding Agreement between the Parties in respect of the Project envisaged under this Agreement.
+III. Non-Disclosure of Confidential Information:
+1. In consideration of the disclosure of Confidential Information by the Disclosing Party to the Receiving Party solely for the Purpose, the Receiving Party undertakes whether by itself, its successors and heirs, not to disclose Confidential Information to any third party, unless in accordance with Clause 4.
+2. In addition to the undertaking in Clause 2.1, the Receiving Party shall be liable for:
+3. any loss, theft or other inadvertent disclosure of Confidential Information, and
+4. any unauthorized disclosure of Confidential Information by persons (including, but not limited to, present and former employees) or entities to whom the Receiving Party under this Agreement has the right to disclose Confidential Information, except where, the Receiving Party has used the same degree of care in safeguarding such Confidential Information as it uses for its own Confidential Information of like importance and in no event less than a reasonable degree of care; and upon becoming aware of such inadvertent or unauthorized disclosure the Receiving Party has promptly notified the Disclosing Party thereof and taken all reasonable measures to mitigate the effects of such disclosure and to prevent further disclosure.
+5. The Receiving Party understands and agrees that:
+6. any information known only to a few people to whom it might be of commercial interest and not generally known to the public is not public knowledge;
+7. a combination of two or more parts of the Confidential Information is not public knowledge merely because each part is separately available to the public.
+8. The Receiving Party acknowledges the technical, commercial and strategic value of the Confidential Information to the Disclosing Party and understands that unauthorized disclosure of such Confidential Information will be injurious to the Disclosing Party.
+9.Use of Confidential Information:
+The Receiving Party is entitled to use the Confidential Information but only for the Purpose.
+IV. Permitted Disclosure of Confidential Information:
+1.The Receiving Party may disclose in confidence Confidential Information to any of its Affiliates and employees, in which event the Affiliate and employee shall be entitled to use the Confidential Information but only to the same extent the Receiving Party is permitted to do so under this Agreement. The Receiving Party agrees that such Affiliates or employees are subject to confidentiality obligations no less restrictive than those of this Agreement.
+2.The Receiving Party shall limit the dissemination of Confidential Information of its Affiliates and employees having a need to receive such information to carry out the Purpose.
+3.The Receiving Party may disclose Confidential Information to its consultants, contractors, sub-contractors, agents or similar persons and entities having a need to receive such information to carry out the Purpose on the prior written consent of the Disclosing Party. In the event that the Disclosing Party gives such consents, the Receiving Party agrees that such individuals are subject to confidentiality obligations no less restrictive than those of this Agreement.
+4.Notwithstanding Clause 2.1, the Receiving Party shall not be prevented from disclosing Confidential Information, where (i) such disclosure is in response to a valid order of a court or any other governmental body having jurisdiction over this Agreement or (ii) such disclosure is otherwise required by law, provided that the Receiving Party, to the extent possible, has first given prior written notice to the Disclosing Party and made reasonable efforts to protect the Confidential Information in connection with such disclosure.
+V. Copying and Return of Furnished Instruments:
+1.The Receiving Party shall not be entitled to copy samples, models, computer programs, drawings, documents or other instruments furnished by the Disclosing Party hereunder and containing Confidential Information, unless and to the extent it is necessary for the Purpose.
+2.All samples, models, computer programs, drawings, documents and other instruments furnished hereunder and containing Confidential Information shall remain the Disclosing Party’s property.
+3. At any time upon request from the Disclosing Party or upon the conclusion of the Purpose or expiry of this Agreement, the Receiving Party, at its own cost, will return or procure the return, promptly and in any event within 14 days of receipt of such request, of each and every copy of Confidential Information given by the Disclosing Party, and satisfy the Disclosing Party that it no longer holds any further Confidential Information.
+VI. Non-Disclosure of Negotiations:
+Except as provided in Clause 4, each Party agrees that it will not, without the other Party’s prior written approval, disclose to any third party the fact that the Parties are discussing the Project. The Parties acknowledge that the provisions of this Agreement shall apply in respect of the content of any such discussions. The undertaking set forth in this Clause 7 shall survive the termination of this Agreement.
+VII. Term and Termination:
+1. This Agreement shall become effective on the Effective Date. The provisions of this Agreement shall however apply retroactively to any Confidential Information, which may have been disclosed in connection with discussions and negotiations regarding the Project prior to the Effective Date.
+2. This Agreement shall remain in force for five (5) years from the Effective Date, except to the extent this Agreement is superseded by stipulations of the Contemplated Agreement.
+3. The rights and obligations of each Party with respect to all Confidential Information of the other Party that is received under this Agreement shall remain in effect for a period of five (5) years from the date of disclosure of Confidential Information.
+VIII. Intellectual Property Rights:
+All Confidential Information disclosed herein shall remain the sole property of the Disclosing Party and the Receiving Party shall obtain no right thereto of any kind by reason of this Agreement.
+IX. Future Agreements:
+Nothing in this Agreement shall obligate either Party to enter into any further Agreements.
+X. Amendments:
+Any amendment to this Agreement shall be agreed in writing by both Parties and shall refer to this Agreement.
+XI. Severance:
+If any term or provision in this Agreement is held to be either illegal or unenforceable, in whole or in part, under any enactment or rule of law, such term or provision or part shall to that extent be deemed not to form part of this Agreement, but the validity and enforceability of the remainder of this Agreement shall not be affected.
+XII. Governing Law:
+This Agreement shall be governed by and construed in accordance with the laws of India and in any dispute arising out of or relating to this agreement, the Parties submit to the exclusive jurisdiction of the Courts situated at Delhi, India.
+XIII. General:
+1. Upon 45 days written notice, the Disclosing Party may audit the use of the programs, materials, marketing materials, services, and such additional disclosed resources. The Receiving Party agrees to co-operate with the Disclosing Party’s audit and to provide reasonable assistance and access to information.
+2. The Disclosing Party shall not have any liability to the Receiving Party for any claims made by third parties arising out of their use of the Disclosing Party’s trademarks (including “Logo”) or marketing materials. The Receiving Party agrees to indemnify the Disclosing Party for any loss, liability, damages, cost or expense (including attorney’s fees) arising out of any claims, which may be made against the Disclosing Party arising out of their use of the Logo or marketing materials where such claim relates to their activities, products or services. Notwithstanding above, the Receiving Party shall have no obligation to indemnify the Disclosing Party with respect to a claim of trademark or copyright infringement based upon their use of the Logo or marketing materials, as expressly permitted under this Agreement.
+3. The Receiving Party shall disclose of any similar agreements explicit or otherwise, for similar purpose/application with in its own organization, or any other third party.
+4. In the event of a breach or threatened breach by the Receiving Party of any provisions of this Agreement, the Disclosing Party, in addition to and not in limitation of any other rights, remedies or damages available to the Disclosing Party at law or in equity, shall be entitled to a temporary restraining order / preliminary injunction in order to prevent or to restrain any such breach by the Receiving Party, or by any or all persons directly or indirectly acting for, on behalf of, or with the Receiving Party.
+IN WITNESS WHEREOF, this Agreement was duly executed on behalf of the Parties on the day and year first above written.
+For and on behalf of For and on behalf of
+Sign : _____________________ Sign : _____________________
+Name : Name :
+Title : Title :

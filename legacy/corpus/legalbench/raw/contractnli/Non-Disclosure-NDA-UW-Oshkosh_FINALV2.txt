@@ -1,0 +1,40 @@
+Non-Disclosure Agreement
+Recipient of Confidential Information Shall be:
+UW Oshkosh Company Both
+This Non-Disclosure Agreement (“Agreement”) is entered into on the date of the last signature set forth below (the “Effective Date”), between and the Board of Regents of the University of Wisconsin System on behalf of the University of Wisconsin Oshkosh, 800 Algoma Blvd, Oshkosh, WI 54901. Each of the foregoing are hereinafter referred to as "Party" and together as "Parties."
+WHEREAS, the parties desire to discuss and/or exchange information regarding (insert description of proposed research, service, or material involved) (“Project”);
+WHEREAS, the parties wish to enter into discussions for the purpose [insert description of purpose, such as: of initiating a collaboration and developing research projects of mutual interest] (“Purpose”);
+WHEREAS, each party may have proprietary interests such as patentable subject matter not yet covered by a patent application, other intellectual property, or other interests which require that the information be maintained in confidence; and
+WHEREAS, in connection with the Project, each party may disclose to the other certain proprietary technical, procedural, or business information which the Disclosing Party desires the Receiving Party to treat as confidential as it relates to the Project;
+NOW THEREFORE the parties agree as follows:
+1. All information disclosed by one party to the other to evaluate the Project and/or Purpose that is designated in writing as “Confidential” at the time of disclosure or if disclosed orally is designated in writing as “Confidential” within fifteen (15) days of disclosure is “Confidential Information.” Confidential Information does not include information which:
+(a) was known by the Receiving Party prior to receipt from the Disclosing Party;
+(b) is generally available in the public domain or thereafter becomes available to the public through no act of the Receiving Party;
+(c) is independently discovered by an employee, agent, or representative of the Receiving Party who had no knowledge of the Confidential Information disclosed; or
+2. is made available to the Receiving Party as a matter of lawful right by a third party. The Receiving Party agrees to disclose Confidential Information only to their respective employees, agents, or representatives who have been determined to have a need to know and have been advised of their obligation to comply with the terms of this Agreement. To the extent allowed by the law applicable to the Receiving Party, including, but not limited to, for UW-Oshkosh, Wis. Stat. §§ 893.82 & 895.46,” the Receiving Party will be liable for any breach of this agreement by any of its employees, agents, affiliates or representatives that receive access to the Confidential Information.
+3. The Receiving Party shall take such steps as may be reasonably necessary to prevent disclosure of the Confidential Information to third parties, but shall apply at least the same level of security as is afforded to the Receiving Party’s own confidential information.
+4. The Receiving Party will return or destroy Confidential Information provided by the Disclosing Party upon termination of the Agreement. The Receiving Party’s designated representative may maintain one copy of all Confidential Information for the purpose of addressing any claim that may be brought under this Agreement and to comply with any other legal or recordkeeping requirements, and neither party will be obligated to destroy any Confidential Information that is stored electronically on back-up systems or computer hard drives after a file is deleted, but any such electronic information will continue to be subject to the terms of confidentiality under this Agreement.
+5. Confidential Information shall not be provided in any form by the Receiving Party to any third party without the prior permission of the Disclosing Party, unless otherwise required by law. In the event that the Receiving Party is required by law to produce Confidential Information, the Receiving Party may disclose such Confidential Information without liability hereunder; provided, however, before producing any Confidential Information the Receiving Party shall promptly notify the Disclosing Party of the enforcement of any such requirement in order to provide the Disclosing Party with a reasonable amount of time so that the Disclosing Party may seek an appropriate protective order or other appropriate remedy. In the event that such a protective order or other remedy is not obtained, or the Disclosing Party waives their right to obtain such an order or remedy, the Receiving Party may furnish only such portions of Confidential Information as, pursuant to the advice of counsel, are required to be disclosed.
+6. Confidential Information will be used only to evaluate the Project and/or Purpose and will be provided in writing and marked "Confidential."
+7. The Receiving Party expressly acknowledges that the Disclosing Party owns the Confidential Information they disclose, and that the transmission by the Disclosing Party of their Confidential Information (or any third party’s Confidential Information entrusted to the Disclosing Party) shall not be construed to grant the Receiving Party any patent, know-how, copyright, trade secret, trademark, or other intellectual property rights in, or arising from, the Confidential Information disclosed. If any such rights are to be granted to the Receiving Party, such grant shall be expressly set forth in a separate written instrument.
+8. The Disclosing Party represents and agrees (i). it has the right to share its Confidential Information with the Receiving Party, (ii). the Receiving Party is authorized to use Confidential Information it receives from the Disclosing Party for the Purpose or Project, and (iii). to the extent allowed by the law applicable to the Disclosing Party, the Disclosing Party will be liable for any breach by the Disclosing Party of the representations in subparts and (ii).
+9. This Agreement shall be governed by and construed in accordance with the laws of the State of Wisconsin, U.S.A. without regard to conflicts of law provisions. In the event any legal action becomes necessary to enforce, the Parties agree that such action will be brought in the U.S. District Court of Western District of Wisconsin, and the Parties hereby submit to the jurisdiction of said courts
+10. The parties agree to comply with all applicable laws and regulations including U.S. export control. The Disclosing Party agrees to notify the Receiving Party in writing prior to providing Receiving Party with access to any export regulated information and materials. Such notification shall include all associated classification numbers. The Receiving Party reserves the right to refuse receipt of any information or materials that are subject to export controls.
+11. The term of this Agreement shall begin on the date of the last signature on this Agreement and expire after one (1) year, unless terminated earlier by a party with thirty (30) days prior written notice. The obligations and restrictions of confidentiality of the Receiving Party under this Agreement shall continue for a period of three (3) years from the date of termination of this Agreement.
+12. This Agreement shall supersede and prevail over any other prior arrangements, either oral or written, as to the Confidential Information received under this Agreement.
+This Agreement constitutes the entire agreement between the parties relative to this subject matter and shall not be amended, except in a writing signed by the parties.
+IN WITNESS WHEREOF, the authorized representatives of the parties have executed this Agreement by their respective duly authorized representatives as of the date listed below.
+UW Oshkosh, Office of Sponsored Programs Signatory Official
+Name (Print):
+Title:
+Signature:
+Date:
+Company Representative
+Name (Print):
+Title:
+Signature:
+Date:
+Principal Investigator of the University
+Name (Print):
+Title:
+Signature:

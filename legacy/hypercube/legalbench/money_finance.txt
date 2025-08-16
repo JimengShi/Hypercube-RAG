@@ -1,0 +1,95 @@
+{"business": 1, "financial": 1, "expenses": 1, "financial obligations": 1}
+{"divestment": 1, "Sale": 4, "financial sector": 1, "financial services": 1, "financial": 2, "accounting": 1, "tax": 1, "liability": 2, "contract": 1, "commitment": 1, "transaction": 1, "financial advisory": 1, "VAT": 1, "IBAN": 1, "BIC": 1, "Trade Register": 1}
+{"business": 3, "finances": 1, "pricing": 1, "business opportunities": 1, "business relationship": 1}
+{"Business": 2, "Agreement": 12, "contract": 1, "license": 1, "merchantability": 1, "transfer of assets": 1}
+{"business": 2, "pricing": 1, "services": 2, "products": 2, "license": 1, "trade secret": 1, "monetary damages": 1, "liquidated damages": 2, "\u20ac10 000": 1, "compensation": 1}
+{"Agreement": 10, "Confidential Information": 20, "business": 3, "costs": 2, "pricing details": 1, "financial": 1, "transactions": 1, "assets": 1, "damages": 1}
+{"business": 1, "benefits": 1, "consideration": 2, "agreement": 10, "company": 2, "affiliates": 2, "control": 3, "disclosing party": 5, "recipient party": 5, "representatives": 4, "possession": 2, "expense": 1, "remedies": 2, "damages": 1, "rights": 4, "obligations": 2, "payment": 1, "cost": 1}
+{"Business": 3, "Interest": 1, "money damages": 1, "fees": 1, "costs": 1}
+{"Proposed Transaction": 4, "financial": 1, "assets": 1, "liabilities": 1, "costs": 1, "expenses": 1, "profit opportunity returns": 1}
+{"grant": 4, "remunerations": 2, "emoluments": 2, "royalties": 2, "contract": 1, "business": 1, "payment": 1}
+{"Payment": 1, "EUR 800": 1, "EUR 700": 1, "EUR 5,000": 1, "invoice": 1, "fees": 1, "taxes": 1}
+{"Transaction": 3, "business": 2, "financial information": 1, "monetary damages": 1, "equitable relief": 1, "estimates": 1, "forecasts": 1}
+{"Agreement": 1, "consideration": 1, "receipt": 1, "damages": 2, "monetary": 1, "liability": 2, "costs": 1, "expenses": 1, "fees": 1}
+{"business": 1, "grant": 1, "fund": 1}
+{"business": 1}
+{"ABN": 2, "business": 1, "receipt": 1, "quotation": 1, "tender": 1, "contract": 1}
+{"business": 4, "financial": 1, "transactions": 1, "costs": 1, "fees": 1, "expenses": 1, "paid": 1, "benefits": 1, "assets": 1, "liabilities": 1}
+{"business": 1, "finance documents": 1}
+{"business": 2, "pricing policies": 1, "financial information": 1, "sales": 1, "marketing information": 1, "loss of revenue": 1, "loss of profits": 1, "monetary damages": 1}
+{"RFP": 6, "proposal": 2, "consideration": 1, "receipt": 1, "license": 1, "privilege": 2, "injunction": 1, "agreement": 6, "contractors": 1}
+{"compensated": 1, "sale": 2, "property": 1}
+{"contract": 3, "agreement": 12, "confidential information": 9, "liability": 2, "property rights": 1, "licencing": 1, "replication rights": 1, "rights of use": 1, "commercial protected rights": 1, "legal obligation": 1, "banking confidentiality": 1, "data protection": 1, "examination regulations": 2, "legal regulations": 1, "legal proceeding": 1, "foreseeable loss": 1, "property": 1, "licencing rights": 1, "protective rights": 1, "employment contract": 1, "bilateral confidentiality agreements": 1}
+{"business": 5, "trade secrets": 1, "business entity formation": 1, "profits": 1, "fees": 1, "amounts": 1, "purchase": 1, "sale": 1, "buy": 1, "sell": 1, "securities": 2, "financial": 2, "damages": 1, "attorney fees": 1, "costs": 1}
+{"procurement": 2, "purchasing": 1, "investors": 1, "business": 3, "contractual relationships": 1, "sales": 1, "merchandising": 1, "marketing plans": 1, "agreement": 3, "request for quotation": 3, "contract": 3, "Purchase Order": 3, "order": 2, "quote": 1, "payment": 1}
+{"financial information": 1, "business": 2, "financial reports": 1, "fees": 1}
+{"transactions": 1, "invoices": 2, "Claim Requests": 4, "Claim Responses": 2, "Claims": 2, "monetary damages": 1, "damages": 3, "liability": 2, "costs": 1, "amount": 1, "five hundred dollars": 1}
+{"Business Day": 1, "Confidential Information": 20, "Agreement": 30, "Purpose": 10, "Disclosing Party": 10, "Recipient": 10, "Representative": 5, "Personal Data": 2, "Data Protection Act 1998": 2, "costs": 1, "expenses": 1, "damages": 1, "losses": 1, "loss of profit": 1, "loss of reputation": 1, "interest": 1, "penalties": 1, "liabilities": 1}
+{"monetary damages": 1, "compensation": 1, "business": 2, "royalties": 1, "fees": 1}
+{"Consideration": 1, "Receipt": 1, "Business": 1, "Expense": 1, "Assets": 1, "Costs": 1, "Damages": 2, "Monetary": 1, "Fees": 1}
+{"business": 2, "price information": 1, "financial information": 1, "trade secrets": 2, "intellectual property": 4, "licensees": 1, "grant": 1}
+{"Contract": 8, "Agreement": 8, "business": 8, "financial information": 1, "billing records": 1, "pricing structure": 1, "discounts": 1, "property": 1, "investments": 1, "strategic alliances": 1, "partnerships": 1, "customer or client lists": 1, "commission": 1, "profit": 1, "fees": 1, "transaction": 1, "penalties": 1, "damages": 3, "legal remedies": 2, "attorney\u2019s fees": 2, "litigation expenses": 1, "court costs": 1}
+{"money": 1, "financial": 2, "pricing": 1, "financial statements": 1, "sales volume": 1}
+{"Business Day": 1, "Confidential Information": 20, "business": 1, "trade secrets": 2, "business arrangements": 1, "indemnity": 1, "costs": 1, "expenses": 1, "losses": 1, "loss of profit": 1, "loss of reputation": 1, "royalty": 1}
+{"business": 2, "Agreement": 10, "Confidential Information": 8, "ownership": 2, "employ": 2}
+{"business": 3, "receipt": 2, "consideration": 1, "expense": 1, "purchase": 1, "service": 1, "product": 1, "liability": 1, "damages": 1, "obligations": 2, "contract": 1}
+{"business": 3, "business model": 1, "commercial advantage": 1, "damages": 1, "loss of profits": 1, "loss of business": 1, "amounts": 1}
+{"business": 3, "finances": 1, "transaction": 1, "paid": 1, "payor": 1, "paying": 1, "property": 2, "losses": 1}
+{"transaction": 3, "receipt": 1, "financial": 1, "money": 1, "cost": 1, "liability": 1, "securities": 2, "purchase": 1, "sale": 1, "fees": 1}
+{"financial affairs": 1, "business": 1, "cost": 1, "liability": 2, "damages": 1, "expense": 1}
+{"business": 2, "cooperative programs": 2, "grant": 2, "trade secrets": 2, "agreement": 10, "contract": 1, "obligations": 3, "performance": 2, "assignment": 2, "rights": 2, "interests": 2, "laws": 1, "regulations": 1, "intellectual property": 2, "jurisdiction": 1, "legal": 1, "termination": 2, "consent": 1, "representatives": 3, "documents": 2, "materials": 2, "copies": 2, "duplicates": 2}
+{"Transaction": 3, "Dollar General Portfolio": 1, "Property": 6, "Due Diligence": 2, "Audit": 1, "Cost": 1, "Expense": 2, "Commission": 2, "Sale": 2, "Commissions": 1, "Fees": 2, "Compensation": 1}
+{"Business": 5, "Financial": 1, "Company": 4, "Agreement": 15, "Contract": 1, "Commissions": 1, "Fees": 1, "Monies": 1, "Legal fees": 1}
+{"finances": 1, "monetary damages": 1}
+{"financial information": 1, "asset": 1, "damages": 1, "business relationship": 2, "costs": 1}
+{"business": 3, "financial statements": 1, "pricing structure": 1, "costs": 1, "market research": 1, "appraisal": 2, "liquidated damages": 1, "$250,000.00": 1, "sum": 1, "damages": 2, "offers": 1}
+{"financial": 2, "business": 2, "financial statements": 1, "budgets": 1, "tax returns": 1, "compensation plans": 1, "customer list": 2, "trade secrets": 2, "liquidated damage": 2, "10,000 USD": 1, "1,0000,000 USD": 1, "loss of profit": 1, "loss of goodwill": 1, "loss of business opportunities": 1}
+{"Agreement": 12, "Trade": 1, "Companies": 5, "Register": 1, "share capital": 1, "merchantability": 1, "damages": 2, "rights": 2, "remedies": 1, "property": 2, "intellectual property": 1, "obligations": 4, "performance": 2, "capital markets": 1, "business": 1, "expense": 1}
+{"investment": 1, "financing": 1, "financial matters": 1, "financial results": 1, "budgets": 1, "monetary damages": 1, "credit accommodations": 1, "banking services": 1}
+{"business": 2, "cost": 1, "pricing": 1, "property": 1, "certify": 1, "consent": 2}
+{"business": 1, "proposal": 1, "agreement": 10, "contract": 1, "damages": 2, "profits": 1}
+{"Business": 3, "Agreement": 4, "financial advisors": 1, "funders": 1, "liability": 1, "damages": 1, "loss": 1}
+{"Franchise agreement": 2, "Business Day": 1, "financial": 1, "finances": 1, "commercial": 2, "economic": 1, "payment": 1, "\u00a31": 1, "pound": 1, "loss": 1, "costs": 2, "expenses": 2, "sums": 1}
+{"business": 2, "checking and savings account numbers": 1, "financial reports": 1, "payroll information": 1, "payroll": 1, "budget": 1, "procurement information": 1}
+{"Transaction": 10, "Agreement": 20, "Affiliate": 5, "investment fund": 1, "financial advisors": 1, "debt financing": 1, "equity financing": 1, "Securities Law": 1, "Definitive Transaction Agreement": 2, "business": 2, "financial institutions": 1, "money damages": 1, "financing": 3, "equity securities": 2, "debt securities": 2, "loans": 2}
+{"Agreement": 10, "Project": 4, "Purpose": 3, "Confidential Information": 19, "Disclosing Party": 10, "Receiving Party": 15, "liability": 2, "legal": 2, "export control": 1, "export controls": 1}
+{"Purchase Order": 1, "sale": 2, "offer for sale": 1, "business": 2, "profit": 1, "cost": 2, "expenses": 1, "liabilities": 1, "loss": 5, "damage": 2, "indemnify": 1, "legal costs": 1}
+{"Transaction": 8, "sale": 1, "transfer": 1, "disposition": 1, "consideration": 1, "receipt": 1, "financing": 1, "economic": 1, "financial": 1, "money": 1, "damages": 1, "costs": 1, "expenses": 1, "fees": 1}
+{"business": 4, "finances": 1, "monetary damages": 1}
+{"Transaction": 8, "business": 3, "financial position": 1, "assets": 2, "finances": 1, "financials": 1, "trade secrets": 1, "costs": 2, "expenses": 2, "fees": 1, "disbursements": 1, "solicitation": 2, "securities": 2, "financial advisors": 1}
+{"business": 2, "grant": 1, "award": 1, "damages": 1}
+{"financial information": 1, "contract": 3, "transaction": 3, "exchange of money": 1, "services": 2, "goods": 2, "position": 2, "favours": 2, "benefit": 1, "detriment": 1}
+{"Transactions": 8, "funding": 1, "purchase agreement": 1, "business transaction": 1, "money damages": 1, "Pricing Documents": 2}
+{"business": 5, "commercial": 3, "costs": 1, "expenses": 2, "loss": 2, "profit": 1, "grant": 1, "indemnity": 1}
+{"business": 3, "equity": 1, "Potential Transaction": 5, "stockholders": 1, "securities": 3, "transaction": 2, "monetary damages": 1, "$250,000": 2, "cost": 1, "expense": 1, "fees": 2, "costs": 1}
+{"M&A Transactions": 1, "investment": 1, "financing transaction": 1, "finances": 1, "business": 2, "monetary damages": 1}
+{"business": 1, "contract": 1, "transaction": 1, "purchase": 1}
+{"Agreement": 15, "business": 5, "commercial": 2, "contractual": 2, "monetary damages": 1, "payment": 1, "costs": 2, "expenses": 1, "attorney\u2019s fees": 2, "award": 1, "fees": 1}
+{"funders": 1, "joint venture partners": 1, "banks": 1, "business": 2, "financial statements": 1, "investment": 1, "investors": 1, "funding": 1, "bankers": 1, "financiers": 1}
+{"money": 1, "Franchise Agreement": 1, "financial": 2, "transaction": 2, "payment": 1, "nominal fee": 1, "1 dollar": 2, "fee": 1}
+{"business": 1, "transaction": 2, "license": 1}
+{"business": 3, "consideration": 1, "receipt": 1, "agreement": 10, "loan": 1, "property": 1, "audit": 1}
+{"business": 3, "pricing": 1, "finances": 1, "costed bills of materials": 1, "sales techniques": 1, "marketing plans": 1, "monetary damages": 1, "profits": 1}
+{"Market Sensitive Information": 3, "Non-Public Information": 24, "business": 1}
+{"business": 2, "financial data": 1, "transaction": 1, "fees": 1, "costs": 1, "disbursements": 1}
+{}
+{"royalties": 2, "remunerations": 2, "emoluments": 2, "contract": 1, "services": 1}
+{"Business": 3, "Agreement": 10, "insurance": 1, "company": 1, "profits": 1, "revenue": 1, "loss": 2, "damage": 2, "liability": 1}
+{"Transaction": 5, "Business": 15, "financial": 3, "purchase": 3, "offer": 2, "financial statement": 1, "investment": 1, "credit information": 1, "costs": 1, "expenses": 1, "compensation": 1, "attorneys\u2019 fees": 1, "court costs": 1}
+{"financial statements": 1, "financial information": 1, "credit insurance": 3, "bonding": 2, "insurance": 2, "business": 1, "monetary damages": 1}
+{"business": 3, "financial information": 1, "projections": 1, "monetary damages": 1, "money damages": 1, "attorney\u2019s fees": 1}
+{"business": 3, "money damages": 1, "court costs": 1, "expenses": 1, "attorney's fees": 1, "lenders": 1}
+{"Agreement": 15, "business": 2, "assets": 2, "sale": 1, "stock": 1, "purchaser": 1, "merger": 1, "obligations": 3, "liability": 1, "damages": 1, "warranty": 2, "contribution": 2, "proposal": 2}
+{"business": 1, "sales": 1, "financial": 1, "contractual": 1, "trade": 1, "fees": 1, "costs": 1}
+{"Mitacs Accelerate": 4, "Mitacs Elevate": 4, "business": 1, "funded": 1, "grant": 1, "royalty-free": 2, "non-exclusive": 2, "license": 3, "royalty-bearing": 1, "commercially reasonable terms": 1, "commercial": 1, "merchantability": 2, "fitness for a particular purpose": 2, "costs": 3, "fees": 2, "expenses": 2, "funds": 1, "payment": 1, "loss of revenues": 1, "profits": 1, "savings": 1}
+{"monetary damages": 2, "asset": 1, "purchase": 1, "service": 1, "product": 1}
+{"business plans": 1, "assets": 1, "property": 2, "license": 1, "claim": 1, "loss": 1}
+{"fees": 1, "compensation": 1, "business": 1, "commercial": 1, "exploitation": 1, "property rights": 1}
+{"transactions": 2, "financial": 1, "business": 1, "money": 1}
+{"Agreement": 10, "Contract": 2, "business": 1, "financial": 1, "Prime Contract": 2, "Proprietary Information": 10, "NREL Protected Information": 9, "Confidentiality Period": 2, "DOE": 5, "Freedom of Information Act": 2, "U.S. Export Administration Laws and Regulations": 1}
+{"Agreement": 12, "Potential Purchaser": 15, "Company": 23, "Leases": 3, "IP": 2, "Other Assets": 2, "Proposed Transaction": 8, "Evaluation Materials": 13, "Affiliated Entities": 5, "Representatives": 8, "financing sources": 1, "bankers": 1, "lenders": 1, "investors": 1, "financial advisors": 1, "investments": 2, "money damages": 1, "transaction": 1}
+{"commission": 2, "sale": 5, "purchase": 6, "business": 11, "financial resources": 1, "transaction": 1, "asking price": 1, "financial statements": 1, "credit references": 1, "financial sufficiency": 1, "sums": 1}
+{"business": 3, "financial analysis": 1, "transaction": 1}
+{"transaction": 1, "pricing": 1, "stock": 1, "money": 1, "damages": 2}
+{"business plans": 1, "business opportunities": 1, "finances": 1, "business relationship": 1, "exam fee": 1}
+{"Transaction": 4, "money damages": 1, "purchase": 1, "sale": 1, "damages": 1, "costs": 1, "fees": 1, "expenses": 1}

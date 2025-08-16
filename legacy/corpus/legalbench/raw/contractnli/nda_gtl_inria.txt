@@ -1,0 +1,32 @@
+NON-DISCLOSURE AGREEMENT
+CONTRACT TERMS
+This agreement, dated as of the latest date of signature below (the “Date”), is between Inria, and the person or entity/organization (User) identified in the signature line below.
+1.CONTACTS
+Inria Contact User (Organization) Contact
+Institut National de Recherche en Informatique et Organization:
+en Automatique (Inria) Adm Contact:
+French public organism whose registered office is Post address:
+at Domaine de Voluceau – Rocquencourt – BP Tel:
+105 – 78153 Le Chesnay Cedex Email:
+Represented by its Chief Executive Officer, M.
+Antoine PETIT
+Technical contact:
+Technical Contact: Post address:
+Carlos Canudas de Wit Tel:
+CNRS, Control System Dept, GIPSA-Lab Email:
+BP. 46, 38402, ST Martin d'Hères, France
+carlos.canudas-de-wit@gipsa-lab.fr
+2.SCOPE. As hereafter detailed in this Agreement, Inria via the NECS team agrees to disclose to the Organization certain proprietary and confidential traffic-related data under terms and conditions specified below to only Research and Academic use purposes without fees or other compensation, and which should not be distributed to any third parties. The Grenoble Traffic Lab (GTL) Data and all related documentation and information provided by Inria will be used only for the limited purpose of evaluation hereunder, and will not be used for any other purpose, or in any manner adversarial to Inria.
+3.TERMS.
+A. Acknowledgements. Organization or individual should add below line in the acknowledgement section of their publications: The authors would like to kindly acknowledge to the CNRS/INRIA NeCS team by providing traffic data from the Grenoble Traffic Lab (GTL), see Ref. [GTL]
+B. References. Organization used GTL data in their paper to represent figures, charts, table or any other experiment should add following sentence in reference to figure:
+ “Experiment realized with traffic data provided by the NeCS team from the the Grenoble Traffic Lab (GTL), see Ref. [GTL]”
+Ref. [GTL]. Carlos Canudas-de-Wit, Fabio Morbidi, Luis Leon Ojeda, Alain Y. Kibangou, Iker Bellicot, Pascal Bellemain. “Grenoble Traffic Lab: An experimental platform for advanced traffic monitoring and forecasting” IEEE Control Systems, Institute of Electrical and Electronics Engineers, 2015, 35 (3), pp.23-39.
+C. Duration. This Agreement will commence on the Effective Date and continue for 365 days thereafter (the “Agreement Term”), at which point it shall expire unless otherwise extended by Inria, at its sole election. Inria may terminate this Agreement, or suspend the delivery of data hereunder, for cause at any time if Organization breaches this Agreement or without cause at any time for whatever reason.
+4.MISCELLANEOUS. This Agreement will be interpreted in accordance with the laws of the France. Should a dispute arise concerning the interpretation, validity or execution of this agreement, the Parties shall bring the dispute to French Courts, which shall exclusively be competent. This agreement will only be binding when signed by both Parties in the blanks immediately below. if this document is signed first by Inria, organization will have seven (7) business days from the date of Inria’s signature below in which to return a signed pdf version of this document to Inria via email to the technical contact, or this document will be deemed invalid and of no binding effect.
+5.GTL DATA. The GTL Data is comprised of the GTL traffic data and information that may be provided hereunder to Organization by Inria from time to time through CSV or Database format in the NECS Team Developers Zone. The GTL Data remain the exclusive sole property of Inria. The present Agreement does not grant any transfer or assignment of commercial/exploitation/property rights on identified know-how, patents, software or any other intellectual property right held by Inria to the Organization.
+Promptly upon expiration or termination of this Agreement, user will cease using all GTL Data, and will return to Inria, or destroy, all originals and all copies of the GTL Data and other materials provided by Inria under this Agreement, and also certify such return or destruction in a reasonable and customary certificate provided by Inria. The obligation of confidentiality will remain until the GTL data are released to public or have fallen into public domain.
+ORGANIZATION OR INDIVIDUAL: INRIA:
+Name: _________________________ Name: __________________________
+Title: _________________________ Title: ___________________________
+Date: ___________________________ Date: ___________________________

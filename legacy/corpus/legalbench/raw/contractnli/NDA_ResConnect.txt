@@ -1,0 +1,33 @@
+Non Disclosure Agreement
+The following terms and conditions apply to the provision of services between Mandarin Trading (Pty) Ltd. (trading as ResRequest) and _______________________________ (referred to hereafter as the Business Partner).
+1. Definitions
+Mandarin: means Mandarin Trading (Pty) Ltd.
+Agreement: means the agreement that is made between Mandarin and the Business Partner for the provision of products or services.
+Materials: means literary works or other works of authorship which are developed in the course of the agreement, such as programs, specifications, database definitions, reports and similar works.
+Business partner: means an individual or organisation with whom Mandarin is conducting business in terms of the agreement.
+2. Confidentiality
+2.1. Either party agrees that it shall ensure that it and its associated companies and their respective officers and employees shall keep confidential, both during and after the duration of the agreement, all information which:
+2.2. Consists of any of the commercial secrets of the other party; or
+2.3 Consists of any other information of a confidential nature belonging to, or connected with, the other party and its activities and clients, and designated by such party as confidential;
+2.4 And undertakes not to disclose any of such information to any third party without the prior written permission of the other party except as required by any applicable law or government regulation, and provided that each party may
+disclose the agreement on a confidential basis to its public accountants, attorneys and financial advisors and/or funders. 2.5 Neither party shall be required to keep confidential any information which is, or becomes, publicly available, is independently developed by either party outside the scope of this agreement, or is rightfully obtained from third parties.
+3. Materials ownership and copyright
+3.1 Each party shall retain sole ownership of the software developed within their respective systems for the purpose of the interface.
+3.2 Any Business Partner shall maintain the material as confidential and shall not publish, disclose or distribute all or any portion of it (or any copies of it) to any other person or permit any other person access to it, save for employees, consultants or agents of the Business Partner for purposes specifically related to Mandarin’s use of the material. 4. ResRequest connection service
+4.1 The Business Partner agrees that access to ResRequest information will be used for the sole use of the Business Partner and no auxiliary distribution is permitted, unless agreed upon by both parties.
+5. Limitation of liability
+5.1 Neither party shall be liable to the other for any special, indirect or consequential damages or loss.
+6. Dispute
+6.1 Any legal dispute arising from this agreement will be subject to the jurisdiction of South African law.
+7. Execution
+This agreement is executed for and on behalf of:
+Mandarin Trading (Pty) Ltd
+By .................................................. In his / her capacity as a director of the company
+SIGNATORY AS WITNESS
+Signed at ...........................................
+On .....................................................
+The Business Partner
+By .................................................. In his / her capacity as a director of the company
+SIGNATORY AS WITNESS
+Signed at ...........................................
+On .....................................................

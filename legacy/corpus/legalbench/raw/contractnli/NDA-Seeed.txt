@@ -1,0 +1,57 @@
+Non-Disclosure Agreement
+This Confidentiality and Non-Disclosure Agreement (hereinafter referred as the “NDA”) is entered into as of ,20 ,
+by and between
+_____________________, address at ________________________________________
+and
+Seeed Development Limited, a company established under Laws of Hong Kong, having its office at Flat C 23/F Lucky Plaza, 315-321 Lockhart Rd Wan Chai, Hong Kong (hereafter referred to as “Seeed”);
+Unless the context requires otherwise, Customer and Seeed shall hereinafter collectively referred to as the “Parties” or individually referred to as the “Party”.
+RECITALS
+WHEREAS, Customer is
+WHEREAS, Seeed is concerned any unpermitted early disclose or publicize of the products or any information associated with such products will cause irreparable harms to Seeed unless allowed by Seeed, therefore it is of necessity to conclude the NDA with Customer.
+WHEREAS, In light of purpose mentioned above, Seeed and Customer are interested in exchanging Confidential Information (as defined below in Article 1); Seeed and Customer are discloser and recipient under difference context.
+WHEREAS, the Parties believe that they may mutually benefit by sharing this Confidential Information and believe it is in their mutual interest to ensure that all such Confidential Information will be safeguarded and carefully protected by the Parties through the present Agreement;
+NOW THEREFORE, in consideration of the promise, covenants hereof and the mutual obligation herein, the Parties agree as follows:
+1. Confidential Information
+For purposes of this Agreement, “Confidential Information” shall mean the following:
+i. All records, files, analysis, documents, software, computer or electronic data disks or tapes, test data, printouts, processes, designs, file layout, technical bulletins, manuals, diagrams, formulas, research, inventions, patents and discoveries reasonably related to the Parties’ businesses or products and services of the Parties that have not been publicly released;
+ii. Technical, financial, business plan and customer information, including standard periodic financial statements and analyses, budgets, tax returns, benefit and compensation plans, customer list(s) and contact names, functional and technical specifications;
+iii. Other valuable information disclosed by one of the Parties to another, designated as confidential expressly or by the circumstances in which it is provided.
+Confidential Information does not include information that:
+i. Is lawfully in the public domain at the time it was transmitted;
+ii. Is independently known to or in possession of the receiving party at the time of receipt through no unlawful act;
+iii. Is disclosed by the receiving party with the prior written approval of the transmitting party;
+iv. Becomes known to the receiving party from a source other than the transmitting party, which third party legally is entitled to have and to disclose such information without restriction.
+2. Duty of Confidentiality and Standard of Care
+2.1 Each Party hereby acknowledges that it will be exposed to Confidential Information of the other Party, including without limitation, specific information regarding the products and the business of this Party.
+2.2 The Parties hereby agree that they shall not use, commercialize or disclose any Confidential Information to any person or entity, except to their own employees having a “need to know” (and who themselves bound by similar non-disclosure restrictions), and to such other recipients as each Party may approve in writing, provided that such recipients shall have first executed a Confidentiality Agreement in a form acceptable to the Party interested.
+2.3 Any disclosure to any third party by each Party shall be subject to the prior consent of the other Party, which consent shall not be unreasonably withheld unless the Disclosing Party believe it might go against the purpose of this Agreement.
+The Receiving Party must protect the Confidential Information and, in doing so, must use no less than the highest degree of care that the Receiving Party applies to its own proprietary or secret information;
+The Confidential Information must be stored and handled in such a way as to prevent unauthorized disclosure.
+The Receiving Party shall use its best efforts to limit dissemination of Disclosing Party’s “Confidential Information” to such of its employees or sub-contractor(s) who have a need to know for the aforesaid evaluation and/or development purposes.
+3. Proprietary Rights Legend
+The Parties shall not alter or remove from any Confidential Information any proprietary rights legend, copyright notice, trademark or trade secret legend, or any other mark identifying the material as Confidential Information.
+4. Covenants concerning competition
+The Confidential Information disclosed to each of the Parties may include information that would provide the other party with an unfair competitive advantage if such Party were to use the Confidential Information for purposes other than those provided for hereunder. Accordingly, the Parties only agree to provide such Confidential Information to the other Party in return for this Party’s Agreement to be bound by each of the provisions in this Agreement including the provisions set forth in this section 4 and that such agreements by the Parties constitutes a material inducement for each Party to provide Confidential Information to the other Party and that such Confidential Information shall not be used by one of the Parties to obtain a competitive advantage against the other Party.
+5. Return of Documents and Materials
+The Parties hereby agree that all materials, including financial reports and analyses, customer list(s) programs, software, documents, reports, statistical data, trade secrets or similar printed, coded, electronic or magnetic material made by one of the Parties or to come into one of the Parties’ possession in the course of negotiations shall be returned to the other Party, upon conclusion of the negotiations.
+6. Remedies for Breach of Confidentiality and Indemnification, Liquidated damages
+In the event one of the Parties or its officers, agents, employees or any of its subsidiaries or their officers, agents or employees violates the restrictions against disclosure or use of the Confidential Information defined herein, Recipient or such entity or individual(s) as the case may be, shall and do hereby consent to the entry of an injunction by a court of competent jurisdiction against any further disclosure or use of the Confidential Information, and shall pay the The Recipient, including without limitation to any of its employees, subsidiaries, agents, subcontractors, officers shall indemnify and hold harmless against the Discloser against any unpermitted disclosing and publicizing. In event of any disclosing or publicizing the confidential information or breaching any obligations under this Agreement, the breaching party shall mitigate the losses and take for all reasonable measure, including the court injunction to prevent the disclosure and spread of confidential information upon the request of aggrieved party. The breaching party shall pay to non-beaching party a liquidated damage of 10,000 USD per occurrence. The total liquidated damage shall not exceed 1,0000,000 USD. The application of liquidated damage shall not prejudice the aggrieved party’s right to claim for all the losses and shall not prejudice all the liabilities and obligations incurred. Nothing here shall be interpreted as excluding consequential losses the aggrieved party may suffer, including without limitation to loss of profit, loss of goodwill, loss of business opportunities.
+7. Term
+This Agreement shall be effective as of the date first written above and shall continue in full force and effect until the last disclosure of Confidential Information by one Party to another and shall survive the term of this Agreement for a period of two (2) years thereafter, provided, however that as to any item of Confidential Information that constitutes a trade secret under applicable law, the obligations of confidentiality contained herein shall continue for so long as allowed under applicable law. Unless otherwise agreed in writing this Agreement shall govern Confidential Information disclosed by the Parties after the effective date hereof.
+8. Applicable Law - Arbitration
+This Agreement is governed by and shall be construed in accordance with the laws of the People’s Republic of China without regard to principles of conflict of law, and any dispute arising out of this Agreement or In connection with this Agreement shall be referred to Hong Kong International Arbitration Centre (HKIAC) for arbitration in accordance with Hong Kong International Arbitration Centre (HKIAC) administered arbitration rules in force at the time of application. The arbitrators shall be one (1). The place of arbitration shall be in Shen Zhen, China. The language used in arbitration proceeding shall be English Language. Both parties will keep in strict confidential of all information relating to the dispute. Both parties shall continue to perform their respective obligations which are not in dispute. Nothing here shall be interpreted as preventing the aggrieved party from seeking court injunction, interim measures, and protective order from competent court in relevant jurisdiction.
+9. Notices
+All notices, demands or other communications delivered in connection with this Agreement shall be delivered by facsimile transmissions or mail and shall be deemed effective upon receipt:
+If to Customer
+Address: __________________________________________________________________
+If to Seeed:
+Address:1F, Tower B, Building 2, Shanshui Building, NanshanYungu Innovation Industry Park, Liuxian Ave, Nanshan District, Shenzhen, Guangdong. , China. P.R.C
+Or at such other address or to such fax number, email address as may be designated by notice from such Party.
+10. Entire Agreement
+This Agreement contains the entire agreement of the Parties with respect to the subject matter of this Agreement and supersedes all prior agreements between or among the Parties, whether written or oral, with respect to the subject matter of this Agreement. Any modifications of or changes to this Agreement shall be in writing and signed by both Parties.
+11. No waiver
+The failure to enforce or to require the performance at any time of any of the provisions of this Agreement will not be construed to be a waiver of such provision, and will not affect either the validity of this Agreement or any part hereof or the right of any Party thereafter to enforce each and every provision in accordance with the terms of this Agreement.
+IN WITNESS WHEREOF, the Parties hereto have caused this Agreement to be executed by their duly authorized representatives.
+________________________(“Customer”) Seeed Development Limited
+Signed by: Signed by:
+Title: Title:

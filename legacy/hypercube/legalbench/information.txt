@@ -1,0 +1,95 @@
+{"confidential information": 20, "technical information": 1, "public information": 1, "news": 0}
+{"confidential information": 15, "technical information": 1, "public information": 2, "news": 0}
+{"confidential information": 21, "technical information": 1, "public information": 1, "news": 0}
+{"confidential information": 4, "technical information": 1, "public information": 2}
+{"confidential information": 27, "technical information": 1, "public information": 1, "news": 0}
+{"confidential information": 18, "technical information": 1, "public information": 1, "news": 0}
+{"confidential information": 22, "technical information": 0, "public information": 1, "news": 0}
+{"confidential information": 21, "technical information": 0, "public information": 1, "news": 0}
+{"confidential information": 21, "technical information": 1, "public information": 2, "news": 0}
+{"confidential information": 1, "technical information": 0, "public information": 0, "news": 0, "Protected Critical Infrastructure Information (PCII)": 4, "Sensitive Security Information (SSI)": 3, "Sensitive but Unclassified (SBU)": 3, "For Official Use Only (FOUO)": 1, "Official Use Only (OUO)": 1, "Sensitive Homeland Security Information (SHSI)": 1, "Limited Official Use (LOU)": 1, "Law Enforcement Sensitive (LES)": 1, "Safeguarding Information (SGI)": 1, "Unclassified Controlled Nuclear Information (UCNI)": 1, "Department of Homeland Security": 2, "United States Government": 6}
+{"confidential information": 15, "technical information": 0, "public information": 2, "news": 0}
+{"confidential information": 15, "technical information": 1, "public information": 1, "news": 0}
+{"confidential information": 5, "technical information": 0, "public information": 2, "news": 0}
+{"confidential information": 2, "technical information": 0, "public information": 1, "news": 0}
+{"confidential information": 15, "technical information": 1, "public information": 1}
+{"confidential information": 12, "technical information": 0, "public information": 1, "news": 0}
+{"confidential information": 22, "technical information": 1, "public information": 1, "news": 0}
+{"confidential information": 15, "technical information": 0, "public information": 1, "news": 0}
+{"confidential information": 4, "technical information": 1, "public information": 2, "news": 0}
+{"confidential information": 15, "technical information": 0, "public information": 0, "news": 0}
+{"confidential information": 5, "technical information": 1, "public information": 0, "news": 0}
+{"confidential information": 10, "technical information": 0, "public information": 1, "news": 0}
+{"confidential information": 10, "technical information": 1, "public information": 0, "news": 0}
+{"confidential information": 10, "technical information": 1, "public information": 1}
+{"confidential information": 10, "technical information": 0, "public information": 2, "news": 0}
+{"confidential information": 10, "technical information": 1, "public information": 1, "news": 0}
+{"confidential information": 21, "technical information": 0, "public information": 1, "news": 0}
+{"confidential information": 18, "technical information": 0, "public information": 1, "news": 0}
+{"confidential information": 28, "technical information": 0, "public information": 1, "news": 0}
+{"confidential information": 14, "technical information": 1, "public information": 1, "news": 0}
+{}
+{"confidential information": 27, "technical information": 1, "public information": 2, "news": 0}
+{"confidential information": 25, "technical information": 0, "public information": 1, "news": 0}
+{"confidential information": 9, "technical information": 2, "public information": 1}
+{"confidential information": 15, "technical information": 0, "public information": 1, "news": 0}
+{"confidential information": 15, "technical information": 0, "public information": 1, "news": 0}
+{"confidential information": 15, "technical information": 1, "public information": 2, "news": 0}
+{"confidential information": 18, "technical information": 1, "public information": 1, "news": 0}
+{"confidential information": 24, "technical information": 1, "public information": 2, "news": 0}
+{"confidential information": 13, "technical information": 2, "public information": 1, "news": 0}
+{"confidential information": 1, "technical information": 0, "public information": 1, "news": 0}
+{"confidential information": 22, "technical information": 1, "public information": 1, "news": 0}
+{"confidential information": 15, "technical information": 1, "public information": 1, "news": 0}
+{"confidential information": 18, "technical information": 1, "public information": 1, "news": 0}
+{"confidential information": 9, "technical information": 1, "public information": 0, "news": 0}
+{"confidential information": 15, "technical information": 1, "public information": 1, "news": 0}
+{"confidential information": 15, "technical information": 1, "public information": 1, "news": 0}
+{"confidential information": 15, "technical information": 0, "public information": 1, "news": 1}
+{"confidential information": 14, "technical information": 1, "public information": 2, "news": 0}
+{"confidential information": 15, "technical information": 0, "public information": 1, "news": 0}
+{"confidential information": 4, "technical information": 0, "public information": 1, "news": 0}
+{"confidential information": 15, "technical information": 1, "public information": 1, "news": 0}
+{"confidential information": 10, "technical information": 0, "public information": 1, "news": 0}
+{"confidential information": 3, "technical information": 0, "public information": 1, "news": 0}
+{"confidential information": 19, "technical information": 1, "public information": 1, "news": 0}
+{"confidential information": 3, "technical information": 1, "public information": 0, "news": 0}
+{"confidential information": 18, "technical information": 0, "public information": 2, "news": 0}
+{"confidential information": 15, "technical information": 1, "public information": 1}
+{"confidential information": 3, "technical information": 0, "public information": 1, "news": 0}
+{"confidential information": 15, "technical information": 1, "public information": 1}
+{"confidential information": 5, "technical information": 1, "public information": 2, "news": 0}
+{"confidential information": 18, "technical information": 0, "public information": 1, "news": 0}
+{"confidential information": 3, "technical information": 2, "public information": 2, "news": 0}
+{"confidential information": 25, "technical information": 1, "public information": 1, "news": 0}
+{"confidential information": 15, "technical information": 0, "public information": 1, "news": 0}
+{"confidential information": 15, "technical information": 1, "public information": 1, "news": 0}
+{"confidential information": 15, "technical information": 1, "public information": 1, "news": 0}
+{"confidential information": 15, "technical information": 1, "public information": 1, "news": 0}
+{"confidential information": 8, "technical information": 0, "public information": 2, "news": 0}
+{"confidential information": 15, "public information": 1}
+{"confidential information": 5, "technical information": 0, "public information": 1, "news": 0}
+{"confidential information": 18, "technical information": 1, "public information": 2, "news": 0}
+{"confidential information": 5, "technical information": 0, "public information": 2, "news": 0, "non-public information": 24, "market sensitive information": 4}
+{"confidential information": 15, "technical information": 1, "public information": 2, "news": 0}
+{"confidential information": 12, "critical energy infrastructure information": 5, "CEII": 10, "Dominion Energy South Carolina, Inc.": 2, "South Carolina Public Service Authority": 2, "Disclosing Party": 6, "Receiving Party": 10, "Agreement": 15, "Disclosing Parties": 10, "state of South Carolina": 2, "18 C.F.R. \u00a7 388.113(c)(1)": 1, "18 C.F.R. \u00a7\u00a7 388.112, 113": 1}
+{"confidential information": 1, "technical information": 0, "public information": 1, "news": 0, "Protected Critical Infrastructure Information (PCII)": 3, "Sensitive Security Information (SSI)": 3, "Sensitive but Unclassified (SBU)": 3, "For Official Use Only (FOUO)": 1, "Official Use Only (OUO)": 1, "Sensitive Homeland Security Information (SHSI)": 1, "Limited Official Use (LOU)": 1, "Law Enforcement Sensitive (LES)": 1, "Safeguarding Information (SGI)": 1, "Unclassified Controlled Nuclear Information (UCNI)": 1, "Department of Homeland Security": 2, "United States Government": 5, "Critical Infrastructure Information Act of 2002": 1, "Homeland Security Act of 2002": 1, "Executive Order No. 12958": 1, "Military Whistleblower Protection Act": 1, "Whistleblower Protection Act": 1, "Intelligence Identities Protection Act of 1982": 1, "Subversive Activities Act of 1950": 1, "Paperwork Reduction Act of 1995": 1}
+{"confidential information": 5, "technical information": 0, "public information": 1, "news": 0}
+{"confidential information": 11, "technical information": 0, "public information": 1, "news": 0}
+{"confidential information": 15, "technical information": 0, "public information": 2, "news": 0}
+{"confidential information": 20, "technical information": 1, "public information": 1, "news": 0}
+{"confidential information": 8, "technical information": 1, "public information": 1, "news": 0}
+{"confidential information": 8, "technical information": 1, "public information": 1}
+{"confidential information": 2, "technical information": 1, "public information": 2, "news": 0}
+{"confidential information": 8, "technical information": 1, "public information": 1, "news": 0}
+{"confidential information": 24, "technical information": 1, "public information": 2, "news": 0}
+{"confidential information": 5, "technical information": 0, "public information": 0, "news": 0}
+{"confidential information": 2, "technical information": 1, "public information": 1, "news": 0}
+{"confidential information": 15, "technical information": 1, "public information": 1, "news": 0}
+{"confidential information": 5, "technical information": 1, "public information": 1, "news": 0}
+{}
+{"confidential information": 3, "technical information": 0, "public information": 1, "news": 0}
+{"confidential information": 15, "technical information": 0, "public information": 2, "news": 0}
+{"confidential information": 5, "technical information": 1, "public information": 1, "news": 0}
+{"confidential information": 10, "technical information": 0, "public information": 0, "news": 0}
+{"confidential information": 18, "technical information": 1, "public information": 1, "news": 0}

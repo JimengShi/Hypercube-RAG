@@ -1,0 +1,436 @@
+{"Magdalene Ngeve": 1, "Ngeve": 3, "Seychelles": 1, "Rhizophora": 1, "Jacob Ngeve": 1}
+{"Teresa Morganti": 1, "Antje Boetius": 1, "Autun Purser": 2}
+{"Barite": 1, "Desiree Roerdink": 1, "Roerdink": 2}
+{"Kenneth Rijsdijk": 1, "Rijsdijk": 2, "Harry Seijmonsbergen": 1}
+{"Alexander Ziegler": 1, "Ziegler": 9, "Christina Sagorny": 2, "Eberhard D. Pracht": 1}
+{"Nico Augustin": 1, "Froukje van": 1, "Zwan": 1, "Augustin": 1}
+{"Amy Parker": 1, "Parker": 3}
+{"Bo Zhao": 1, "Zhao": 5, "Beatosu": 1, "Yifan Sun": 1, "Shaozeng Zhang": 1, "Chunxue Xu": 1, "Chengbin Deng": 1}
+{"Aaron Carlisle": 1, "Carlisle": 5, "\"Even": 1}
+{"Nicolas Barth": 1, "Alpine Fault": 1, "Jamie Howarth": 1, "James Dieterich": 1, "Barth": 2}
+{"Cefas": 2, "Tom Horton": 1, "van der Kooij": 1}
+{"Saoirse Foley": 1, "Tarantula": 1, "Gondwana": 1, "Foley": 1, "Willam H. Piel": 1, "Dong-Qiang Cheng": 1, "Henrik Krehenwinkel": 1}
+{"McCauley": 2, "Lacey Hughey": 1, "Beach Herd": 1, "tule elk": 1, "Kevin T. Shoemaker": 1, "Kelley M. Stewart": 1}
+{"Sara Zeigler": 1, "Anne Hecht": 1, "Zeigler": 1}
+{"Monte Neate-Clegg": 1, "Howard": 1, "Moore": 1}
+{"Paige Miller": 4, "Miller": 2, "Robert (Bob) Miller": 1, "Bob Miller": 2}
+{"Federico Ceballos-Sierra": 1, "Ceballos-Sierra": 2}
+{"Keith Musselman": 1, "Noah Molotch": 1, "Musselman": 3, "Julie Vano": 1}
+{"Sebastian Rosier": 1, "Dr Rosier": 3, "Hilmar Gudmundsson": 1, "Gudmundsson": 1}
+{"Queen Maud Land": 1, "van Ginneken": 1}
+{"Peng Ni": 1, "Evan Smith": 1, "Steven Shirey": 1, "Anat Shahar": 1, "Wuyi Wang": 1, "Stephen Richardson": 1, "Smith": 1, "Shirey": 1}
+{"Kelvin": 1, "Rebecca Fischer": 1, "\"Earth": 1, "Junjie Dong": 1, "Jun Korenaga": 1, "Dong": 2, "Suzan van der Lee": 1}
+{"Balbir B Singh": 1, "Michael Ward": 1, "Navneet Dhand": 1, "Dhand": 1, "Ward": 3, "H5N1": 1}
+{"Landsat": 1, "Sarah Hart": 1, "Kyle Rodman": 1, "balsam": 1, "Rodman": 2}
+{"Maria V. Gavrilo": 1, "Ivory Gull": 1, "Mikhail V. Kozlov": 1, "Larch Budmoths": 1, "Mikhail Kozlov": 1}
+{"Weather": 1, "Pui Man Kam": 1, "David N. Bresch's": 1, "Kam": 1}
+{"Kirsten Thompson": 1, "Gray": 2, "Dr Thompson": 1, "Thompson": 1}
+{"Adina Paytan": 1, "Mathis Hain": 1, "Elizabeth Griffith": 1, "Hain": 1, "Griffith": 1, "Klaus Wallmann": 1, "Andrew Ridgwell": 1}
+{"Rachael Orben": 1, "David Kroodsma": 1}
+{"Gina Moseley": 2, "Moseley": 3}
+{"Nepal": 1, "Laura S\u00e1nchez": 1, "Roland Pail": 1, "S\u00e1nchez": 2}
+{"Nature Center": 1, "Carcharodon": 1, "Rachel Shaw": 1, "Matt Ajemian": 1, "Shaw": 1, "Ajemian": 1}
+{"Svalbard": 1}
+{"Ilan Koren": 1, "Eitan Hirsch": 1, "Hirsch": 3, "Koren": 2, "Ilan Koren's": 1, "Scott Eric Jordan": 1}
+{"Kwon": 1, "Aleph": 1, "Axel Timmermann": 1}
+{"Vanhatalo": 4}
+{"Lush": 1, "Kantelinen": 1}
+{"Caldeira": 2, "David Koweek": 1, "Yuichiro Takeshita": 1, "Rebecca Albright": 1, "Alyssa Griffin": 1, "Robert Whitehead": 1}
+{"Enric Sala": 1, "Sala": 2, "Darcy Bradley(link": 1, "Juan Mayorga(link": 1, "Pristine Seas": 1, "Jane Lubchenco": 1, "David Mouillot": 1, "Reniel Cabral(link": 1, "Trisha Atwood": 1, "Boris Worm": 1}
+{"Jennifer Frederick": 1, "William Eymold": 1, "Eymold": 1, "Frederick": 4}
+{"Jessica Oswald": 1, "Oswald": 6, "David Steadman": 1, "Steadman": 6, "Robert Guralnick": 1, "Charles Woods": 1, "Brian Stucky": 1, "Michelle LeFebvre": 1, "Julie Allen": 1}
+{"Zolt\u00e1n Sylvester": 1, "David Mohrig": 1, "Paul Durkin": 1, "Stephen Hubbard": 1, "Sylvester": 3, "Mathieu Lap\u00f4tre": 1, "Sylvester et al.": 1}
+{"Susan Solomon": 1, "Lee": 1, "Geraldine Martin": 1, "Peidong Wang": 1, "Jeffery Scott": 1, "John Marshall": 1, "Andrew Babbin": 1, "Megan Lickley": 1, "Ronald Prinn": 1, "David Thompson": 1, "Timothy DeVries": 1, "Qing Liang": 1, "Solomon": 2, "Scott": 1}
+{"Fungi": 1, "Sarah Fell": 1, "Lee Brown": 1, "Alex Dumbrell": 1}
+{"Jan Esper": 1, "Paolo Cherubini": 1, "Mirek Trnka": 1}
+{"Timothy Beach": 1, "Austin": 1, "Landsat": 1, "Landsat 8": 1, "Sheryl Luzzadder-Beach": 1, "Doyle": 1}
+{"Pokhrel": 3, "Lukas Gudmundsson": 1, "Gudmundsson": 1}
+{"David Bromwich": 1, "Bromwich": 4, "Warmer": 1, "John Mercer": 1}
+{"Claire Paris": 1}
+{"Moon": 1, "Dr Helen Williams": 1, "Hanika Rizo": 1, "Williams": 4, "Oliver Shorttle": 1, "Deep Volatiles": 1, "Simon Matthews": 1}
+{"T\u00e1rsilo Girona": 1, "Girona": 2, "David Fee": 1, "Mount Redoubt": 1, "Lundgren": 1}
+{"Fahrenheit": 1, "Lela Schlenker": 1, "Martin Grosell": 1}
+{"Francois Rerolle": 1, "Rerolle": 1, "Adam Bennett": 1}
+{"Kazutoshi Sato": 1, "Jun Inoue": 1, "Rossby": 3, "Sato": 3, "Inoue": 1}
+{"Joshua Smith": 1, "Smith": 8, "Monterey": 1, "Mark Carr": 1, "Carr": 3, "James Estes": 1, "Joseph Tomoleoni": 1, "Sophia Lyon": 1, "Michelle Staedler": 1, "Jessica Fujii": 1, "Tim Tinker": 1}
+{"J. John Sepkoski": 1, "Sepkoski": 7, "Alexis Rojas": 1, "Michal Kowalewski": 1, "Rojas": 7, "Kowalewski": 2, "Martin Rosvall": 1}
+{"Andrew Jacobson": 1, "Gabriella Kitch": 1, "Jacobson": 11, "Bradley Sageman": 1, "Matthew Hurtgen": 1, "Kitch": 1}
+{"Prof Robert Nicholls": 2, "Borneo": 1}
+{"Fabian Stenzel": 1, "Sylvia Tramberend": 1, "Dieter Gerten": 1, "Wolfgang Lucht": 1}
+{"Paul Angermeier": 1, "Leigh-Anne Krometis": 1, "Marc Stern": 1, "Stern": 1, "Angermeier": 1, "Krometis": 1, "Virginia Tech's": 1}
+{"Yixi Zheng": 1, "Leptonychotes": 1}
+{"Meredith McPherson": 1, "Raphael Kudela": 1, "Kudela": 1, "McPherson": 2, "\"Kudela": 1}
+{"Bethany Clark": 1, "Votier": 1}
+{"Shujie Wang": 1, "Wang": 1, "\"Wang": 1, "Patrick Alexander": 1, "Marco Tedesco": 1, "Qiusheng Wu": 1, "Song Shu": 1}
+{"Cheryl Harrison": 1, "Harrison": 4, "Matthew Long": 1, "Azores": 1}
+{"Stephanie Green": 1, "Edwin Grosholz": 1, "Davis": 1, "Grosholz": 1, "Green": 2}
+{"Sarah Cooley": 1, "Laurence Smith": 1, "Brown": 1, "Johnny Ryan": 1, "Cooley": 3, "Smith": 3, "Ryan": 1}
+{"Hisayuki Kubota": 2, "Matthew C. Perry": 1, "TC": 1}
+{"Brad Hanson": 1, "Hanson": 1, "Robin Baird": 1, "Chinook": 1, "Baird": 1, "Lynne Barre": 1}
+{"Annegret Grimm-Seyfarth": 1, "Grimm-Seyfarth": 4, "Wiebke Harms": 1, "Anne Berger": 1, "Labrador Retrievers": 1, "Zammy": 1}
+{"Oscar Serrano": 1, "Ningaloo Coast": 1, "Dr Serrano": 1, "Shark Bay": 2, "\"Australia": 1, "Dr Serrano's": 1, "Carlos Duarte": 1}
+{"Alastair Key": 2, "David Roberts": 1, "Ivan Jaric": 1, "Kent": 1, "Palaeolithic Archaeologist": 1, "Roberts": 1}
+{"Andy Dietzel": 1, "Dietzel": 1, "Sean Connolly": 1, "Prof Connolly": 1, "Michael Bode": 1, "Terry Hughes": 1}
+{"Yi-Kai": 1, "Pliocene": 1, "Mr Tea": 1, "Simon Ho": 1, "Nathan Lo": 1}
+{"Stefan Rahmstorf": 1, "Rahmstorf": 1, "Levke Caesar": 1, "Niamh Cahill": 1}
+{"tyre wear": 1, "Christopher Dibke": 1, "Marten Fischer": 1, "Scholz-B\u00f6ttcher": 1, "Elbe": 1}
+{"Mike Letnic": 1, "Letnic": 2, "Dr Fisher": 4, "Landsat": 1}
+{"Evan Gowan": 1, "Dr Gowan": 1, "Oxygen": 1, "Gowan": 1}
+{"Getz": 6, "Heather Selley": 1, "Anna Hogg": 1, "Pierre Dutrieux": 1}
+{"Marshall": 2}
+{"Noriyuki Satoh": 1, "Koji Kinjo": 1, "Satoh": 4}
+{"Enrico Di Minin": 1, "Dr Hayley Clements": 1, "Corey Bradshaw": 1, "Bradshaw": 1, "Clements": 1, "Dr Clements": 1, "Di Minin": 2}
+{"Silvia Vidal-Melgosa": 1, "Jan-Hendrik Hehemann": 1, "Hehemann": 2}
+{"Samuel Perini": 2, "Perini": 1}
+{"Brian W. Haas": 1, "Fumiko Hoeft": 1, "Kazufumi Omura": 1, "COVID": 1, "Hoeft": 2, "Haas": 1, "Zoom": 1}
+{"Dr Ralf Schneider": 1, "Dr Schneider": 1, "Ralf Schneider": 1}
+{"Love Dal\u00e9n": 1, "Adycha": 2, "Tom van": 1, "Patr\u00edcia Pec?nerova?.The": 1, "David Di?ez-del-Molino": 1, "Anders G\u00f6therstr\u00f6m": 1}
+{"Alan MacDonald": 1, "groundwater recharge": 1, "MacDonald": 1, "Seifu Kebede": 1, "Atlas": 1}
+{"Dietrich": 10, "Bellugi": 4, "David Milledge": 1, "Lauren Larsen": 1, "Kurt Cuffey": 1, "Gordon": 1, "Award": 1, "Larsen": 1, "Cuffey": 1}
+{"House Sparrows": 1, "Liam Berigan": 1}
+{"Helen Yan": 1, "Nick Dulvy": 1, "Dulvy": 1, "Yan": 1}
+{"Kathleen O'Malley": 1, "O'Malley": 3, "Felix Vaux": 1, "Vaux": 1}
+{"Kona Kai": 1, "pua": 1, "Ke kai ma`oki`oki": 1, "Kona": 1, "Jonathan Whitney": 1, "Whitney": 2, "Jamison Gove": 1, "Margaret McManus": 1}
+{"Dr Francois Galgani": 1, "Continuous Plankton Recorders": 1, "nanoplastics": 1, "Deidun": 1}
+{"Judit Gonzalez-Santana": 1, "Christelle Wauthier": 1}
+{"Cabo Verde": 1, "Muusoctopus": 1, "Cirrothauma": 1, "Chtenopteryx": 1}
+{"Sean Connell": 1}
+{"Emma Brownlee": 1, "Dr Brownlee": 3}
+{"H\u00e5kan Wickstr\u00f6m": 1, "Glass": 1, "Mats Pettersson": 2, "Erik Enbody": 1, "Leif Andersson": 2}
+{"Trevor Krabbenhoft": 1, "Krabbenhoft": 4, "Katherine Eaton": 1, "Eaton": 3, "quagga": 1, "Mois\u00e9s Bernal": 1, "Bill Taylor": 1}
+{"Olga Isupova": 2, "Dr Isupova": 3, "Steven Reece": 1, "David W. Macdonald": 1, "Tiejun Wang": 1}
+{"John Turnbull": 1, "Turnbull": 5, "UNSW Dean": 1, "Emma Johnston": 1, "Johnston": 2}
+{"Miquel Canals": 1, "William P. de Haan": 1, "Marta Veny": 1, "Javier Romero": 1, "Anna S\u00e0nchez-Vidal": 1}
+{"Arthur Middleton": 1, "Wenjing Xu": 1, "Xu": 8, "Middleton": 4, "Pronghorn": 1, "Scurlock": 1, "Holly Doremus": 1}
+{"Andrew Babbin": 1, "Nitrogen": 1, "Babbin": 5, "Amy Apprill": 1, "Jardines de la Reina": 1, "Diploria": 1, "Acropora": 1, "Ferry": 1, "Bruce Heflinger '": 1}
+{"Kailin Kroetz": 1, "Kroetz": 4}
+{"Irina Pugach": 1, "Mariana Islanders": 1, "Pugach": 2, "Mike T. Carson": 1, "Lapita": 1, "Mark Stoneking": 1}
+{"Salvatore Cerchio": 1, "Cerchio": 5, "Emmanuelle Leroy": 1, "Tracey Rogers": 1, "Leroy": 1, "Andrew Willson": 1, "Bryde": 1, "Willson": 1, "Suaad Al Harthi": 1}
+{"Palencia": 2, "Bing Maps": 1, "Sasam\u00f3n": 2, "Augusto": 1, "Vaccaei": 1}
+{"Jennifer Jacquet": 1, "Gabrielle Carmine": 1, "Jacquet": 2}
+{}
+{"Nathaniel J. Dominy": 1, "Thoth": 1, "Ptolemaic": 3, "Gillian L. Moritz": 1, "Patrick V. Wheatley": 1, "Jonathan W. Chipman": 1, "Paul L. Koch": 1}
+{"Christopher Columbus": 1, "Anthony Martin": 1, "Martin": 7, "Melissa Hage": 1, "Meredith Whitten": 1, "iguana evolution": 1, "Michael Page": 1, "Arya Basu": 1}
+{"Diego Carde\u00f1osa": 1, "Flora": 1, "Carde\u00f1osa": 2, "Demian Chapman": 1, "Paul G. Allen Family Foundation": 1}
+{"Charles Darwin": 1, "Rachel Leihy": 1, "Joseph Hooker": 1, "Darwin": 5, "Rachel": 2, "Steven Chown": 1}
+{"Yo Tanaka": 1, "Tanaka": 3}
+{"Fabio Capitanio": 1, "Capitanio": 2, "Yilgarn": 1, "Gawler": 1}
+{"Garvin Professor": 1, "Amanda Rodewald": 2, "Peter Arcese": 1, "Arcese": 1, "Rodewald": 1}
+{"Aaron Koning": 1, "Pete McIntyre": 1, "McIntyre": 3, "Zeb Hogan": 1}
+{"Tom Matheson": 1, "Swidbert Ott": 1}
+{"Astrid Leitner": 1, "Jennifer Durden": 1, "Jeffrey Drazen": 1, "Craig Smith": 1, "Leitner": 1}
+{"John Ascher": 1, "Michael Orr": 1, "Ascher": 3, "Orr": 1, "Charles Michener": 1, "Alice Hughes": 1}
+{"Susannah Calderan": 2, "Jennifer Jackson": 1, "Darwin Initiative": 1, "BAS": 1, "Susannah V. Calderan": 1, "Andy Black": 1, "Trevor A. Branch": 1, "Martin A. Collins": 1, "Natalie Kelly": 1, "Russell Leaper": 1, "Sarah Lurcock": 1, "Brian S. Miller": 1, "Michael Moore": 1, "Paula A. Olson": 1, "Andrew G. Wood": 1, "Jennifer A. Jackson": 1, "Critically Endangered": 1}
+{"Brian Leung": 1, "Leung": 1, "Anna Hargreaves": 1}
+{"Johnson": 1, "Avery Paxton": 1, "Paxton": 1, "Chris Taylor": 1, "Goliath": 1}
+{"Ryota Kawanishi": 1, "Shinpei Ohashi": 1, "Cymothoids": 1}
+{"Jeff Buckel": 1, "Balistes": 1, "Brendan Runde": 1, "Buckel": 2, "Kyle Shertzer": 1}
+{"Prosobonia": 2, "Edward K Saul": 1, "Vanesa De Pietri": 1, "Graham Wragg": 1, "Peter Scott Commemorative Expedition": 1, "Tuamotu Sandpiper": 2, "Dr De Pietri": 2, "William Wade Ellis": 1, "James Cook": 1, "Paul Scofield": 1}
+{"Dr van Maanen": 1, "Danghan Xie": 1, "Christian Schwarz": 1, "Mangrove": 1}
+{"Jo-Anne Geere": 1, "Sera Young": 1, "Prof Paul Hunter": 1, "2030.Dr Vidya Venkataramanan": 1, "Hygiene": 1}
+{"Scott Ling": 1, "Acropora": 6, "Morgan Pratchett": 1, "Dr Ling": 1}
+{"Qiang Jiang": 1, "Jiang": 1, "kilometres thick": 1, "Ben": 1, "Hugo Olierook": 1, "Gondwana": 1, "Olierook": 1, "Fred Jourdan": 1, "Jourdan": 1}
+{"P.": 1, "Sally Poncet": 1, "P. taeniata": 1, "Jane Younger": 1, "Josh Tyler": 1, "Younger": 1}
+{"Kenkmann": 1}
+{"Micah Freedman": 1, "Freedman": 2}
+{"Reza Ghaffarivardavagh": 1, "Sayed Saad Afzal": 1, "Adib": 4, "Afzal": 1}
+{"Takuya Maekawa": 1, "Joseph Korpela": 1, "Maekawa": 1}
+{"Aaron Ellison": 1, "Xiujuan Qiao": 1}
+{"David Mouillot": 1, "Mariani": 1}
+{"Reniel Cabral": 1, "Steve Gaines": 1, "Darcy Bradley": 1}
+{"Chris Long": 1}
+{"Aleman": 6, "Olivier Barquez": 1, "Adeline Fayolle": 1}
+{"Robin Beaman": 1, "Wendy Schmidt": 1, "Beaman": 1, "Ningaloo Canyon": 1, "Parks": 1, "Jyotika Virmani": 1}
+{"Francis Rengers": 1, "Rengers": 1}
+{"Ahlberg": 2, "Ma": 1, "Moon": 2}
+{"Abigail Heath": 1, "Phil Nicodemus": 1, "Heath": 1}
+{"Baraza": 1}
+{"Maya": 7, "Kenneth Barnett Tankersley": 1, "Tikal": 1, "Nicholas Dunning": 1, "Christopher Carr": 1, "Dunning": 2, "Vernon Scarborough": 1, "Scarborough": 1, "David Lentz": 1}
+{"Joseph Wartman": 1, "Worldwide": 1, "Wartman": 4, "William Pollock": 1}
+{"Jacob Cipar": 1, "Cipar": 1, "Andrew Smye": 1, "Joshua Garber": 1, "Garber": 1}
+{"Jimbob Blinkhorn": 1, "Prof Hema Achyuthan": 1, "Bikaner": 1, "Nal": 1, "Blinkhorn": 2}
+{"Mark Sorel": 1, "Willamette Rivers": 1, "Sorel": 1}
+{"Bettina Meyer": 4, "Ryan Driscoll": 1}
+{"Kyle Horton": 1, "Emily Cohen": 1, "Jeff Buler": 1, "Buler": 1, "Cohen": 1, "Andrew Farnsworth": 1}
+{"Jeffrey Falzarano": 1, "Falzarano": 2, "Hao Wang": 1, "Markov": 1, "Melnikov": 1}
+{"Harriet L. Wilkes": 1, "Tracy Mincer": 1, "Polypropylene": 1, "Shiye Zhao": 1}
+{"Rachel Collin": 1, "Valvaster": 1}
+{"Pamela McElwee": 1, "McElwee": 2}
+{"Julian Kerbis Peterhans": 1, "Tom Giarla": 1, "Giarla": 3, "Learning": 1, "Demos": 1, "COVID": 1}
+{"Radiometer Suite": 1, "Inciweb": 2, "Lynn Jenner": 1}
+{"Julia Tejada-Lara": 1, "John Flynn": 1}
+{"Juan Carrillo": 1, "S\u00f8ren Faurby": 1, "Carnivora": 1}
+{"Hugo Harrison": 1, "Harrison": 4, "Michael Bode": 1, "Prof Bode": 2}
+{"Yutaka Yawata": 1, "Yawata": 1}
+{"Gengping Zhu": 1, "Chris Looney": 1, "David Crowder": 1, "Javier Illan": 1, "Zhu": 1, "Vespa": 1, "Vespa velutina": 1, "Looney": 2, "Crowder": 1}
+{"Matt Betts": 1, "Jim Rivers": 1, "Betts": 1, "Kim Nelson": 1, "Dan Roby": 1, "Jennifer Fisher": 1}
+{"Peter Newton": 1}
+{}
+{"Richard Clark-Wilson": 1, "Mathew Stewart": 1, "Michael Petraglia": 1, "Stewart": 2}
+{"Matt Whalen": 1, "Gustav Paulay": 1}
+{"Ferhat Karakas": 1, "Jordan Wingate": 2, "Leocadio Blanco-Bercial": 1, "Amy Maas": 1, "David Murphy": 1, "Bermuda": 2, "Maas": 2, "Wingate": 2, "Amy": 1}
+{"Christine Alewell": 1, "Alewell": 4}
+{"James Cook University": 1, "Brendan Brooke": 1, "Rhinopias": 1, "Jyotika Virmani": 1, "Schmidt Ocean's": 1, "Scott Nichol": 1}
+{"Rao": 5, "Krantz": 1}
+{"Yi-Hui Wang": 1, "Ben Ruttenberg": 1, "Crow White": 1, "Ryan Walter": 1, "Walter": 1, "White": 1, "Ruttenberg": 1}
+{"Tadao Nishiyama": 1, "Sanbagawa Belt": 1}
+{"Samantha Howe": 1, "Howe": 2, "Angela Knapp": 1, "Carlos Miranda": 1}
+{"Helen Wheeler": 1, "Gunn-Britt Retter": 1, "Dr Helen Wheeler": 1}
+{"Kris Wyckhuys": 1, "Michael Furlong": 1, "Furlong": 1}
+{"Mark Torchin": 1, "Gustavo Castellanos-Galindo": 1, "D. Ross Robertson": 1}
+{"Debora Iglesias-Rodriguez": 1, "Mg": 3, "Iglesias-Rodriguez": 2, "Mario Lebrato": 1}
+{"Amur": 2, "Bridget Taylor": 1, "Denis Conover": 1, "Richard Beck": 1, "Taylor": 3, "Burnet Woods": 1}
+{"Jennifer Merten": 1, "Christian Stiegler": 1}
+{"Lystrosaurus": 9, "Megan Whitney": 1, "Christian Sidor": 1, "Whitney": 4, "Sidor": 1}
+{"Bruno Carturan": 1, "Carturan": 2, "Lael Parrott": 1, "Jason Pither": 1, "Corey Bradshaw": 1, "Bradshaw": 1}
+{"Ramunas Stepanauskas": 1, "Jacob Beam": 1, "Julie Brown": 1, "Nicole Poulton": 1, "Eric Becraft": 1, "Oliver Bezuidt": 1, "Kayla Clark": 1}
+{"Kalle Hirvonen": 1, "Kaleab Baye": 1, "Hirvonen": 3, "Baye": 3}
+{"James Erbaugh": 1, "Arun Agrawal": 1, "Agrawal": 1}
+{"Alfan Rija": 1, "Colin Beale": 1}
+{"Shirase Glacier": 1, "Daisuke Hirano": 3}
+{"Yue Wang": 1, "Benjamin Shipley": 1, "Daniel Lauer": 1, "Roseann Pineau": 1, "Jenny McGuire": 1, "McGuire": 2, "pollen samples": 1}
+{"Dr Thomas DeCarlo": 1, "DeCarlo": 3, "John Pandolfi": 1}
+{"square meter": 1, "Igor Polyakov": 1, "Polyakov": 2, "Tom Rippeth": 1, "Rippeth": 1}
+{"Zuckerberg": 4, "UW-Madison": 1, "Jeremy Cohen": 1, "Cohen": 3}
+{"Kevin Befus": 1}
+{"William Paterson University": 1, "Holocene": 1, "Kathleen Johnson": 1, "Johnson": 4, "Francesco Pausata": 1, "Michael Griffiths": 1, "Griffiths": 1, "Joyce White": 1}
+{}
+{"Ellen Corrick": 1, "Ms Corrick": 1, "Russell Drysdale": 1, "John Hellstrom": 1, "Hellstrom": 1, "Eric Wolff": 1}
+{"Ingo Sasgen": 1, "Marco Tedesco": 1, "Christoph Dahle": 1, "Sasgen": 2}
+{"Widlansky": 2, "Fabian Schloesser": 1}
+{"Bowlick": 3, "Dan Goldberg": 1, "Paul Stine": 1}
+{"Christopher Costello": 1, "Costello": 6, "Stefan Gelcich": 1, "Pontificia Universidad": 1, "Halley Froehlich": 1}
+{"Leonie Wenz": 1}
+{"Eric Palkovacs": 1, "Krista Oke": 1, "Oke": 1, "Peter Westley": 1, "UC Davis": 1}
+{"Belinda Ferrari": 1, "Vestfold Hills": 1, "Angelique Ray": 1, "Ms Ray": 1}
+{"Debashish Bhattacharya": 1}
+{"Landsat 5": 1, "Liza Goldberg": 1, "Goldberg": 3, "David Lagomasino": 1, "Liza": 2, "Lola": 1, "Goddard": 1}
+{}
+{"Katsiaryna Pabortsava": 1, "Richard Lampitt": 1, "Lampitt": 1}
+{"Hu Yang": 1, "Yang": 3, "Kristopher Karnauskas": 1}
+{"Gretchen Keppel-Aleks": 1, "Brendan Rogers": 1, "Rogers": 1}
+{"Sahel": 3, "Cornelia Klein": 1, "Chris Taylor": 1}
+{"Terry Sabaka": 1, "Van Allen": 1, "Weijia Kuang": 1, "Goddard": 2, "Bryan Blair": 1, "Blair": 1, "SAMPEX": 3, "Ashley Greeley": 1, "Shri Kanekal": 1, "Space Weather": 1, "Greeley": 1, "Sabaka": 4, "Kuang": 4, "Andrew Tangborn": 1}
+{"Deepak Krishnamurthy": 1, "Manu Prakash": 1, "plankton": 1, "Krishnamurthy": 2, "Prakash": 1, "Hongquan Li": 1, "Fran\u00e7ois Benoit du Rey": 1, "Pierre Cambournac": 1, "Ethan Li": 1, "Adam Larson": 1, "Gordon": 1}
+{"Edward Hanna": 1, "Hanna": 2}
+{"Luis Buatois": 1, "Buatois": 2, "Gabriela M\u00e1ngano": 1, "M\u00e1ngano": 1, "Kai Zhou": 1, "Nic Minter": 1, "Max Wisshak": 1, "Mark Wilson": 1}
+{"Emily Judd '": 1, "Tripti Bhattacharya": 1, "Linda Ivany": 1, "Judd": 5, "Ivany": 1, "Bhattacharya": 1}
+{"Michalea King": 1, "Ian Howat": 1, "King": 1, "Myoung Noh": 1}
+{"Farzana Jahan": 1, "non-Hodgkin": 1, "Ms Jahan": 1, "Susanna Cramb": 1}
+{"Austin Chadwick": 1, "Lamb": 3, "Chadwick": 3, "Ganti": 2}
+{"Laure Zanna": 2, "Ben Bronselaer": 1}
+{"Elisa Bayraktarov": 1, "Bayraktarov": 2, "Phanor Montoya-Maya": 1, "Corales de Paz": 1}
+{"Kerry Cook": 1, "Cook": 1}
+{"Jill McDermott": 1, "McDermott": 4, "Jason II": 1, "Seewald": 1}
+{"Kathryn Baragwanath": 1, "San Diego's": 1, "Ella Bayi": 1, "Baragwanath": 1}
+{"Christopher Brochu": 1, "Cossette": 1}
+{"Scott Goetz": 1, "Patrick Jantz": 1, "Pat Burns": 1, "Computing": 1, "Haoliang Xu": 1, "Congo Basins": 1, "Burns": 1, "Jantz": 1}
+{"Hadley Centre": 1, "Maria Vittoria Guarino": 1, "BAS": 1, "Louise Sime": 1, "David Schroeder": 1, "Prof Danny Feltham": 1}
+{"prey dynamics": 1, "john dory": 1, "Katherine Maltby": 1, "Louise Rutterford": 1}
+{"Smith": 5}
+{"Julien Emile-Geay": 1, "Michael Erb": 1}
+{"Christopher Piecuch": 1}
+{"Penryn Campus": 1, "Hemerdon": 1, "Redmoor": 1, "James McFarlane": 1}
+{"Jun Nishioka": 1}
+{"Jonathan Carrivick": 1, "Andrew Lorrey": 1}
+{"Ken Buesseler": 1, "Buesseler": 2, "Fukushima": 1}
+{"David Thieltges": 1, "Andreas Waser": 1, "Texel": 3}
+{"Shohei Hattori": 1, "Kazuki Kamezaki": 1, "Hattori": 1}
+{"Vicky Lam": 1, "Rashid Sumaila": 1, "William Cheung": 1}
+{"R\u00e9my Crassard": 1, "Manayzah": 1, "Neolithic": 1, "Petraglia": 1, "McCorriston": 1, "Arabian Neolithic": 1}
+{"Michael Jacox": 1, "Michael Alexander": 1, "Blob": 1}
+{"John Burns": 1, "Solange Duhamel": 1, "Ryan Kerney": 1, "Burns": 3}
+{"Landsat": 1, "Sam Herreid": 1, "Francesca Pellicciotti": 1}
+{"Padua": 2, "Francesco Sauro": 3, "Riccardo Pozzobon": 3, "Moon": 5, "lava tubes'": 1, "Matteo Massironi": 1, "Sauro": 1, "Lava": 2, "Jo De Waele": 1}
+{"Karsten Gohl": 1, "Pliocene": 4, "Katharina Hochmuth": 1, "Oligocene": 1, "Miocene": 1}
+{"Anna Grau Galofre": 1, "Grau Galofre": 2, "Devon Island": 1, "Gordon Osinski": 1, "Mark Jellinek": 1, "Grau Galofre's": 1, "Jellinek": 2, "Anna": 1}
+{"Michael Waters": 1, "Thomas Stafford": 1, "Alan Brandon": 1, "Brandon": 2, "Dryas": 1, "Steven Forman": 1, "Younger Dryas": 1, "Forman": 1, "Nan Sun": 1}
+{"Manoochehr Shirzaei": 2, "Em Blackwell": 1, "Susanna Werth": 1, "Blackwell": 3, "100s km": 1, "Monterey Bay": 1}
+{"Marcus Dengler": 1, "Hummels": 1, "Kiel": 1, "Willi Rath": 1, "Rath": 1, "Florian Sch\u00fctte": 1, "Peter Brandt": 1}
+{"Barney Balch": 1, "Brian Collister": 1, "Collister": 1, "Lidar": 1, "Richard Zimmerman": 1}
+{"R\u00edo Chico 1": 1}
+{"Matthias Haeckel": 1, "B\u00f6ttner": 1, "Dr Haeckel": 1, "Haeckel": 1}
+{"Rory Laiho": 1, "Laiho": 1, "Jahn": 2, "Davis": 1}
+{"Thomas Rossby": 1}
+{"Lojewski": 1, "Carl Tape": 1, "Adam Ringler": 1, "Ringler": 1}
+{"Avinash Kumar": 1, "Kara": 1, "Kumar": 3, "Goa": 1}
+{"Svalbard": 1}
+{"Pamela McElwee": 1, "McElwee": 1}
+{"\u00c1lvaro Fern\u00e1ndez-Llamazares": 1, "Fern\u00e1ndez-Llamazares": 1, "Eduardo S. Brondizio": 1}
+{"Yuki Morono": 1, "Morono": 3, "Steven D'Hondt": 1, "D'Hondt": 1}
+{"Daniel McCoy": 1, "Leighton Regayre": 1}
+{"Jinyu Zhang": 1, "Sylvester": 1, "Jacob Covault": 1, "Zhang": 1, "Jinyu": 1, "Gary Hampson": 1}
+{"David Bastviken": 5}
+{"James W. Porter": 1, "Mauricio Romero-Torres": 1, "Porter": 3, "Romero": 2}
+{"Evan Gora": 1, "Steve Yanoviak": 1, "Jeffrey Burchfield": 1, "Phillip Bitzer": 1, "Yanoviak": 1, "Gora": 3, "Helene Muller-Landau": 1}
+{"Andrew Thurber": 1, "Thurber": 12}
+{"Eberhard Gischler": 1, "Dominik Schmitt": 1}
+{"Matthew Lachniet": 1, "Medieval": 1}
+{"Annika Reintges": 1, "Reintges": 2}
+{"Gabriela Torres": 1, "Luis Gim\u00e9nez": 1, "Prof Steffen Harzsch": 1}
+{"Terrence Blackburn": 1, "Blackburn": 7, "U-234": 2, "trap uranium-234": 1, "Blood Falls": 1, "Slawek Tulaczyk": 1}
+{"Charney et al": 1, "Prof Steven Sherwood": 1, "Gabi Hegerl": 1, "Prof Sherwood": 1, "Prof Eelco Rohling": 1}
+{"Colin Simpfendorfer": 1, "Simpfendorfer": 3, "Demian Chapman": 1, "Dr Chapman": 1, "Jody Allen": 1, "Paul G. Allen Family Foundation": 2}
+{"Kristian Parton": 1, "Penryn Campus": 1, "starry smooth-hound": 1, "Tamara Galloway": 1, "Laura Foster": 1}
+{"Maria \"Deng\" Palomares": 1, "Daniel Pauly": 1, "Pauly": 1}
+{"Charlotte Janssens": 3, "Miet Maertens": 1, "KU Leuven": 1, "Janssens": 2}
+{"St Helena": 1, "Yael Engbers": 1}
+{"COVID-19": 1, "Thomas Cherico Wanger": 1, "Teja Tscharntke": 1}
+{"Tammy Rittenour": 1, "Rittenour": 4, "Lee Corbett": 1, "Paul Bierman": 1, "Marc Caffee of Purdue": 1}
+{"Frida Keuper": 1, "max 1.5": 1, "Birgit Wild": 1}
+{"Pedram Rowhani": 1, "Adam Barrett": 1, "Dr Rowhani": 1, "Seb Oliver": 1}
+{"Bernard Coetzee": 1, "Coetzee": 1, "Important Bird Areas": 1, "Rachel Leihy": 1, "Steven Chown": 1}
+{"Genevieve Davis": 1, "Scotian Shelf": 1, "Davis": 3, "the Scotian Shelf": 1}
+{"Lauren Law": 1, "Sally Leys": 1, "Law": 1, "Leys": 1}
+{"Peirong Lin": 1, "Zong-Liang Yang": 1, "Lin": 1, "Yang": 1, "Jiangfeng Wei": 1, "Robert E Dickinson": 1, "Yongfei Zhang": 1, "Long Zhao": 1}
+{"Graeme Hays": 1, "Diego Garcia": 1, "Hays": 1}
+{"Gavia Lertzman-Lepofsky": 1}
+{"Simone Pigolotti": 1, "Pigolotti": 4, "plankton": 1, "Tom Bourguignon": 1}
+{"Matt Ajemian": 1, "Ajemian": 3}
+{"Chenghao Wang": 3, "Zhihua Wang": 4, "Linda Sun": 1}
+{"Amanda H. Schmidt": 1}
+{"Mark Diesendorf": 1, "Prof Tommy Wiedmann": 2, "Prof Diesendorf": 8, "Prof Wiedmann": 1}
+{"Jackson": 10, "Marielle Saunois": 1, "Michelle": 1, "Kevin Douglas": 1, "Gordon": 1}
+{}
+{"Craig Westell": 1, "Murray": 1, "Fiona Giles": 1, "Amy Roberts": 2, "Riverland": 1}
+{"Mark Bertness": 1, "Brown": 1, "Cape Cod": 1, "Christini Angelini": 1, "Sinead Crotty": 1}
+{"Austin Chadwick": 1, "Ganti": 3, "Chadwick": 3, "Michael Lamb": 1}
+{"John Thorbjarnarson": 1, "Rafael Crespo": 1}
+{"Igor Polyakov": 1, "Polyakov": 1, "Matthew Alkire": 1, "Bodil Bluhm": 1, "Kristina Brown": 1, "Eddy Carmack": 1, "Melissa Chierici": 1, "Seth Danielson": 1, "Ingrid Ellingsen": 1, "Katarina G\u00e5rdfeldt": 1, "Randi Ingvaldsen": 1, "Andrey V. Pnyushkov": 1, "Paul Wassmann": 1}
+{"Shawna Foo": 1, "Greg Asner": 1, "the John D.": 1, "Catherine T. MacArthur Foundation": 1}
+{"Jeffrey Drazen": 1, "Drazen": 2}
+{"Kate Lewis": 1, "Donald": 1, "Donald M. Steel": 1, "Lewis": 3}
+{"Peter Houk": 1, "Micronesia": 2, "plankton": 1}
+{"Kenneth Olson": 1, "Olson": 3, "David Speidel": 1}
+{"Karen Vaughan": 1, "Vaughan": 2}
+{"Okinawa": 2, "Noriyuki Satoh": 1, "Miyako": 1, "Satoh": 6, "Ryukyus": 2}
+{"Daniel Viviroli": 1, "Viviroli": 2, "meltwater peaks": 1}
+{"\"Earth": 1, "Xiaolan Wang": 1, "Svalbard": 1, "Judah Cohen": 1, "Cohen": 1}
+{"Jacob Wenegrat": 1, "Wenegrat": 3}
+{"lava flows": 1, "Chris Davies": 1, "Catherine Constable": 1, "Laschamp": 1, "Constable": 1}
+{"floe": 2, "Thomas Krumpen": 2, "Krumpen": 3, "Prof Markus Rex": 1}
+{"Sarah Perkins Kirkpatrick": 1, "Perkins Kirkpatrick": 1}
+{"Flemming Dahlke": 2, "Prof Hans-Otto P\u00f6rtner": 1, "Hans-Otto P\u00f6rtner": 1, "P\u00f6rtner": 1}
+{"Mark Hoggard": 1, "Hoggard": 2, "Karol Czarnota": 1, "Fred Richards": 1, "David Huston": 1, "A. Lynton Jaques": 1, "Sia Ghelichkhan": 1}
+{"Fogt": 2, "Ryan": 1, "Kyle": 2}
+{"George Bishop": 1, "David Styles": 1, "Piet Lens": 1, "Lens": 1}
+{"Darrell Kaufman": 1, "Nicholas McKay": 1, "Cody Routson": 1, "Michael Erb": 1, "Kaufman": 2, "Routson": 2, "Erb": 1, "McKay": 2}
+{"James Dorey": 1, "Mark Stevens": 1, "Gondwana": 1, "Mike Schwarz": 1, "Schwarz": 1}
+{"Ingmar Nitze": 4, "Nitze": 3, "Benjamin Jones": 1, "Jones": 1}
+{"Moetasim Ashfaq": 1}
+{"Zhenchang Zhu": 2, "Zhu": 2}
+{"Mark Trimmer": 1, "Trimmer": 1, "Kevin Purdy": 1}
+{"Bernd Zimanowski": 3, "James White": 2, "Tobias D\u00fcrig": 1, "R\u00f6ntgen Award": 1, "D\u00fcrig": 1, "Zimanowski": 2, "White": 1}
+{"Stephen Long": 1, "Chris Yesson": 1, "Yesson": 1, "Martin Blicher": 1, "Greenlandic": 1}
+{"Guiana": 1, "Dr Michelle Kalamandeen": 1, "David Galbraith": 1, "Newell Dennison": 1, "Dr Kalamandeen": 1, "Gavin Agard": 1}
+{"Laura Meyerson": 1, "Petr Py\u0161ek": 1, "David Richardson": 1}
+{"Munir Humayun": 1, "Shuying Yang": 1, "Vincent Salters": 1, "Yang": 3, "Humayun": 3}
+{"Sebastiaan Swart": 4, "Louise Biddle": 2}
+{"Ellie Rothermel": 1, "soda bottle": 1, "Dave Secor": 1}
+{"Robin Beaman": 1, "Beaman": 1, "Jyotika Virmani": 1, "Virmani": 1}
+{"Toke T. H\u00f8ye": 4, "wolf": 1, "Wolf": 2}
+{"Michael DeGrandpre": 1, "Cory Beatty": 1, "DeGrandpre": 2}
+{"Stephen Langdon": 1, "Langdon": 2, "Don Leopold": 1, "Martin Dovciak": 1, "Shingle Shanty Preserve": 1, "Preserve": 1, "Raquette": 1}
+{"Kyle Davis": 1, "Davis": 7}
+{"GEOMAR Helmholtz Centre": 1, "Kiel": 1, "NEMO": 1, "Katja Matthes": 2, "Arne Biastoch": 1, "Matthes": 1}
+{"John Love": 1, "Chris Fogwill": 1, "Chris Turney": 1}
+{"Michael Weber": 1, "Chris Fogwill": 1, "Chris Turney": 1}
+{"Juha Meril\u00e4": 2, "Paolo Momigliano": 1, "Bohao Fang": 1, "Petri Kemppainen": 1}
+{"Isla Myers-Smith": 1, "Maria Dornelas": 1}
+{"Junichiro Ohta": 1, "Ohta": 2}
+{"Lester Kwiatkowski": 1}
+{"John Turner": 1, "Eugene Murphy": 1}
+{"Shane Ross": 1, "Kevin T. Crofton": 1}
+{"Carolin Frueh": 1, "Frueh": 3, "antenna": 1, "Neil Armstrong": 1}
+{"Monterey Bay": 3, "Kyle Van Houtan": 1, "Emily Miller": 1, "Stephen Palumbi": 1, "Bakun": 2}
+{"Permo": 1, "lavas from volcanic events": 1, "Elkins-Tanton": 3, "Steve Grasby": 1}
+{"Niklas Hausmann": 1, "Hausmann": 1, "Matthew Meredith-Williams": 1}
+{"Chee Kong": 1, "Ms Samantha Tong": 1, "Unispinosus": 1, "Ms Tong": 3}
+{"Cai": 6, "Phytoplankton": 1, "Lisa Robbins": 1, "Robbins": 2}
+{"Scott MacLennan": 1, "Mauricio Ibanez-Mejia": 1, "Snowball Earth": 1, "pre-Snowball": 1}
+{"Bruce Archibald": 1, "Vladimir Makarkin": 1, "Vladivostok": 1, "Makarkin": 3, "Archibald": 4}
+{"Rose Cory": 1, "Cory": 4, "Collin Ward": 1}
+{"Collin Ward": 1, "Ward": 2, "Reddy": 2, "Chelsea Rochman": 1, "Rochman": 1}
+{"Ellen Aikens": 1, "Aikens": 2, "Matthew Kauffman": 1, "Kauffman": 1}
+{"Jason Riggio": 1, "COVID-19": 2, "Andrew Jacobson": 1, "Jacobson": 1, "Erle Ellis": 1, "Riggio": 1}
+{"Matthias Haeckel": 1, "Dr Haeckel": 3, "Stefan Krause": 1, "Krause": 1}
+{"Jacopo Dal Corso": 1, "Benjamin Mills": 1}
+{"Ryoshiro": 1, "Matthew Gollock": 1, "KAIFU Kenzo": 1, "Eel": 1, "Honshu": 1, "Species": 1}
+{"Ana Vila-Concejo": 1, "Amin Riazi": 1, "Vila-Concejo": 3}
+{"Gerd Masselink": 1, "Masselink": 1, "Paul Kench": 1}
+{"Margot Kaye": 1, "Kay": 1, "Ridge": 2, "Warren Reed": 1, "Reed": 4}
+{"Miocene": 1, "Serengeti": 2, "Nuria Melisa Morales Garc\u00eda": 1, "Christine Janis": 1, "Morales-Garc\u00eda": 1}
+{"Lettie Roach": 1, "Roach": 2}
+{"Calidris": 1, "Tong Mu": 1, "David Wilcove": 1, "Mu": 5}
+{"Joel Berger": 1, "Berger": 3, "Barbara Cox Anthony University": 1, "Cristobal Briceno": 1, "Joanna Lambert": 1, "Tshewang Wangchuk": 1, "Robert Fitzroy": 1, "kiang": 1, "Przewalksi": 1, "Serengeti": 1, "Chang Tang Nature Reserve": 1, "Lambert": 1}
+{"James Thorne": 1, "Klamath Mountains": 1, "Douglas": 2, "Klamath": 1, "Thorne": 1}
+{"Falerii Novi's": 1, "Pompeii": 1, "Martin Millett": 1, "Interamna Lirenas": 1, "Cyrene": 1, "Millett": 1, "Lieven Verdonck": 1, "Soprintendenza Archeologia": 1, "Provincia di Viterbo": 1}
+{"ETH Z\u00fcrich": 1, "David Reiner": 1, "\u00c1ngel Gal\u00e1n-Mart\u00edn": 1, "Dr Carlos Pozo": 1}
+{"Dr Katrin Schmidt": 1, "Continuous Plankton Recorder": 1, "Luca Polimene": 1, "Modeller": 1, "Johns": 1}
+{"Vincent Saba": 1, "Saba": 3, "Georges Bank": 1}
+{"Cape Cod": 1, "Mike Jech": 1, "Jech": 1}
+{"Malin Waage": 1}
+{"Rikki Gumbs": 1, "James Rosindell": 1, "Shai Meiri": 1, "George S. Wise Faculty of Life Sciences": 1, "Meiri": 2, "Aardvarks": 1, "Gumbs": 2, "Borneo": 1, "Rosindell": 1}
+{"Kakani Katija": 1, "Bruce Robison": 1, "Katija": 5, "Knute Brekke": 1, "Robison": 1}
+{"Galen McKinley": 1, "Yassir Eddebbar": 1, "Pinatubo": 2, "Nicole Lovenduski": 1, "COVID-19": 1}
+{"Rebekah White": 1}
+{"Dr Shabani": 5, "Invasive Weed Species": 4, "Farzin Shabani": 1, "Mohsen Ahmadi": 1, "Lalit Kumar": 1, "Samaneh Solhjouy-fard": 1, "Mahyat Shafapour": 1, "Fariborz Shabani": 1, "Atefeh Esmaeili": 1, "Shabani": 1}
+{"Greg O'Corry-Crowe": 1, "O'Corry-Crowe": 2, "Elizabeth F. Hartel": 1, "Wendy Noke Durden": 1}
+{"Angela Stevenson": 1, "Stevenson": 4, "Howe Sound": 3, "Jeff Marliave": 1}
+{"Alexandre Siqueira": 1, "Peter Cowman": 1, "David Bellwood": 1, "Siqueira": 2, "Miocene": 1, "Prof Bellwood": 1}
+{"Dr Anna Ukkola": 1, "Dr Ukkola": 1}
+{"Wei-Jun Cai": 1, "Cai": 7, "Richard Feely": 1}
+{"Danielle Claar": 1, "Claar": 2}
+{"William McDowell": 1}
+{"Julian Dowdeswell": 1, "Ernest Shackleton": 1}
+{"Klara Winkler": 1, "Stefan Partelow": 1}
+{"Leigh Torres": 1, "Barlow": 3}
+{"Seung-Ki": 2, "Seungmok Paik of Division of Environmental Science and Engineering": 1}
+{"Dana Chadwick": 1, "Borneo": 2, "Greg Asner": 1, "Asner": 1}
+{"Clark Rushing": 1, "Andy Royle": 1}
+{"George Haller": 1, "Mattia Serra": 1, "Haller": 3, "Martha": 1}
+{"Evgeny Podolskiy": 1}
+{"Andreas Sichert": 3, "Christopher H. Corzett": 1, "Jan-Hendrik Hehemann": 1, "Hehemann": 1, "Thomas Schweder": 1}
+{"Jorge Garc\u00eda Molinos": 1, "Garc\u00eda Molinos": 1}
+{"Spyros Theodoridis": 1, "David Nogues-Bravo": 1, "Damien Fordham": 1, "Carsten Rahbek": 1}
+{"Torbj\u00f6rn T\u00f6rnqvist": 1}
+{"Tribes": 2, "Jenn Burt": 1, "Barbara Wilson": 1, "Salomon": 1}
+{"Krishna Rao": 1, "Konings": 3, "Rao": 2, "shrublands": 1}
+{"Dr Martin Sullivan": 1, "Marimon": 2, "Simon Lewis": 1, "Oliver Phillips": 1}
+{"J\u00f6rg Wiedenmann": 1, "Cecilia D'Angelo": 1, "Lecturer of Molecular Coral Biology": 1, "Elena Bollati": 1}
+{"Franco Marcantonio": 1, "Jane": 1, "Ken R. Williams '": 1, "Marcantonio": 4, "Ryan Hostak": 1, "Jennifer E. Hertzberg": 1, "Matthew W. Schmidt": 1, "R. Ken Williams Radiogenic Isotope Facility": 1}
+{"Eduardo Gallo-Cajiao": 1, "Richard Fuller": 1, "Fuller": 1}
+{"Matt Davey": 1, "Andrew Gray": 1}
+{"Dr Emma Carroll": 1, "Jennifer Jackson": 1}
+{"Jonathan Overpeck": 1, "Justin Martin": 1}
+{"Matin Qaim": 1, "Qaim": 1, "Ingo Grass": 1}
+{"Wusheng Yu": 2, "Yu": 2, "Francesco Clora": 1}
+{"Devi Veytia": 1, "Ms Veytia": 1, "krill habitat": 2}
+{}
+{"Zhang et al": 4, "Shuichang Zhang": 1, "Don Canfield": 1}
+{"Jean Duprat": 1, "Ad\u00e9lie Land": 1}
+{"Ries": 2, "Gernot Arp": 1, "Istv\u00e1n Dunkl": 1}
+{"Ken Sims": 1, "Sean Scott": 1, "Sims": 1, "Gondwana": 1}
+{"Dinosaurs": 1, "Shawn McGlynn": 1}
+{"Beth Orcutt": 1, "Stephanie Carr": 1, "Jason": 1, "Ramunas Stepanauskas": 1, "ROV Jason": 1}
+{"Steeve Gr\u00e9aux": 1, "Irifune": 1, "Tetsuo Irifune": 1}
+{"Fahrenheit": 2, "Gavin Schmidt": 1, "Schmidt": 3}
+{"Hyunju Kim": 1, "Harrison Smith": 1, "Smith": 2, "Kim": 1, "Cole Mathis": 1, "Jason Raymond": 1}
+{"Canal": 1, "David Buchs": 1}
+{"David Pollard": 1, "Richard Alley": 1, "Evan Pugh": 1, "Pollard": 1}
+{"Lennart van Maldegem": 1, "Snowball": 1, "Christian Hallmann": 1, "Christian Griesinger": 1, "van Maldegem": 4, "Hallmann": 1}
+{"Christopher Fielding": 1, "Tracy Frank": 1, "Frank": 2}
+{"Moon": 1, "Rais Latypov": 1, "Latypov": 2}
+{"Larsen C": 3, "Adrian Luckman": 1, "Luckman": 1, "Larsen B": 2, "Larsen C.": 1}
+{"Wim Degruyter": 1, "Degruyter": 1}
+{"Joshua Davies": 1, "Urs Schaltegger": 1}
+{"Abundance": 1, "Borch": 1, "Rizlan Bernier-Latmani": 1}
+{"David Fike": 1, "Fike": 3, "David Jones": 1, "thick lava flows": 1, "Jones": 1}
+{"Julia Green": 1, "Gentine": 1, "Green": 1, "Paul Dirmeyer": 1}
+{"Kristen E. Fauria": 1, "Zihan Wei": 1, "Fauria": 1, "Michael Manga": 2, "Manga": 2, "Dula Parkinson": 1, "Rebecca Carey": 1}
+{"Rodney Weber": 1, "Athanasios Nenes": 1, "Nenes": 1}
+{"Jarek Trela": 1, "Gazel": 6, "Tortugal Suite": 2, "melt cools": 1, "lava": 1, "Fahrenheit": 1, "Trela": 1}
+{"Joshua Krissansen-Totton": 1, "David Catling": 1, "Catling": 1}
+{"S\u00e9bastien Castelltort": 1, "Eocene": 1, "Louis Honegger": 1}
+{"Marc Salzmann": 1, "Salzmann": 4}
+{"A.K. Shah": 1}

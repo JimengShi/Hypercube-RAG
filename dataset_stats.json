@@ -1,0 +1,43 @@
+{
+  "hurricane": {
+    "queries": 301,
+    "documents": 844
+  },
+  "geography": {
+    "queries": 302,
+    "documents": 436
+  },
+  "aging_dam": {
+    "queries": 186,
+    "documents": 186
+  },
+  "scifact": {
+    "queries": 188,
+    "documents": 5183
+  },
+  "legalbench_contractnli": {
+    "queries": 977,
+    "documents": 95
+  },
+  "legalbench_cuad": {
+    "queries": 4042,
+    "documents": 462
+  },
+  "legalbench_maud": {
+    "queries": 1676,
+    "documents": 150
+  },
+  "legalbench_privacy_qa": {
+    "queries": 194,
+    "documents": 7
+  },
+  "hydrology": {
+    "queries": 100,
+    "documents": 500
+  },
+  "total": {
+    "queries": 7966,
+    "documents": 7863,
+    "datasets": 9
+  }
+}

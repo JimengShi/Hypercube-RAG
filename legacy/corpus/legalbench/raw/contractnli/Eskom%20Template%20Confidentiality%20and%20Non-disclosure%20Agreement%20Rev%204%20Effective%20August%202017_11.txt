@@ -1,0 +1,118 @@
+CONFIDENTIALITY AND NON-DISCLOSURE AGREEMENT
+Between
+ESKOM HOLDINGS SOC LTD
+And
+[INSERT NAME OF COUNTERPARTY COMPANY]
+1. PARTIES
+The parties to this Agreement are:
+1.1. ESKOM HOLDINGS SOC LTD ("Eskom") a company incorporated under the laws of the Republic of South Africa, having its registered office at Megawatt Park, Maxwell Drive, Sunninghill Ext. 3, Sandton, Republic of South Africa, with Registration Number 2002/015527/30;
+1.2. _________________________ ("Counterparty")] a company incorporated under the laws of __________________________, having its registered office at________________________________________________________________ _______________________________________,__________________________, with registration number _________________________________;
+hereinafter referred to as "Party" or "Parties" as the context requires.
+2. INTRODUCTION
+2.1. Eskom intends providing the Counterparty with certain Confidential Information as described in 5 below relating to the ____________________("the Project") and as part of the Project there may at times be a mutual sharing of Confidential Information.
+2.2. The Parties wish to record the terms and conditions on which they are prepared to disclose such Confidential Information to each other.
+3. RELATIONSHIP BETWEEN THE PARTIES
+3.1. Neither this Agreement nor the exchange of information contemplated hereby shall commit either Party to continue discussions or to negotiate, or to be legally bound to any potential business relationship. The Parties shall only be bound to a business relationship by way of further definitive written agreements signed by the Parties.
+3.2. Nothing contained in this Agreement shall be construed as –
+3.2.1. prohibiting either Party from entering into a business relationship with any Third Party;
+3.2.2. creating a joint venture, partnership or employment relationship between the Parties and neither Party shall have the right, power or implied authority to create any obligation or duty (express, implied or otherwise) on behalf of the other Party. For the avoidance of doubt, nothing in this Agreement shall oblige either of the Parties to enter into any agreements or transactions whatsoever.
+4. INTERPRETATION
+4.1. The Party disclosing Confidential Information shall be known as "the Disclosing Party" and the Party receiving Confidential Information shall be known as "the Receiving Party".
+4.2. The headings of the clauses of this Agreement are used for convenience only and shall not affect the meaning or construction of the contents of this Agreement.
+5. THE CONFIDENTIAL INFORMATION
+"Confidential Information" shall include, without limitation, any –
+5.1. technical, commercial or financial information;
+5.2. know-how and trade secrets;
+5.3. processes, machinery, designs, drawings, technical specifications and data relating to the Project;
+5.4. any of the above information of third parties, including but not limited to supplier and customer information relating to the Project,
+in whatever form and which relates to the Disclosing Party's business practices or promotion of the Disclosing Party's business plans, policies or practices, and which information is either communicated to or otherwise acquired by the Receiving Party from the Disclosing Party during the course of the Parties' discussions with one another, whether or not such information is formally designated as confidential.
+6. DISCLOSURE OF CONFIDENTIAL INFORMATION
+6.1. The Disclosing Party shall be obliged only to disclose Confidential Information to the Receiving Party to the extent deemed necessary by the Disclosing Party in its discretion for the purposes of the Project.
+6.2. The Parties acknowledge that Confidential Information disclosed pursuant to this Agreement is a valuable and unique asset proprietary to the Disclosing Party.
+6.3. Subject to 6.5, the Receiving Party agrees that it will not, during the existence of this Agreement disclose the Confidential Information to any Third Party for any reason or purpose whatsoever, without the prior written consent of the Disclosing Party and only to the extent of such consent, save in accordance with the provisions of this Agreement. In this Agreement "Third Party" means any party who is not a signatory to this agreement.
+6.4. For the avoidance of doubt, notwithstanding anything to the contrary contained in this Agreement, the Parties agree that Eskom shall not be precluded in any manner whatsoever from further using, exploiting or disclosing any outcomes, reports, analysis or data compiled and/or developed by the Counterparty pursuant to the Project.
+6.5. Notwithstanding anything to the contrary contained in this Agreement, the Parties agree that the Confidential Information may be disclosed by the Receiving Party to its respective employees, agents, officers, directors, subsidiaries, associated companies, shareholders and advisers (including but not limited to professional financial advisers, legal advisers and auditors) ("Representatives") on a need-to-know basis and for the purposes of the Project, provided that the Receiving Party, prior to making any disclosure of Confidential Information as permitted under this 6.5, procures that the proposed recipient of such Confidential Information is made aware of the terms of this Agreement and the Receiving Party will procure that each such proposed recipient adheres to those terms as if they were a party to this Agreement to prevent the unauthorized disclosure of the Confidential Information to Third Parties. The Receiving Party will procure that such proposed recipient will sign a written confidentiality undertaking prior to such disclosure on terms no less onerous than this Agreement and to the extent that such rights inure to the benefit of the Disclosing Party. For the purposes of this clause, the Receiving Party's Representatives shall be deemed to be acting, in the event of a breach, as the Receiving Party's duly authorized agents.
+6.6. Except as otherwise contemplated in this Agreement, the Parties agree in favour of one another not to utilize, exploit or in any other manner whatsoever use the Confidential Information disclosed pursuant to the provisions of this Agreement for any purpose whatsoever other than the Project without the prior written consent of the Disclosing Party.
+6.7. The Counterparty must inform Eskom in writing of any existing or potential conflict of interest with the interests of Eskom pursuant to this Project. Where any potential or actual conflict of interests exists, the prospective firm shall immediately notify Eskom thereof in writing. Eskom at its sole discretion may elect whether the Counterparty can continue with the Project fully or partially and to the extent the Counterparty cannot continue with the Project it will renounce any benefits it may have obtained had it completed the Project and will be paid only for work completed. The omission of such information or the making of any false statements or representations shall entitle Eskom to terminate all contracts with the Counterparty regarding the Project and to invoke all remedies available to it in law.
+6.8. Accordingly, the Receiving Party hereby indemnifies the Disclosing Party, and shall defend and hold the Disclosing Party harmless from and against any and all suits, liabilities, causes of action, claims, losses, damages, costs (including, but not limited to, cost of cover, reasonable attorneys' fees and expenses), or expenses of any kind (collectively, "Losses") incurred or suffered by the Disclosing Party arising from or in connection with the Receiving Party's or its Representative's use or disclosure of the Disclosing Party's Confidential Information in violation of this Agreement.
+7. TITLE
+All Confidential Information disclosed by the Disclosing Party to the Receiving Party is acknowledged by the Receiving Party to be proprietary to and the exclusive property of the Disclosing Party. This Agreement shall not confer any rights of ownership or license on the Receiving Party of whatever nature in the Confidential Information.
+8. RESTRICTION ON DISCLOSURE AND USE OF CONFIDENTIAL INFORMATION
+The Receiving Party undertakes not to use the Confidential Information for any purpose other than:
+8.1. the Project; and
+8.2. in accordance with the provisions of this Agreement.
+9. STANDARD OF CARE
+The Receiving Party agrees that it shall protect the Confidential Information disclosed pursuant to the provisions of this Agreement using the same standard of care that it applies to safeguard its own proprietary, secret or Confidential Information but no less than a reasonable standard of care, and that the Confidential Information shall be stored and handled in such a way as to prevent any unauthorized disclosure thereof.
+10. RETURN OF MATERIAL CONTAINING OR PERTAINING TO THE CONFIDENTIAL INFORMATION
+10.1. The Disclosing Party may, at any time, and in its sole discretion request the Receiving Party to return any material and/or data in whatever form containing, pertaining to or relating to Confidential Information disclosed pursuant to the terms of this Agreement and may, in addition request the Receiving Party to furnish a written statement to the effect that, upon such return, the Receiving Party has not retained in its possession, or under its control, either directly or indirectly, any such material and/or data.
+10.2. To the extent that it is not practically able to comply with 10.1, the Receiving Party shall destroy or ensure the destruction of all material and/or data in whatever form relating to the Confidential Information disclosed pursuant to the terms of this Agreement and delete, remove or erase or use best efforts to ensure the deletion, erasure or removal from any computer or database or document retrieval system under its or the Representatives' possession or control, all Confidential Information and all documents or files containing or reflecting any Confidential Information, in a manner that makes the deleted, removed or erased data permanently irrecoverable. The Receiving Party shall furnish the Disclosing Party with a written statement signed by one of its directors or duly authorized senior officers to the effect that all such material has been destroyed. That portion of the Confidential Information that may be found in analyses, compilations, studies, or
+other documents prepared by the Receiving Party, its agents, employees, oral Confidential Information and any written Confidential Information not so requested and returned will be held by the Receiving Party and kept subject to the terms of this Agreement or destroyed.
+10.3. The Receiving Party shall comply with any request by the Disclosing Party in terms of this clause, within 7 (seven) business days of receipt of any such request.
+11. EXCLUDED CONFIDENTIAL INFORMATION
+The obligations of the Receiving Party pursuant to the provisions of this Agreement shall not apply to any Confidential Information that:
+11.1. is known to, or in the possession of the Receiving Party prior to disclosure thereof by the Disclosing Party;
+11.2. is or becomes publicly known, otherwise than as a result of a breach of this Agreement by the Receiving Party;
+11.3. is developed independently of the Disclosing Party by the Receiving Party in circumstances that do not amount to a breach of the provisions of this Agreement;
+11.4. is disclosed by the Receiving Party to satisfy an order of a court of competent jurisdiction or to comply with the provisions of any law or regulation in force from time to time; provided that in these circumstances, the Receiving Party shall advise the Disclosing Party to take whatever steps it deems necessary to protect its interests in this regard and provided further that the Receiving Party will disclose only that portion of the Confidential Information which it is legally required to disclose and the Receiving Party will use its reasonable endeavours to protect the confidentiality of such Confidential Information to the greatest extent possible in the circumstances;
+11.5. is disclosed to a Third Party pursuant to the prior written authorization and limited to the extent of such approval of the Disclosing Party;
+11.6. is received from a Third Party in circumstances that do not result in a breach of the provisions of this Agreement.
+12. TERM
+12.1. This Agreement shall be binding on the Parties with effect from the date of signature of the Party signing last hereto.
+12.2. This Agreement shall commence upon the date referred to in clause 12.1 and shall endure for the duration of the Project. Termination shall not, however, affect the rights and obligations contained herein with respect to Confidential Information furnished by one Party to another Party prior to termination.
+13. ADDITIONAL ACTION
+Each Party to this Agreement shall execute and deliver such other documents and do such other acts and things as may be reasonably necessary or desirable to give effect to the provisions of this Agreement.
+14. BREACH
+In the event that the Receiving Party should breach any of the provisions of this Agreement and fail to remedy such breach within 7 (seven) business days from date of a written notice to do so, then the Disclosing Party shall be entitled to invoke all remedies available to it in law including, but not limited to, the institution of urgent proceedings as well as any other way of relief appropriate under the circumstances, in any court of competent jurisdiction, in the event of breach or threatened breach of the Agreement and/or an action for damages.
+15. AMENDMENTS
+No amendment, interpretation or waiver of any of the provisions of this Agreement shall be effective unless reduced in writing and signed by both Parties.
+16. ENFORCEMENT
+The failure or delay by the Disclosing Party to enforce or to require the performance at any time of any of the provisions of this Agreement shall not be construed to be a waiver of such provision, and shall not affect either the validity of this Agreement or any part hereof or the right of the Disclosing Party to enforce the provisions of this Agreement.
+17. REPRESENTATIONS & WARRANTIES
+17.1. Each Party represents that it has authority to enter into this Agreement and to do all things necessary to procure the fulfillment of its obligations in terms of this Agreement.
+17.2. The Disclosing Party warrants that disclosure of the Confidential Information to the Receiving Party:
+17.2.1. will not result in a breach of any other agreement to which it is a party; and
+17.2.2. will not, to the best of its knowledge and belief, infringe the rights of any Third Party, and the Disclosing Party hereby indemnifies and holds the Receiving Party harmless against any liability for Third Party claims on such a basis.
+18. ENTIRE AGREEMENT
+This Agreement contains the entire agreement between the Parties with respect to the subject matter of this Agreement and supersedes all prior agreements between the Parties, whether written or oral, with respect to the subject matter of this Agreement.
+19. GOVERNING LAW
+The Agreement will be governed by and construed in accordance with the laws of South Africa.
+20. DOMICILIA AND NOTICES
+20.1. The Parties hereby choose domicilium citandi et executandi ("domicilium") for all purposes under the Agreement as follows –
+Eskom –
+ Physical Address - Megawatt Park, Maxwell Drive, Sunninghill;
+ Postal Address - PO Box 1091, Johannesburg, 2000, South Africa
+ Telephone No - +27 11 _________________
+ Fax No - +27 11 _______________________
+ Contact Person - _________________ (_________)
+[Counterparty]
+ Physical Address ________________________________________
+__________________________________________________________
+ Postal Address -__________________________________________
+__________________________________________________________
+ Telephone No - __________________________________________
+ Fax No - _______________________________________________
+ Contact Person and Designation - ___________________________
+__________________________________________________________
+20.2. Any notice given by one party to the other is deemed to have been received by the addressee:
+20.2.1. on the date on which the same was delivered to the addressee's address if delivered by hand; or
+20.2.2. on the 7th (seventh) calendar day after the date of posting if sent by pre-paid registered post to the addressee's address; or
+20.2.3. on dispatch, if sent to the addressee's then telefax number.
+20.3. A party may change that party's addresses for this purpose, by notice in writing to the other party, such a change of address being effective 7 (seven) days after the deemed receipt by the addressee of such written notice. A similar notice will also be required in respect of new or changed telephone and telefax numbers.
+21. SEVERABILITY
+In the event of any one or more of the provisions of this Agreement being held for any reason to be invalid, illegal or unenforceable in any respect, such invalidity, illegality or unenforceability shall not affect any other provision of this Agreement, and this Agreement shall be construed as if such invalid, illegal or unenforceable provisions were not a part of this Agreement, and this Agreement shall be carried out as nearly as possible in accordance with its original terms and intent.
+22. ASSIGNMENT
+22.1. Subject to 22.2, neither Party may assign or otherwise transfer any of its rights or obligations under this Agreement to any Third Party without the prior written consent of the other Party.
+22.2. Notwithstanding the above, Eskom may on written notice to Counterparty, cede and delegate its rights and obligations under this Agreement for reason of, any restructuring, amalgamation, reorganization or other analogous event, the transfer of all or any material part of Eskom’s property, assets or undertaking to a third party or successor-in-title provided that, in each case, such dissolution, restructuring, amalgamation, reorganization, analogous event or transfer is at the instruction of or is sanctioned by the Government or the National Energy Regulator of South Africa.
+22.3. This Agreement shall be binding on and shall inure for the benefit of the successors and permitted assigns and personal representatives (as the case may be) of the Parties.
+23. PUBLICITY
+Neither Party will make or issue any formal or informal announcement or statement to the press or any Third Party in connection with this Agreement without the prior written consent of the other Party.
+SIGNED by the Parties and witnessed on the following dates and at the following places respectively:
+SIGNED at ______________________________ on ________________________________
+AS WITNESS:
+ For: ESKOM HOLDINGS SOC LTD
+Duly authorized
+[Name of witness in print] [Specify full name of signatory]
+SIGNED at ______________________________ on ________________________________ AS WITNESS:
+ For: [COUNTERPARTY]
+Duly authorized
+[Name of witness in print] [Specify full name of signatory]

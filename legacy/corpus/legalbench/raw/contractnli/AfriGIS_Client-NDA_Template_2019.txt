@@ -1,0 +1,165 @@
+CONFIDENTIALITY AND NON-DISCLOSURE AGREEMENT
+between
+AFRIGIS (PTY) LTD
+Registration Number: 1997/006716/07
+(“AfriGIS”)
+and
+CLIENT NAME
+Registration number: __________
+(“Client”)
+Collectively referred to as “the Parties”
+TABLE OF CONTENTS
+1 INTERPRETATION ............................................................................................ 3
+2 INTRODUCTION ................................................................................................ 5
+3 DISCLOSURE OF CONFIDENTIAL INFORMATION ......................................... 6
+4 TITLE ................................................................................................................. 7
+5 RESTRICTIONS ON DISCLOSURE AND USE OF THE CONFIDENTIAL
+INFORMATION ................................................................................................ 7
+6 STANDARD OF CARE ...................................................................................... 7
+7 RETURN OF MATERIAL CONTAINING OR PERTAINING TO THE
+CONFIDENTIAL INFORMATION ..................................................................... 7
+8 EXCLUDED CONFIDENTIAL INFORMATION .................................................. 8
+9 TERM ................................................................................................................. 9
+10 CO-OPERATION ............................................................................................... 9
+11 WARRANTIES BY PARTIES ............................................................................. 9
+12 BREACH ............................................................................................................ 9
+13 DISPUTES ......................................................................................................... 9
+14 STIPULATIO ALTERI ...................................................................................... 10
+15 NON-SOLICITATION ....................................................................................... 10
+16 NOTICES AND DOMICILIUM .......................................................................... 11
+17 APPLICABLE LAW AND JURISDICTION ....................................................... 12
+18 SEVERABILITY ............................................................................................... 12
+19 COUNTERPARTS AND ELECTRONIC SIGNATURE ..................................... 12
+20 COSTS............................................................................................................. 13
+21 GENERAL ....................................................................................................... 13
+1 INTERPRETATION
+1.1 The head notes to the clauses of this Agreement are for reference purposes only and shall in no way govern or affect the interpretation of nor modify nor amplify the terms of this Agreement nor any clause hereof.
+1.2 Unless inconsistent with the context, the following words and expressions shall have the following meanings and cognate expressions shall bear corresponding meanings –
+1.2.1 “Agreement” means this agreement and all amendments thereof;
+1.2.2 “Confidential Information” means any confidential information, documentation or data of whatever nature relating to a Party or its subsidiaries which may have been or which may be obtained by or disclosed to the other Party during the course of its relationship with such Party, whether in writing, in electronic form or pursuant to discussions, including without limitation: trade secrets, know-how, marketing and advertising strategies, strategic objectives, planning or ideas, research, business activities, business relationships, products or proposed products, proposals, pricing details, strategies, customer and client details, schematics, software, computer programmes and technology, operating procedures and methodologies, designs, drawings, functional and technical requirements and specifications and any other technical, business, financial or market information or any other information which may reasonably be regarded as being confidential and of a proprietary nature to such Party or any of its subsidiaries or holding companies and;
+1.2.3 “Disclosing Party” means the Party disclosing Confidential Information;
+1.2.4 “AfriGIS” means AfriGIS (Pty) Ltd (Registration Number: 1997/006716/07), a company incorporated in terms of the laws of South Africa.
+1.2.5 “Parties” means the signatories to this Agreement and “Party” shall, as the context requires, be a reference to any one of them;
+1.2.6 “Receiving Party” means the Party receiving Confidential Information;
+1.2.7 “Signature Date” means the date of signature of this Agreement by the Party signing last in time; and
+1.2.8 “Client” means Client Name, a company incorporated in terms of the laws of South Africa which provides ………………..
+1.2.9 Unless inconsistent with the context, an expression which denotes –
+1.2.10 any one gender includes the other gender;
+1.2.11 a natural person includes a juristic person, partnership, trust or any association of persons and vice versa;
+1.2.12 the singular includes the plural and vice versa.
+1.3 If any provision appearing in a definition or elsewhere in this Agreement is a substantive provision conferring rights or imposing obligations on either Party, effect shall be given to it as if it were a substantive provision of this Agreement notwithstanding that it does not appear in the body of the Agreement.
+1.4 Defined terms appearing in this Agreement in title case shall be given their meaning as defined, while the same terms appearing in lower case shall be interpreted in accordance with their plain English meaning, and shall, unless the context otherwise requires, include the terms as defined. Terms, acronyms and phrases not defined in this Agreement and known in an industry will be interpreted in accordance with their generally accepted meanings in such industry.
+1.5 Reference to “month(s)” shall be construed as calendar month(s) (i.e. one or more of the twelve periods into which a conventional year is divided) and reference to “year” shall be to 12 consecutive calendar months (e.g. 1 April to 31 March). Reference to "days" shall be construed as calendar days unless qualified by the word "business", in which instance a "business day" shall be any day other than a Saturday, Sunday or public holiday as gazetted by the government of the Republic of South Africa from time to time. Any reference to "business hours" shall be construed as being the hours between 08:00 and 16:30 on any business day. Any reference to time shall be based upon South African standard time.
+1.6 Unless specifically otherwise provided, any number of days prescribed shall be determined by excluding the first and including the last day or, where the last day falls on a day that is not a business day, the next succeeding business day.
+1.7 Where figures are referred to in numerals and in words, and there is any conflict between the two, the words shall prevail, unless the context indicates a contrary intention.
+1.8 Any reference in this Agreement to an enactment is to that enactment at the Signature Date as amended or re-enacted from time to time.
+1.9 The rule of construction that, in the event of ambiguity, the contract shall be interpreted against the Party responsible for the drafting thereof, shall not apply in the interpretation of this Agreement.
+1.10 The expiration or termination of this Agreement shall not affect such of the provisions of this Agreement which expressly provide that they will operate after any such expiration or termination or which of necessity must continue to have effect after such expiration or termination, notwithstanding that the clauses themselves do not expressly provide for this.
+1.11 Any communication required to be in writing in terms of this Agreement may be sent by data message, as defined in the Electronic Communications and Transactions Act, No. 25 of 2002, as amended.
+2 INTRODUCTION
+2.1 Client is a company which provides ……………….
+2.2 AfriGIS is a company which offers geographical data, customised mobile and web applications and location-based business consulting.
+2.3 The Parties are currently engaged in proprietary discussions pertaining to …………………………... This entails the disclosure of Confidential Information.
+2.4 The Parties wish to record the terms and conditions upon which each shall disclose Confidential Information to the other, which terms and conditions shall constitute a binding and enforceable Agreement between the Parties and their agents.
+2.5 This Agreement shall also bind the Parties, notwithstanding the Signature Date, in the event that either Party shall have disclosed any Confidential Information to the other Party prior to the Signature Date.
+3 DISCLOSURE OF CONFIDENTIAL INFORMATION
+3.1 The Disclosing Party shall only disclose the Confidential Information to the Receiving Party to the extent deemed necessary or desirable by the Disclosing Party in its sole discretion.
+3.2 The Receiving Party acknowledges that the Confidential Information is a valuable, special and unique asset proprietary to the Disclosing Party.
+3.3 The Receiving Party agrees that it will, during or after the course of their relationship and/or the term of this Agreement as described in clause 9, keep the Confidential Information in the strictest confidence and will not disclose it to any third party for any reason or purpose whatsoever without the prior written consent of the Disclosing Party, save in accordance with the provisions of this Agreement, and the Parties undertake to each other that their holding and subsidiary companies or agents shall be bound by the provisions of this Agreement. For avoidance of doubt, in this Agreement “third party” means any party other than Client and AfriGIS and their holding and subsidiary companies or agents.
+3.4 Notwithstanding anything to the contrary contained in this Agreement the Parties agree that the Confidential Information may be disclosed by the Receiving Party to its professional advisors on a need-to-know basis; provided that that Party takes whatever steps are necessary to procure that such professional advisors agree to abide by the terms of this Agreement to prevent the unauthorised disclosure of the Confidential Information to third parties. For purposes of this clause, the Receiving Party’s professional advisers and employees, directors or managers shall be deemed to be acting, in the event of a breach, as that Party’s duly authorised agents.
+3.5 The Receiving Party agrees –
+3.5.1 not to utilise, exploit or in any other manner whatsoever use the Confidential Information for any purpose whatsoever whether for its own benefit or for that of others without the prior written consent of the Disclosing Party;
+3.5.2 that the unauthorised disclosure of the Confidential Information to a third party may cause irreparable loss, harm and damage to the Disclosing Party. Accordingly, the Receiving Party indemnifies and holds the Disclosing Party harmless against any loss, claim, harm or damage, of whatever nature, suffered or sustained by the Disclosing Party pursuant to a breach by the Receiving Party of the provisions of this Agreement.
+4 TITLE
+All Confidential Information disclosed by the Disclosing Party to the Receiving Party is acknowledged by the Receiving Party –
+4.1 to be proprietary to the Disclosing Party; and
+4.2 not to confer any rights to the Receiving Party of whatever nature in the Confidential Information.
+5 RESTRICTIONS ON DISCLOSURE AND USE OF THE CONFIDENTIAL INFORMATION
+The Receiving Party undertakes not to use the Confidential Information for any purpose other than –
+5.1 that for which it is disclosed;
+5.2 in accordance with the provisions of this Agreement; and
+5.3 in accordance with applicable data privacy legislation, as amended from time to time.
+6 STANDARD OF CARE
+The Receiving Party agrees that it shall protect the Confidential Information disclosed to or obtained by it by using the same standard of care that the Receiving Party applies to safeguard its own proprietary, secret or Confidential Information and that the information shall be stored and handled in such a way as to prevent any unauthorised disclosure thereof.
+7 RETURN OF MATERIAL CONTAINING OR PERTAINING TO THE CONFIDENTIAL INFORMATION
+7.1 The Disclosing Party may, at any time, request the Receiving Party to return any material containing, pertaining to or relating to the Confidential Information and may, in addition request the Receiving Party to furnish a written statement to the effect that, upon such return, the Receiving Party has not retained in its possession, or under its control, either directly or indirectly, any such material.
+7.2 As an alternative to the return of the material contemplated in clause 7.1, the Receiving Party shall, at the instance of the Disclosing Party, destroy such material and furnish the Disclosing Party with a written statement from authorised officers to the effect that all such material has been destroyed.
+7.3 The Receiving Party shall comply with a request in terms of this clause, within 14 (fourteen) calendar days of receipt of such a request.
+8 EXCLUDED CONFIDENTIAL INFORMATION
+The obligations of the Receiving Party pursuant to the provisions of this Agreement shall not apply to any Confidential Information that –
+8.1 is or was known to, or in the possession of the Receiving Party prior to disclosure thereof by the Disclosing Party;
+8.2 is or becomes publicly known, otherwise than as a result of a breach of this Agreement by the Receiving Party;
+8.3 is developed independently of the Disclosing Party by the Receiving Party in circumstances that do not amount to a breach of the provisions of this Agreement;
+8.4 is disclosed by the Receiving Party to satisfy an order of a court of competent jurisdiction or to comply with the provisions of any law or regulation in force from time to time; provided that in these circumstances, the Receiving Party shall advise the Disclosing Party to take whatever steps it deems necessary to protect its interests in this regard and provided further that the Receiving Party will disclose only that portion of the information which it is legally required to disclose and the Receiving Party will use its reasonable endeavours to protect the confidentiality of such information to the greatest extent possible in the circumstances;
+8.5 is disclosed to a third party pursuant to the prior written authorisation of the Disclosing Party; and
+8.6 is received from a third party in circumstances that do not result in a breach of the provisions of this Agreement.
+9 TERM
+This Agreement and the undertakings contained herein shall commence upon the Signature Date and shall continue for a period of 2 (two) years thereafter.
+10 CO-OPERATION
+The Parties undertake at all times to co-operate with each other in good faith in order to carry out this Agreement and to implement all transactions and steps contemplated herein.
+11 WARRANTIES BY PARTIES
+Each Party warrants that –
+11.1 it has the legal capacity and has taken all necessary corporate action required to empower and authorise it to enter into and implement this Agreement on the terms and conditions herein set out;
+11.2 this Agreement constitutes an agreement valid and binding on it and enforceable against it in accordance with its terms.
+12 BREACH
+In the event that a Party should breach the provisions of this Agreement, then the other Party shall be entitled to invoke all remedies available to it in law including without limitation the institution of urgent interim proceedings, an action for damages and/or specific performance and/or any other equitable relief for any threatened or actual breach of the provisions of this Agreement.
+13 DISPUTES
+13.1 In the event of any dispute or difference arising between the Parties relating to or arising out of this Agreement, including the implementation, execution, interpretation, rectification, termination or cancellation of this Agreement, the chief executive officers of the Parties or any of their designated officials shall upon request by any Party meet to attempt to settle such dispute or difference, and failing settlement within a period of 7 (seven) business days from such a request, the said dispute or difference shall on demand by any Party be submitted to arbitration in Johannesburg in accordance with the Rules of the Arbitration Foundation of Southern Africa by an arbitrator or arbitrators appointed by the Foundation.
+13.2 The Parties irrevocably agree that the decision in any arbitration proceedings –
+13.2.1 will be binding on all of them;
+13.2.2 will forthwith be carried into effect;
+13.2.3 may be made an order of any court of competent jurisdiction.
+13.3 Nothing herein contained shall be deemed to prevent or prohibit either Party from applying to the appropriate court for urgent relief.
+13.4 The provisions of this clause will continue to be binding on the Parties notwithstanding any termination or cancellation of the Agreement.
+14 STIPULATIO ALTERI
+To the extent that any provisions of this Agreement purport to be for the benefit of a Client Brand, the Parties confirm that such provisions are intended to be a stipulatio alteri (i.e. a contract for the benefit of a third party) capable of acceptance at any time by such Client Brand. Such acceptance may only take place by way of a written notice to that effect given to AfriGIS by Client on behalf of the Client Brand in question.
+15 NON-SOLICITATION
+Unless agreed to the contrary between the parties each Party hereby undertakes in favour of the other that it will not at any time during the currency of this Agreement and for a period of 12 months after the expiry or termination of this Agreement (for any reason whatsoever), whether directly or indirectly:
+15.1 encourage or entice or incite or persuade any employee of the other (or any employee of any member of each other's group of companies or any entity in which either is interested) to terminate their employment by the other of them (or any member of its group of companies or any entity in which either is interested); and/or
+15.2. furnish any information or advice (whether written or oral) to any employee then employed by the other of them (or any member of each other's group of companies or any entity in which either is interested) to any prospective employer of such employee or use any other means which are directly or indirectly designed, or in the ordinary course of events calculated, to result in any such employee terminating his employment by the other of them (or any member of each other's group of companies or any entity in which either is interested) and/or becoming employed by or directly or indirectly in any way interested in or associated with any other person or entity.
+16 NOTICES AND DOMICILIUM
+16.1 The Parties hereto choose domicilium citandi et executandi for all purposes of and in connection with this Agreement as follows –
+16.1.1 AfriGIS:
+ - JV Communicatio For the attention of: The Managing Director
+ Physical address: Rigel Park Block A
+ 446 Rigel Avenue South
+Erasmusrand
+Email: legal@afrigis.co.za
+16.1.2 Client:
+ For the attention of: The Managing Director Physical address: ………………………….. ………………………….. …………………………
+ Fax/Email: ………………………….
+16.2 Any Party hereto shall be entitled to change its domicilium from time to time, and any such change shall only be effective upon receipt of notice in writing by the other Party of such change.
+16.3 All notices, demands, legal proceedings, communications or payments intended for any Party shall be made or given at such Party’s domicilium for the time being.
+16.4 All notices to be given in terms of this Agreement shall be in writing and shall –
+16.4.1 if delivered by hand during business hours, be rebuttably presumed to have been received on the date of delivery, and if delivered after business hours or on a day which is not a business day, be rebuttably presumed to have been received on the following business day;
+16.4.2 if sent by e-mail during business hours, be rebuttably presumed to have been received on the date of successful transmission of the email, and if sent after business hours or on a day which is not a business day, be rebuttably presumed to have been received on the following business day;
+16.4.3 if sent by air mail, be rebuttably presumed to have been received on the tenth day after posting.
+16.5 Notwithstanding anything to the contrary herein contained a written notice or communication actually received by a Party shall be an adequate written notice or communication to it notwithstanding that it was not sent to or delivered at its chosen domicilium.
+17 APPLICABLE LAW AND JURISDICTION
+17.1 This Agreement will in all respects be governed by and construed under the laws of the Republic of South Africa.
+17.2 Subject to the provisions of this Agreement, the Parties hereto hereby consent and submit to the non-exclusive jurisdiction of the North Gauteng Provincial Division of the High Court of the Republic of South Africa in any dispute arising from or in connection with this Agreement. The Parties agree that any costs awarded will be recoverable in accordance with the High Court tariff, determined on an attorney-and-own-client scale.
+18 SEVERABILITY
+If any clause or term of this Agreement or part thereof should be invalid, unenforceable, defective or illegal for any reason whatsoever, then the remaining terms and provisions of this Agreement shall be deemed to be severable therefrom and shall continue in full force and effect unless such invalidity, unenforceability, defect or illegality goes to the root of this Agreement.
+19 COUNTERPARTS AND ELECTRONIC SIGNATURE
+19.1 This Agreement may be signed in one or more counterparts, each of which shall constitute an original and all of which shall collectively constitute one and the same agreement.
+19.2 This Agreement shall be validly signed notwithstanding that the signature page is signed by the Parties in different locations and returned by email. In these circumstances the Parties shall endeavour to circulate the original Agreement for signature, but the failure to do so shall not invalidate this Agreement or change the date of its signature or coming into force.
+20 COSTS
+Each Party shall bear its own costs of and in connection with the negotiation, drafting and preparation of this Agreement.
+21 GENERAL
+21.1 This document cancels and supersedes all prior negotiations and agreement between the Parties with regard to the subject matter hereof and constitutes the sole record of the agreement between the Parties in regard to the subject matter thereof.
+21.2 No Party shall be bound by any express or implied term, representation, warranty, promise or the like, not recorded herein.
+21.3 Unless otherwise stipulated in this Agreement, no addition to, variation or consensual cancellation of this Agreement shall be of any force or effect unless in writing and signed by or on behalf of all the Parties.
+21.4 No indulgence which a Party (“the grantor”) may grant to the other Party (“the grantee”) shall constitute a waiver of any of the rights of the grantor, who shall not thereby be precluded from exercising any rights against the grantee which might have arisen in the past or which might arise in the future.
+21.5 The Parties undertake at all times to do all such things, to perform all such acts and to take all such steps and to procure the doing of all such things, the performance of all such actions and the taking of all such steps as may be open to them and necessary for or incidental to the putting into effect or maintenance of the terms, conditions and import of this Agreement.
+SIGNED AT THIS DAY OF 20__
+WITNESSES: for:
+AfriGIS
+1. ___________________________
+2. ___________________________ ______________________________
+who warrants that he/she is duly authorised thereto
+SIGNED AT THIS DAY OF 20__
+WITNESSES: for:
+CLIENT
+1. ___________________________
+2. ___________________________ ______________________________
+who warrants that he/she is duly

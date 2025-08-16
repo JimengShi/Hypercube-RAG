@@ -1,0 +1,116 @@
+Non-Disclosure Agreement
+THIS CONFIDENTIALITY DEED is made on 2018
+PARTIES
+(1) Jasmine Technologies Ltd, a company incorporated in England and Wales under number 88338303 whose registered office is 11 Claylands Place London SW8 1NL (Discloser);
+(2) , a company incorporated in under number whose address is (the Recipient),
+BACKGROUND
+A The parties intend to execute this agreement as a deed.
+B The Disclosers wish to disclose Confidential Information to the Recipient in relation to the Purpose and to:
+(i) Franchise agreement
+THE PARTIES AGREE:
+1 Definitions and interpretation
+1.1 In this Agreement:
+Agreement means this agreement
+Authorised Person means, in relation to the Recipient, any of the following only to the extent that they are engaged in respect of the Purpose: its officers, directors, employees, and any other person who has been previously approved in writing by the Disclosers;
+Business Day means a day other than a Saturday, Sunday or bank or public holiday in England or Wales;
+Confidential Information means any information in whatever form (whether in writing, electronic or digital form, verbally or by inspection of documents, computer systems or sites or pursuant to discussions or by any other means ) which is confidential in nature, designated orally or in writing by the Disclosers as confidential or which may reasonably be considered by a business person to be commercially sensitive provided by the Disclosers (directly or indirectly) by any means to the Recipient (or to any Authorised Person) including without limitation via its legal representatives before or after the date of this Agreement in connection with or in anticipation of the Purpose including:
+(a) data, ideas and information (whether technical, commercial, financial or of any other type) in any form acquired under, pursuant to or in connection with this Agreement and any information utilised in or relating to the Disclosers (or its Group Members’) business (including information relating to products (bought, manufactured, produced, distributed or sold), services (bought or supplied), operations, processes, formulae, methods, plans, strategy, product information, know-how, design rights, trade secrets, market opportunities, customer lists, commercial relationships, marketing, sales materials and general business affairs);
+(b) information relating to the customers, suppliers, methods, products, plans, finances, trade secrets or otherwise to the business or affairs of the Disclosers (or its Group Members);
+(c) information acquired by observation by the Recipient or any Authorised Person at the offices of or other premises of the Disclosers relating to the Purpose or to the affairs of the Disclosers;
+(d) analyses, ideas, compilations, studies and other material created by the Recipient or any Authorised Person which contain or otherwise reflect or are generated or derived from the information referred to above; and
+(e) the contemplation and implementation of the Purpose, and the existence and content of this Agreement;
+Group Member means in relation to a party, any undertaking (as defined in section 1161 of the Companies Act 2006) of that party, in each case from time to time;
+Intellectual Property Rights means intellectual and industrial property rights, including copyright (including moral rights), patents, know-how, trade secrets, trademarks, service marks, trade names, design rights, registered designs, get-up, database rights, chip topography rights, mask works, utility models, domain names, rights in trade and business names and all similar rights and, in each case:
+(a) whether registered or not;
+(b) including any applications to protect or register such rights;
+(c) including all renewals and extensions of such rights or applications;
+(d) whether vested, contingent or future;
+(e) including rights in the nature of unfair competition rights and rights to sue in passing off; and
+(f) wherever existing;
+Purpose Franchise agreement
+Use means receive, store, transmit, access, read, analyse, disclose, share, print, copy, reproduce, extract, modify, adapt, incorporate, exploit or use Confidential Information in whole or in part in any manner whatsoever.
+1.2 In this Agreement:
+1.2.1 a reference to this Agreement includes its schedules, appendices and annexes (if any); 1.2.2 any table of contents, background section and any clause, schedule or other headings in this Agreement are included for convenience only and shall have no effect on the interpretation of this Agreement;
+1.2.3 a reference to a ‘party’ includes that party’s personal representatives, successors and permitted assigns;
+1.2.4 a reference to a ‘person’ includes a natural person, corporate or unincorporated body (in each case whether or not having separate legal personality) and that person’s personal representatives, successors and permitted assigns
+1.2.5 a reference to a ’company’ includes any company, corporation or other body corporate, wherever and however incorporated or established;
+1.2.6 a reference to a gender includes each other gender;
+1.2.7 words in the singular include the plural and vice versa;
+1.2.8 any words that follow 'include', 'includes', 'including', ‘in particular’ or any similar words and expressions shall be construed as illustrative only and shall not limit the sense of any word, phrase, term, definition or description preceding those words;
+1.2.9 a reference to ‘writing’ or ‘written’ includes any method of reproducing words in a legible and non-transitory form including email;
+1.2.10 a reference to legislation is a reference to that legislation as in force at the date of this Agreement and amended, extended, re-enacted or consolidated from time to time;
+1.2.11 a reference to legislation includes all subordinate legislation made as at the date of this Agreement and from time to time under that legislation; and
+1.2.12 a reference to any English action, remedy, method of judicial proceeding, court, official, legal document, legal status, legal doctrine, legal concept or thing shall, in respect of any jurisdiction other than England, be deemed to include a reference to that which most nearly approximates to the English equivalent in that jurisdiction.
+2 Provision and Use of Confidential Information
+2.1 The Disclosers may (but are not obliged to) disclose during the term of this Agreement, and/or may have already disclosed, Confidential Information to the Recipient for the Purpose and, in consideration of the Disclosers disclosing any Confidential Information to the Recipient and the payment to the Recipient of £1 (one pound) the receipt of which is acknowledged by the Recipient), the Recipient undertakes to the Disclosers that it shall, and shall procure that its Authorised Persons shall:
+2.1.1 keep all the Confidential Information secret and confidential, and not disclose any of the Confidential Information to any person other than in accordance with clause 3;
+2.1.2 not Use any Confidential Information in any way except to the extent reasonably necessary for the Purpose, and not Use or benefit from any Confidential Information to procure any commercial advantage over the Disclosers; and
+2.1.3 create and maintain the best industry standards of security (including any reasonable arrangements specified by the Disclosers from time to time and the most secure arrangements that the Recipient maintains for its own trade secrets) in order to ensure that the Confidential Information is secure from unauthorised access, and shall inform immediately the Disclosers if the Recipient becomes aware of any apparent unauthorised access.
+2.2 To the extent determined from time to time by the Disclosers, each of those of the Disclosers’ Group Members, if any, whose information is contained in the Confidential Information disclosed to the Recipient under this Agreement shall be entitled to enforce the rights expressed in favour of the Disclosers under this Agreement in respect only of that Confidential Information belonging to it as if such rights were expressed to be in its favour.
+2.3 None of the Disclosers, its Group Members, and its or their directors, officers, agents, employees, consultants, subcontractors, or advisers makes any representation or warranty concerning the accuracy, efficacy, completeness or capabilities of the Confidential Information disclosed by it (or of any materials or media by which it is supplied), except to the extent, if any, expressly agreed by the Disclosers in writing. No representation or warranty is made that the Confidential Information shall remain unchanged. There is no obligation on the part of the Disclosers to update or correct any inaccuracies in any Confidential Information. Any projected results or management accounts which may be contained in the Confidential Information are for indicative purposes only and are not warranted for accuracy or completeness. The Recipient must make its own independent assessment of the Confidential Information and the Purpose and rely on its own judgment in reaching any conclusion or decision.
+2.4 There is no representation, warranty or undertaking by the Disclosers to continue to disclose any Confidential Information or continue negotiations or enter into a further agreement in relation to the Purpose or the Confidential Information, which agreement can only be subject to a formal written agreement being agreed and signed by the parties.
+2.5 The Recipient’s confidentiality obligations under this Agreement shall survive and subsist indefinitely in relation to any Confidential Information (notwithstanding the prior termination or expiry of this Agreement).
+3 Authorised disclosures
+3.1 The Recipient may disclose any of the Confidential Information to any of its Authorised Persons, provided that it informs them beforehand of the duties of confidence under this Agreement, ensures that they undertake to the Recipient to comply with the same duties of confidence, keeps a written account of each of the disclosures, advises the Disclosers immediately it becomes aware of any breach by an Authorised Person, and gives upon any request by the Disclosers evidence of compliance with this clause.
+3.2 The Recipient further undertakes to procure that all Authorised Persons to whom it discloses the Confidential Information shall comply with the confidentiality obligations under this Agreement and, if required by the Disclosers, to procure that they enter into a confidentiality agreement directly with the Disclosers in reasonably similar terms as those set out under this Agreement.
+4 Excluded information
+4.1 The Recipient's obligations under this Agreement do not apply to, and the term Confidential Information does not include, any information to the extent to which the Recipient can prove to the Disclosers’ reasonable satisfaction has been agreed by the Disclosers in writing as being excluded from Confidential Information.
+4.2 The Recipient shall not be in breach of its obligations under this Agreement to the extent that any Confidential Information received by it may be required by law or regulation having force of law; or the rules of any court or other body of competent jurisdiction; or any governmental body to be disclosed, provided in each case the Recipient, to the extent permitted by the foregoing requirement, immediately notifies the Disclosers in writing of any request or requirement for disclosure and of all relevant surrounding circumstances prior to disclosure and takes into account any representations made by the Disclosers in relation to the disclosure. The Recipient shall use its best endeavours to resist any requirement for disclosure and to assist the Disclosers in resisting that requirement.
+5 Intellectual Property Rights
+The Recipient acknowledges that ownership of the Confidential Information including all Intellectual Property Rights in the Confidential Information remains vested in and shall vest in the Disclosers and its licensors, and that no licence or right is granted other than to the extent expressly set out in this Agreement.
+6 Indemnity
+The Recipient shall indemnify the Disclosers from and against all and any losses, damages (including any consequential, direct, indirect, special, incidental or punitive damages or loss or any other form of economic loss), liability, costs (including legal fees), expenses, claims (including any settlements of claims before or after issue of proceedings), actions, proceedings, judgment sums (including sums arising from consent orders or judgments) fines and penalties, however arising out of, or in connection with, the breach of this Agreement or the unauthorised disclosure or Use of any of the Confidential Information by the Recipient or by any of its Authorised Persons.
+7 Equitable Relief
+The Recipient recognises that any breach or threatened breach of this Agreement may cause the Disclosers irreparable harm for which damages may not be an adequate remedy. Accordingly, in addition to any other remedies and damages available to the Disclosers, the Recipient acknowledges and agrees that the Disclosers is entitled to the remedies of specific performance, injunction and other equitable relief without proof of special damages.
+8 Delivery Up
+8.1 Upon receipt by the Recipient of a written demand from the Disclosers:
+8.1.1 the Recipient must return or procure the return to the Disclosers or, as the Disclosers may require, destroy or procure the destruction of any and all materials containing the Confidential Information together with all copies;
+8.1.2 if the Disclosers requires, the Recipient must provide the Disclosers with a certificate or such other evidence as the Disclosers may reasonably require duly signed or executed by an officer of the Recipient confirming that the Recipient has complied with all of its obligations under this Agreement including about return, destruction and deletion of Confidential Information and media;
+8.1.3 the Recipient must delete or procure the deletion of all electronic copies of Confidential Information; and
+8.1.4 the Recipient must make, and procure that the Authorised Persons shall make, no further Use of the Confidential Information.
+9 Entire agreement
+9.1 The parties agree that this Agreement and any documents entered into pursuant to it constitute the entire agreement between them and supersedes all previous agreements, understandings and arrangements between them, whether in writing or oral in respect of its subject matter.
+9.2 The Recipient acknowledges that it has not entered into this Agreement or any documents entered into pursuant to it in reliance on, and shall have no remedies in respect of, any representation or warranty that is not expressly set out in this Agreement or any documents entered into pursuant to it. The Recipient shall not have any claim for innocent or negligent misrepresentation on the basis of any statement in this Agreement.
+9.3 Nothing in this Agreement purports to limit or exclude any liability for fraud.
+10 Further assurance
+Each party shall at the request of the other, and at the cost of the requesting party, do all acts and execute all documents which are necessary to give full effect to this Agreement.
+11 Variation
+No variation of this Agreement shall be valid or effective unless it is in writing, refers to this Agreement and is duly signed or executed by, or on behalf of, each party.
+12 Assignment and transfer of rights
+The Disclosers can, but the Recipient shall not (without the Disclosers’ prior written consent), assign, novate, hold on trust, subcontract or encumber any right or obligation under this Agreement, in whole or in part.
+13 Cumulative rights
+The rights and remedies provided for in this Agreement are cumulative with, and not exclusive of, any rights or remedies otherwise provided by law or in equity. No exercise by a party of any one right or remedy shall operate so as to hinder or prevent the exercise by it of any other right or remedy.
+14 Set off
+The Recipient shall pay all sums that it owes to the Disclosers under this Agreement without any set-off, counterclaim, deduction or withholding of any kind, save as may be required by law.
+15 No partnership or agency
+The parties are independent persons and are not partners, principal and agent or employer and employee, and this Agreement does not establish any joint venture between them, other than the contractual relationship expressly provided for in it. The Recipient shall not have, nor shall represent that it has, any authority to make any commitment on the Disclosers’ behalf.
+16 Severance
+16.1 If any provision of this Agreement (or part of any provision) is or becomes illegal, invalid or unenforceable, the legality, validity and enforceability of any other provision of this Agreement shall not be affected.
+16.2 If any provision of this Agreement (or part of any provision) is or becomes illegal, invalid or unenforceable but would be legal, valid and enforceable if some part of it was deleted or modified, the provision or part-provision in question shall apply with such deletions or modifications as may be necessary to make the provision legal, valid and enforceable. In the
+event of such deletion or modification, the parties shall negotiate in good faith in order to agree the terms of a mutually acceptable alternative provision.
+17 Waiver
+17.1 No failure, delay or omission by either party in exercising any right, power or remedy provided by law or under this Agreement shall operate as a waiver of that right, power or remedy, nor shall it preclude or restrict any future exercise of that or any other right, power or remedy.
+17.2 No single or partial exercise of any right, power or remedy provided by law or under this Agreement shall prevent any future exercise of it or the exercise of any other right, power or remedy.
+17.3 A waiver of any term, provision, condition or breach of this Agreement shall only be effective if given in writing and signed by the waiving party, and then only in the instance and for the purpose for which it is given.
+18 Compliance with law
+Each party shall comply with all laws, enactments, regulations, regulatory policies, guidelines and industry codes applicable to them and shall maintain such authorisations and all other approvals, permits and authorities as are required from time to time to perform their obligations under or in connection with this Agreement.
+19 Counterparts
+19.1 This Agreement may be signed in any number of separate counterparts, each of which when signed and dated shall be an original, and such counterparts taken together shall constitute one and the same agreement.
+19.2 Each party may evidence their signature of this Agreement by transmitting by email a signed signature page of this Agreement in PDF format together with the final version of this Agreement in PDF or Word format, which shall constitute an original signed counterpart of this Agreement. Each party adopting this method of signing shall, following circulation by email, provide the original, hard copy signed signature page to the other parties as soon as reasonably practicable.
+20 Costs and expenses
+Each party shall pay its own costs and expenses incurred in connection with the negotiation, preparation, signature and performance of this Agreement (and any documents referred to in it).
+21 Language
+21.1 The language of this Agreement is English. All documents, notices, waivers, variations and other written communications relating to this Agreement shall be in English.
+21.2 If this Agreement and any document relating to it is translated, the English version shall prevail.
+22 Third party rights
+Except as expressly provided for in this Agreement, a person who is not a party to this Agreement shall not have any rights under the Contracts (Rights of Third Parties) Act 1999 to enforce any of the provisions of this Agreement. The parties shall not, however, be required to notify or obtain the consent of any third party in order to rescind or vary this Agreement.
+23 Governing law
+This Agreement and any dispute or claim arising out of, or in connection with it, its subject matter or its formation (including non-contractual disputes or claims) shall be governed by, and construed in accordance with, the laws of England and Wales.
+24 Jurisdiction
+The parties irrevocably agree that the courts of England and Wales shall have exclusive jurisdiction to settle any dispute or claim arising out of, or in connection with, this Agreement, its subject matter or its formation (including non-contractual disputes or claims).
+THIS AGREEMENT IS EXECUTED AS A DEED by the parties on the date set out at the head of this deed
+Executed as a deed by Jasmine Technologies Ltd, acting by a director
+Name of Director: James Middleton
+Signature of Director:
+Executed as a deed by
+Name:

@@ -1,0 +1,90 @@
+CONFIDENTIALITY AND NON-DISCLOSURE AGREEMENT
+This Confidentiality and Non-disclosure Agreement (hereinafter the “Agreement”) is made on the Insert Date of final Signature Here
+BETWEEN:
+(1) Aspiegel Limited, incorporated and registered in Ireland with company number 561134 whose registered address is at Unit 1B/1C Sandyford Business Centre, Burton Hall, Dublin 18 (“Aspiegel”)
+and
+(2) Insert the other party’s name or company name, incorporated and registered in insert country of incorporation with company number insert registered number whose registered address is at insert their full address (“Company”)
+hereinafter known each as a “Party” and together the “Parties”.
+WHEREAS
+(A) Each Party wishes to disclose to the other Party Confidential Information in relation to the Purpose. Each party wishes to ensure that the other party maintains the confidentiality of its Confidential Information.
+(B) In consideration of the benefits to the Parties of the disclosure of the Confidential Information, the Parties have agreed to comply with the following terms in connection with the use and disclosure of Confidential Information.
+NOW IT IS HEREBY AGREED AS FOLLOWS: -
+1. Definitions and Interpretation
+In this Agreement the following words and expressions shall, where the context so admits, be deemed to have the following meanings:
+Affiliate(s): means in relation to a Party, any other person who Controls or is Controlled by, or under common Control with, that Party.
+Confidential Information: means all confidential information (however recorded, preserved or disclosed) disclosed by a Party or its Representatives to the other Party and that Party's Representatives including but not limited to:
+(a) the fact that discussions and negotiations are taking place concerning the Purpose and the status of those discussions and negotiations;
+(b) the existence and terms of this Agreement;
+(c) any information relating to:
+(i) the business, affairs, customers, clients, suppliers, plans, intentions, or market opportunities of the Disclosing Party or of the Disclosing Party's Affiliates; and
+(ii) the operations, processes, product information, know-how, designs, specifications, trade secrets, computer programs or software of the Disclosing Party or of the Disclosing Party's Affiliates; and
+(d) any information or analysis derived from Confidential Information.
+Control: means when a person directly or indirectly holds or controls a majority of the voting rights of, or the right to appoint or remove a majority of the board of directors of, or the right to exercise a dominant influence over or otherwise control (by virtue of an undertaking's constitution or otherwise), another person.
+Disclosing Party: means a Party to this Agreement which discloses or makes available directly or indirectly Confidential Information.
+Purpose: means insert a very precise purpose eg the evaluation or establishment of a collaboration in respect of a particular project.
+Recipient Party: means a Party to this Agreement which receives or obtains directly or indirectly Confidential Information.
+Representative(s): means employees, agents, officers, professional advisers and Affiliates of the Recipient Party.
+Clause headings shall not affect the interpretation of this Agreement.
+A person includes a natural person, corporate or unincorporated body (whether or not having separate legal personality).
+Unless the context otherwise requires, words in the singular shall include the plural and in the plural include the singular.
+A reference to a statute or statutory provision is a reference to it as it is in force for the time being, taking account of any amendment, extension, or re-enactment, and includes any subordinate legislation for the time being in force made under it.
+References to clauses are to the clauses of this Agreement.
+2. Confidentiality Undertaking
+In consideration of the mutual disclosure of Confidential Information the Recipient Party undertakes:-
+(a) to keep secret and confidential all Confidential Information of the Disclosing Party;
+(b) to use or apply the Confidential Information of the Disclosing Party solely for the Purpose and so as to determine whether or not and on what terms the Parties might wish to proceed;
+(c) not to use, copy, adapt, alter, disclose or part with possession of or apply the Confidential Information of the Disclosing Party for any other purpose or its own purposes other than as described in paragraph (b) above;
+(d) not at any time, whether the negotiations proceed or not, to copy, disclose or otherwise make available to any third party without the written consent of the Disclosing Party, any of the Confidential Information of the Disclosing Party other than to its Representatives who are required for the Purpose to receive and consider the Confidential Information provided that the Recipient Party informs its Representatives of the confidential nature of the Confidential Information before disclosure and procures that its Representatives shall, in relation to any Confidential Information disclosed to them, comply with this Agreement as if they were the Recipient Party and the Recipient Party shall at all times be liable for the failure of any Representative to comply with the terms of this Agreement;
+(e) to provide proper and secure storage for each and every part of the Confidential Information received by it in tangible form whilst it is in its custody, power or control;
+(f) to return or destroy or if stored in electronic form to erase from its systems (to the extent possible) at its own expense the Confidential Information of the Disclosing Party together with any copies in its possession or in the possession of its Representatives at the request of the Disclosing Party.
+3. Disclosure to Third Parties
+The Recipient Party shall have the right to disclose the Confidential Information to a third party involved in the Purpose, subject to the Recipient Party obtaining the prior written consent of the Disclosing Party to such disclosure and the Recipient Party agrees that it shall procure that the third party shall first enter into a written acknowledgement and undertaking of confidentiality in favour of both Parties to this Agreement and in a form which is acceptable to the Disclosing Party.
+4. Limitation
+4.1 The confidentiality undertakings at clauses 2 and 3 above shall not apply to any Confidential Information which the Recipient Party can prove:
+(a) is or becomes generally available to the public other than as a result of its disclosure by the Recipient Party or its Representatives in breach of this Agreement or of any other undertaking of confidentiality addressed to the Party to whom the information relates; or
+(b) is in its possession or known to it by being in its use or being recorded in its files or computers or other recording media, without any confidentiality obligation, prior to the disclosure thereof by the Disclosing Party; or
+(c) was obtained legally from any third party, and is not the subject of any restriction as to its use or disclosure imposed by or on that third party at the time of provision; or
+(d) is developed by the Recipient Party independently of the information disclosed by the Disclosing Party.
+4.2 Confidential Information shall not be deemed to be in the public domain merely because any part of said Confidential Information is embodied in general disclosures or because individual features, components or combinations thereof are known or become known to the public.
+4.3 The Recipient Party may disclose Confidential Information to the extent required:
+(a) by any order of any court of competent jurisdiction or any competent judicial, governmental, regulatory or supervisory body;
+(b) by the rules of any listing authority, stock exchange or any regulatory or supervisory body with which the Recipient Party is bound to comply; or
+(c) by applicable laws or regulations,
+provided that before it discloses any Confidential Information the Recipient Party will, to the extent permitted by applicable law and regulation, inform the Disclosing Party of the full circumstances and the information required to be disclosed, consult with the Disclosing Party as to possible steps to avoid or limit disclosure, take such of those steps as the Disclosing Party may reasonably require and, where the disclosure is to be by way of a public announcement, make reasonable efforts to agree the wording of the announcement with the Disclosing Party in advance.
+5. No rights in and no warranty on Confidential Information
+5.1 Each Party acknowledges and agrees that it shall not acquire by implication or otherwise any right or licence on or title to any Confidential Information communicated by or acquired from the other Party;
+5.2 Neither Party makes any express or implied representation or warranty as to the accuracy or completeness of any Confidential Information;
+5.3 Nothing in this Agreement shall require any Party to disclose Confidential Information to the other Party nor limit either Party's right to conduct discussions with third parties so long as such discussions do not breach the terms of this Agreement.
+6. Term and Termination
+6.1 If either Party decides not to become, or continue to be involved in the Purpose it shall notify the other Party in writing immediately. The obligations of each Party shall, notwithstanding any earlier termination of negotiations or discussions between the Parties in relation to the Purpose, continue for a period of five (5) years from the termination of this Agreement.
+6.2 Termination of this Agreement shall not affect any accrued rights or remedies to which either Party is entitled.
+7. Remedies
+Without prejudice to any other rights or remedies that any Party may have, the Recipient Party acknowledges and agrees that damages alone would not be an adequate remedy for any breach by the Recipient Party of the provisions of this Agreement, and that the remedies of injunction and specific performance as well an any other equitable relief for any threatened or actual breach by the Recipient Party or its Representatives would be more appropriate remedies.
+8. Entire Agreement and Variation
+8.1 This Agreement constitutes the entire agreement between the parties and supersedes and extinguishes all previous drafts, agreements, arrangements and understandings between them, whether written or oral, relating to its subject matter.
+8.2 No variation of this Agreement shall be effective unless it is in writing and signed by each of the Parties (or their authorised representatives).
+9. No Waiver
+9.1 Failure by either Party to enforce any of its rights under this Agreement shall not be taken as or deemed to be a waiver of such.
+9.2 No waiver or amendment of any provisions of this Agreement shall be valid or binding against either Party unless the waiver or amendment is made in writing and signed by the duly appointed representatives of both Parties.
+10. Assignment
+This Agreement is personal to the Parties and shall not be assigned or otherwise transferred in whole or in part by either Party without the prior written consent of the other Party.
+11. Notices
+Any notice required to be given under this Agreement, shall be in writing and shall be delivered personally, or sent by pre-paid first class post or recorded delivery or by commercial courier, to each Party required to receive the notice at its address as set out above or as otherwise specified by the relevant Party by notice in writing to each other Party.
+12. No Partnership
+Nothing in this Agreement is intended to, or shall be deemed to, establish any partnership or joint venture between any of the Parties, constitute any party the agent of another party, nor authorise any Party to make or enter into any commitments for or on behalf of any other Party.
+13. Third Party Rights
+A person who is not a Party to this Agreement shall not have any rights under or in connection with it.
+14. Governing Law
+This Agreement and any dispute or claim arising out of or in connection with it or its subject matter or formation (including non-contractual disputes or claims) shall be governed by and construed in accordance with Irish law.
+The parties irrevocably agree that the courts of Ireland shall have exclusive jurisdiction to settle any dispute or claim that arises out of or in connection with this agreement or its subject matter or formation (including non-contractual disputes or claims).
+This Agreement has been entered into on the date stated at the beginning of it.
+Signed for and on behalf of:-
+Aspiegel Limited
+Signed: .....................................
+Name: .....................................
+Date: .....................................
+Signed for and on behalf of:-
+Insert Name of Second Party
+Signed: .......................................
+Name: .......................................
+Date: .......................................

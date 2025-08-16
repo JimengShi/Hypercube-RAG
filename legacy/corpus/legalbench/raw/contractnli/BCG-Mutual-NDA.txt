@@ -1,0 +1,54 @@
+Mutual Non-Disclosure Agreement
+This Mutual Non-Disclosure Agreement ("agreement") is between the parties signing below. "We," "us" and "our" refer to both of the parties signing below and our respective affiliates. The “Company” or “Individual” named below will also be referred to as “Partner” and “The Bleecker Consulting Group, LLC” will be referred to as “BCG.”
+COMPANY or INDIVIDUAL THE BLEECKER CONSULTING GROUP, LLC
+Business Entity Type: Business Entity Type: Limited Liability Company
+State of Incorporation: State of Incorporation: Florida, United States
+Principal Address: Principal Address:
+11555 Heron Bay Blvd., Suite 200, Coral Springs, Florida,
+33076
+Sign: Sign:
+Print Name: Print Name: David Bleecker
+Print Title: Print Title: Managing Partner
+Signature Date: Signature Date:
+1. The purpose of this agreement.
+This agreement allows us to disclose confidential information to each other, to our own affiliates and to the other's affiliates, under the following terms. An "affiliate" is any legal entity that one of us owns, that owns one of us or that is under common control with one of us. "Control" and "own" mean possessing a 50% or greater Interest in an entity or the right to direct the management of the entity.
+2. Confidential information.
+a. What is included, "Confidential information" is non-public information, know-how and trade secrets in any form that:
+ Are designated as "confidential"; or
+ A reasonable person knows or reasonably should understand to be confidential.
+b. What is not included? The following types of information, however marked, are not confidential information. Information that:
+ Is, or becomes, publicly available without a breach of this agreement;
+ Was lawfully known to the receiver of the information without an obligation to keep it confidential;
+ Is received from another source who can disclose it lawfully and without an obligation to keep it confidential;
+ Is independently developed; or
+ Is a comment or suggestion one of us volunteers about the other's business, products or services.
+3. Treatment of confidential information.
+a. In general. Subject to the other terms of this agreement, each of us agrees:
+ We will not disclose the other's confidential information to third parties; and
+ We will use and disclose the other's confidential information only for purposes of our business relationship with each other.
+b. Security precautions. Each of us agrees:
+ To take reasonable steps to protect the other's confidential information. These steps must be at least as protective as those we take to protect our own confidential information;
+ To notify the other promptly upon discovery of any unauthorized use or disclosure of confidential information; and
+ To cooperate with the other to help regain control of the confidential information and prevent further unauthorized use or disclosure of it.
+c. Sharing confidential information with affiliates and representatives.
+ A "representative" is an employee, contractor, advisor or consultant of one of us or one of our respective affiliates.
+ Each of us may disclose the other's confidential information to our representatives (who may then disclose that confidential information to other of our representatives) only if those representatives have a need to know about it for purposes of our business relationship with each other. Before doing so, each of us must:
+o Ensure that affiliates and representatives are required to protect the confidential information on terms consistent with this agreement; and
+o Accept responsibility for each representative's use of confidential information.
+ Neither of us is required to restrict work assignments of representatives who have had access to confidential information. Neither of us can control the incoming information the other will disclose to us in the course of working together, or what our representatives will remember, even without notes or other aids. We agree that use of information in representatives' unaided memories in the development or deployment of our respective products or services does not create liability under this agreement or trade secret law, and we agree to limit what we disclose to the other accordingly.
+d. Disclosing confidential information if required to by law. Each of us may disclose the other's confidential information if required to comply with a court order or other government demand that has the force of law. Before doing so, each of us must seek the highest level of protection available and, when possible, give the other enough prior notice to provide a reasonable chance to seek a protective order.
+4. Length of confidential information obligations
+a. Termination. This agreement continues in effect until one of us terminates it. Either of us may terminate this agreement for any reason by providing the other with 60 days' advance written notice. Termination of this agreement will not change any of the rights and duties made while this agreement is in effect.
+b. No other use or disclosure of confidential information. Except as permitted above, neither of us will use nor disclose the other's confidential information for three years after we receive it. The three-year
+c. time period does not apply if applicable law requires a longer period.
+5. General rights, obligations and miscellaneous.
+a. Law that applies; jurisdiction and venue. The laws of the State of Florida govern this agreement. If federal jurisdiction exists, we each consent to exclusive jurisdiction and venue in the federal courts in Broward County, Florida. If not, we each consent to exclusive jurisdiction and venue in the Superior Court of Broward County, Florida.
+b. Non-solicitation- Clients. Each party expressly agrees to non-solicitation of business services with each other’s existing customers. As part of subsequent agreements between Partner and BCG to engage in joint customer business, Partner agrees not to solicit business services from any of BCG’s customers where BCG has engaged Partner on any such customer work orders and where BCG has introduced Partner to such customer(s). Conversely, BCG agrees not to solicit business services from any of Partner’s customers where Partner has engaged BCG on any such customer work orders and where Partner has introduced BCG to such customer(s).
+c. Non-solicitation- Employees. During the term of the agreement and for a period of twelve (12) months thereafter, each party agrees not to solicit or recruit any employee of each other without the prior written consent of that party. Both BCG and Partner hereby agree that it will not solicit for hire, in any capacity whatsoever, any of each other’s employees, contractors or other such affiliated resources without prior written consent from the other party.
+d. Compliance with law. Parties will comply with all laws regarding confidential information.
+e. Waiver. Any delay or failure of either of us to exercise a right or remedy will not result in a waiver of that, or any other, right or remedy.
+f. Money damages insufficient. Each of us acknowledges that money damages may not be sufficient compensation for a breach of this agreement. Each of us agrees that the other may seek court orders to stop confidential information from becoming public in breach of this agreement.
+g. Attorneys' fees. In any dispute relating to this agreement the prevailing party will be entitled to recover reasonable attorneys' fees and costs.
+h. Transfers of this agreement. If one of us transfers this agreement, we will not disclose the other's confidential information to the transferee without the other's consent.
+i. Enforceability. If any provision of this agreement is unenforceable, the parties (or, if we cannot agree, a court) will revise it so that it can be enforced. Even if no revision is possible, the rest of this agreement will remain in place.
+j. Entire agreement. This agreement does not grant any implied intellectual property licenses to confidential information, except as stated above. We may have contracts with each other covering other specific aspects of our relationship ("other contracts"). The other contract may include commitments about confidential information, either within it or by referencing another non-disclosure agreement. If so, those obligations remain in place for purposes of that other contract. With this exception, this is the entire agreement between us regarding confidential information. It replaces all other agreements and understandings regarding confidential information. We can only change this agreement with a signed document that states that it is changing this agreement.

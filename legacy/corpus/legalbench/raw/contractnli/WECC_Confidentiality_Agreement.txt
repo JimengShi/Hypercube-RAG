@@ -1,0 +1,52 @@
+WECC Confidentiality Agreement
+This WECC Confidentiality Agreement (“Agreement”) is entered into by __________________________ (“Data Recipient”) and is effective as of the date agreed to by Data Recipient. Data Recipient agrees to the following terms and conditions pertaining to Non-Public Information.
+1. Non-Public Information
+a. Non-Public Information shall include any and all information Data Recipient receives from WECC, including, but not limited to, information received through a login to the WECC website, which:
+i. Is designated as “Confidential Information” or “Market Sensitive Information” or is otherwise considered non-public under the WECC Information Sharing Policy;
+ii. Meets the definition of Confidential Information as set forth in Section 1500 of the North American Electric Reliability Corporation Rules of Procedure; or
+iii. Is identified by WECC as non-public or confidential at the time of disclosure.
+b. For the purposes of this Agreement, Non-Public Information shall not include:
+i. Information that is or becomes available in the public domain through no fault or action of Data Recipient;
+ii. Information that was or is acquired by Data Recipient from a source other than WECC in a manner which is not otherwise subject to confidentiality restrictions; or
+iii. Information that was or is independently developed by Data Recipient as demonstrated by Data Recipient’s documentation.
+2. Treatment of Non-Public Information
+a. Data Recipient agrees to take all necessary precautions to maintain the confidentiality of the Non-Public Information and to prevent unauthorized access to it.
+b. Data Recipient agrees to not make available, disclose, provide or communicate Non-Public Information to any entity or individual, except:
+i. Employees of Data Recipient who (1) have signed an acknowledgment of this Agreement or a non-disclosure agreement that covers the Non-Public Information and is at least as restrictive as this Agreement, and (2) need the Non-Public Information for performance of a job function subject to the limitation on Market Sensitive Information below;
+ii. Contractors of Data Recipient who (1) have signed a non-disclosure agreement that covers the Non-Public Information and is at least as restrictive as this Agreement, and (2) need the Non-Public Information for the work being performed subject to the limitation on Market Sensitive Information below. In the event Data Recipient shares Non-Public Information with a contractor pursuant to this provision, Data Recipient agrees to be responsible and jointly and severally liable for any breach of confidentiality by that contractor;
+iii. As required by FERC orders, rules or regulations, provided that additional data recipients have signed a non-disclosure agreement that covers the Non-Public Information and is at least as restrictive as this Agreement; or
+iv. As may be otherwise agreed to by WECC in writing.
+3. Market Sensitive Information
+a. Data Recipient agrees not to provide or disclose any Market Sensitive Information as identified in the WECC Information Sharing Policy to any person who is (1) a Market Function Employee as defined by the FERC Standards of Conduct, or (2) actively and personally engaged in day-to-day sales of electric power or other electric power marketing functions.
+4. Compelled Disclosures
+a. Notwithstanding anything to the contrary herein, Data Recipient may disclose Non-Public Information to a governmental authority as required by law, provided that to the extent permitted by law:
+i. Data Recipient notifies WECC as soon as reasonably possible of the required disclosure;
+ii. Data Recipient does not disclose the Non-Public Information until WECC has had a reasonable opportunity to respond to the required disclosure; and
+iii. Data Recipient cooperates with WECC as reasonably requested by WECC to protect WECC’s interests in the Non-Public Information.
+b. If Data Recipient is an entity subject to state or federal freedom of information laws or an employee of such an entity, Data Recipient certifies that the Non-Public Information is eligible for restriction from public disclosure and agrees to:
+i. Restrict the Non-Public Information from public disclosure;
+ii. Notify WECC as soon as reasonably possible of any request for the Non-Public Information; and
+iii. Cooperate with WECC as reasonably requested by WECC to protect WECC’s interests in the Non-Public Information.
+5. Disclaimer and Limitations
+a. Neither WECC nor any owner or submitter of the Non-Public Information makes any representation or warranty as to the completeness, accuracy, relevance, or usability of the Non-Public Information. All Non-Public Information made available to Data Recipient is made available AS IS AND WITHOUT WARRANTY, EXPRESS OR IMPLIED.
+b. There is no obligation on the part of WECC or any owner or submitter of the Non-Public Information to supplement, update, or correct any Non-Public Information, even if the Non-Public Information is supplemented, updated, or corrected for other purposes.
+c. Use of the Non-Public Information is at Data Recipient’s own risk. Neither WECC nor the owner or submitter of the Non-Public Information shall be liable for any damages arising out of the use of the Non-Public Information.
+6. Changes in Employment
+a. If at any time during the term of this Agreement Data Recipient or an employee of Data Recipient ceases to be employed by his or her then current employer, Data Recipient agrees to notify WECC within five (5) business days of the change in employment.
+b. If at any time during the term of this Agreement Data Recipient or an employee of Data Recipient has a change in job responsibilities such that Data Recipient or an employee of Data Recipient becomes a Market Function Employee, Data Recipient agrees to notify WECC within five (5) business days of the change in employment and to ensure that Data Recipient or such an employee of Data Recipient discontinues accessing or using any Market Sensitive Information as identified in the WECC Information Sharing Policy.
+7. Term and Termination
+a. This Agreement shall continue in effect until terminated. This Agreement may be terminated by WECC or Data Recipient at any time at their sole discretion.
+b. Upon any termination of this Agreement, Data Recipient shall return to WECC all Non-Public Information in Data Recipient’s possession or destroy all Non-Public Information in Data Recipient’s possession and certify to WECC in writing that all Non-Public Information has been returned or destroyed, except as may be otherwise required by law in which case the confidentiality obligations of this Agreement shall survive termination.
+8. Miscellaneous Terms
+a. This Agreement does not require WECC to disclose any Non-Public Information. Neither this Agreement nor any disclosure of Non-Public Information grant Data Recipient any intellectual property rights or licenses to such information. Data Recipient agrees to comply with all applicable United States export laws and regulations.
+b. This Agreement represents the entire understanding between WECC and Data Recipient related to the Non-Public Information and supersedes all previous communications between WECC and Data Recipient related to this subject. This Agreement can only be modified by written agreement executed by WECC and Data Recipient. Data Recipient may not delegate its duties or obligations under this Agreement without prior written consent from WECC. Any attempt to do so is void.
+c. This Agreement shall be for the sole benefit of WECC and any owner or submitter of the Non-Public Information. This Agreement shall be fully enforceable by WECC and any entity whose Non-Public Information is not treated in accordance with this Agreement.
+d. If any term or provision of this Agreement is held by a body of competent jurisdiction to be invalid, void, or unenforceable, then (1) the remaining provisions of the Agreement shall continue in full force and effect, and (2) in lieu of each such term or provision there shall be added as part of this Agreement a clause or provision as similar in terms as possible that is legal, valid and enforceable.
+IN WITNESS HEREOF, Data Recipient has read and understands this Agreement and enters into this Agreement voluntarily, wishing to be legally bound.
+Data Recipient
+Signature: _________________________________________
+Printed: ___________________________________________
+Company: _________________________________________
+Title: _____________________________________________
+Date: _____________________________________________
+Email: _____________________________________________

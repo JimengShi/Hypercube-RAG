@@ -1,0 +1,109 @@
+THIS NON-DISCLOSURE AGREEMENT is made on Xth day of Month, year (the “Agreement”)
+BY and BETWEEN:
+(1) CPK Manufacturing LLC dba Kenway Composites, incorporated and registered in Delaware whose office is at 681 Riverside Drive, Augusta, Maine 04330 (“Kenway”); and
+(2) _______________________ incorporated and registered in ____________________whose registered office is at _________________________________________________________ (the “Company”).
+Hereinafter, individually referred to as a “Party” and together, as the “Parties” to this Agreement.
+RECITALS
+(A) Each Party wishes to disclose to the other Party Confidential Information in relation to the Purpose (as respectively defined below).
+(B) Each Party wishes to ensure that the other Party maintains the confidentiality of its Confidential Information.
+(C) In consideration of the benefits to the Parties of the disclosure of the Confidential Information, the Parties have agreed to comply with the following terms in connection with the use and disclosure of Confidential Information.
+NOW THE PARTIES HEREBY AGREE AS FOLLOWS:
+1 Definitions and Interpretation
+1.1 The following definitions in this Clause 1 apply in this Agreement as follows:
+“Business Day” means a day (other than a Saturday, Sunday or public holiday) when banks are open for business.
+“Confidential Information:” means all confidential information (however recorded, preserved or disclosed) disclosed by a Party or its Representatives to the other Party and that Party's Representatives including but not limited to: the fact that discussions and negotiations are taking place concerning the Purpose and the status of those discussions and negotiations; any information that would be regarded as confidential by a reasonable business person relating to:
+(a) the business, affairs, customers, clients, suppliers, plans, intentions, or market opportunities of the Disclosing Party or of the Disclosing Party's Group;
+(b) the operations, processes, product information, know-how, designs, specifications, trade secrets or software of the Disclosing Party or of the Disclosing Party's Group; and
+(c) any information or analysis derived from Confidential Information;
+but not including any information:
+(a) that is or becomes generally available to the public other than as a result of its disclosure by the Recipient or its Representatives in breach of this Agreement or of any other undertaking of confidentiality addressed to the Party to whom the information relates (except that any compilation of otherwise public information in a form not publicly known shall nevertheless be treated as Confidential Information);
+(b) was available to the Recipient on a non-confidential basis prior to disclosure by the Disclosing Party;
+(c) was, is or becomes available to the Recipient on a non-confidential basis from a person who, to the Recipient's knowledge, is not bound by a confidentiality agreement with the Disclosing Party or otherwise prohibited from disclosing the information to the Recipient;
+(d) was lawfully in the possession of the Recipient before the information was disclosed to it by the Disclosing Party;
+(e) the Parties agree in writing is not confidential or may be disclosed; and/or
+(f) is developed by or for the Recipient independently of the information disclosed by the Disclosing Party.
+“Disclosing Party:” means a Party to this Agreement which discloses or makes available directly or indirectly, Confidential Information.
+“Group”: means, in relation to a company, that company, each and any subsidiary or holding company from time to time of that company and each and any subsidiary from time to time of a holding company of that company.
+“Holding Company” and “Subsidiary” mean a "holding company" and "subsidiary" of the Recipient or Disclosing Party respectively.
+“Purpose”: means the exchange of Confidential Information, trade secrets, know-how and samples in order to evaluate and pursue the objective of one or more potential business arrangements with respect to Kenway’s potential to supply the Company with information, products and/or designs that are proprietary to the Company.
+“Recipient”: means a Party to this Agreement which receives or obtains directly or indirectly Confidential Information.
+“Representative”: means employees, agents, officers, advisers and other representatives of the Recipient.
+1.2 In this Agreement, the following rules of interpretation apply:
+(a) a person includes a natural person, corporate or unincorporated body (whether or not having separate legal personality);
+(b) a reference to a party includes its personal representatives, successors or permitted assigns;
+(c) a reference to a statute or statutory provision is a reference to such statute or statutory provision as amended or re-enacted. A reference to a statute or statutory provision includes any subordinate legislation made under that statute or statutory provision, as amended or re-enacted;
+(d) any phrase introduced by the terms including, include, in particular or any similar expression shall be construed as illustrative and shall not limit the sense of the words preceding those terms;
+(e) a reference to writing or written includes faxes; and
+(f) unless the context otherwise requires, a reference to one gender shall include a reference to the other genders
+2. Obligations of Confidentiality
+2.1 The Recipient shall keep the Disclosing Party's Confidential Information confidential and, except with the prior written consent of the Disclosing Party, shall:
+(a) not use or exploit the Confidential Information in any way except for the Purpose;
+(b) not disclose or make available the Confidential Information in whole or in part to any third party, except as expressly permitted by this Agreement;
+(c) not copy, reduce to writing or otherwise record the Confidential Information except as strictly necessary for the Purpose (and any such copies, reductions to writing and records shall be the property of the Disclosing Party);
+(d) keep separate the Confidential Information from all documents and other records of the Recipient;
+(e) apply the same security measures and degree of care to the Confidential Information as the Recipient applies to its own confidential information, which the Recipient warrants as providing adequate protection from unauthorized disclosure, copying or use; and
+(f) keep a written record of: any document or other Confidential Information received from the other in tangible form; any copy made of the Confidential Information.
+2.2 The Recipient may disclose the Disclosing Party's Confidential Information to those of its Representatives who need to know this Confidential Information for the Purpose, provided that:
+(a) it informs its Representatives of the confidential nature of the Confidential Information before disclosure;
+(b) it procures that its Representatives shall, in relation to any Confidential Information disclosed to them, comply with this Agreement as if they were the Recipient and, if the Disclosing Party so requests, procure that any relevant Representative enters into a confidentiality agreement with the Disclosing Party on terms equivalent to those contained in this Agreement; and
+(c) it keeps a written record of these Representatives; and
+(d) it shall at all times be liable for the failure of any Representative to comply with the terms of this Agreement.
+2.3 A Party may disclose Confidential Information to the extent such Confidential Information is required to be disclosed by law, by any governmental or other regulatory authority (including, without limitation any relevant securities exchange) or by a Court or other authority of competent jurisdiction provided that, to the extent it is legally permitted to do so, it gives the other Party as much notice of this disclosure as possible and, where notice of disclosure is not prohibited and is given in accordance with this Clause 2.3 , it takes into account the reasonable requests of the other Party in relation to the content of this disclosure, to the extent that it is legally permitted to do so.
+2.4 The Recipient may, however, provided that the Recipient has reasonable grounds to believe that the Disclosing Party is involved in activity that may constitute a criminal offence under the Bribery Act 2010, disclose Confidential Information to the Serious Fraud Office without first notifying the Disclosing Party of such disclosure.
+2.5 The Recipient shall establish and maintain adequate security measures (including any reasonable security measures proposed by the Disclosing party from time to time) to safeguard the Confidential Information from unauthorized access or use.
+2.6 No Party shall make, or permit any person to make, any public announcement concerning this Agreement, the Purpose or its prospective interest in the Purpose without the prior written consent of the other Party (such consent not to be unreasonably withheld or delayed) except as required by law or any governmental or regulatory authority (including, without limitation, any relevant securities exchange) or by any Court or other authority of competent jurisdiction.
+2.7 No Party shall make use of the other Party's name or any information acquired through its dealings with the other Party for publicity or marketing purposes without the prior written consent of the other Party.
+3 Return of Information
+3.1 At the request of the Disclosing Party, the Recipient shall:
+(a) destroy or return to the Disclosing Party all documents and materials (and any copies) containing, reflecting, incorporating, or based on the Disclosing Party's Confidential Information;
+(b) save in relation to its backup email systems, erase all the Disclosing Party's Confidential Information from its computer systems or which is stored in electronic form; and
+(c) certify in writing to the Disclosing Party that it has complied with the requirements of this Clause, provided that a Recipient may retain documents and materials containing, reflecting, incorporating, or based on the Disclosing Party's Confidential Information to the extent required by law or any applicable governmental or regulatory authority and to the extent reasonable to permit the Recipient to keep evidence that it has performed its obligations under this Agreement. The provisions of this Agreement shall continue to apply to any documents and materials retained by the Recipient.
+3.2 If the Recipient develops or uses a product or a process which, in the reasonable opinion of the Disclosing Party, might have involved the use of any of the Disclosing Party's Confidential Information, the Recipient shall, at the request of the Disclosing Party, supply to the Disclosing Party information reasonably necessary to establish that the Disclosing Party's Confidential Information has not been used or disclosed.
+4 Reservation of Rights and Acknowledgement
+4.1 All Confidential Information shall remain the property of the Disclosing Party. Each Party reserves all rights in its Confidential Information. No rights, including, but not limited to, intellectual property rights, in respect of a party's Confidential Information are granted to the other Party and no obligations are imposed on the Disclosing Party other than those expressly stated in this Agreement. Any background intellectual property rights subsisting in any information provided by either Party to the other shall remain vested in the Disclosing Party and the Disclosing Party shall grant to the Recipient a non-exclusive, worldwide, royalty free, revocable license to use such background Intellectual Property Rights solely for the period of this Agreement and for the Purpose only. Any foreground intellectual property rights generated by CP in respect of the Purpose shall vest in CP absolutely and the Company shall acquire no interest, right or title in respect of the same.
+4.2 Except as expressly stated in this Agreement, no Party makes any express or implied warranty or representation concerning its Confidential Information, or the accuracy or completeness of the Confidential Information.
+4.3 The disclosure of Confidential Information by the Disclosing Party shall not form any offer by, or representation or warranty on the part of, the Disclosing Party to enter into any further agreement in relation to the Purpose, or the development or supply of any product or service to which the Confidential Information relates.
+4.4 The Recipient acknowledges that damages alone would not be an adequate remedy for the breach of any of the provisions of this Agreement. Accordingly, without prejudice to any other rights and remedies it may have, the Disclosing Party shall be entitled to the granting of equitable relief (including without limitation injunctive relief) concerning any threatened or actual breach of any of the provisions of this Agreement.
+5. Warranty and Indemnity
+5.1 Each Disclosing Party warrants that it has the right to disclose its Confidential Information to the Recipient and to authorize the Recipient to use such Confidential Information for the Purpose.
+5.2 Each Recipient shall indemnify and keep fully indemnified the Disclosing Party and its Group at all times against all liabilities, costs (including legal costs on an indemnity basis), expenses, damages and losses (including any direct, indirect or consequential losses, loss of profit, loss of reputation and all interest, penalties and other reasonable costs and expenses suffered or incurred by the Disclosing Party and/or its Group) arising from any breach of this Agreement by the Recipient and from the actions or omissions of any Representative of the Recipient.
+6. Term and Termination
+6.1 The obligations of each Party shall, notwithstanding any earlier termination of negotiations or discussions between the Parties in relation to the Purpose, continue for a period of 2 years from the date of this Agreement.
+6.2 If either Party decides not to become, or continue to be involved in the Purpose with the other Party it shall notify the other Party in writing immediately.
+6.3 Termination of this Agreement shall not affect any accrued rights or remedies to which either Party is entitled.
+7 Entire Agreement
+7.1 This Agreement constitutes the entire agreement between the Parties and supersedes and extinguishes all previous drafts, agreements, arrangements and understandings between them, whether written or oral, relating to its subject matter.
+7.2 Each Party agrees that it shall have no remedies in respect of any representation or warranty (whether made innocently or negligently) that is not set out in this Agreement. Each Party agrees that its only liability in respect of those representations and warranties that are set out in this Agreement (whether made innocently or negligently) shall be for breach of contract.
+8. Severance
+If any provision or part-provision of this Agreement is or becomes invalid, illegal or unenforceable, it shall be deemed modified to the minimum extent necessary to make it valid, legal and enforceable. If such modification is not possible, the relevant provision or part-provision shall be deemed deleted. Any modification to or deletion of a provision or part-provision under this Clause shall not affect the validity and enforceability of the rest of the Agreement.
+9. No Waiver
+9.1 Failure to exercise, or any delay in exercising, any right or remedy provided under this Agreement or by law shall not constitute a waiver of that or any other right or remedy, nor shall it preclude or restrict any further exercise of that or any other right or remedy.
+9.2 No single or partial exercise of any right or remedy provided under this Agreement or by law shall preclude or restrict the further exercise of that or any other right or remedy.
+9.3 A Party that waives a right or remedy provided under this Agreement or by law in relation to another Party, or takes or fails to take any action against that Party, does not affect its rights in relation to any other Party.
+10. Assignment
+Except as otherwise provided in this Agreement, no Party may assign, sub-contract or deal in any way with, any of its rights or obligations under this Agreement or any document referred to in it.
+11. Notices
+11.1 Any notice or other communication required to be given under this Agreement, shall be in writing and shall be delivered personally, or sent by pre-paid first class post or recorded delivery or by commercial courier, to each Party required to receive the notice or communication at its address as set out below:
+Kenway: Ian D. Kopp, 681 Riverside Drive, Augusta, Maine 04330
+Company: _______________________________________________
+or as otherwise specified by the relevant Party by notice in writing to each other Party.
+11.2 Any notice or other communication shall be deemed to have been duly received:
+(a) if delivered personally, when left at the address and for the contact referred to in clause 11.1; or
+(b) if sent by pre-paid first class post or recorded delivery, at 9.00 am on the second Business Day after posting; or
+(c) if delivered by commercial courier, on the date and at the time that the courier's delivery receipt is signed.
+11.3 A notice or other communication required to be given under this Agreement shall not be validly given if sent by e-mail.
+12. No Partnership or Agency
+Nothing in this Agreement is intended to, or shall be deemed to, establish any partnership or joint venture between any of the Parties, constitute any Party the agent of another Party, nor authorize any Party to make or enter into any commitments for or on behalf of any other Party.
+13. No Relationship of Employer and Employee
+Nothing in this Agreement is intended to, or shall be deemed to, establish any relationship of employer and employee between the Parties.
+14. Third Party Rights
+A person who is not a Party to this Agreement shall not have any rights to enforce its terms as though it were a Party to it.
+15. Variation
+Except as set out in this Agreement, no variation of this Agreement, including the introduction of any additional terms and conditions, shall be effective unless it is agreed in writing and signed by both Parties.
+16. Governing Law and Jurisdiction
+This Agreement and any dispute or claim arising out of or in connection with it or its subject matter or formation (including non-contractual disputes or claims) shall be governed by and construed in accordance with the laws of the state of Delaware, of the United States of America, without regard to conflict of law rules thereof. The Parties irrevocably agree that the Courts of Delaware shall have exclusive jurisdiction to settle any dispute or claim that arises out of or in connection with this Agreement or its subject matter or formation (including non-contractual disputes or claims).
+This Agreement has been entered into on the date stated above by:
+For and on behalf of Kenway Composites For and on behalf of Company
+_____________________________ _____________________________
+Ian D. Kopp Name
+President Title

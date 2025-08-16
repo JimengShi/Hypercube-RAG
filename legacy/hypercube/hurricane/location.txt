@@ -1,0 +1,844 @@
+{"Puerto Rico": 2, "the United States": 1, "the Caribbean Sea": 1, "Flint": 1, "Michigan": 1, "San German": 1}
+{"Jaluit Atoll": 3, "Marshall Islands": 3, "North Pacific": 1, "North Atlantic": 1, "Caribbean": 1, "Philippines": 1}
+{"North Atlantic": 1}
+{"Honduras": 1}
+{"the Eastern United States": 1}
+{"Florida": 6, "East Coast": 4, "Coast": 1, "Gulf Coast": 2, "the West Coast": 1, "the Bermuda High": 1, "Carolinas": 1, "U.S.": 1, "the Gulf of Mexico": 1, "Atlantic": 1, "Gulf": 1, "Texas": 1, "Louisiana": 1, "New England": 1, "Australia": 1}
+{"Atlantic": 1, "Pacific": 1}
+{"North Atlantic": 1, "Pacific": 1, "Atlantic Oceans": 1, "Hawai'i": 1}
+{"North Pacific": 1, "North Atlantic": 1, "Arctic": 1, "the Atlantic Ocean": 1, "the Arctic Ocean": 1}
+{"Antarctica": 1, "Antarctic": 2}
+{"North Atlantic/Caribbean": 1, "Caribbean": 3, "Coral Gardens Reef": 2, "Belize": 1, "Coral Gardens": 3, "Acropora": 2}
+{"Mexico Beach": 1, "Florida": 1, "the Gulf of Mexico": 1, "the continental shelf": 1, "the Mississippi Bight": 1, "Dauphin Island's": 1}
+{"mid-Atlantic": 1, "Woods Hole": 1, "Massachusetts": 2, "the Mid-Atlantic Bight": 3, "East Falmouth": 1, "Mid-Atlantic Bight": 1}
+{}
+{"Caribbean": 6, "the United States": 1, "Puerto Rico": 1, "Bahamas": 1, "the Dominican Republic": 1, "Eastern Caribbean": 1}
+{"Harris County": 2}
+{"the South Atlantic Ocean": 1, "Atlantic": 1, "Earth": 1}
+{"East Asia": 2, "the Atlantic Ocean": 1, "the United States": 1, "the East Asian Subtropical Jet Stream": 2, "Rossby": 2, "Earth": 1, "the North Atlantic": 4, "Atlantic": 6, "Iowa": 1, "Asia": 1, "EASJ": 1, "U.S.": 2, "the U.S. East Coast": 1, "the East Asian Subtropical Jet": 1}
+{"Atlantic": 3, "U.S.": 1, "Atlantic Ocean": 1, "Caribbean Sea": 1, "the Atlantic Multi-Decadal Oscillation": 1, "Pacific Ocean": 1, "the Atlantic Basin": 1}
+{"Hawai'i Island": 1, "Maui": 1, "Hawai'i": 4}
+{"the Pearl River Delta": 4, "China": 2, "Hong Kong": 2, "Shenzhen": 1}
+{"Houston": 2, "Texas": 12, "U.S.": 3, "Galveston": 1, "Arkansas": 1, "Ohio": 1, "Earth": 3, "the Atlantic basin": 1, "Atlantic": 1, "Bermuda": 1, "the Atlantic Ocean": 1, "Mexico": 1, "Louisiana": 1, "Florida": 1, "North America": 1}
+{"Puerto Rico's": 1, "Mississippi River": 1, "Germany": 1}
+{"Claremont": 1, "California": 1, "Arlington": 1, "Virginia": 1, "Central America": 1, "Caribbean": 2, "Eastern Africa": 1, "Southeast Asia": 1, "South Pacific": 1, "Bahamas": 1, "the United States": 3, "Florida": 1, "U.S.": 2, "Puerto Rico": 1, "Guam": 1, "India": 1, "Ghana": 1, "South Africa": 1, "Singapore": 1, "China": 1, "United States": 1, "Earth": 1}
+{"Australia": 1, "Scott Reef": 2, "Western Australia": 1, "Porites": 1, "Acropora": 1, "Perth": 1, "the Great Barrier Reef": 1}
+{"Earth": 1}
+{"Africa": 1, "South America": 1, "Caribbean": 1}
+{"New York": 1, "North America": 1, "East Asia": 1, "Queensland": 1, "Australia": 1, "New Orleans": 1, "Japan": 1}
+{"Tsukuba": 1, "Japan": 2, "New York City": 1, "Asia": 1, "U.S.": 1, "Grand Bahama Island": 1, "the United States": 1}
+{"Miyagi Prefecture": 3, "Japan": 5, "US": 3, "South Korea": 1, "India": 1, "Philippines": 1, "UK": 1, "Onagawa": 1}
+{"Puerto Rico": 1, "Atlantic": 1, "Puerto Rico's": 1, "North Atlantic": 1, "Texas": 1, "the United States": 1}
+{"the Tombigbee-Alabama Delta": 1, "the Mobile-Tensaw Delta": 1, "North America": 1}
+{"U.S.": 2, "Atlantic": 1, "Gulf": 1, "Florida": 1}
+{"the Atlantic Coast": 1, "the Gulf Coast": 3, "New Orleans": 1, "Atlantic": 1, "Gulf of Mexico": 2, "Gulf Coast": 1, "the East Coast": 3, "U.S.": 3, "Northeast": 1, "Princeton": 1, "New Jersey": 1, "Halifax": 1, "Nova Scotia": 1, "Houston": 1, "Texas": 1, "Europe": 2, "North America": 1}
+{"Brazil": 1, "New Zealand": 1, "the Caribbean Islands": 1, "Santar\u00c3": 1, "m": 1, "Par\u00c3": 1, "\u00a1": 1}
+{"Florida": 4, "the Florida Panther National Wildlife Refuge": 1, "Big Cypress National Preserve": 1}
+{"US": 4, "Atlanta": 1, "Houston": 2, "Dallas": 2, "Denver": 1, "Las Vegas": 1, "Midwest": 1, "Florida": 1, "North Carolina": 1, "Virginia": 1, "Boston": 1, "New Orleans": 1, "Austin": 1, "Los Angeles": 1}
+{"Carolinas": 1}
+{"Florida": 3, "Everglades": 4, "Florida Keys": 1, "Keys": 3, "Everglades National Park": 2, "the National Key Deer Refuge": 1, "Big Pine Key": 4, "Key": 1, "Bartram": 1, "the Everglades National Park": 1}
+{"Atlantic": 2, "Africa": 2, "Earth": 2}
+{"the Madden-Julian Oscillation": 1, "Indian Ocean": 1, "Alaska": 1, "U.S.": 1, "Canada": 1}
+{"Houston": 1, "Southern Texas": 1}
+{"Ohio": 1, "North Carolina": 1}
+{"USA": 1}
+{"Puerto Rico": 5, "Latin America": 1, "Puerto Rico's": 1}
+{"the United States": 1, "Gulf": 1, "Atlantic": 1}
+{"Louisiana": 2, "Texas": 2, "Puerto Rico": 1}
+{"New England": 3, "Florida": 2, "the Gulf of Mexico": 2, "the United States": 3, "Nova Scotia": 2, "Newfoundland": 2, "British Columbia": 1, "Canada": 1, "Atlantic": 1, "Little Bahama Bank": 1, "Mexico": 1, "New Jersey": 1, "Georgia": 1}
+{"New Orleans": 4, "the United States": 1, "Australia": 1}
+{"U.S.": 2, "New Hanover County": 1, "North Carolina": 1}
+{"Puerto Rico": 1, "Abaco": 1, "Grand Bahama": 1, "New Orleans": 1, "Pisa": 1, "Italy": 2, "tropics": 1, "Milan": 1, "Sophia Antinopolis": 1, "France": 1}
+{"Jeju": 1, "the Republic of Korea": 1, "U.S.": 1, "North Pacific": 1, "Florida": 1, "the North Atlantic": 1, "the Gulf of Mexico": 1}
+{"Bahamas": 6, "Grand Bahama": 2, "Abaco": 2, "Dorian": 1}
+{"Woods Hole": 1, "Sargasso Sea": 1, "Bermuda": 3, "Maine": 1}
+{}
+{}
+{"Gulf": 1, "Atlantic": 2, "the United States": 1, "Mexico": 1}
+{}
+{"New York": 3, "New Jersey": 3, "the Eastern Seaboard": 1, "U.S.": 2, "Canada": 1, "Caribbean": 1, "New Orleans": 1}
+{"Coastal North Carolina": 1, "Carolina": 1, "North Carolina": 4, "USA": 2, "the Neuse River Estuary": 1, "Pamlico Sound": 1, "Southeast": 1, "North Carolina's": 1}
+{"U.S.": 3}
+{"Puerto Rico": 1}
+{"Sutton Lake": 9, "Sutton Lake's": 1, "Kingston": 2, "Tennessee": 2, "Dan River": 1, "North Carolina": 2, "the Cape Fear River": 1, "Wilmington": 1, "the Cape Fear": 1, "the United States": 1, "Southeast": 1, "Lake Waccamaw": 1}
+{"Louisiana": 2, "Florida": 1, "Gulf Coast": 1}
+{"Atlantic": 1}
+{"Houston": 2, "Florida": 1, "New York": 1, "the United States": 1, "the Hunan": 1, "China": 3, "the Sichuan province": 1, "South East Texas": 1, "U.S.": 1}
+{"Puerto Rico": 8, "U.S.": 2}
+{"the United States": 3, "Africa": 2, "South America": 3, "Senegal": 2, "Oregon": 1, "Houston": 2, "South Africa": 1, "Peru": 1, "U.S.": 1}
+{"Puerto Rico's": 1, "Tuscaloosa": 1, "Puerto Rico": 3, "Houston": 1, "the Gulf Coast": 1, "California": 2, "United States": 1, "Berkeley": 1}
+{"Houston": 4, "Eastern Texas": 1, "Illinois": 1, "Louisiana": 1}
+{"Louisiana": 4, "Orleans": 1, "St. Bernard": 1, "Jefferson": 1, "Plaquemines": 1, "Lafourche": 1, "Terrebonne": 1, "St. Mary": 1, "the United States": 1}
+{"Puerto Rico": 2, "San Juan": 2, "Atlantic": 2, "North Atlantic": 1, "the United States": 1, "El Yunque": 1, "the United Kingdom": 1}
+{"Puerto Rico": 2, "San Juan": 2, "the San Juan Metropolitan Area": 1}
+{"Virginia": 1, "Dan River": 1, "Tennessee": 1}
+{"U.S.": 2, "Southeast": 2, "Louisiana": 1, "Midwest": 1}
+{"Puerto Rico": 5}
+{"Louisiana": 2, "New Orleans": 1, "Orleans": 2, "Jefferson": 2, "East Baton Rouge": 2, "East Baton Rouge Parish": 1, "Houston": 1, "Puerto Rico": 1, "Dominica": 1, "Carolinas": 1, "Florida": 1}
+{"Kauai": 1, "Maui": 1, "Oahu": 7, "Hawaii": 1}
+{"Puerto Rico": 2, "U.S.": 1, "Caribbean": 5}
+{"Luquillo Mountains": 1, "Puerto Rico": 1, "Washington": 1, "D.C.": 1, "Luquillo": 1, "the Luquillo Mountains": 1}
+{"Washington": 1, "Earth": 2, "Puerto Rico's": 7, "Greenbelt": 1, "Maryland": 1, "Puerto Rico": 2, "New York City": 1}
+{"Earth and Environmental Sciences Area": 1, "Atlantic": 1, "Pacific": 1, "Indian Oceans": 1, "Colorado": 1, "Houston": 1}
+{"Houston": 7, "Iowa": 2, "Gulf Coast": 1, "Eastern Seaboard": 1, "the United States": 1, "U.S.": 1}
+{"Texas": 1, "the Gulf of Mexico": 1}
+{"St. Tammany Parish": 4, "New Orleans": 1, "Bahamas": 1, "Florida": 1, "Louisiana": 1}
+{"India": 2, "Atlantic": 7, "Atlantic Ocean": 1, "Richland": 1, "Washington": 1, "Pacific Ocean": 1, "La Ni\u00c3\u00b1a": 6, "the North Atlantic": 1, "the Atlantic Ocean": 1, "Americas": 1}
+{"Florida": 2, "Earth": 5, "kilometers": 1, "Pasadena": 1, "California": 1, "Washington": 1, "Greenbelt": 1, "Maryland": 1, "Hampton": 1, "Virginia": 1}
+{"the American Northeast": 1, "USA": 1, "earth": 1, "Earth": 1}
+{"Midwest": 1, "the United States": 3, "Earth": 2, "Texas": 1, "the Atlantic Ocean": 1}
+{"Australia": 1}
+{"South Santee River": 4, "South Carolina": 7, "Duck": 4, "North Carolina": 6, "the Albemarle and Pamlico Sounds": 2, "Neuse": 1, "Pamlico Rivers": 1, "Edisto Beach": 2, "Virginia": 1, "Cape Charles Light Virginia": 1, "Chesapeake Bay": 1, "New Point Comfort": 1, "North and South Carolina": 1}
+{"Puerto Rico": 7, "U.S.": 3, "the United States": 1}
+{"The Bahama Nuthatch": 3, "Grand Bahama Island": 1, "Palm Beach": 1, "Florida": 1, "Caribbean": 2, "The Bahama Islands": 1, "Lucaya Estates": 1, "the Bahama Nuthatch": 1, "Grand Bahama Parks": 1, "Grand Bahama": 1}
+{"Atlantic": 4, "North Atlantic": 1}
+{"Pasadena": 1, "California": 1, "Greenland": 11, "Houston": 1, "Kulusuk": 1, "Iceland": 2, "Thule": 1, "U.S.": 1, "Arctic": 1, "Canada": 1, "Seattle": 1}
+{"U.S.": 1, "Houston": 1}
+{"Latin America": 1, "Caribbean": 1, "Puerto Rico": 1, "North Atlantic": 1}
+{"The United States": 1, "Arctic": 6, "U.S.": 1, "Montana": 1, "South Dakota": 1}
+{"The Caribbean": 1, "Puerto Rico": 1}
+{"Texas": 4, "the Guadalupe River": 4, "Kapoor": 1, "Kerr County": 1, "the San Antonio Bay": 1, "Gulf of Mexico": 1, "Victoria": 1}
+{"the Atlantic Ocean": 2, "Barbuda": 2, "Caribbean": 5, "Leeward Islands": 1, "St. Marin": 1, "St. Barthelemy": 1, "Anguilla": 2, "the Virgin Islands": 1, "the Gulf of Mexico": 1, "Sun": 9, "Earth": 10, "the Leeward Islands": 1, "Bahamas": 3, "Little Inagua": 1, "Cuba": 1, "Boulder": 1, "Colorado": 1, "Jackson": 1, "Mississippi": 1, "the United Kingdom": 1, "Mars": 1, "Atlantic": 1, "St. Martin": 1, "Great Inagua": 1, "Crooked Island": 1, "U.S.": 2, "British Virgin Islands": 1, "the Cuban Keys": 1, "Turks and Caicos": 1, "United States": 1}
+{"Boulder": 1, "Colorado": 1, "Texas": 1, "Cuba": 1, "the Amazon River": 1, "Brazil": 1, "Amazon": 1, "Ann Arbor": 1, "tropics": 1}
+{"St. Louis": 1, "Atlantic Ocean": 1, "Turks and Caicos": 2, "Boston": 1, "Pine Cay": 1}
+{"Saharan": 4, "the Atlantic Ocean": 1, "the Gulf of Mexico": 2, "Earth": 1, "Atlantic": 1, "Gulf of Mexico": 1, "Texas": 1}
+{"New Orleans": 1, "the Mississippi River Delta": 1, "Puerto Rico": 1, "Florida": 1, "Georgia": 1}
+{"Cuba": 1, "Atlantic": 1, "West Africa": 1}
+{}
+{"Puerto Rico": 3, "Earth": 3, "Arecibo": 1, "El Yunque National Forest": 2, "El Yunque": 3, "Alaska": 2, "Arctic": 1}
+{"Miami": 1, "Gulf": 1, "U.S.": 2, "Rossby Waves": 2, "Earth": 1}
+{"Atlantic": 2, "London": 1, "United Kingdom": 1, "Florida": 1, "Puerto Rico": 1, "Texas": 1, "offshore Caribbean": 1, "the North Atlantic": 1, "Atlantic Ocean": 1, "U.S.": 1}
+{"Texas": 2, "Houston": 2, "the Western North Pacific Region": 1, "Southeast Asia": 1, "the Australian Region": 1, "the North Atlantic Region": 1, "U.S.": 1, "the North Atlantic": 1, "the Western North Pacific": 1, "Earth": 1, "Northern": 1, "Southern": 1}
+{"Puerto Rico": 3, "San Juan": 1}
+{"the U.S. Gulf Coast": 1, "Houston": 1, "United States": 1, "Yellowstone": 1, "Cheyenne": 1}
+{"Denver": 1}
+{}
+{"Houston": 1, "the Gulf of Mexico": 1, "Gulf": 3}
+{"Atlantic": 4, "the North Atlantic": 1, "the Lesser Antilles": 1, "the Virgin Islands": 1, "Saint Kitts": 1}
+{"Indian": 1, "north Atlantic Oceans": 1, "Pacific Ocean": 2, "La Ni\u00c3\u00b1a": 2, "Pacific": 4, "the Pacific Ocean": 1, "East Asia": 1, "IPRC": 1}
+{"Delft": 1, "Houston": 1, "Harris County": 1, "US": 2, "Harris": 1, "Netherlands": 2, "Texas": 1}
+{"Harris County": 5, "San Antonio": 1}
+{"Hawai'i": 4, "the Rocky Mountains": 1, "the Western Hemisphere": 1, "Waipi'o": 1, "Kohala": 1, "Maui": 1, "the Hawaiian Kingdom": 1, "aina": 1}
+{"Ningaloo Reef": 1, "Australia": 1, "Western Australia": 1, "Ningaloo": 1}
+{"Puerto Rico": 1, "Puerto Rico's": 1, "Rico": 1, "the United States": 1}
+{"Earth": 1, "the Big Thicket": 1, "Beaumont": 1, "South America": 1, "Big Thicket": 1}
+{"Haiti": 1, "the Gulf of Mexico": 3, "Arctic": 1, "the Yucatan Strait": 1, "New Orleans": 1, "Yucatan Strait": 1, "US": 1, "Asia": 1}
+{"America": 1, "New Jersey": 1}
+{"New York City": 1}
+{"the City of Flagler Beach": 1, "Florida": 1, "Flagler Beach": 3, "US": 1}
+{"Pacific Ocean": 1, "Asia": 1, "Caribbean": 1, "the East Pacific": 1}
+{"Puerto Rico's": 1, "Puerto Rico": 3, "West Lafayette": 1, "Indiana": 1, "Ann Arbor": 1, "Michigan": 1}
+{"Northeast": 2, "Norfolk": 1, "Virginia": 1, "Manhattan": 1, "New York City": 1, "Boston": 3, "Massachusetts": 1, "the North Atlantic Oscillation": 1, "Pacific": 1, "mid-Atlantic": 1}
+{"Grenville Bay": 1, "Grenada": 1, "Grenville": 1, "2015.\"Grenada": 1, "the United States": 1}
+{"Manchester": 3, "Houston": 1}
+{"Houston": 2, "U.S.": 1}
+{"Colorado": 2, "California": 3, "Texas": 1, "the United States": 1}
+{"Ontario": 1, "the Region of Waterloo": 1, "Canada": 1}
+{"the Blanco River": 2, "The Texas Hill Country": 1, "Wimberly": 1, "Flash Flood Alley": 2, "North America": 1, "Texas": 1, "Wimberley": 2, "Houston": 2, "Earth": 1}
+{"New York City": 1, "New Jersey": 1, "New York": 1, "Manhattan": 2, "Atlantic": 1, "Houston": 1, "Puerto Rico": 1}
+{"Jamaica": 4, "the Jamaican Blue Mountains": 1, "the Blue Mountains": 1}
+{"U.S.": 1, "Gulf Coast": 3, "Caribbean": 1, "Texas": 1, "the Gulf of Mexico": 1, "Berkeley": 1, "California": 1, "De Bilt": 1, "Netherlands": 1}
+{"India": 2, "the Arabian Sea": 10, "South Asia's": 1, "Yemen": 1, "Oman": 1, "Somalia": 1, "Socotra": 1, "Sri Lanka": 1, "Arabian Sea": 1, "Africa": 1, "the Middle East": 1, "South Asia": 2, "the North Indian Ocean": 1}
+{"the Gulf Coast": 1, "Houston": 1, "Texas": 2, "Florida": 1}
+{"Miami-Dade County": 1, "Florida": 2}
+{"Sahel": 2, "sub-Saharan Africa": 1, "the Sahara desert": 1, "Earth": 1, "North Atlantic": 2, "the North Atlantic": 1}
+{"Texas": 6, "Houston": 6}
+{"Earth": 3}
+{"Latin America": 1, "Caribbean": 1, "El Oro": 1, "Ecuador": 1, "Sinaloa": 1, "Mexico": 1, "Usulutan": 1, "El Salvador": 1}
+{"Central America's": 1, "Belize": 5, "Neotropics": 1}
+{"Texas": 3, "Gulf": 2, "Flower Garden Banks": 1, "Galveston": 1, "Corpus Christi": 1, "the Flower Garden Banks": 2, "Houston": 1, "the East Flower Garden Banks": 1}
+{"South Carolina": 1, "Charleston": 1, "oceans": 1, "Carolina": 1}
+{"New York": 1, "New York City": 1}
+{}
+{"Florida": 7, "Bahamas": 1, "the Dry Tortugas": 1, "Atlantic": 3, "the Northern Hemisphere": 1, "Barbados": 1, "U.S.": 1}
+{"Brevard County": 4, "Florida": 3, "U.S.": 1, "the Archie Carr National Wildlife Refuge": 5, "the Archie Carr National Wildlife RefugeUCF": 1, "PAFB": 1, "Central Brevard": 1}
+{"New Orleans": 1}
+{"Gulf": 6, "the Flower Garden Banks National Marine Sanctuary": 1, "Texas": 2, "Gulf of Mexico": 1, "Galveston Bay": 1, "Brazos": 1, "Trinity": 1, "Sabine": 1, "the Flower Garden Banks": 2, "Galveston": 1}
+{"New Orleans": 3, "New Orleans'": 2}
+{"Netherlands": 1, "Texas": 1, "Armand Bayou": 3, "Harris County": 2, "Armand Bayou's": 1, "Houston": 1, "Pasadena": 1, "Deer Park": 1, "La Porte": 1, "Taylor Lake Village": 1, "Clear Creek": 1}
+{"Texas": 1, "Florida": 1}
+{"U.S.": 1}
+{"College Station": 1, "Romania": 1, "Brazil": 1, "France": 1, "Texas": 1}
+{"New Orleans": 2, "U.S.": 2}
+{"Connecticut": 2}
+{"Sydney": 2, "Australia": 6, "Queensland": 1, "Tasmania": 1, "U.S.": 1, "Atlantic": 1, "Nine Mile Beach": 1, "Forster": 1, "Narrabeen-Collaroy": 1, "El Ni\u00c3\u00b1o": 1, "La Ni\u00c3\u00b1a": 1}
+{"UK": 1}
+{"Sahara": 4, "Earth": 1, "the Northern Hemisphere": 1, "Saharan": 1}
+{"Boulder": 1, "Colorado": 2, "Golden": 1, "U.S.": 1, "Atlantic": 1, "Maine": 1, "Carolinas": 1, "the West Coast": 1, "Great Lakes": 1, "Rhode Island": 1, "the Atlantic coast": 1}
+{"Tampa": 1, "FL": 1, "the Atlantic basin": 1, "North Atlantic Hurricane Season": 1, "Azores": 1, "Central America": 1, "the North Atlantic Ocean": 1, "Haiti": 1}
+{"Bangladesh": 1}
+{"the Pacific Ocean": 2}
+{"Atlantic": 2, "Earth": 1, "the Florida Keys": 1, "Caribbean": 1, "South America": 1, "Brazil": 1, "the Dry Tortugas": 2, "the Gulf of Mexico": 1}
+{"U.S.": 1, "Las Vegas": 1, "Atlanta": 1, "Riverside": 1, "California": 1}
+{"the Caribbean Sea": 3, "the North Brazil Current": 1, "Amazon": 1, "the Gulf of Mexico": 1, "Loop Current": 1, "Atlantic": 1, "Haiti": 1, "Cuba": 1, "United States": 1, "the Caribbean Sea's": 1}
+{"Hawaii": 1}
+{"Atlantic": 4, "U.S.": 3}
+{"Charleston": 1, "Boston": 1}
+{"the United States": 2, "Georgia": 1, "North Carolina": 1, "South Carolina": 1, "Virginia": 1, "the East Coast": 1, "Midwest": 1, "South": 1}
+{"New Orleans": 1, "the Florida Panhandle": 1}
+{"the United States'": 1, "New Orleans": 1, "Mobile Bay": 3, "Alabama": 3, "Mobile Bay's": 1, "Eastern Shore": 1, "Mobile": 1}
+{"Caribbean": 10, "North America": 1, "UK": 1, "New York": 2, "Northeast": 2, "USA": 4, "Belize": 2, "Bermuda": 1, "Florida": 1, "Atlantic": 3, "Cape Verde": 1, "the Northern Hemisphere": 2, "Earth": 2, "the United States": 3, "Canada": 1, "US": 1, "New Jersey": 1, "the Northeastern United States": 1}
+{"upper Barataria Bay": 1, "the Mississippi River Delta": 2, "Barataria Bay": 1, "Mississippi River": 1, "Pasadena": 1, "California": 2, "Palmdale": 1, "Deepwater Horizon": 1, "Earth": 4}
+{"New Orleans": 1, "Louisiana": 1, "the United States": 1}
+{"Arctic": 5, "Greenland": 2, "Haiti": 2, "Russia": 3, "sub-": 2, "Alaska": 2, "Canada": 3, "Marrakech": 1, "Morocco": 1, "Arctic Russia": 1, "Ob River": 1, "Novaya Zemlya": 1, "Northern Hemisphere": 1, "the Southern Hemisphere": 1, "South America": 3, "Australia": 3, "Africa": 2, "Argentina": 1, "Paraguay": 1, "the Great Barrier Reef": 2, "Pacific": 1, "Fiji": 1, "Kiribati": 1, "Southern Ocean": 1, "the Drake Passage": 1, "Antarctica": 1, "Cape Grim": 1, "COArctic": 1, "Antarctic": 1, "Cuba": 1, "the Bahamas": 1, "the United States": 1, "South Carolina": 1, "Yangtze": 1, "China": 1, "Sri Lanka": 1, "Sahel": 1, "Niger River": 1, "Mali": 1, "Pretoria": 1, "Johannesburg": 1, "Thailand": 1, "Phalodi": 1, "India": 1, "the Middle East": 1, "north Africa": 1, "Mitribah": 1, "Kuwait": 1, "Asia": 1, "Basra": 1, "Iraq": 1, "Delhoran": 1, "Fort McMurray": 1, "Alberta": 1, "Southern Africa": 1, "South": 1, "East Asia": 1}
+{"China": 1, "Norway": 1, "Earth": 1}
+{}
+{"North Carolina": 1, "North Atlantic": 2, "the United States": 1, "U.S.": 2}
+{"New Jersey": 4, "New Jersey's": 1, "Jersey": 2, "mid-Atlantic": 1, "Cape May": 1, "Long Island": 1, "New England": 1, "North Atlantic": 1}
+{"Haiti": 3, "Caribbean": 1, "Cuba": 5, "Puerto Rico": 1, "Greenbelt": 1, "Maryland": 1, "Bahamas": 5, "Florida": 5, "Guantanamo": 1, "Santiago de Cuba": 1, "Holguin": 1, "Granma": 1, "Las Tunas": 1, "the Southeastern Bahamas": 1, "Inaguas": 1, "Mayaguana": 1, "Acklins": 1, "Crooked Island": 1, "Long Cay": 1, "Ragged Island": 1, "the Central Bahamas": 1, "Long Island": 2, "Exuma": 1, "Rum Cay": 1, "San Salvador": 1, "Cat Island": 1, "the Northwestern Bahamas": 1, "Abacos": 1, "Andros Island": 1, "Berry Islands": 1, "Bimini": 1, "Eleuthera": 1, "Grand Bahama Island": 1, "New Providence": 1, "Golden Beach": 2, "Flagler": 2, "Volusia": 2, "Lake Okeechobee": 1, "Camaguey": 1, "Fernandina Beach": 1, "Turks and Caicos Islands": 1, "Chokoloskee": 1, "the Florida Keys": 1, "Florida Bay": 1, "Cabo Lucrecia": 1, "Baracoa": 1}
+{"Hawaii": 3, "Sheffield": 1, "New Orleans": 1, "Philippines": 1, "the South Atlantic": 1, "Brazil": 1, "Arctic": 3, "Pacific": 1, "El Ni\u00c3\u00b1o": 1}
+{"Scotland": 2, "Clyde": 5, "Strathclyde": 2, "the Firth of Clyde": 1, "Atlantic": 1, "US": 1}
+{"Gulf Coast": 2, "Western Hemisphere": 1, "the North Atlantic": 1, "Gulf Coast Climate Change Survey": 1, "Texas": 1, "Louisiana": 1, "Mississippi": 1, "Alabama": 1, "Florida": 1, "the Gulf Coast": 2, "Atlantic": 1}
+{"the United States": 2, "the Eastern United States": 2}
+{"Gulf Coast": 1, "Alabama": 1, "Arkansas": 1, "Florida": 1, "Georgia": 1, "Louisiana": 1, "Mississippi": 1, "Oklahoma": 1, "Tennessee": 1, "Texas": 1}
+{"the North Atlantic": 1, "the United States": 1, "Philippines": 1, "Mexico": 1, "tropics": 1, "Atlantic": 1, "Pacific": 1, "North Pacific": 1}
+{"North Carolina": 3, "the Outer Banks": 2, "Wilmington": 1, "Raleigh": 1, "Jacksonville": 1, "the United States": 1}
+{"the Gulf of Mexico": 3, "Gulf": 3, "Gulf of Mexico": 2, "Mississippi River": 2, "Mississippi": 1, "Atchafalaya": 1}
+{"Redbird Reef": 5, "the Indian River Inlet": 1, "the East Coast": 1, "Mid-Atlantic": 1}
+{"Washington": 1, "U.S.": 1, "the Gulf Coast": 1, "Atlantic": 2, "Earth": 1}
+{"U.S.": 1}
+{"United States": 3, "U.S.": 1, "Atlantic": 1}
+{"Woods Hole": 1, "Jacksonville": 1, "Fla.": 1, "San Juan": 1, "Puerto Rico": 1, "Washington": 1, "D.C.": 1, "the Atlantic Ocean": 1, "Narragansett Bay": 1, "Rhode Island": 1, "Houston": 1, "Quonset Point": 1, "R.I.": 1}
+{}
+{"Earth": 3}
+{}
+{"mid-Atlantic": 3, "New Jersey": 2, "Earth": 1, "the East Coast": 1, "Atlantic City": 1, "mid": 1, "-": 1, "Atlantic": 1, "U.S.": 1, "Asia": 1, "the Yellow Sea": 1, "Shanghai": 1, "China": 2, "Qingdao": 1}
+{"Caribbean": 10, "the Northern Hemisphere": 2, "Spain": 3, "U.S.": 1, "Hattiesburg": 1, "Lugo": 1, "Tucson": 2, "the Florida Keys": 1, "Florida": 1, "the Western Hemisphere": 1, "Florida Keys": 2, "Earth": 2}
+{"Staten Island": 1, "New York Harbor": 4, "Hudson": 1, "Raritan Rivers": 1, "New York": 1, "New York's": 1}
+{"Atlantic Ocean": 1, "Atlantic": 2, "Maine": 1, "Nova Scotia": 1}
+{"Alex": 4, "Azores": 6, "GOES-East": 1, "the Central Atlantic Ocean": 1, "Greenbelt": 1, "Maryland": 1, "Atlantic Ocean": 2, "North Atlantic": 1, "Faial": 2, "Pico": 2, "Sao Jorge": 2, "Graciosa": 2, "Terceira": 2, "Sao Miguel": 2, "Santa Maria": 2, "Greenland": 1}
+{"the Central Pacific Ocean": 1, "Pali": 4, "Pacific": 1, "Hawaii": 2, "Johnston Island": 1, "Honolulu": 1}
+{"Pacific": 2, "Visayan": 1, "Philippines": 1, "Atlantic": 1}
+{"Australia": 1, "Italy": 1, "the United States": 2, "New England": 1, "Woods Hole": 1, "Massachusetts": 1, "New Jersey": 1, "New York": 1, "New Orleans": 1}
+{"\"Tampa": 1, "Florida": 1, "Tampa": 6, "the United States": 1, "Los Angeles": 4, "Portland": 2, "Tucson": 1, "Raleigh": 1}
+{"Houston": 2, "Galveston Bay": 3, "the Houston Ship Channel": 1, "U.S.": 2}
+{"Antarctic": 1}
+{"Loop Current": 1, "the Mississippi River": 1, "the Gulf of Mexico": 2, "the Loop Current": 1}
+{"Atlantic": 4, "the North Atlantic Ocean": 2, "US": 1}
+{"New York": 2, "New Jersey": 3, "New York City's": 1}
+{}
+{"Missouri": 1, "New Orleans": 2, "the Atachafalaya Basin": 1}
+{"Louisiana": 2, "Gulf Coast": 1, "India": 1, "Bangladesh": 1, "Myanmar": 1, "Cambodia": 1, "Nigeria": 1, "Pakistan": 1, "Iraq": 1, "Mozambique": 1, "Senegal": 1, "Brazil": 1, "China": 1, "Indonesia": 1, "Philippines": 1, "Vietnam": 1, "Thailand": 1}
+{"South America": 2, "Amazon": 12, "El Ni\u00c3\u00b1o": 1, "North Atlantic": 3, "the Intertropical Convergence Zone": 1, "Atlantic": 1, "Atlantic Ocean": 1, "Greenbelt": 1, "North America": 1, "Earth": 1, "North and Central America": 1, "the U.S. West": 1, "the North Atlantic": 1}
+{"the Gulf of Mexico": 3, "the Loop Current": 2, "the Gulf Stream": 1, "the U.S. East Coast": 1, "Gulf of Mexico": 1, "Deepwater Horizon": 1, "Louisiana": 1}
+{"New Jersey": 8, "Cape May": 1, "Louisiana": 1, "Mississippi": 1, "Gulf Coast": 1, "U.S": 1}
+{"U.S": 1, "U.S.": 2, "Germany": 2, "Atlantic": 3, "Gulf": 2, "Pacific": 2, "New York City": 2, "Newfoundland": 1, "the North Atlantic": 1}
+{"Mississippi": 4, "Nile River": 1, "Egypt": 1, "Java": 1}
+{"the Gulf of Mexico": 2, "Gulf of Mexico": 2, "Gulf": 3, "Mississippi River": 1, "Mississippi": 1, "Atchafalaya": 1, "the Mississippi River": 1}
+{"the Grand Wash Fault": 1, "Grand Canyon": 3, "the Grand Wash Cliffs": 2, "the Grand Wash": 1, "Lake Meade": 1, "the Colorado River's": 1, "Grand Wash": 1}
+{"Texas": 2, "Louisiana": 5, "Mississippi": 1, "Alabama": 2, "Florida": 3, "Gulf": 6, "the Gulf of Mexico": 3, "Gulf of Mexico": 1, "U.S.": 4, "the Gulf Coast": 1}
+{"South Florida": 1, "Atlantic": 2, "Africa": 1, "Gulf": 1, "the United States": 1}
+{"U.S.": 1, "United States": 3}
+{"Earth": 1, "South Korea": 1, "Atlantic": 1}
+{"Maysak": 3, "the Northwest Pacific Basin": 1, "Philippines": 1}
+{"the North Atlantic": 1, "the Gulf of Mexico": 1, "Atlantic": 4, "U.S.": 2, "North Atlantic": 1, "El Ni\u00c3\u00b1o": 2, "the Atlantic Multidecadal Oscillation": 1, "Pacific": 1, "Baja California": 1, "Mexico": 1, "Central America": 1}
+{"Australia": 3, "Atlantic": 2, "Gulf of Mexico": 1, "Caribbean": 1, "La Ni\u00c3\u00b1as": 1}
+{}
+{"the Atlantic Multidecadal Oscillation": 1, "the North Atlantic Ocean": 1, "the Atlantic ocean": 1, "Gulf": 2, "U.S.": 1, "Earth": 1}
+{"U.S.": 1, "Canada": 1, "Western Africa": 1, "Earth": 3, "West Africa": 3, "Africa": 3, "the Atlantic Ocean": 1}
+{"Caribbean": 3, "Playa del Carmen": 1, "Cancun": 1, "Yucatan": 5, "the Yucatan Peninsula": 1, "the Gulf of Mexico": 1}
+{"the Florida Straits": 3, "Florida": 2, "Bahamas": 3, "the Gulf Stream": 1, "South Florida": 2, "the South Pacific": 1}
+{"New Orleans": 1, "USA": 1, "Philippines": 1, "UK": 2, "Netherlands": 1}
+{"the Greenland Ice Sheet": 4, "New York City": 2, "Greenland": 5, "Earth": 1, "Arctic": 3}
+{"San Francisco": 1, "Texas": 1, "Delaware": 1, "Buenos Aires": 1, "the Atlantic Ocean": 1}
+{"Atlantic": 2, "Gulf": 2, "Texas": 1, "Maine": 1, "New York": 3, "Philadelphia": 4, "Jacksonville": 1, "Florida": 1, "Virginia Beach": 1, "Virginia": 1, "Hartford": 1, "Connecticut": 1, "Memphis": 1, "Tennessee": 1, "Dallas": 1, "Pittsburgh": 1, "Atlanta": 1, "Buffalo": 1, "Miami": 3, "New Orleans": 2, "New York City": 1, "Baltimore": 1, "Washington": 1, "D.C.": 1, "U.S.": 1}
+{"New Jersey": 2}
+{"New Orleans": 1, "Cape Canaveral's": 1, "Cape Canaveral": 1, "the Atlantic Ocean's": 1, "Virginia": 1, "Wallops": 1, "Florida": 1}
+{"El Ni\u00c3\u00b1o's": 3, "the Northeastern Pacific": 2, "El Ni\u00c3\u00b1o": 4, "Pacific Ocean": 1, "La Ni\u00c3\u00b1a": 1, "El Ni\u00c3\u00b1o/": 1, "Northeastern Pacific": 1, "Mexico": 1, "U.S.": 1}
+{"U.S.": 2, "the United States": 1, "Philippines": 1}
+{"New York City": 1}
+{"the North Pacific": 1, "the Hawaiian Islands": 1, "North Pacific": 2, "Pacific": 4, "Western": 1, "Papua New Guinea": 1, "the Gulf of Alaska": 1}
+{"North Atlantic": 2, "Midwest": 5, "the United States": 2, "Florida": 1, "the East Coast": 1, "the Gulf Coast": 1, "Illinois": 1, "Wisconsin": 1, "Michigan": 1, "the Rocky Mountains": 1, "Iowa": 1, "United States": 1}
+{"New York City": 2}
+{"Australia": 2, "Queensland": 1, "US": 1, "New York": 1}
+{"the U.S. Virgin Islands": 1, "Hurricane Hole": 2, "St. John": 2, "Earth": 1, "Boulder": 1}
+{"Stony Brook": 1, "Bellevue": 1, "WA": 1, "Long Island": 1}
+{"Florida": 3, "Apalachee Bay": 1, "the Gulf Coast": 1, "northwestern Florida": 2}
+{"Greenbelt": 1, "Maryland": 1, "Africa": 1, "Atlantic": 1, "tropics": 1, "Earth": 5, "Hampton": 1, "Virginia": 1, "Moffett Field": 1, "California": 2, "Edwards": 1}
+{"Greenbelt": 1, "Maryland": 1, "Africa": 1, "Atlantic": 1, "tropics": 1, "Earth": 5, "Hampton": 1, "Virginia": 1}
+{"Atlantic": 1, "the United States": 1}
+{}
+{"the Hawaiian Islands": 2, "Hawai'i": 1, "the Island of Hawaii": 1, "Kilauea": 2, "US": 1, "Hawaiian Islands": 1}
+{"Kelvin-Helmholtz": 1}
+{"Huntsville": 1, "Alabama": 1, "Earth": 2, "Atlantic Ocean": 1, "Virginia": 2, "Hampton": 1}
+{"Zhouqu County": 1}
+{}
+{"Japan": 1, "Arthur": 3, "South Carolina": 1, "Atlantic": 1, "the U.S. East Coast": 1, "the Shackleford Banks": 1, "Cape Lookout": 1, "Beaufort": 1, "North Carolina": 1, "Greenland": 1, "Greenbelt": 1, "Maryland": 1, "Earth": 1, "Monterey": 1, "California": 1, "Hawaii": 1, "Florida": 1}
+{"El Ni\u00c3\u00b1o": 2, "Pacific": 1, "San Diego": 1, "Earth": 6, "equator": 1, "Mediterranean": 1, "Black Sea": 1, "Pasadena": 1, "California": 1, "the United States": 1}
+{"New Jersey": 1, "Jersey Shore": 1}
+{"America": 1}
+{"U.S.": 1}
+{"U.S.": 4}
+{"the Atlantic Ocean": 1, "Atlantic Ocean": 1, "Virginia": 1, "Pasadena": 1, "California": 1, "Earth": 5, "the United States": 1}
+{"El Ni\u00c3\u00b1o": 3, "Atlantic": 5, "Africa": 1, "North Atlantic Ocean": 1, "Caribbean Sea": 1, "Gulf of Mexico": 1, "Ph.D.": 1, "Atlantic Ocean": 2, "Pacific": 1, "Western Pacific": 1, "Indian Ocean": 1}
+{"Eastern Pacific": 2, "El Ni\u00c3\u00b1o": 3, "Pacific": 1, "The eastern Pacific": 1, "the Eastern Pacific": 1, "Hawaii": 1, "United States": 1, "Mexico": 1, "Central America": 1, "Central Pacific": 1, "Atlantic": 1}
+{"Pacific": 3, "El Ni\u00c3\u00b1o": 1, "the central Pacific": 1, "Hawaii": 2, "Central Pacific": 1, "Honolulu": 1}
+{"Indian Ocean": 1, "Hadley": 1, "tropics": 1}
+{"Louisiana, USA": 1, "Louisiana": 2, "parishes": 1, "North Atlantic": 1}
+{"Africa": 5, "Atlantic": 5, "African": 1, "the Atlantic Ocean": 1, "West Africa": 2, "the United States": 1, "Earth": 2, "Sahara": 3, "Sahel": 7, "Guinea": 3, "Sahara Desert": 1, "Guinea Coast": 1, "the Atlantic basin": 1, "the Sahara Desert": 1, "Caribbean": 1}
+{"New Jersey": 4, "the East coast": 1, "New Jersey Shore": 1}
+{"U.S.": 1, "Atlantic": 1, "East Coast": 1, "Florida": 1, "Nova Scotia": 1, "North American Mesoscale": 1, "Poquoson": 1, "Long Island": 1, "Chesapeake Bay": 1, "New York City": 2}
+{}
+{"the Atlantic Ocean": 1, "Atlantic": 1}
+{"Atlantic": 2, "United States": 1, "the North Atlantic Ocean": 1, "the mid-Atlantic": 1, "New England": 2, "Midwest": 1, "Caribbean": 1, "North Carolina": 1, "Indiana": 1, "New Brunswick": 1, "Canada": 1, "the U.S. mid-Atlantic": 1, "Utah": 1}
+{"the Gulf Coast": 1, "the Atlantic Ocean": 1, "the Pacific)": 1, "U.S.": 1, "New Orleans": 1, "China": 1}
+{"New York": 1, "New Orleans": 3, "the United States": 1}
+{"New Jersey": 2, "New York": 1, "Connecticut": 1, "Atlantic": 2, "mid": 1, "-": 1, "New England": 1}
+{"Santa Rosa Island": 2, "Panhandle": 2, "U.S.": 1, "Coney Island": 1, "N.Y.": 1, "Florida": 1, "Fort Walton Beach": 1}
+{"Arctic": 8, "the Aleutian Islands": 1, "Iceland": 1}
+{"Chicago": 1}
+{}
+{"Atlantic": 1, "Long Island": 2, "N.Y.\"Hurricane": 1, "Long Island's": 1, "Fire Island National Seashore": 1, "New York's": 1, "West Hampton Dunes": 1, "N.Y.": 1}
+{"Washington": 1, "D.C.": 1}
+{"Arctic": 8, "Canada": 1, "Scandinavia": 1, "Russia": 1, "Alaska": 1, "Columbus": 1, "Ohio": 1, "Greenland": 1, "the Arctic Ocean": 1}
+{"Long Island": 6, "New York": 1, "the New York Harbor": 1, "Texas": 1, "Galveston": 2, "the South Shore Estuary Reserve": 1, "Earth": 1}
+{"Sea level": 1, "the North Atlantic": 1, "New York City": 1}
+{"Onslow Bay": 2}
+{"New Orleans": 1, "the Gulf Coast": 1}
+{"Miami": 1, "Fla.": 1, "Philippines": 6, "Luzon": 1, "Camarines Norte & Sur": 1, "Catanduanes": 1, "Mindoro Provinces": 1, "Marinduque": 1, "Northern Palawan": 1, "Southern Quezon": 1, "Romblon": 1, "Sorsogon": 1, "Albay": 1, "Ticao": 1, "Burias island": 1, "Visayas": 1, "Squijor": 1, "Bohol": 1, "Negros Occidental": 1, "Aklan": 1, "Capiz": 1, "Antique": 1, "Cebu": 2, "Iloilo": 1, "Guimara": 1, "Northern Samar": 1, "Masbate": 1, "Cebu City": 1, "Bantayan island": 1, "Eastern Samar": 1, "Samar": 1, "Leyte": 1, "Southern Leyte": 1, "Biliran island": 1, "Mindanao": 1, "Misamis Oriental": 1, "Agusan del Sur": 1, "Camiguin": 1, "Surigao del Norte & Sur": 1, "Agusan del Norte": 1, "Siargao Island": 1, "Dinagat province": 1, "Micronesia": 1, "Kayangel": 1, "Koror": 1, "the Republic of Palau": 1, "Ngulu": 1, "Yap State": 1, "Haiyan": 1, "Manila": 2, "the South China Sea": 1, "Vietnam": 1}
+{"US": 2, "New Jersey": 6}
+{"New York City": 1, "Denver": 1, "Atlantic": 1, "Staten Island": 2, "Long Island": 1, "South Beach": 1, "Manhattan": 1, "Battery Park": 1, "the Financial District": 1, "Coney Island": 1, "Sandy Hook": 1, "New Jersey": 1, "Hilo": 1, "Hawaii": 1}
+{"New York": 4, "New York's": 1, "New York City's": 1, "Barnegat Bay": 1, "New Jersey": 1, "Battery Park": 1, "Greenland": 1, "Antarctic": 1}
+{"Barnegat": 1, "Delaware Bays": 1, "New Jersey": 2, "New Jersey's": 1, "Barnegat Bay": 1}
+{"the United States": 1, "U.S.": 1, "San Diego": 1, "Atlantic": 1}
+{"the Eastern Seaboard": 1}
+{"Atlantic": 1, "Houston": 1, "US": 1, "Africa": 1, "the Saharan Air Layer": 1, "Easterly Waves": 1, "SAL": 1, "Atlantic Ocean": 1, "North Africa": 1, "the Caribbean Basin": 1}
+{"The Netherlands": 1, "Houston": 3, "Galveston": 2, "Texas": 1, "Maeslant": 1, "Eastern Scheldt": 1, "Netherlands": 1}
+{"Greenbelt": 1, "Wallops Island": 1, "the Saharan Air Layer": 2, "Wallops": 1, "Erin": 3, "Atlantic Ocean": 1, "Saharan Air Layer": 1, "Atlantic": 1, "Moffett Field": 1, "Calif.": 2, "Edwards": 1, "Huntsville": 1, "Ala.": 1, "Pasadena": 1, "Washington": 1, "Va.": 1}
+{"East Coast": 1, "South Carolina": 1, "Maine": 1, "Liberty Island": 1, "Ellis Island": 1, "New York": 1, "the United States": 2, "Massachusetts": 1, "Virginia": 1, "New Jersey": 1, "U.S.": 2, "Atlantic": 1, "mid": 1, "-Atlantic": 1, "United States": 1}
+{"the Western Hemisphere": 1, "the U.S. East Coast": 1, "the Atlantic Ocean": 1, "South America": 1, "Equator": 1, "GOES East": 1, "the United States": 1, "Americas": 1, "oceans": 1}
+{"Louisiana": 1, "Mississippi River": 2, "New Orleans": 4, "the Gulf of Mexico": 1, "Lower Plaquemines": 2, "Breton Sound": 1, "the Mississippi River": 2, "Pointe a la Hache": 3, "Venice": 1, "Mississippi": 1, "the Pointe a la Hache": 1, "the Florida Keys": 1, "Southeast Louisiana's": 1}
+{"Los Alamos": 3, "Gulf Coast": 1, "East Coast": 1, "the United States": 1, "Houston": 5, "New York City": 2, "New Orleans": 1, "Corpus Christi": 1, "Texas": 2, "Miami": 1, "Tampa": 1, "Caribbean": 1, "Gulf": 1, "the North Atlantic": 1, "Florida": 1, "U.S.": 1, "North Carolina": 1, "South": 1, "Louisiana": 1, "Mississippi": 1, "the East Coast": 1, "New Jersey": 1}
+{"Athens": 1, "the United States": 1, "China": 1, "Australia": 2, "U.S.": 1, "Gulf Coast": 1, "Midwest": 1}
+{"Mantoloking": 5, "Bay Head": 6}
+{"Hampton": 1, "Va.": 1, "Earth": 1}
+{"Pacific": 2, "Northern Hemisphere": 1, "Earth": 1}
+{"the Atlantic Ocean": 1, "Sahara": 1, "Atlantic": 1, "U.S.": 1, "Saharan": 2, "the Saharan Air Layer": 1, "Greenbelt": 1, "Md.": 1, "Nadine": 2, "Atlantic Ocean": 1}
+{"Shinnecock Bay": 2, "Great South Bay": 2, "the Long Island's": 1, "Moriches": 1, "Bay": 1}
+{}
+{"Atlantic": 2, "the North Atlantic": 1, "El Ni\u00c3\u00b1o": 3, "the equatorial Pacific Ocean": 1}
+{"Greenbelt": 1, "Atlantic Ocean": 1, "Saharan Air Layer": 1, "Atlantic": 1, "Wallops Island": 1, "Edwards": 1, "Calif.": 1, "Huntsville": 1, "Ala.": 1, "Pasadena": 1, "Hampton": 1, "Va.": 1}
+{"Atlantic": 3, "Ph.D.": 1, "Africa": 1}
+{"Hawaii": 9, "Japan": 1, "the North Pacific": 1, "Pacific": 4, "the Baja California Peninsula": 1, "Baja California": 1, "Earth": 1}
+{"U.S.": 1, "Atlantic": 4}
+{"the East Coast": 2, "Long Island": 1, "New York": 1, "New Jersey": 1, "Salt Lake City": 1, "Earth": 3, "Russia": 1, "North Pacific": 1, "North Atlantic": 1, "California": 2, "Utah": 1, "Great Salt Lake": 1, "Minnesota": 1, "Texas": 1, "Lake Erie": 1, "Florida": 1, "Midwest": 1, "West": 1, "the Pacific Northwest": 1, "North America": 2, "Cuba": 1, "Northeast": 1}
+{"the Atlantic Ocean": 1, "the U.S. East Coast": 1, "the Gulf of Mexico": 1, "El Ni\u00c3\u00b1o phenomenon": 1, "China": 1, "England": 1}
+{"the Gulf Coast": 1, "New Orleans": 2, "U.S.": 1}
+{"New Orleans": 3, "the Gulf Coast": 1, "U.S.": 1, "New York": 1}
+{"Greenland": 1, "Atlantic": 2, "Caribbean": 1, "New York City": 1, "Arctic": 1}
+{"Caribbean": 1, "Southeastern": 2, "Mid-Atlantic": 1, "Northeast": 1, "Florida": 2, "the Space Coast": 1, "Wallops Island": 1, "Virginia": 1, "Kennedy": 1}
+{"New Jersey": 1}
+{"U.S.": 1, "New Jersey": 1, "New York": 1}
+{"the Central Amazon": 1, "Manaus": 1, "Brazil": 1, "Earth": 1, "Amazon": 3}
+{"U.S.": 7, "the Mountain West": 1, "Great Plains": 1, "Midwest": 2, "West": 1, "the Great Plains": 2, "Texas": 1, "Southeast/Ohio Valley": 1, "Central": 1, "Rockies": 1, "United States": 2, "Nebraska": 1, "Wyoming": 1, "the Intermountain West": 1, "Southeast": 1, "the Pacific Northwest": 1, "Washington": 1, "the Gulf Coast": 2, "Northeast": 2, "Alaska": 1, "Hawaii": 1, "the North Atlantic": 1, "North Atlantic": 1, "Waldo Canyon": 1, "Colorado Springs": 1, "Colorado": 1, "Whitewater-Baldy Complex": 1, "New Mexico": 1, "the Ohio Valley": 1, "Central Plains": 1}
+{"Earth": 4, "California": 2, "San Francisco Bay Area": 1, "The United States": 1, "the United States": 1, "U.S.": 1}
+{"the East Coast": 1, "U.S.": 1, "New Jersey": 1, "New York": 1}
+{"Northeast": 4, "Connecticut": 2, "New Jersey": 2, "New Hampshire": 1, "Vermont": 4, "West Virginia": 4, "Delaware": 2, "Maine": 2, "Maryland": 1, "New York": 2, "Pennsylvania": 1, "Rhode Island": 1, "Massachusetts": 1}
+{"Princeton": 1, "N.J.\"We": 1, "the East Coast": 1, "North Atlantic Power Dissipation Index": 1, "Atlantic": 1}
+{"New York": 1, "New Jersey": 1, "Boston": 5, "the United States": 1}
+{"Equator": 4, "USA": 2, "Canada": 2, "Greenland": 1, "North America": 4, "New York State": 1, "New Jersey": 1, "the Ordovician Equator": 1, "California": 2, "New York": 1, "Seattle": 1, "Polar Regions": 1, "Denmark": 1, "United States": 1, "North Greenland": 1, "the Late Ordovician": 1, "Earth": 1}
+{"Atlantic": 1, "Massachusetts": 1, "North Carolina": 1, "New Jersey": 1, "the Hudson River": 1, "Passaic River": 1, "Hackensack River": 1, "Newark Bay": 1, "Kill Van Kull": 1, "Arthur Kill": 1, "Raritan Bay": 1, "Raritan River": 1, "Sandy Hook Bay": 1, "Barnegat Bay": 1}
+{"Earth": 2, "Caribbean": 1, "US": 3, "Atlantic": 1, "Jamaica": 1, "Cuba": 1, "New Jersey": 1, "the Bermuda Islands": 1}
+{"New Jersey": 1, "Mantoloking": 1, "the Atlantic Ocean": 1, "the Jones Tide Pond": 1}
+{"the Gulf region": 1, "Japan": 1}
+{"New Orleans": 1}
+{"United States": 1, "the Western Hemisphere": 1, "the United States": 1, "the Gulf Stream": 1, "Delaware": 2, "Atlantic": 1, "Delaware Bay": 1, "Newark": 1, "Lewes": 1, "New Jersey": 1, "New York": 1}
+{"New York": 1, "U.S.": 1, "Louisiana": 1, "Japan": 1}
+{"Greenwich": 1, "Connecticut": 2, "New Orleans": 1}
+{"California": 5, "Hanford": 1, "Pacific": 2, "Sierra": 2, "U.S.": 2, "the East Coast": 1, "Hawaii": 1, "the West Coast": 1, "Sacramento": 1, "the Central Valley": 1, "Northern California": 1, "the Pacific Northwest": 1, "Southern California": 1, "Southwest": 1}
+{"United States": 2, "Atlantic Ocean": 1, "Greenbelt": 1, "the Atlantic Ocean": 1, "Atlantic": 1, "New Jersey": 1, "South Carolina": 1, "Caribbean": 1, "the United States": 1, "Great Lakes": 1, "the Great Lakes": 1, "New England": 1, "Canada": 1}
+{"New York": 1, "Rhode Island": 1, "Virginia": 1, "Massachusetts": 1, "Pennsylvania": 1, "Maryland": 1, "Delaware": 1, "Connecticut": 1, "New Jersey": 1}
+{"the United States": 1, "Canada": 1, "Atlantic": 1, "Atlantic City": 1, "N.J.": 1, "Earth": 3, "Svalbard": 1, "Norway": 1}
+{"Greenbelt": 1, "Md.": 1, "Caribbean": 1, "the mid-Atlantic": 2, "Appalachians": 1, "Canada": 1, "N.J.": 1, "N.Y.": 1, "New York City": 1, "Pennsylvania": 2, "Mid": 2, "-": 2, "Atlantic": 2, "the Great Lakes": 1, "Maryland": 1, "West Virginia": 1, "Tennessee": 1, "Kentucky": 1, "North Carolina": 1}
+{"San Diego": 2, "Ontario": 1, "Canada": 1}
+{"the Mid-": 2, "Atlantic": 3, "the Ohio Valley": 2, "Canada": 2, "New England": 4, "Philadelphia": 2, "Penn": 5, ".": 2, "the Caribbean Sea": 1, "the Atlantic Ocean": 1, "the U.S. East Coast": 2, "N.J.": 1, "Lancaster": 1, "York": 1, "the Great Lakes Region": 1, "New York City": 1, "the Mid-Atlantic": 2, "Maine": 1, "The Appalachian Mtns": 1, "Md.": 3, "Tenn.": 2, "N.C.": 3, "Garrett County": 1, "New York": 3, "Mid-Atlantic": 1, "Mid": 1, "-": 1, "the Mid-Atlantic States": 1, "W.Va.": 1, "Va.": 1, "Ky.": 1}
+{"Maryland": 1}
+{"Washington, D.C.": 1, "Philadelphia": 1, "New York City": 2, "the Gulf Coast": 2, "Gulf": 3, "Northeast": 2}
+{"Maryland": 1, "Delaware": 1, "Mississippi": 1, "the Magnolia State": 1, "Missouri": 1, "Kentucky": 1}
+{"Charleston": 1, "Pasadena": 1, "United States": 1, "the Gulf Stream": 1, "North Carolina": 1, "CloudSat": 1, "Atlantic": 1, "Fort Collins": 1, "Kentucky": 1, "Tennessee": 1, "Virginia": 3, "West Virginia": 1, "New York City": 2, "Atlantic City": 1, "New Jersey": 2, "Delaware": 1, "Chesapeake Bay": 3, "Florida": 1, "New England": 2, "U.S.": 2, "East coast": 1, "Greenbelt": 1, "Carolinas": 1, "the Ohio Valley": 1, "Canada": 1, "East Coast": 1, "Chincoteague": 2, "Va.and": 1, "Chatham": 2, "Mass.": 2, "the Tidal Potomac": 1, "Cobb Island": 1, "Smith Point": 1, "Delaware Bay": 1, "Delmarva Peninsula": 1, "Long Island": 1, "Connecticut": 1, "Rhode Island": 1, "Merrimack River": 1, "Va.": 2, "Duck": 1, "N.C.": 3, "the Mid-Atlantic": 1, "the Mid-Atlantic States": 1, "the Delmarva Peninsula": 1, "New York": 1, "Arctic": 1, "Maryland": 1, "W.Va.": 1, "Ky.": 1, "Tenn.": 1, "Western Md.": 1}
+{"the East Coast": 1, "the United States": 1, "Washington, D.C.": 1, "New Jersey": 1, "Delaware": 1, "Virginia": 1, "Chesapeake Bay": 1, "new jersey": 1}
+{"-": 2, "Atlantic": 3, "United States": 2, "Mid-Atlantic": 1, "Long Island": 2, "New York Harbor": 1, "Bahamas": 1, "U.S.": 3, "the Gulf of Mexico": 1, "the Mid-": 1, "U.S.This": 1, "the U.S. East Coast": 2, "East coast": 1, "North Carolina": 1, "mid-Atlantic": 3, "the Delmarva Peninsula": 1, "New York State": 1, "New England": 1, "Cape Fear": 1, "Duck": 1, "N.C.": 2, "the Pamlico and Albemarle Sounds": 1, "Bermuda": 1, "the Gulf Stream": 1, "Cape Hatteras": 1, "New York City": 1, "mid": 1, "Carolinas": 1, "the Ohio Valley": 1, "Maine": 1, "Canada": 1}
+{"Delaware": 1, "Maryland": 1, "Virginia": 1, "the Delmarva Peninsula": 1, "New Jersey": 1, "Long Island": 1, "N.Y.": 1, "Fire Island National Seashore": 1, "the mid-Atlantic Coast": 1}
+{"the United States": 1}
+{"Maine": 3, "Gulf": 1, "the Mid-Atlantic": 1, "U.S.": 2, "Virginia": 1, "Madison": 1, "Washington, D.C.": 3, "New York City": 2, "Raritan Bay": 1, "New York": 1, "Philadelphia": 1, "the Nation's": 1, "D.C.": 1, "Baltimore": 1, "Frederick County": 1, "Md.": 2, "Maryland": 1, "Greenbelt": 1, "the Florida East Coast": 1, "Sebastian Inlet": 1, "Saint Augustine": 2, "South Santee River": 1, "Duck": 1, "Pamlico": 1, "Albemarle Sounds": 1, "Great Abaco": 1, "Grand Bahama Islands": 1, "the Savannah River": 1, "South Santee Rive": 1, "Florida": 1, "Fernandina Beach": 1, "Bermuda": 1, "Bahamas": 1, "the United States": 1, "Mid-Atlantic": 1, "the U.S. East Coast": 1}
+{"Cuba": 3, "Bahamas": 5, "Greenbelt": 1, "Md.": 1, "Hispaniola": 1, "Jamaica": 2, "Kingston": 1, "Haiti": 1, "the Dominican Republic": 1, "the Florida Keys": 1, "Florida": 4, "North Carolina": 2, "DelMarVa": 1, "Delaware": 2, "New York": 1, "the Northwestern Bahamas": 1, "Andros Island": 2, "Central Bahamas": 1, "East Coast": 1, "Ocean Reef": 2, "Flagler Beach": 2, "Lake Okeechobee": 1, "Savannah River": 1, "Oregon Inlet": 1, "Pamlico Sound": 1, "Fernandina Beach": 1, "the Florida Upper Keys": 1, "Craig Key": 1, "Florida Bay": 1, "Mid-Atlantic": 1, "U.S.": 2, "the Atlantic Ocean": 1, "Atlantic": 2, "Midwest": 2, "Gulf": 1, "Arctic Air": 1, "the Gulf coast": 1, "the Mid-": 1}
+{"Bahamas": 4, "the Dominican Republic": 1, "Haiti": 1, "Puerto Rico": 1, "Florida": 1, "Great Exuma Island": 1, "New England": 1, "the mid-Atlantic": 1, "the U.S. East Coast": 1, "New Jersey": 1, "U.S.": 1, "mid": 1, "-": 1, "Atlantic": 1, "Northeast": 1}
+{"California": 13, "the Golden State": 1, "Pasadena": 1, "Calif.": 1, "Southern California": 10, "West Coast": 1, "Pacific": 4, "Baja California": 1, "the Pacific Ocean": 2, "the North Pacific Current": 1, "Japan": 1, "Alaska Current": 1, "California Current": 2, "the West Coast": 1, "the United States": 1, "Northern Baja": 1, "U.S.": 1, "East": 1, "Atlantic": 1, "Southeastern United States": 1, "Los Angeles": 1, "Santa Ana": 1}
+{"the Atlantic Ocean": 1, "the U.S. East Coast": 1, "the Gulf of Mexico": 1, "the Eastern Seaboard": 1, "the United States": 1, "China": 1, "England": 1, "New Orleans": 1}
+{"Calif.": 2, "Wallops Island": 2, "Va.": 2, "the North Atlantic": 1, "the Atlantic Ocean": 2, "The Pacific Ocean": 1, "the Eastern North Pacific": 1, "the International Dateline": 1, "Western North Pacific": 1, "Tropical Depression": 1, "the Lesser Antilles": 1, "Saharan": 1, "Nadine": 7, "Greenbelt": 1, "Atlantic": 2, "the Azores Island": 1, "the U. S. East Coast": 1, "Dryden": 1, "Moffett Field": 1, "Huntsville": 1, "Ala.": 1, "Pasadena": 1, "Washington": 1, "Hampton": 1}
+{"New York": 1, "Catskill": 1, "the Ashokan Reservoir": 1, "New York City": 2, "the Catskill Mountains": 1, "New York State": 1, "Esopus Creek": 1, "Ashokan": 1}
+{"Greenbelt": 1, "Virginia": 1, "Eastern Shore": 1, "Atlantic": 2, "Africa": 1, "Wallops": 2, "Pasadena": 2, "Huntsville": 2, "Calif.": 2, "Moffett Field": 1, "Ala.": 1, "Washington": 1, "Hampton": 1}
+{"Rotterdam": 1, "the Netherlands": 1, "New Orleans": 2, "the United States": 1, "U.S.": 1}
+{"Hurricane Leslie": 1, "the Atlantic Ocean": 1, "the U.S. East Coast": 1, "Calif.": 2, "Tropical Depression": 1, "System 91L.At": 1, "Tropical Depression 14": 2, "the Lesser Antilles": 1, "Moffett Field": 1, "Huntsville": 1, "Ala.": 1, "Pasadena": 1, "Washington": 1, "Hampton": 1}
+{"the North Atlantic": 1, "the United States": 1}
+{"Calif.": 2, "Wallops Island": 1, "Va.": 1, "Wallops": 2, "Greenbelt": 1, "Moffett Field": 1, "Huntsville": 1, "Ala.": 1, "Pasadena": 1, "Washington": 1, "Hampton": 1}
+{"Louisiana": 1, "Mississippi": 1, "New Orleans": 1}
+{"the Mississippi River": 2, "Baton Rouge": 2, "Mississippi": 1, "Louisiana": 2}
+{"Houma": 1, "Louisiana": 4, "Mississippi": 1, "New Orleans": 3, "Greenbelt": 1}
+{"the Loop Current": 4, "the Gulf Stream": 1, "the Gulf of Mexico": 1, "Gulf": 3}
+{"Gulf": 3, "Mississippi": 3, "Louisiana": 6, "Haiti": 1, "Cuba": 1, "the Florida Straits": 1, "Key West": 1, "Florida": 2, "Gulf of Mexico": 1, "the Gulf of Mexico": 1, "Greenbelt": 1, "New Orleans": 1, "Carolinas": 1, "Georgia": 1, "Alabama": 1, "the Mississippi River": 2, "Southwest Pass": 1}
+{}
+{"West Nile": 1}
+{"Alabama": 2, "the United States": 1, "the Southeast United States": 1, "Birmingham": 1, "New Orleans": 1}
+{"China": 1, "the Northern Atlantic": 1, "Indian": 1, "South-West Pacific Oceans": 1, "Atlantic": 1, "Amazon": 1}
+{"Wallops": 1, "Va.": 1, "Atlantic Ocean": 1, "Greenbelt": 1, "Md.": 1, "Pasadena": 1, "Calif.": 1, "Huntsville": 1, "Ala.": 1}
+{"Amazon River": 1, "Ganges River": 1, "Pacific Ocean": 1, "Burma": 1, "Qingdao": 1, "China": 1, "Caribbean Sea": 1, "Omar": 1, "Atlantic": 1, "Indian Oceans": 1}
+{"Atlantic Basin": 1, "Atlantic": 4, "El Ni\u00c3\u00b1o's": 1, "Northeast": 1}
+{"the United States": 1, "Virginia": 1, "the Atlantic Ocean": 1, "Atlantic": 2, "the U.S. East Coast": 1, "Wallops": 4, "Dryden": 2, "California": 1, "Mojave Desert": 1, "East Coast": 1, "U.S.": 2}
+{"Europe": 2, "New Orleans": 1, "the Gulf Coast": 1, "France": 2, "Paris": 2, "the City of Light": 1}
+{"the Southeastern United States": 1, "Southeast": 4, "Carolinas": 1, "U.S.": 1}
+{"Texas": 2}
+{"the United States": 2, "Earth": 1}
+{"Florida": 11, "Gulf of Mexico": 2, "Alabama": 2, "Georgia": 3, "Apalachicola": 1, "Greenbelt": 1, "Debby": 2, "Destin": 2, "Fla.": 1, "the Suwannee River": 1, "Englewood": 2, "the Florida Gulf Coast": 1, "Tampa": 2, "Pensacola": 1, "Fort Myers": 1, "Gulf coast": 1, "South Carolina": 1, "Gulf": 1, "Apalachee Bay": 1, "Louisiana": 1, "Atlantic": 1}
+{"South Florida": 1, "Atlantic": 2, "Atlantic Ocean": 1, "Caribbean Sea": 1, "the Main Development Region": 2, "El Ni\u00c3\u00b1o": 1, "America": 1, "tropics": 1}
+{"Southeast": 1}
+{"Clear Lake": 1, "Houston": 1, "Greater Houston": 1, "Galveston": 2, "Bolivar Peninsula": 1, "California": 1, "Charleston": 1, "S.C.": 1}
+{"Atlantic Ocean": 1, "Pasadena": 1, "Calif.": 1, "Virginia": 1, "Greenbelt": 1, "Md.": 1, "Saharan Air Layer": 1}
+{"US": 1, "Japan": 1, "Yangtze": 1, "China": 1, "Western Russia": 1, "Pakistan": 1, "Australia": 1, "Germany": 1, "Elbe": 1, "North America": 1, "the North Atlantic": 1, "El Ni\u00c3\u00b1o": 1}
+{"Lau": 1, "Cape Leveque": 1, "Dampier": 4, "Port Hedland": 4, "Karratha": 2, "Broome": 2, "Pilbara": 2, "Kimberley": 2, "Telfer": 1, "Newman": 2, "Paraburdoo": 1, "Gascoyne": 1, "Meekatharra": 1, "Interior": 1, "Whim Creek": 2, "Bidyadanga": 1, "South Hedland": 1, "Warralong": 1, "Yande Yarra": 1, "Marble Bar": 1, "Roebourne": 1, "Wickham": 1, "Point Samson": 1, "Nullagine": 1, "Jigalong": 1, "16.5 South": 1, "Australia": 1, "Western Australia": 1}
+{"New York City": 4, "New York City's": 2, "New York": 1, "Manhattan": 3, "Battery": 3, "Norfolk": 1, "Long Island": 1}
+{"United States": 1, "China": 1, "Caribbean": 2, "North Pacific": 1, "North Atlantic Ocean": 1, "North America": 1, "East Asia": 1, "Europe": 1, "South America": 1, "Africa": 1, "Asia": 1, "Central America": 2}
+{"Funso": 4, "Madagascar": 1, "the Mozambique Channel": 1, "Maputo": 1, "Mozambique": 1, "the Southern Indian Ocean": 1}
+{"Mardie": 3, "Ningaloo": 1, "Exmouth": 2, "Onslow": 2, "Port Hedland": 1, "Coral Bay": 3, "Iggy": 2, "Learmouth": 2, "Australia": 1, "Western Australia's": 1, "Pilbara": 1}
+{"Madagascar": 1, "Mozambique": 2, "Funso": 1, "Maputo": 1, "the Mozambique Channel": 1, "the Southern Indian Ocean": 1}
+{"Iggy": 3, "Darwin": 1, "the Southern Indian Ocean": 1, "Western Australia": 2, "Learmonth": 1, "Australia": 1, "Pilbara": 2, "Whim Creek": 1, "Coral Bay": 1, "Christmas Island": 1, "Kimberley": 1}
+{"New Orleans": 4}
+{"Mozambique": 4, "Madagascar": 2, "the Mozambique Channel": 1, "Maputo": 1, "Mozambique Channel": 1, "the Southern Indian Ocean": 1}
+{"U.S.": 1, "Midwest": 1, "Rockies": 1, "the Gulf of Mexico": 1, "the United States": 1}
+{"Gulf Stream": 1, "North Atlantic Deep Water": 1, "North Atlantic": 1, "Sahel": 1, "Atlantic": 1, "North Atlantic Oscillation": 1}
+{"Earth": 2, "Taiwan": 2, "Haiti": 2, "Philippines": 1, "Japan": 1}
+{"the Indian Ocean": 1, "Greenbelt": 1, "Md.": 1, "the Southern Indian Ocean's": 1, "the Cocos Islands": 1, "Alenga": 1}
+{"TC01S": 1, "the Cocos Islands": 1, "the Southern Indian Ocean": 1}
+{"Monterey": 1, "the Western Pacific": 1, "Eastern Pacific": 1, "Western Atlantic": 1, "Hamburg": 1, "Germany": 1, "Mississippi": 1}
+{"Galveston Island": 1, "U.S.": 2, "Houston": 2, "Galveston": 2, "Galveston Bay": 1, "West Galveston Bay": 1, "Clear Lake": 1, "Dickinson": 1, "the Houston Ship Channel": 1}
+{"Earth": 5}
+{"the Yucatan Peninsula": 1, "Punta Gruesa": 2, "Cancun": 1, "Chetumal": 2, "Yucatan": 2, "Rina": 9, "Honduras": 1, "Pasadena": 1, "Mexico": 2, "Tulum": 1}
+{"Caribbean": 1, "Rina": 13, "Greenbelt": 1, "Honduras": 4, "Cayman Islands": 1, "the Cayman Islands": 1, "Grand Cayman": 1, "Chetumal": 1, "Mexico": 1, "Pasadena": 1, "the Caribbean Sea": 1, "Gulf of Mexico": 1}
+{"the Caribbean Sea": 1, "Florida": 1, "Bahamas": 1, "Belize": 1, "Honduras": 1, "Haiti": 1, "Jamaica": 1, "Caribbean": 1}
+{"Irwin": 4, "Baja California": 1, "Mexico": 1}
+{"Jova": 3, "Mexico": 3, "Manzanillo": 1, "Cabo Corrientes": 3, "Punta San Telmo": 2, "Lazaro Cardenas": 1, "El Roblito": 1}
+{"Louisiana": 2, "Lafourche": 1, "Terrebonne": 1, "Plaquemines": 1}
+{"Irwin": 3, "Baja California,": 1, "Mexico": 2, "Tropical Depression 10E": 1, "Manzanillo": 1, "United States": 1, "the Baja Peninsula": 1}
+{"Philippe": 5, "Bermuda": 1}
+{"U.S.": 1, "United States": 1}
+{"Atlantic": 3, "the Gulf Coast": 1, "the United States": 1, "the Western Caribbean": 1, "the East Coast": 1, "US": 1, "La Ni\u00c3\u00b1a": 1, "Pacific Ocean": 1, "Florida": 1}
+{"United States": 1, "White Clay Creek": 1, "Brandywine Creek": 1}
+{"New Jersey": 1, "Earth": 1, "Pasadena": 2, "Calif.": 1}
+{"New York Harbor": 1, "South Jersey": 1, "Long Island": 2, "the Hudson River": 1, "Moon": 3, "Earth": 1, "the new moon": 1, "New Jersey": 2, "New Jersey Coast": 1, "Atlantic": 1, "New York": 1}
+{"Bahamas": 5, "U.S.": 4, "Augusta": 1, "Maine": 1, "Miami": 1, "Florida": 4, "Greenbelt": 1, "Md.": 1, "U.S.On": 1, "Surf City": 2, "North Carolina": 4, "Virginia": 1, "Pamlico": 1, "Albemarle": 1, "Currituck Sounds": 1, "Edisto Beach": 1, "South Carolina": 1, "Crooked Island": 1, "Nassau": 2, "Palm Beach County": 1, "Atlantic": 2, "Cape Verde Islands": 1, "12.4 North": 1}
+{"Tuscaloosa": 1, "Ala.": 1, "Joplin": 2, "Mo.": 1, "San Francisco": 1, "Midwest": 1, "South": 1, "U.S.": 1, "Tuscaloosa County": 1, "Alabama": 1, "South Dakota State University": 1}
+{"Atlantic": 3, "Caribbean": 2, "Pacific": 1, "Mexico": 5, "Azores": 2, "Bermuda": 2, "Greenbelt": 1, "Md.": 1, "the north Atlantic": 1, "Atlantic Ocean": 1, "the British Isles": 1, "the Windward Islands": 1, "the Lesser Antilles": 1, "Dora": 1, "Cabo San Lucas": 2, "Agua Blanca": 1, "Buenavista": 1, "Baja California": 1}
+{"New Orleans": 3, "the Gulf Coast": 1, "New Orleans'": 1, "Louisiana": 1}
+{"U.S.-French": 1, "Pacific": 3, "Pacific Ocean": 2, "the U.S. West Coast": 1, "El Ni\u00c3\u00b1o": 3, "the United States": 3, "United States": 1, "La Ni\u00c3\u00b1a": 1, "U.S.": 1, "Washington": 1, "D.C.For": 1}
+{"Alabama": 1, "Joplin": 1, "the Great Plains": 1, "the Gulf of Mexico": 1, "United States": 1, "Oklahoma": 1, "Kansas": 1, "U.S.": 2}
+{"Palmerston North": 1, "New Orleans": 1, "Paris": 1, "Kobe": 1}
+{"Joplin": 4, "Missouri": 5, "U.S.": 1}
+{"Panama City's": 1, "Panama": 6, "U.S.": 1, "Puerto Rico": 1, "Central America": 1, "Honduras": 1, "Guatemala": 1, "Nicaragua": 1, "El Salvador": 1}
+{"Antarctica": 1, "Louisiana": 1, "the Mississippi River": 1, "New Orleans": 1, "the Atlantic Ocean": 1, "Tokyo": 1}
+{"U.S.": 1, "Florida": 1, "Illinois": 1}
+{"U.S.": 7, "the United States": 1, "Oregon": 1, "the Pacific Northwest": 1}
+{"Charlotte County": 1, "Southwest Florida": 1}
+{"United States": 1, "US": 1, "the Gulf Oil Spill": 1, "the Gulf States": 1, "Gulf": 4, "New Orleans": 1, "St. Bernard": 1, "Plaquemines": 1}
+{"Japan": 1, "Wenchuan": 1, "China": 1}
+{"Honduras": 2, "Montreal": 1, "Canada": 2, "Krausirpi": 2, "the Patuca River": 1, "Qu\u00c3": 1, "\u00a9": 1, "bec": 1}
+{"the United States\u00cc\u00b6": 1, "U.S.": 1, "West Coast": 1, "California": 3, "the Mojave Desert": 1, "the Los Angeles Basin": 1, "Orange County": 1, "Los Angeles County": 1, "San Diego": 1, "San Francisco Bay": 1, "Los Angeles": 2}
+{"the U.S. West Coast": 2, "Washington": 1, "Southern California": 2, "Sierras": 1, "Dryden": 1, "the Pacific Ocean": 1, "Hawaii": 2, "Oregon": 1, "California": 1, "Pasadena": 1}
+{"Earth": 1, "Harvard": 1, "Massachusetts": 1}
+{"Louisiana": 6, "the United States": 1, "France": 1, "New Orleans": 4, "South": 1, "the Eastern U.S.": 1, "England": 1, "the Gulf of Mexico": 3, "the Caribbean Sea": 1, "Ohio": 1, "South Carolina": 1, "Camden": 1, "S.C.": 1}
+{"Queensland": 2, "Australia": 2, "Cooktown": 2, "Proserpine": 2, "Northern Territory": 1, "Cape Flattery": 1, "Cairns": 4, "MacKayAt": 1, "Willis Island": 3, "the Coral Sea": 1, "Townsville": 1}
+{"Yasi": 3, "Queensland": 1, "Cairns": 1, "Innisfail": 1, "the United States).Shown": 1, "Pasadena": 1, "Earth": 1}
+{"Pasadena": 1, "Calif.": 1, "Yasi": 5, "Earth": 1, "Cairns": 2, "Australia": 1}
+{"United States": 2, "Atlantic": 1, "Texas": 4, "the Gulf Coast": 1, "Louisiana": 1, "Florida": 8, "South": 1, "Southeast": 1, "Gulf Coast": 1, "Rio Grande": 1, "Brownsville": 1, "Del Rio": 1, "Austin": 1, "Gainesville": 1, "Daytona Beach": 1, "South Florida": 1, "District": 1, "Lake Okeechobee": 1}
+{"Hampton": 1, "Pasadena": 1, "Calif.": 1, "Maryland": 1, "Alabama": 1, "California": 1, "Norfolk": 1, "Va.": 1}
+{"Atlantic Ocean": 1, "Caribbean Sea": 1, "Earl": 1, "Earl's": 1, "Greenbelt": 1, "Palmdale": 1, "Calif.": 1, "Moffett Field": 1, "Cal": 1, "Karl": 4, "Mexico": 1, "the Yucatan Peninsula": 1, "the Gulf of Mexico": 1, "Gulf": 1, "Gaston": 2, "Africa": 1}
+{"Caribbean": 7, "Caribbean Sea": 1, "Gulf of Mexico": 1, "Bahamas": 1, "the United States": 1, "Australia": 1, "Coral Reef Watch": 1, "the Flower Garden Banks National Marine Sanctuary": 1, "Texas": 1, "Louisiana": 1, "the Gulf of Mexico": 1, "Florida": 1, "the U.S. Virgin Islands": 1, "the Virgin Islands": 1}
+{"the Mediterranean Sea": 3, "Nile": 2, "Pacific Ocean": 1, "the Red Sea": 1, "the Sea of Reeds": 1, "Red Sea": 1, "Suez": 1, "the Nile River": 1, "the Lake of Tanis": 1}
+{"Gulf": 4, "the Gulf of Mexico": 1, "Deepwater Horizon": 1, "Prince William Sound": 1, "Alaska": 1}
+{"Earth": 2, "sun": 1, "Nation": 1, "Greenbelt": 1, "the United States": 1}
+{"Earth": 1}
+{"the Gulf region's": 1, "the Gulf Coast": 3, "Gulf Region": 1, "Gulf": 1, "New Orleans": 2, "Gulf Coast": 2, "Louisiana": 2, "Mississippi": 1}
+{"Oklahoma City": 4, "Dallas": 1, "Galveston": 1, "Texas": 1}
+{"Huntsville": 1, "Ala.": 1, "the Gulf of Mexico": 1, "Atlantic Ocean": 1, "Houston": 1, "Earth": 2}
+{"Princeton": 1, "New Jersey": 1, "the North Pacific": 3, "North Pacific Subtropical Gyre": 1, "Philippines": 1, "Vietnam": 1, "South China": 1, "Japan": 1, "Pacific": 1}
+{"Kao-hsiung": 1, "Taiwan": 2, "Western Pacific": 1, "the Atlantic Ocean": 1, "Southern Ocean": 1, "Labrador Sea": 1, "Atlantic": 1, "the western Pacific": 1, "Miami": 1, "UK": 1}
+{"U.S.": 1, "Florida": 1, "Texas": 1, "California": 1, "Atlantic": 1, "Sahara": 1, "Earth": 1}
+{"La Ni\u00c3\u00b1a": 1, "Pacific Ocean": 1, "the Atlantic Basin": 1, "Atlantic": 2, "Caribbean": 1, "Atlantic Basin": 1, "Ph.D.": 1}
+{"Plaquemines Parish": 1}
+{"Florida": 5, "Jacksonville": 2, "the Big Bend": 1, "Tampa": 2, "Tallahassee": 3, "Miami": 4, "Pensacola": 3, "Atlantic Ocean": 1, "Gulf of Mexico": 1, "Caribbean Sea": 1, "the United States": 1, "South Florida": 1, "Port St. Lucie": 1, "Key West": 1, "Cape Coral": 1, "Gulf Coast": 1, "Panama City": 1, "Panhandle": 1, "Orlando": 1, "the Gulf of Mexico": 1, "Caribbean": 1}
+{"Redmond": 1, "Wash.": 1}
+{"Myanmar": 1, "Moffett Field": 1, "Calif.": 1, "Miami": 1, "Fla.": 1, "Greenbelt": 1, "Taipei": 1, "Taiwan": 1}
+{"Raccoon Island": 1, "Louisiana": 1, "Gulf Coast": 1, "Gulf": 2}
+{"New Orleans": 2, "St. Bernard Parish": 1, "the United States": 1}
+{"Conson": 1, "Basyang": 1, "Philippines": 1, "Pacific Ocean": 1, "Greenbelt": 1, "Md.": 1}
+{"Greenbelt": 2, "Md.": 2, "Atlantic Ocean": 1, "Alex": 1, "Mexico": 3, "Brownsville": 1, "Texas": 2, "Atlantic Ocean basin": 1}
+{"the North Atlantic": 2}
+{"Washington": 1, "Greenbelt": 1, "Md.": 1, "Salt Lake City": 1, "Florida": 1, "Houston": 1, "Palmdale": 1, "Calif.": 2, "Atlantic": 1, "Gulf of Mexico": 1, "Moffett Field": 1, "Hampton": 1, "Va.": 1, "Huntsville": 1, "St. Croix": 1, "the Virgin Islands": 1, "Tampa": 1}
+{"Haiti": 3, "Japan": 1}
+{"Louisiana": 4, "Wax Lake Delta": 2, "the Mississippi River": 1, "Mississippi River's": 1, "Mississippi": 1, "Venice": 1, "Mississippi River": 1, "Gulf of Mexico": 1, "New Orleans": 1}
+{"Louisiana": 2, "Chapel Hill": 1, "Mississippi": 1, "Texas": 2, "Gulf of Mexico": 1, "Oceanic": 1, "Coastal": 1}
+{"Blind Bay": 1, "Redfish Bay": 1, "Mississippi River": 2, "Garden Island Bay": 1, "East Bay": 1, "the Chandeleur Islands": 1, "the Breton National Wildlife Refuge": 1, "the United States": 1, "the Breton and": 1, "Chandeleur Sounds": 1, "the Mississippi River": 1}
+{"North Carolina": 4, "Florida": 1, "Texas": 1, "Louisiana": 1, "Phoenix": 1}
+{"Pasadena": 2, "Calif.": 2, "Washington": 1, "U.S.": 1, "Arctic Reservoirs Vulnerability Experiment": 1, "Arctic": 2, "Moffett Field": 1, "Earth": 6, "California": 1, "Guam": 1, "Hawaii": 1, "Hampton": 1, "Va.": 1, "Greenbelt": 1, "Atlantic Ocean": 1, "Virginia": 1, "Atlantic": 1}
+{"Atlantic": 1, "United States": 1, "Gulf Coast": 1, "the Gulf of Mexico": 1}
+{"Atlantic Basin": 1, "Ph.D.": 1}
+{"Eastern Pacific": 4, "the Eastern Pacific Ocean": 1, "Ph.D.": 1, "Hawaii": 1, "United States": 1, "Mexico": 1, "Central America": 1}
+{"Gulf": 2, "the Gulf of Mexico": 2, "Mississippi": 1}
+{"Houston": 1, "the Houston Ship Channel": 1, "U.S.": 1, "Texas": 1}
+{"New Orleans": 9, "the United States": 1, "US": 1, "U.S.": 1}
+{"Iceland": 2, "Europe": 2, "Baltic": 1, "New Orleans": 2, "Gulf Coast": 1, "the United States": 2, "the Mississippi Delta": 1, "Gulf": 1, "Tennessee": 1, "Midwest": 1, "Wisconsin": 1, "Michigan": 1, "Florida": 1, "Northern Ireland": 1, "the Republic of Ireland": 1, "Ireland": 1, "Northern Europe": 1}
+{"U.S.": 1, "Gulf coast": 1, "Alaska": 1, "US": 1, "Gulf": 1}
+{"Silver Spring": 1, "Greenbelt": 1, "Md.": 1, "the United States": 1, "U.S.": 4, "GOES EAST": 1, "the Atlantic Ocean": 1, "Gulf of Mexico": 1, "GOES WEST": 1, "the Eastern Pacific Ocean": 1, "South America": 1, "Fla.": 1, "Earth": 1}
+{"Louisiana": 3, "Mississippi": 1}
+{"Pacific Ocean": 1, "Pacific": 1, "California": 1, "Chile": 1, "Equator": 2, "South America": 1}
+{"Port-au-Prince": 2, "Haiti": 4, "The United States": 1}
+{"U.S.": 1, "New Orleans": 1, "Mississippi": 1, "Louisiana": 1, "Alabama": 1, "Texas": 1}
+{"Haiti": 3, "New Orleans": 1, "Port-au-Prince": 1}
+{"Topeka": 1, "Maineville": 1, "Ohio": 1}
+{"Gulf": 2, "the Loop Current": 1, "the Gulf of Mexico": 1, "the Eastern Gulf of Mexico": 1, "the Eastern Gulf": 1, "the Eastern GOM": 1, "the Eastern GOM.Dr": 1, "GOM": 1}
+{"United States": 1, "Mississippi": 1, "Louisiana": 1}
+{"Earth": 2, "India": 1}
+{"Sanctuary": 1, "Texas": 1, "Louisiana": 1, "U.S.": 1, "Caribbean": 1, "Flower Garden Banks National Marine Sanctuary": 1, "Flower Gardens": 1, "Flower Garden Banks": 1}
+{"Gulf Coast": 1}
+{"Evanston": 1, "Portland": 1, "Oregon": 1, "the North Atlantic": 1, "Earth": 1, "Harvard": 1, "Mass.": 1, "San Juan": 1, "Puerto Rico": 1}
+{"Caribbean": 1, "Florida": 1, "the Florida Keys": 1}
+{"Gulf of Mexico": 2, "Loop Current": 1, "the Gulf Stream.\u00e2\u0080\u009dWhile": 1, "Gulf": 5, "Mississippi": 1, "Alabama": 1, "the Gulf of Mexico": 1}
+{"El Ni\u00c3\u00b1os": 1, "El Ni\u00c3\u00b1o": 4, "Pacific El Ni\u00c3\u00b1o": 4, "Pacific": 4, "the Pacific Ocean": 1, "Atlantic": 3, "the International Dateline": 1, "Australia": 1, "India": 1, "Pacific Ocean": 1, "the southern United States": 1, "California": 1}
+{"the Gulf of Mexico": 1, "Gulf": 1, "Galveston": 1}
+{"India": 1, "Indiana": 1, "the United States": 2}
+{"Pasadena": 2, "Earth": 4, "Louisiana": 1, "the United States": 1, "the U.S. West Coast": 1, "the East Coast": 1, "Greenbelt": 1}
+{"Greenbelt": 1, "Md.": 1, "the Central Pacific Ocean": 1, "Maka": 3, "Felicia": 2, "Hawaii": 1, "Kauai": 1, "Central Pacific Ocean": 1, "the Eastern Pacific": 1, "Baja California": 2, "Mexico": 1, "Pacific Oceans": 1}
+{"La Ni\u00c3\u00b1a": 1, "Atlantic": 8, "Caribbean": 1, "Puerto Rico": 1, "Gulf coast": 1, "Southern U.S.": 1, "mid-Atlantic": 1, "New England": 1, "the North Atlantic Oscillation": 1}
+{"Felicia": 7, "Baja California": 1, "the Eastern Pacific Ocean": 1}
+{"Tobago": 3, "Caribbean": 3, "Jamaica": 1, "the Meso-American Barrier reef": 1}
+{"the Hawaiian Islands": 1, "Lana": 7, "the Central Pacific": 1}
+{"Galveston Bay": 4, "Houston": 3, "upper Galveston Bay": 1, "Chocolate Bay": 1, "East Bay": 1, "West Bay": 1, "Trinity Bay": 1}
+{"the Atlantic Ocean": 1, "Pacific": 1, "Atlantic": 1}
+{"Greenbelt": 1, "Md.": 1, "Baja California": 1, "the Hawaiian Islands": 1}
+{"the United States": 1, "America": 1, "the Judean Desert": 1, "Israel": 2}
+{"Atlantic": 2, "the Central Pacific": 2, "the Eastern Pacific": 1, "Gulf": 1, "Central America": 1, "Pacific": 2, "El Ni\u00c3\u00b1o": 4, "El Ni\u00c3\u00b1o Modoki": 2, "El Ni\u00c3\u00b1o's": 1, "the Eastern and Central Pacific": 1, "North Atlantic": 1}
+{"New Orleans": 2}
+{"the United States": 1, "the Pacific Northwest": 1, "New England": 1, "U.S.": 2, "mid-Atlantic": 1, "Pacific Northwest": 1, "British Columbia": 1, "Earth": 2, "North Atlantic": 3, "North Pacific": 3, "the North Atlantic": 2, "Pasadena": 1, "Calif.": 1, "Greenbelt": 1, "Md.": 3, "Camp Springs": 2, "North Pacific Oceans": 1, "Atlantic": 2, "Pacific": 2, "the North Pacific": 1}
+{"Europe": 1, "the Gulf of Mexico": 4, "Louisiana": 2}
+{"Earth": 1, "U.S.": 1, "Norman": 1, "Okla.": 1, "the United States": 1}
+{"Florida": 1}
+{"Pacific Ocean": 1, "Pacific": 7, "Atlantic": 8, "Earth": 1, "Greenbelt": 1, "Md.": 1, "Pasadena": 2, "the Gulf Stream": 1, "Providence": 1, "Rhode Island": 1, "U.S.": 1, "La Ni\u00c3\u00b1a": 3, "the Pacific Decadal Oscillation's": 1, "the Pacific Ocean": 1, "Caribbean": 1}
+{}
+{"Caribbean": 4, "Britain": 1, "Cuba": 2, "Canada": 1, "Los Buchillones": 1}
+{"Houston": 2, "the United States": 1}
+{"U.S.": 2, "United States": 1, "Gulf Coast": 1, "Texas": 1, "Louisiana": 1, "Florida": 1, "North Carolina": 1}
+{"New Orleans'": 1, "New Orleans": 7, "Gulf": 1}
+{"Guadeloupe": 2, "Dominica": 6, "Morne aux Diables": 3, "Devils' Peak": 1, "The Guadeloupe archipelago": 1, "Morne aux Diable": 1, "Caribbean": 1}
+{"Earth": 3, "Philippines": 1, "Mexico": 1, "Central America": 1, "miles": 1}
+{"Indian Ocean": 2, "the Bay of Bengal": 2, "Arabian Sea": 1, "Burma": 2, "the Indian Ocean": 2, "Northern Indian Ocean": 1, "Bangladesh": 1, "Myanmar": 1, "U.S.-based": 1, "India": 1, "Thailand": 1, "Atlantic": 2, "Nargis": 1, "Greenbelt": 1, "Md.": 1, "Earth": 1, "Pacific": 1}
+{"Haiti": 14, "Hispaniola": 13, "the Dominican Republic": 10, "Antilles": 1, "Cuba": 4, "Puerto Rico": 2, "the \"New World": 1, "Atlantic": 1, "Pasadena": 1, "the Western Hemisphere": 1, "Enriqullo": 1, "Earth": 1, "Lake Enriqullo's": 1, "Florida": 2, "Caribbean Sea": 2, "Gonav\u00c3": 1, "Brazillienne": 1, "Jacmel": 1, "Baharona": 1, "Dominican Republic": 1, "Port-au-Prince": 1, "Oviedo": 1, "Gonaives": 1, "Kyle": 1, "Atlantic Ocean": 1}
+{"North Atlantic": 2, "Atlantic": 3, "El Chich\u00c3\u00b3n": 1, "Mexico": 1, "Mount Pinatubo": 1, "Philippines": 1, "Pacific": 1}
+{"New Orleans": 3, "the Gulf of Mexico": 1, "the Florida Panhandle": 1, "Earth": 2, "Florida": 1, "Mars": 2}
+{"Harris County": 3, "Houston": 3}
+{"North Atlantic Ocean": 1, "The northeast coast": 1, "the United States": 2, "New York City": 2, "Manhattan": 1, "Florida": 1, "Western Europe": 1, "U.S.": 1, "Atlantic": 2, "North Atlantic": 1}
+{"America": 1}
+{"Taipei": 1, "Pasadena": 1, "Calif.": 1, "the Bay of Bengal": 1, "Nargis": 2, "the Gulf of Mexico": 1}
+{"Louisiana": 1}
+{"Baton Rouge": 1, "Burlington": 1}
+{"U.S.": 1, "New Orleans": 1, "Orleans": 2, "Jefferson": 1, "St. Tammany": 1, "Plaquemines": 1}
+{"New England": 1, "the Pacific coast": 1, "U.S.": 1, "Galveston": 1, "Bolivar Peninsula": 1}
+{"Bangladesh": 4, "United States": 1, "Gulf Coast": 1, "Mobile": 1, "New Orleans": 1, "U.S.": 1}
+{"North Atlantic": 1, "the North Atlantic": 1, "Geesthacht": 1}
+{"Columbia": 1, "South": 2, "Great Plains": 1, "US": 1}
+{"Galveston": 5, "Texas": 4, "the Gulf of Mexico": 1, "Gulf": 1}
+{"George Mason": 1, "West Virginia U.": 1, "the United States": 1, "the Gulf Coast": 1, "U.S.": 1, "Florida": 1, "Mississippi": 1, "Louisiana": 1, "Nebraska": 1, "Colorado": 1, "Minnesota": 2, "the Red River Flood": 1}
+{"North Pacific": 1, "Guam": 3, "the Western Pacific": 1, "Patuxent River": 1, "MD": 1, "MS": 1, "Monterey": 1, "CA": 1, "Japan": 3, "China": 1, "South Korea": 1, "Taiwan": 2, "Canada": 1, "Pacific": 3, "Northern Hemisphere": 1, "the North Pacific": 1, "Asia": 1, "North America": 1, "Europe": 1, "Atlantic": 2, "Germany": 1, "Atsugi": 1, "Hawaii": 1}
+{"U.S.": 1, "Cuba": 1, "Atlantic": 1}
+{}
+{"Honduras": 1, "Central America": 1}
+{"Bolivar Roads": 1, "Texas": 1, "the Gulf of Mexico": 1, "Galveston Bay": 2, "the Houston Ship Channel": 1, "Galveston Island": 1, "the Bolivar Peninsula": 3, "Galveston": 1, "Gulf": 1, "Bay": 1, "Mississippi": 1}
+{"Atlantic": 5, "tropics": 1, "United States": 1}
+{"Haiti": 1}
+{"China": 1, "New Orleans": 1, "New Orleans\u00e2\u0080\u0099 350": 1, "Reno": 1, "Nevada": 1}
+{"Boulder": 1, "Colo.": 1, "the Gulf of Mexico": 2, "Africa": 1, "Europe": 1, "the South Atlantic": 1, "Atlantic": 1, "United States": 3, "Caribbean": 1, "Gulf of Mexico": 1, "Holland": 1}
+{"DR": 14, "US": 2, "Santo Domingo": 1, "Caribbean": 1}
+{"Florida": 8, "Dade County": 2, "Dade": 1, "Tallahassee": 1}
+{"the Gulf of Mexico": 1, "Houston": 1, "Texas": 1, "Gulf": 1, "Delta": 1, "the State of Louisiana": 1}
+{"Houston": 2, "Brays Bayou": 1, "Oklahoma": 1, "Greater Houston": 1, "Gulf Coast": 1, "New Orleans": 1, "Brownsville": 1}
+{"Galveston": 1}
+{"Houston": 2, "Austin": 1, "Texas": 1, "Huntsville": 1, "U.S.": 1}
+{"Earth": 1, "France": 1, "Brest": 1, "Great Inagua Island": 1, "Bahamas": 1}
+{"Pasadena": 1, "Calif.": 1, "Atlantic": 4, "the eastern Pacific Ocean's": 1, "Central America": 2, "the Gulf of Mexico": 1, "Caribbean": 2, "Gulf of Mexico": 1, "Louisiana": 3, "Texas": 1, "Arkansas": 2, "Mississippi": 2, "Alabama": 1, "the Leeward Islands": 2, "Bahamas": 2, "Atlantic Ocean": 1, "U.S.": 2, "the Appalachian Mountains": 1, "Melbourne Beach": 1, "Fla.": 1, "Thomasville": 1, "Ga.": 1, "Camden": 1, "Ala.": 1, "Beaufort": 1, "S.C.": 1, "Carthage": 1, "Tenn.": 1, "Charlotte": 1, "N.C.": 1, "Pacific Ocean": 1, "the North Atlantic": 1, "Greenbelt": 1, "Md.": 1, "the Caribbean Islands": 1, "American": 1, "Gulf": 1, "East": 1}
+{"Port-au-Prince": 1, "Haiti": 1, "Jamaica": 1, "Cuba": 1, "the Gulf of Mexico": 1, "Louisiana": 1}
+{"North Atlantic": 1}
+{"San Diego": 1, "California": 1, "Louisiana": 2, "the United States": 1, "New Orleans": 1}
+{"U.S.": 1}
+{"Gulf of Mexico": 1, "U.S.": 1, "the Gulf of Mexico": 1}
+{"Florida": 1, "South Africa": 1}
+{"Ontario": 1, "southwestern Ontario": 1}
+{"the North Atlantic": 3, "Greenbelt": 1, "Md.": 1, "Saharan": 1, "North Atlantic": 2, "Atlantic": 5, "Africa": 1, "Caribbean": 1, "Fairfax Va.": 1}
+{}
+{"Atlantic": 2, "Africa": 1, "the Atlantic Ocean.\u00e2\u0080\u009dAnother": 1, "the Yucatan Peninsula": 1, "North Carolina": 1, "South Padre Island": 1, "Texas": 2, "Atlantic Ocean": 1, "Caribbean Sea": 1, "Gulf of Mexico": 1}
+{"New York Sea Grant": 1, "NYC": 6, "New York City": 1, "Manhattan": 1, "Hoboken": 1, "New Jersey": 1, "Manhattan Island": 1}
+{"Alabama": 2, "Florida": 2, "Georgia": 2, "Louisiana": 2, "Mississippi": 2, "North Carolina": 2, "South Carolina": 2, "Texas": 2, "New Orleans": 2}
+{"Earth": 2, "Miami": 1, "Gulf Stream": 1, "the Indian Ocean": 1, "Sumatra": 1, "Indian Ocean": 1, "Pasadena": 1, "Calif.": 1, "Ewa Beach": 1, "Hawaii": 1}
+{"the Gulf coast": 1}
+{"Florida": 1}
+{"Earth": 2, "Mars": 1}
+{"Baltimore": 1, "Greenbelt": 1, "Md.": 1, "U.S.": 1, "Wallops Island": 2, "Va.": 2, "Orlando": 2, "Fla.": 1, "Lafayette": 1, "La.": 1}
+{"the Atlantic Basin": 1, "Miami": 1, "America": 1, "Atlantic": 1}
+{"Atlantic": 9, "Princeton": 1, "N.J.": 1, "the Atlantic basin": 1}
+{"the United Kingdom": 1, "Jamaica": 2, "Belize": 5}
+{"New Orleans": 2, "La.": 2, "the United States": 1, "mid": 1, "Missouri": 1, "Baton Rouge": 1}
+{"the City of New Orleans": 1, "Louisiana": 1, "New Orleans": 1}
+{"New Orleans": 1, "Atlantic": 1, "the North Atlantic": 1}
+{"F. Seychelles": 1}
+{"Boulder": 1, "Colo.": 1, "Washington": 1, "D.C.": 1, "U.S.": 1, "Port Arthur": 1, "Texas": 2, "Florida": 1, "Gulf": 1, "Atlantic": 2, "Maine": 1}
+{"U.S.": 1, "the Pacific basin": 1, "the mid-Atlantic Ridge": 1, "Puerto Rico": 1, "the United States": 1, "Socorro": 1, "Mexico": 1, "the Sea of Bengal": 1, "India": 1, "Bangladesh": 1}
+{"the Atlantic basin": 1, "U.S.": 6, "Atlantic": 5, "North Atlantic": 1, "Azores High": 1, "Pacific": 1, "Caribbean": 1, "United States": 1, "Colorado State": 1, "Florida": 1, "the Gulf Coast": 1, "East": 1, "Gulf Coasts": 1, "Brownsville": 1, "Texas": 1, "Eastport": 1, "Maine": 1, "Atlantic basin": 1}
+{"U.S.": 2, "New Orleans": 1, "the Eastern United States": 1, "Arctic": 2, "Midwest": 1, "Mississippi": 1, "Missouri": 1, "the St. Lawrence Seaway": 1, "the Great Lakes": 1, "Upper Midwest": 1, "the Mississippi River": 1, "California": 1}
+{"Louisiana": 4, "Maryland": 1, "South America": 2, "Avery Island": 2, "St. Bernard Parish": 1}
+{"U.S.": 3, "Miami": 1}
+{"Dalhousie": 2, "Tantramar": 2, "New Brunswick": 1, "Nova Scotia": 2, "Dartmouth": 1, "Halifax Regional Municipality": 1, "Atlantic": 1, "Nova Scotia.\u00e2\u0080\u009cAs": 1, "Stanley": 1, "N.B.": 1, "Richmond Hill": 1, "Ont": 1, ".": 1, "Halifax Harbour": 1}
+{"Atlantic Ocean": 1, "Africa": 6, "Atlantic": 7, "the Atlantic Ocean": 1}
+{"Grand Canyon": 3, "Colorado River": 1, "Toroweap": 2, "ca": 1, "Gray Ledge": 1, "Hurricane": 1}
+{"Atlantic": 4, "North Atlantic": 1, "Caribbean Sea": 1, "Gulf of Mexico": 1, "the United States": 1}
+{"Atlantic": 8, "U.S.": 4, "Miami": 1, "North Atlantic": 3, "the Gulf of Mexico": 1, "Africa": 1, "Central America": 1, "Pacific": 4, "Indian": 2}
+{"Sacramento": 1, "San Joaquin": 1, "California": 3, "the Central Valley": 1, "Nevada": 1, "the State of California": 1, "Central Valley": 1, "New Orleans": 2, "the Gulf Coast": 1}
+{"the Mississippi River": 1, "the Gulf of Mexico": 2, "Gulf": 1, "New Orleans.\u00e2\u0080\u009cLouisiana": 1, "Louisiana": 1, "Mississippi": 1}
+{"United States": 1, "U.S.": 5, "Plains": 1, "Southeast": 4, "Europe": 1, "Asia": 1, "the Northern Hemisphere": 1, "Arctic": 2, "the Upper Midwest": 1, "Northeast": 1, "California": 1, "Oregon": 1, "Maryland": 1, "Connecticut": 1, "Delaware": 1, "Texas": 1, "Kansas": 1, "Missouri": 1, "the Atlantic Basin": 2, "Atlantic Ocean": 1, "Caribbean Sea": 1, "Gulf of Mexico": 1, "Yucatan Peninsula": 1, "Nicaragua": 1, "Gulf": 1, "La Ni\u00c3\u00b1a": 1, "Pacific": 1}
+{"Atlantic": 2, "the Atlantic Ocean": 1, "Atlantic Ocean": 1}
+{"United States": 1, "Athens": 1, "Southeast": 2, "U.S.": 1, "Maui": 1, "Mount Wailea": 1, "Hawaii": 1, "Houston": 1, "New Orleans": 1, "Miami": 1, "North Carolina": 1}
+{"the United States": 2, "Great Britain": 1, "Ann Arbor": 1, "Louisiana": 1, "Alabama": 1, "Mississippi": 1, "New Orleans": 6}
+{"Atlantic": 10, "the Atlantic Meridional Mode": 1, "the Atlantic Ocean": 1, "Pacific": 3}
+{"US": 2, "Bangladesh": 1}
+{"Atlantic": 7}
+{"the Bay of Bengal": 3, "Tampa": 1, "Fla.": 1, "Bangladesh": 1}
+{"New Orleans": 2, "Louisiana": 1, "Atlanta": 1}
+{"Mississippi": 1, "Louisiana": 1, "Alabama": 1, "New Orleans": 1, "Durham": 1, "N.H.": 1, "Earth": 2, "U.S.": 2, "Washington": 1}
+{"United States": 1, "U.S.": 1, "the United Kingdom": 1}
+{"Gulfport": 3, "Miss.": 1, "Memphis": 3, "Charleston": 3, "S.C.": 1, "New Madrid": 1, "United States": 1}
+{}
+{"U.S.": 1, "Mobile Bay": 1}
+{"Atlantic": 2, "U.S.": 2, "Honolulu": 1, "Pacific Ocean": 1, "Tucson": 1, "Ariz.": 1, "the Gulf of Mexico": 1, "Pacific": 1, "Earth": 1}
+{"Pacific": 1, "Atlantic": 3, "Chantal": 1}
+{"Texas": 1, "the Yucatan Peninsula": 2, "Chetumal": 1, "Mexico": 4, "Campeche": 1, "Yucatan": 1, "Bay of Campeche": 1, "the Gulf coast": 1, "Veracruz": 1, "Tampico": 1, "Gulf of Mexico": 1, "the Bay of Campeche": 1, "the Isthmus of Tehuantepec": 1, "Yucatan Peninsula": 1, "Belize": 1, "Guatemala": 1, "Honduras": 1}
+{"Americas": 1, "Australia": 1, "Asia": 1, "Europe": 1, "Belize": 1}
+{"the Gulf of Mexico": 2, "Gulf": 3, "Pasadena": 1, "Calif.": 1, "Atlantic": 4, "Gulf of Mexico": 1, "Caribbean": 1}
+{"Atlantic": 5, "the Pacific Ocean": 1}
+{"Alabama": 2, "Florida": 2, "Georgia": 2, "Louisiana": 2, "Mississippi": 2, "North Carolina": 2, "South Carolina": 2, "Texas": 2, "New Orleans": 12, "U.S.": 1}
+{"South Carolina": 2, "Virginia": 1, "Aiken": 1, "South Carolina's": 1, "United States": 1, "the Savannah River": 2, "Upper Three Runs": 1, "The Savannah River": 1, "Georgia": 1, "Congaree": 2, "Savannah River": 3}
+{"the Atlantic Ocean": 1, "Caribbean Sea": 1, "Gulf of Mexico": 1, "the Pacific Ocean.\u00e2\u0080\u009cThe": 1, "Pacific": 4, "Korea": 1, "Japan": 1, "Taiwan": 1, "Atlantic": 1, "the Eastern Seaboard": 1, "New England": 1}
+{"North Carolina Coastal Resources": 1, "New Hanover": 3, "Dare": 2, "Carteret": 2, "Bertie": 3, "North Carolina": 8, "North Carolina\u00e2\u0080\u0099s coast": 1, "Germany": 1, "Carolina Beach": 1, "Wrightsville Beach": 1, "Dare County": 1, "Carteret County": 1, "New Hanover County": 1, "Bertie County\u00e2\u0080\u0099s": 1, "the United States": 1, "North Carolina\u00e2\u0080\u0099s": 1}
+{"Asia": 1, "the U.S. Gulf Coast": 1, "Kashmir": 1, "South Asia": 1, "Louisiana": 1, "Gulf Coast": 1, "Japan": 1, "U.S.": 1}
+{"France": 1, "R\u00c3": 1, "\u00a9": 1, "union": 1, "the West Indian Ocean": 1}
+{"Atlantic": 1}
+{"Texas": 5, "the Appalachian Mountains": 1, "Del Rio": 1, "U.S.": 1, "Appalachians": 1}
+{"New Orleans": 5, "U.S.": 2, "New Orleans\u00e2\u0080\u0099": 1}
+{"tropics": 2, "the Pacific Ocean": 1, "North America": 1, "Europe": 1, "Massachusetts": 1, "the Eastern Seaboard": 1, "Pacific": 1}
+{}
+{"Caribbean": 1, "Laguna Playa Grande": 3, "Vieques": 3, "Puerto Rico": 1, "Atlantic": 6, "the New England": 1, "the Mid-Atlantic": 1, "the United States": 1, "New York": 1, "the Gulf Coast": 1, "Louisiana": 1, "Lake Ossa": 1, "Cameroon": 1, "Africa": 1}
+{"Carteret County": 1, "North Carolina": 2, "Georgia": 1, "Silver Spring": 1, "Md.": 1, "Louisiana": 2, "Terrebonne Parish": 1, "Martin": 1, "Florida": 3, "S.C.": 1, "Indian River County": 1, "Fla.": 1, "U.S.": 1, "Gulf of Mexico": 2, "La Ni\u00c3\u00b1a": 2, "Atlantic Ocean": 1, "South Carolina": 1, "the Gulf of Mexico": 1, "Gulf": 1, "the State of Florida": 1, "Caribbean": 1}
+{"Atlantic": 5, "the Atlantic            ": 1, "La Ni\u00c3\u00b1a": 5, "East": 1, "Gulf": 1, "Caribbean": 1, "the East Pacific": 1, "the United States": 1, "America": 1}
+{"Gulf": 1, "Atlantic": 2, "Texas": 1, "Maine": 1, "Florida": 1}
+{"New Orleans": 3, "US": 1, "Chicago": 1, "IL": 1}
+{"North Carolina": 2, "Greenbelt": 1, "Monterey": 1, "Salt Lake City": 1, "Bonnie": 1}
+{"New Orleans": 3, "Lake Ponchartrain": 1, "Lake Pontchartrain": 1, "Pontchartrain": 1}
+{}
+{"Atlantic": 1, "U.S.": 2, "United States": 1, "Athens": 1, "GA": 1, "Texas": 1, "Lousiana": 1, "Mississippi": 1, "Alabama": 1}
+{"Princeton": 1, "N.J.": 1, "Atlantic": 4, "Pacific": 2, "El Ni\u00c3\u00b1o": 1, "La Ni\u00c3\u00b1a": 1, "Pacific Walker": 1}
+{"the United States": 2, "Americas": 2, "Western Hemisphere": 1, "Caribbean": 1, "Earth": 4, "Western            ": 1, "Brazil": 3, "U.S.": 3, "South            ": 1, "Argentina": 3, "Buenos Aires": 1, "Amazon": 1, "South America": 3, "the South Pole": 1, "the            Western Hemisphere": 1, "Belize": 1, "Canada": 1, "Chile": 1, "Honduras": 1, "Mexico": 1, "Paraguay": 1}
+{"Southeast Asia": 3, "Khao Lak": 1, "Thailand": 2, "India": 2}
+{"Mississippi": 4, "New Orleans": 1, "the Gulf Coast": 1, "Louisiana": 1, "Alabama": 1}
+{"the Atlantic basin": 1, "U.S.": 6, "Pacific Ocean": 1, "Atlantic": 4, "Caribbean": 1, "the United States": 1, "the Gulf Coast": 1, "Gulf Coasts": 1, "Brownsville": 1, "Texas": 1, "Eastport": 1, "Maine": 1, "north Atlantic": 1, "Atlantic basin": 1}
+{"the DeSoto Canyon": 1, "Mobile Bay": 1, "Alabama": 1}
+{"the Sahara Desert": 1, "Africa": 1, "Atlantic": 15, "Greenbelt": 1, "Caribbean": 4, "West Africa": 1, "Saharan": 1, "El Ni\u00c3\u00b1o": 2, "Pacific": 1, "U.S.": 1, "Earth": 1}
+{"Louisiana": 1, "New Orleans": 1, "Atlantic": 1, "Gulf Coast": 2, "Gulf": 1, "U.S.": 1, "Atlantic Coasts": 1, "Mexico": 1, "Caribbean": 2, "Anguilla": 1, "Barbuda": 1, "Bahamas": 1, "the Mosquito Coast": 1, "Honduras": 2, "Nicaragua": 2, "Barbados": 1, "Belize": 1}
+{"Africa": 1, "the Saharan Air Layer": 6, "the Sahara Desert": 1, "Atlantic": 4, "Atlantic basin": 1, "Caribbean": 1, "Gulf of Mexico": 1, "Central America": 1, "West Africa": 1}
+{"Boulder": 1, "Atlantic": 2, "Gulf of Mexico": 1}
+{"Greenland": 9, "Arctic": 2, "North Atlantic": 1, "Texas": 1, "Iceland": 1, "Labrador": 1, "the Labrador Sea": 1, "Europe": 2, "Asia": 1, "North America": 1, "Northern Hemisphere": 1}
+{"Atlantic": 5, "the Atlantic Ocean": 1, "the Western Pacific": 1}
+{"Atlantic": 2, "Pacific": 4, "United States": 2, "the Pacific            ": 1, "America": 1}
+{"Greenland": 5, "Iceland": 2, "Northern Europe": 1, "UK": 4, "North-West Europe": 1, "Britain": 1, "Canada": 1, "Norway": 1, "US": 1}
+{"Atlantic": 12, "Atlantic Ocean": 3, "Pacific": 4, "the Bermuda High": 6, "Bermuda": 2, "U.S.": 4, "the Central Atlantic Ocean": 1, "the Caribbean Sea": 1, "the Gulf of Mexico": 1, "Africa": 4, "Greenbelt": 1, "Md.": 1, "the Atlantic Ocean": 4, "The Bermuda High": 1, "Caribbean": 4, "Gulf of Mexico's": 1, "the North Atlantic Ocean": 1, "the El Ni\u00c3\u00b1o": 1, "Pasadena": 1, "Calif.": 1, "Baltimore": 1, "the Cape Verde Islands": 1, "Mexico": 7, "the Eastern Pacific": 1, "Eastern Pacific": 1, "Baja California": 2, "North Pacific": 1, "Isla Altamura": 1, "Sinaloa": 1, "El Ni\u00c3\u00b1o": 1}
+{"Florida": 1, "Louisiana": 1, "St. Petersburg": 1, "FL": 1, "Alabama": 1}
+{"Long Island": 1, "New York": 1, "York": 1, "Brooklyn": 1, "New Orleans": 1}
+{"Antarctica": 3, "Pacific": 1, "Earth": 1, "the Northern Hemisphere": 1, "U.S.": 2, "Taiwan": 3, "the United States": 1}
+{"Den Haag": 1, "Ter Heijde": 1, "North Sea": 1, "Netherlands": 1, "New Orleans": 1}
+{"Mexico": 2, "Gert": 3, "Atlantic Ocean": 1, "the Gulf of Honduras": 1, "Chetumal": 1, "Yucatan": 1}
+{"Caribbean Sea": 1, "Cuba": 2, "the United States": 1, "Costa Rica": 1, "Monterey": 1, "Dennis": 1, "Tallahassee": 1, "tropics": 1}
+{"North America": 1, "Arctic": 4, "Asia": 1, "the Russian Federation": 1, "Europe": 4, "Canada": 3, "USA": 7, "Spitsbergen": 1, "Svalbard Lufthavn": 1, "Australia": 4, "Sydney": 1, "Brazil": 3, "Bom Jesus": 1, "Alps": 1, "Norway": 2, "England": 1, "The Netherlands": 2, "the Greater Horn of Africa": 1, "Burundi": 1, "Djibouti": 1, "Eritrea": 1, "Ethiopia": 3, "Kenya": 2, "Somalia": 4, "the United Republic of Tanzania": 1, "Western Australia": 1, "Great Lakes": 1, "China": 4, "Sichuan province": 1, "Africa": 2, "Morocco": 2, "Algeria": 1, "Sahara Desert": 1, "Tindouf": 1, "Bilma": 1, "Niger": 2, "Zinder": 1, "Dire Dawa": 1, "Omo River": 1, "Great Horn of Africa": 2, "Bolivia": 1, "Equador": 1, "Suriname": 1, "Leyte Island": 1, "Philippines": 2, "the River Danube": 1, "Bulgaria": 2, "Hungary": 2, "Romania": 2, "Serbia": 1, "New England": 1, "US": 1, "mid": 1, "-": 1, "Atlantic": 1, "Vancouver": 1, "Pacific": 4, "Chanchu": 1, "Prapiroon": 1, "Kaemi": 1, "Saomai": 1, "Xangsane": 1, "Cimaron": 1, "North Pacific": 1, "the Australian Basin": 1, "Queensland": 1, "Antarctic": 1, "UK": 4, "Belgium": 1, "Denmark": 1, "India": 1, "Ireland": 1, "France": 1, "Germany": 1, "Japan": 1, "Mauritius": 1, "New Zealand": 1, "Sweden": 1, "Switzerland": 1}
+{"Senegal": 5, "Cape Verde": 4, "West Africa": 3, "U.S.": 3, "Caribbean": 2, "the Sahara Desert": 2, "Washington": 1, "Africa": 3, "the United States": 2, "Europe": 1, "Asia": 1, "Saharan": 1, "the Near East": 1, "South Asia": 1, "Kawsara": 1, "Dakar": 2}
+{"Gulf Coast": 1, "New Orleans": 2}
+{"Baltimore": 1, "Western Europe": 1, "U.S.": 2, "Philadelphia": 1, "the United States": 1, "New Orleans": 1}
+{"New York City": 6, "New York": 2, "Rockaways": 1, "Coney Island": 1, "Brooklyn": 1, "Queens": 2, "Astoria": 1, "Flushing Meadows": 1, "Manhattan": 2, "Staten Island": 1, "Great Kills Harbor": 1, "Philadelphia": 1, "Caribbean": 1, "Jamaica Bay": 1, "Long Island": 1, "New England": 1}
+{"Alabama": 1, "Mobile Bay": 1, "Gulf of Mexico": 1, "MBC": 1}
+{"Greenbelt": 1, "Md.": 1, "Pasadena": 1, "Pacific Ocean": 2, "Eastern Pacific": 1, "Pacific": 2, "South America's": 1, "Indonesia": 1, "Australia": 1, "La Ni\u00c3\u00b1a": 1, "Equatorial Pacific": 1, "the West coast": 1, "South America": 1, "the United States": 1, "the Pacific Northwest": 1, "the North-Central States": 1, "Southeast": 2, "Southwest": 1, "Northwest": 1}
+{"Apalachee Bay": 3, "Florida": 3, "the Gulf of Mexico": 2, "Gulf": 2, "Texas": 2, "Windward Islands": 1, "the Caribbean Sea": 1, "Cuba": 1, "the Florida Shelf": 1, "Florida Panhandle": 1, "Naples": 1, "Tampa": 1, "the Northern Hemisphere": 1, "Florida Peninsula": 1, "Dennis": 1, "Louisiana": 1}
+{"Atlantic": 4, "the Sahara Desert": 2, "Africa": 2, "the Atlantic Ocean": 1, "Puerto Rico": 1, "Sahara": 2, "Sahel": 1, "North Atlantic": 1, "U.S.": 1}
+{"Wallops Island": 2, "Bay St. Louis": 1, "Miss.": 1, "the Gulf of Mexico": 1}
+{"New Orleans": 3, "Northern Manhattan": 1}
+{"Earth": 1, "Equator": 1}
+{"Salt City": 1, "the Sahara Air Layer": 1, "the Sahara Desert": 1, "Atlantic Ocean": 1}
+{"New Orleans": 5, "Cape Girardeau": 1, "Mo.": 1, "Gulf": 1, "Lubbock": 1, "the Mississippi River": 1, "Louisiana": 1, "Lafayette": 1}
+{"U.S.": 1, "Taiwan": 1, "South Korea": 1, "China": 1, "India": 1, "United States": 1}
+{"Atlantic": 4, "Pacific": 4, "Germany": 1, "the United Kingdom": 1, "Earth": 1}
+{"United States": 1, "the United States": 1, "Boise": 1, "Idaho": 1}
+{"Louisiana": 1, "Mississippi": 1, "Indian Ocean": 1, "Gulf Coast": 2, "the New Orleans'": 1, "New Orleans": 1, "Boulder": 1, "Colo.": 1, "Gulf": 1, "the Gulf of Mexico": 1, "The Gulf of Mexico": 1, "the Mississippi Gulf Coast": 1, "New Orleans'": 1}
+{"Zinder": 2, "Niger": 2, "Atlantic": 4, "Boulder": 1, "Africa": 2, "Caribbean": 1, "Paris": 1, "U.S.": 2, "Gulf": 1}
+{}
+{"Bahamas": 1, "U.S.": 1, "Fort Lauderdale": 1, "Fla.": 1, "the Gulf of Mexico": 1, "Atlantic": 1, "New Orleans": 3, "La.": 1, "Lake Pontchartrain": 2, "Lake Maurepas": 1, "Mobile Bay": 1, "Mobile": 1, "Ala.": 1, "Biloxi": 2, "Gulfport": 1, "Miss.": 1, "Terra": 1, "Louisiana": 1}
+{"Tallahassee": 1, "Atlantic": 2, "the North Atlantic Ocean": 1, "Caribbean": 1, "Mexico": 1, "the United States": 1, "Mississippi": 1, "Louisiana": 1, "Texas": 1}
+{"Chicago": 2, "New Orleans": 1}
+{"the City of New Orleans": 1, "New Orleans": 2, "Gulf Coast": 2, "Louisiana": 1, "Lake Pontchartrain": 1, "Lake Pontchartrain Basin Foundation": 1, "the Lake Pontchartrain Basin": 1}
+{"the Cape Verde Islands": 1, "Senegal": 1, "West Africa": 2, "Atlantic": 1, "the Saharan Air Layer": 2, "the Sahara Desert": 1, "Atlantic Ocean": 1, "Sahara": 1}
+{"Polk County": 2, "Florida": 1, "South Florida": 1, "Tampa": 2, "St. Petersburg": 1}
+{"Durham": 1, "N.H.\"This": 1, "San Diego": 1, "Earth": 3}
+{"the North Atlantic": 2, "Azores": 1, "the Slope Water": 1, "Woods Hole": 2, "Trichodesmium": 1, "the Gulf Stream": 1, "the Caribbean Sea": 1, "Caribbean": 1}
+{"Huntsville": 1, "Ala.": 1, "Costa Rica": 1, "Emily": 2, "Alabama": 1}
+{"Atlantic": 12, "North Atlantic": 2, "Earth": 1}
+{"Gulf Coast": 3, "Florida": 1, "Alabama": 1, "Texas": 1, "Earth": 2, "New Orleans": 6, "the Gulf Coast": 6, "Europe": 1, "the United States": 1, "Louisiana": 1, "Mississippi": 2, "Mississippi River": 1}
+{"Italy": 1, "New York City": 2}
+{"New Orleans": 4, "Canada": 1, "the Gulf of Mexico": 2, "Mississippi Delta": 1}
+{"Atlantic": 8, "Atlantic Multidecadal Oscillation": 1, "North American": 1, "Europe": 2, "North America": 1}
+{"Pacific": 8, "Camp Springs": 1, "El Ni\u00c3\u00b1o": 1, "La Ni\u00c3\u00b1a": 1, "east Pacific": 1, "the east Pacific": 1, "the Pacific Ocean": 1, "Mexico": 1, "Central America": 1, "United States": 1, "the north Atlantic": 1}
+{"north Atlantic": 3, "the United States": 1, "U.S.": 2, "Pacific": 2, "El Ni\u00c3\u0083\u00c2\u00b1o nor": 1, "La Ni\u00c3\u0083\u00c2\u00b1a likely": 1, "the north Atlantic": 1}
+{"New Orleans": 2, "the Gulf Coast": 1, "South Florida": 1, "Miami": 1, "U.S.": 1, "Miami-Dade County": 1, "Miami-Dade": 1}
+{"Atlantic": 3, "U.Va": 2, ".": 2}
+{"Pacific": 5, "the Atlantic Ocean": 3, "Atlantic": 5, "Greenbelt": 1, "Md.": 1, "Atlantic Ocean": 2, "Bermuda": 1, "the western Atlantic": 1, "the Gulf of Mexico": 1, "Tropics": 1, "Africa": 1, "U.S.": 2, "Caribbean Islands": 1, "Pasadena": 1, "Calif.": 1, "East": 1, "Gulf": 1}
+{"Greenbelt": 1, "Md.": 1, "Monterey": 1, "Gert": 5, "the Gulf of Honduras": 1, "Chetumal": 1, "Mexico": 4, "Yucatan": 1, "the Bay of Campeche": 1, "Tuxpan": 1, "the Gulf of Mexico": 1, "Gulf": 3}
+{"Monterey": 1, "San Jose": 1, "Costa Rica": 1}
+{"Louisiana": 2, "Gulf": 3, "New York City": 1, "M.S.": 1, "the Gulf region": 1, "Sc.M.": 1, "Baton Rouge": 1, "La.": 1}
+{"Earth": 1}
+{"North Atlantic": 2, "North Pacific": 1, "the North Atlantic": 1}
+{"Gulf": 1, "Panama City": 1, "Fla.": 1, "New Orleans": 2, "Plaquemines Parish": 1, "La.": 1, "Empire": 1, "Buras": 1, "Boothville": 1, "Louisiana": 1, "Mississippi": 1, "Alabama": 1, "the United States": 1, "U.S.": 1, "Wallops": 1, "Va.": 1}
+{"Tallahassee": 1, "Fla.": 1, "tropics": 1, "Monterey": 1, "Calif.": 1, "Atlanta": 1}
+{"Atlantic": 1, "the United States": 1, "Cambridge": 1, "Neuse River Estuary": 1, "Pamlico Sound": 3, "Chesapeake Bay": 1, "U.S.": 1, "the Chesapeake Bay": 1, "the Neuse River": 1, "N.C. sound": 1, "Neuse River": 1, "mid-Atlantic": 1, "Florida": 1, "Massachusetts": 1, "Maine": 1, "New York": 1, "San Francisco Bay": 1, "Puget Sound": 1}
+{"U.S.": 2, "United States": 2, "Death Valley": 1, "East": 1, "New England": 2, "New York": 1, "West": 1, "Southwest": 3, "Northwest": 1, "Pacific": 2, "California": 1, "the Pacific Northwest": 1, "Rockies": 1, "Midwest": 1, "Plains": 1, "Illinois": 2, "Chicago": 1, "Rockford": 1, "Arkansas": 1, "Iowa": 1, "Kansas": 1, "Missouri": 1, "Texas": 1, "Wisconsin": 1, "Alaska": 2, "the United States": 1, "Northeast": 3, "Mount Washington": 1, "Boston": 1, "Atlantic": 1, "the Atlantic Basin": 1, "North Carolina": 1, "Eastern Pacific": 1, "Western North Pacific": 1, "the Northern Hemisphere": 1, "Russia": 1, "Scandinavia": 1, "Canada": 1, "Arctic": 2, "Africa": 1, "the Greater Horn of Africa": 1, "India": 1, "Mumbai": 1, "Amazon River": 1, "Europe": 1, "Australia": 1}
+{"Lubbock": 1, "New Orleans": 1, "Washington": 1, "D.C.": 1, "Columbus": 1, "Ohio": 1}
+{"South Carolina's": 1, "South Carolina": 2, "Folly Island": 2, "Carolinas": 1}
+{"Gulf Coast": 1}
+{"New Orleans": 3, "Lake Pontchartrain": 3, "Baton Rouge": 1, "the \"East Bank": 1, "Washington": 1, "D.C.": 1, "Columbus": 1, "Ohio": 1}
+{"CHAPEL HILL": 1, "Mississippi": 1, "Louisiana": 2, "North Carolina\u00e2\u0080\u0099s 2005": 1, "Chapel Hill": 1, "North Carolina": 3, "Texas": 1}
+{"the Gulf ofMexico": 1, "the Gulf coast": 1, "C-band": 1, "Atlantic": 1}
+{"Florida": 1}
+{"\"U.S.": 1, "the Gulf of Mexico": 1, "the Florida Keys": 1, "Pensacola": 1, "Fla.": 1, "Texas": 1, "Alabama": 2, "Mississippi": 1, "Louisiana": 1, "Gulfport": 1, "U.S.": 1}
+{"Biloxi": 1, "FortWalton Beach": 1}
+{"Halifax": 1, "Nova Scotia": 1, "Canada": 1, "Earth": 2, "El Ni\u00c3\u00b1os": 1, "La Ni\u00c3\u00b1as": 1, "the Agulhas Current": 1, "South Africa": 1, "the California Current": 1, "Pacific Ocean": 1, "California": 1, "inBoulder": 1, "Colo.": 1, "Southern Ocean": 1, "States": 1}
+{"CHAPEL HILL": 1, "U.S.": 1, "New Orleans": 6, "Louisiana": 4, "Mississippi": 3, "South Pacific": 1, "Indian Ocean": 1, "Lake Ponchartrain": 3, "Mississippi Delta": 2, "the Mississippi River": 1, "Gulf": 1, "Europe": 1}
+{"the North Pacific": 1, "Southwest Pacific": 1, "the North and South IndianOceans": 1, "the North Atlantic Ocean": 1, "the North Atlantic": 2, "The North Atlantichas": 1, "North Atlantic": 1, "North Pacific": 1}
+{"Thailand": 1}
+{}
+{"the United States": 1, "New Orleans": 4, "Gulf Coast": 1, "West Nile": 1, "Washington": 1, "D.C.": 1}
+{}
+{"Tampa": 2, "the French Quarter": 1, "New Orleans": 1, "Florida": 2, "Pearlington": 2, "Pearl River": 1, "Bay St. Louis": 1}
+{"GulfCoast": 1, "New Orleans": 1, "Earth": 1, "Sioux Falls": 1, "S.D.": 1, "U.S.-Japan": 1, "Pasadena": 1}
+{"Tampa": 1, "the U.S. GulfCoast": 1, "New Orleans": 2, "La.": 2, "Ala.": 1, "Bahamas": 1, "the Gulf Coast": 1, "South Florida": 1, "the Gulf of Mexico": 1, "Gulf Coast": 2, "Plaquemines Parish": 1, "Buras": 1}
+{"USA": 1, "Gulf Coast": 1}
+{"the Gulf ofMexico": 1}
+{"Mississippi": 1, "New Orleans": 1, "Huntsville": 1, "Ala.": 1}
+{"the north Atlantic": 1, "Pacific Oceans": 1, "the United States": 1}
+{"Salt Lake City": 2, "Reno": 1, "Nev.": 1, "Greenbelt": 1, "Md.": 1, "overOklahoma": 1, "the Pacific Ocean": 1, "Panama": 1, "theBaja Peninsula": 1, "California": 1, "U.S.": 1, "Nora": 1, "Utah": 1, "Oklahoma": 3, "Terra": 1, "Earth": 1}
+{"inBoulder": 1, "Colo.": 1, "Atlantic": 1}
+{"Valdosta": 2, "Georgia": 2, "Calgary": 1, "Alberta": 1, "Canada": 1, "the Southeastern US": 1, "Southeastern": 1, "SoutheasternUS": 1, "the Eastern US": 1}
+{"the Gulf of Mexico": 1, "Gulf": 3, "the DeSoto Canyon": 1, "Mobile Bay": 1, "Alabama": 1, "the North Pacific": 1}
+{"Ret.": 1, "Atlantic": 7, "Atlanticactivity": 1, "Pacific": 1, "U.S.between": 1}
+{"Moscow": 1, "the Mississippi River": 1}
+{}
+{"Atlantic": 5, "the Eastern and Central Pacific": 1, "the Central Pacific": 1}
+{"Florida": 5, "St. Petersburg": 1, "Tampa": 1, "Charlotte County": 1}
+{"Hays": 1, "Kansas": 1, "Mulhall": 2}
+{"Hays": 1, "Kan.": 1, "Boulder": 1, "Colo.": 1, "Okla.": 2, "Mulhall": 2}
+{"Cape Hatteras": 1, "Miami Beach": 1, "Naples": 2, "Savannah": 1, "Ga.": 1, "Atlantic Ocean": 1, "Gulf of Mexico": 2, "U.S.": 1, "West Palm Beach": 2, "Fla.": 1, "New Orleans": 1, "Wilmington": 1, "N.C.": 1, "Charleston": 1, "S.C.": 1, "Florida": 6, "Fort Lauderdale": 1, "Mississippi": 1, "Alabama": 1, "Louisiana": 1, "Gulf Coast": 1, "the State of Florida": 1, "Caribbean": 1}
+{"the Eastern Pacific": 1, "Mexico": 1, "El Salvador": 1, "Guatemala": 1, "Atlantic": 3, "Central America": 3, "Caribbean": 1, "Cuba": 1, "Bahamas": 1, "Pacific": 2}
+{"el Nino": 1, "Washington": 1, "Peru": 1, "Americas": 1, "Australia": 1, "Southeast Asia": 1, "Africa": 1, "tropics": 1}
+{"the Gulf of Mexico": 2, "the Gulf of Maine": 3, "Texas": 2, "Maine": 1, "Alabama": 1, "Halifax": 1, "Alaska": 1, "Valdez": 1}
+{"Louisiana": 6, "U.S.": 1, "Asia": 1, "the United States": 2, "New Orleans": 2, "Cocodrie": 1, "Port Fourchon": 1, "LA": 1, "Needham": 1, "Massachusetts": 1}
+{"Israel": 1, "U.S.-Israel": 1}
+{"Florida": 1, "mid-Atlantic": 2, "U.S.": 2, "Texas": 1, "Oklahoma": 1, "Southeast": 1}
+{"United States": 1, "Washington": 2, "Oregon": 2, "Alaska": 5, "the West Coast": 1, "U.S.": 9, "the Upper Midwest": 2, "Florida": 3, "West": 7, "the East Coast": 1, "Texas": 1, "South Carolina": 1, "Southeast": 1, "Appalachians": 1, "East": 1, "the Sierra Nevada": 1, "Utah": 1, "Arizona": 2, "Nevada": 1, "Northwest": 2, "Rockies": 1, "Montana": 1, "Idaho": 1, "Wyoming": 1, "California": 1, "Colorado": 1, "the adjacent": 1, "Yukon Territory": 1, "Canada": 1, "Fairbanks": 1, "North America": 1, "Asia": 1, "Europe": 1, "the Northwest Pacific": 1, "Japan": 1, "India": 2, "the South Atlantic": 1, "Australia": 2, "Pacific": 1, "Indonesia": 1, "Africa": 1, "America": 1}
+{"Berkshire": 1, "England": 1, "Camp Springs": 1, "Narragansett": 1, "RI": 1, "Rhode Island": 1}
+{"Seattle": 1, "La Jolla": 1, "Africa": 1, "Caribbean": 1, "Keesler AFB": 1, "Miss.": 1}
+{"Florida": 2, "Tallahassee": 1, "Washington": 1, "Los Alamos": 5}
+{"Doe Hill": 1, "Va.": 1, "Highland County": 1, "Southwest Virginia": 2, "Denver": 1, "the Shenandoah Valley": 1, "Virginia": 1, "the New River": 1, "Montgomery County": 1, "the Commonwealth of Virginia": 1, "Blacksburg": 1, "Northern Virginia": 1, "Hampton Roads": 1, "Richmond": 1, "Roanoke": 1}
+{"Charlotte Harbor": 3, "Sarasota": 1}
+{"Georgia": 3, "Alabama": 3}
+{"South Florida": 1, "Florida": 4, "North Carolina": 1, "the United States": 1}
+{"Florida": 1, "Caribbean": 1, "Earth": 3, "Pasadena": 2}
+{"Florida": 2, "the Outer Banks": 1, "North Carolina": 1, "North Captiva Island": 1, "Fla.": 1, "Earth": 1}
+{"Florida": 2, "Carolinas": 1, "Virginia": 1, "the Caribbean Islands": 1}
+{"Bahamas": 1, "Florida": 3, "the Gulf Stream": 1, "the Gulf of Mexico": 1, "Earth": 4, "Salzburg": 1, "Austria": 1, "Portugal": 1, "Elbe": 1, "Antarctic": 1, "Bam": 1, "Europe": 1}
+{"Miami": 2, "Earth": 1, "tropics": 2, "U.S.": 1, "East": 1, "Pacific": 2, "Atlantic": 1, "Western Pacific": 1, "the Southern Hemisphere": 1, "the Northern Hemisphere": 1}
+{"The United States": 1, "Earth": 2, "tropics": 1}
+{"Earth": 2}
+{"Texas": 2, "New England": 1, "South Florida": 5, "North Carolina": 3, "the Northern Gulf Coast": 2, "East Texas": 1, "Florida": 1, "Cape Hatteras": 1, "Gulf": 1, "East Coasts": 1, "South Padre Island": 1, "Eastport": 1, "Maine": 1, "the East Coast": 1, "Louisiana": 2, "Key West": 1, "Fla.": 1, "Northern Florida": 1}
+{"Laurel": 1, "Maryland": 1, "North Atlantic": 1, "Atlantic": 1, "Earth": 2, "College Park": 1, "Md.": 1, "Santa Barbara": 1, "Calif.": 1, "Norfolk": 1, "Earth System": 1}
+{"North Carolina": 1, "Neuse": 1, "Pamlico Sound": 5, "U.S.A.": 2, "the Albemarle-Pamlico Estuarine System": 2, "the United States": 2, "East Carolina University": 1, "the Neuse River Estuary": 2}
+{"Greenbelt": 1, "Md.": 1, "Seattle": 1, "North Carolina": 1, "Earth": 1}
+{"Atlantic": 2, "Florida": 1}
+{"the State of Maryland": 1, "Maryland": 2, "Rockville": 1, "Md.": 1, "Reisterstown": 1, "Annapolis": 1, "Baltimore": 1, "U.S.": 1}
+{"Florida": 1, "South Carolina": 1}
+{"Boulder": 1}
+{"the Eastern Seaboard": 1}
+{"U.S.": 1, "the Cape Verde Islands": 1, "Africa": 1, "Atlantic": 1, "Gulf": 1, "Japan": 2, "Earth": 1}
+{"Florida": 2}
+{"Tampa": 2, "Gulf": 1}
+{"Salt Lake City": 2, "Reno": 1, "Nev.": 1, "Greenbelt": 1, "Md.": 1, "Oklahoma": 4, "the Pacific Ocean": 1, "Panama": 1, "the Baja Peninsula": 1, "California": 1, "U.S.": 1, "Utah": 1, "Nora": 1, "Earth": 2}
+{"Mt. Vernon": 1, "Iowa": 1, "Bahamas": 1, "Florida Keys": 1, "Caribbean": 3, "Curacao": 1, "Bonaire": 1}
+{"London": 1}
+{"US": 4, "U.S.": 1, "the United States": 2}
+{"United States": 1, "Atlantic": 1, "Gulf of Mexico": 1}
+{"South Carolina": 1, "Conway": 2, "Horry County": 5, "Myrtle Beach": 2}
+{"the Atlantic Ocean": 1, "Earth": 1, "Washington": 1, "DC": 1, "Jacksonville": 1, "Fla.": 1}
+{"Horry County": 6, "Clemson": 1, "Conway": 1, "Myrtle Beach": 1}
+{"North Carolina": 1}
+{"St. Louis": 1, "Bahamas": 1}
+{"Corvallis": 1}
+{"Norman": 1, "Florida": 1, "Texas": 2, "South Carolina": 1, "The Gulf Coast": 1, "Houston": 1, "Lubbock": 1, "Meridian": 1, "Miss.": 1}
+{"Earth": 2, "the Appalachian Mountains": 1, "Hampton": 1, "Va.": 1, "the United States": 1, "England": 1, "Italy": 1, "Pasadena": 1}
+{"tropics": 1, "the United States": 2, "southernMississippi River Valley": 1, "Southwest": 1, "Midwest": 1, "Great Lakes": 1, "midcontinentalareas": 1, "North America": 1, "West Coast": 1, "Pacific": 2, "Southeast Asia": 1}
+{"Miami": 1, "the Gulf of Mexico": 1, "Pasadena": 2, "Washington": 1, "D.C.": 1}
+{"Pasadena": 1, "US": 1, "Greenbelt": 1, "MD": 1}
+{"the Bitterroot Mountain Range": 1, "Montana": 1, "Flathead Lake": 1, "the Great Salt Lake": 1, "Earth": 2, "Pacific": 1, "Baja California": 1, "Mexico": 1, "Hector": 1, "Pasadena": 1}
+{"AMHERST": 1, "Mass.": 1, "Miami": 1}
+{"the United States": 5, "Galveston": 1, "Texas": 1, "the Gulf Coast": 1, "Rapid Creek": 1, "Rapid City S.D.": 1, "the Big Thompson": 1, "Cache la Poudre Rivers": 1, "Colorado": 1, "Mississippi River Basin": 1, "Puerto Rico": 1, "the Virgin Islands": 1, "Denver": 1, "CO": 1}
+{"Santa Rosa": 1, "CA": 1, "Miami": 1, "FL": 1, "El Ni\u00c3\u00b1o": 1, "La Ni\u00c3\u00b1a": 1, "Earth": 2}
+{"the United States": 1, "Greenbelt": 1, "United States": 1, "Equator": 1, "the East Coast": 2, "West Coast": 1, "the West Coast": 1, "Pacific": 1, "Hawaii": 1, "the Atlantic Ocean": 1, "Florida": 1}
+{"the Gulf of Mexico": 1, "Louisiana": 3, "Gulf": 6, "Florida": 1, "U.S.": 2}
+{"the Pacific Ocean": 1, "Atlantic Ocean": 1, "the Eastern Pacific": 1, "the Western Pacific": 1}
+{"Pacific": 7, "Caribbean": 3, "Texas": 1, "Cuba": 1, "the Gulf of Mexico": 4, "Gulf Coast": 1, "New Orleans": 1, "Galveston": 1, "Florida": 2, "the Indian Ocean": 1, "the Madden-Julian Oscillation": 1, "Atlantic Ocean": 1, "Mexico": 2, "the Eastern Pacific": 1, "Central America": 1, "Americas": 1, "Atlantic": 1}
+{"U.S.": 8, "the U.S. Gulf Coast": 1, "Washington": 1, "D.C.": 1, "the Gulf of Mexico": 2, "the Atlantic Ocean": 1, "Florida": 1, "Texas": 1, "the Atlantic Coast": 2, "Virginia": 1, "Massachusetts": 1, "the Gulf Coast": 2, "America": 1}
+{"Tallahassee": 1, "Greenbelt": 1, "Md": 1, "Earth": 2}
+{"U.S.": 3, "the Atlantic Basin": 3, "the North Atlantic Ocean": 1, "Caribbean Sea": 1, "Gulf of Mexico": 1, "the U.S. Atlantic Coast": 1, "Florida": 2, "The Gulf Coast": 1, "Gulf Coast": 1, "Brownsville": 1, "Texas": 1, "the East Coast": 1, "North Carolina": 1, "La Ni a": 1, "Pacific": 2, "Caribbean": 2, "Atlantic": 8, "Africa": 1, "Atlantic Ocean": 1, "the U.S. East Coast": 1, "the Pacific Ocean": 1, "North Atlantic": 1, "the Azores High": 1}
+{"Caribbean": 2, "Puerto Rico": 1, "Orocovis": 1, "Naguabo": 1, "Humacao": 1}
+{"Atlantic": 1, "Greenbelt": 1, "MD": 1, "Earth": 1, "Pamlico Sound": 1, "North Carolina": 3, "the Outer Banks": 1, "Beaufort": 1, "NC": 1, "Wallops Island": 1, "VA": 1, "Charleston": 1, "SC": 1}
+{"Gulf": 2, "the Gulf of Mexico": 1, "the Caribbean Sea": 1, "Mexico": 1, "Texas": 1, "Atlantic": 1, "Maine": 1}
+{}
+{"GAINESVILLE": 1, "Fla.": 1, "Fort Pierce": 1, "Escambia": 1, "Miami-Dade": 1, "St. Johns": 1, "Pinellas County": 1, "the United States": 1}
+{"the Gulf of Mexico": 2, "Pacific": 2, "Bermuda": 1, "Atlantic": 1, "Pasadena": 2, "CA": 2, "Mexico": 1, "Baja Peninsula": 1, "Washington": 1, "DC": 1, "Greenbelt": 1, "MD": 1, "Boulder": 1, "CO": 1}
+{"Charleston": 2, "Mississippi": 1}
+{"U.S.": 1, "the U.S. East Coast": 1, "Florida": 1, "The Gulf Coast": 1, "Caribbean": 2, "Bahamasland": 1, "Mexico": 1, "the U.S. Coast": 1, "the East Coast": 1, "the Caribbean Basin": 1, "Atlantic": 3, "Greenland": 1, "the South AtlanticOcean": 1}
+{"South Carolina": 2, "Georgetown": 1, "the Hobcaw Forest": 1, "the Francis Marion National Forest": 1, "McClellanville": 1, "Bidler Forest": 1, "Holly Hill": 1, "the Congaree Forest": 1, "Columbia": 1, "Lowcountry": 1}
+{"CLEMSON": 1, "S.C.--": 1, "South Florida": 1, "Carolinas": 1}
+{"High Bay 2": 1, "Tallahassee": 1, "FL": 1}
+{"the Atlantic Ocean": 2, "El Ni\u00c3\u00b1o": 4, "Gulf of Mexico": 1, "Caribbean Sea": 1, "the Pacific Ocean": 1, "Peru": 1, "Ecuador": 1}
+{"North Carolina's": 1, "Outer Banks": 1, "Southern Shores": 2, "Baltimore": 1, "Copenhagen": 1, "Denmark": 1, "South Florida": 1, "the Atlantic Ocean": 1}
+{"the Caribbean Basin-Bahamas": 1, "Mexico": 2, "Caribbean": 3, "U.S.": 1, "Brownsville": 2, "Texas": 1, "the U.S. East Coast": 1, "Florida": 2, "the Gulf Coast": 2, "Atlantic Ocean": 2, "the West Coast": 1, "Canada": 1, "Baja California": 1, "La Ni\u00c3\u00b1a": 2, "Pacific": 2, "Atlantic Basin": 1, "the Azores High": 1, "The Azores High": 1, "Caribbean Basin": 1, "Atlantic": 3, "North Atlantic": 1, "the Eastern Seaboard": 1, "Africa": 1}
+{"Fla.": 1, "Clemson": 1, "S.C.": 1, "South Florida": 1, "the Florida Panhandle": 1, "Florida": 1, "Panhandle": 1, "Gainesville": 1, "Keys": 1}
+{"the Soufriere Hills Volcano": 2, "Montserrat": 3, "British West Indies": 2, "Plymouth": 2, "U.S.G.S.": 1}
+{"U.S.territories": 1}
+{"Atlantic": 1, "Huntsville": 1, "College Station": 1, "Texas": 1, "Georges": 1, "the Dominican Republic": 1, "Greenbelt": 1, "Andros": 1}
+{"Boulder": 1, "U.S.": 4, "theU.S.": 1, "United States": 1, "Japan": 1, "Mexico": 2, "Germany": 1, "earth": 1, "Pacific": 1, "Paris": 1, "the United States": 3, "Korea": 1, "China": 1, "the Yangtze River": 1, "Egypt": 1, "Mediterranean": 1, "Europe": 1, "Atlantic": 1, "Florida": 3, "Southeast": 1, "California": 2, "NewEngland": 2, "Canada": 1, "Lake Erie": 1, "Iowa": 1, "Indiana": 1, "Idahoto New England": 1, "Ohio River": 1, "South": 1, "Texas": 2, "U.S.cotton": 1, "Indonesia": 2, "thePhilippines": 1, "Australia": 1, "Southeast Asia": 1, "Hawaii": 1, "Africa": 1, "andBrazil": 1, "Peru": 2, "Ecuador": 2, "Uruguay": 1, "Argentina": 1, "South America": 1, "ofAfrica": 1, "Chile": 1}
+{"U.S.-Japanese": 1, "Japan": 1, "equator": 1, "Earth": 2, "Greenbelt": 1, "MD": 1, "Pacific": 1}
+{"Edwards": 1, "CA": 2, "U.S.": 1, "the United States": 1, "Earth": 1, "FL": 1, "Moffett Field": 1, "Dryden": 1}
+{"Honduras": 4, "Nicaragua": 3, "Belize": 1, "Americas": 1, "Central America": 2, "U.S.": 1, "Sweden": 1, "Canada": 1, "El Salvador": 1, "Mexico": 1}
+{"the Gulf Coast": 1, "South Florida": 1, "Georges": 4, "Gulfport": 1, "Pascagoula": 1, "Biloxi": 1, "Wilmington": 3, "N.C.": 1, "Caribbean": 1, "the United States": 1}
+{"New Orleans": 2, "Biloxi": 1, "Miss.": 1, "Louisiana": 1, "Mississippi": 1, "the Gulf of Mexico": 2, "Lafayette": 1, "La.": 1, "Chandeleurs": 2, "the Chandeleur Islands": 1, "the Chandeleur Sound": 1, "The Chandeleur Islands": 1, "Chandeleur Sound": 1, "the Gulf Coast": 1, "Florida": 1, "Texas": 1, "Mexico": 1, "Gulf": 1, "Atlantic": 1, "St. Petersburg": 1, "Fla.": 1, "Chandeleur Island": 1}
+{"North Carolina": 1, "United States": 1}
+{"Ithaca": 1, "N.Y.": 1, "Clemson": 1, "S.C.": 1, "France": 1, "Puerto Rico": 1, "Earth": 1, "Mercury": 1}
+{"Puerto Rico": 7, "San Juan": 2, "the United States": 1, "Toa Alta": 1, "Mayaguez": 1}
+{"the State of South Carolina": 1, "South Carolina": 1}
+{"Fla.": 1, "Atlantic": 2, "Huntsville": 1, "Ala.": 1, "the Eastern U.S.": 1, "Minnesota": 1, "Michigan": 1, "Illinois": 1, "Ohio": 1, "Colorado": 1, "Texas": 1, "Lone Star": 1, "New England": 1, "U.S.": 1, "mid": 1, "-": 1}
+{"Earth": 2, "Washington": 1, "DC": 1, "Atlantic": 2, "Huntsville": 1, "Tampa": 1, "Fla.": 1, "Greenbelt": 1, "Md.": 1, "Pasadena": 1, "Calif": 1, "Hampton": 1, "Va.": 1, "Moffett Field": 1}
+{"Atlantic": 4, "East Coast": 2, "Sable Island": 1, "Nova Scotia": 1, "the Atlantic Ocean": 1}
+{"St. Louis": 1, "Bahamas": 1, "Great Exuma": 6, "Lili": 1}
+{}
+{"North Pacific": 1, "the North Pacific": 2, "South America": 1, "Pacific": 3, "Southern California": 1, "Atlantic": 2, "the Eastern North Pacific": 1, "the East Pacific": 1, "Miami": 1, "Socorro": 2, "Mexico": 1, "Boston": 1, "Ohio": 1}
+{"Florida": 2, "Louisiana": 1}
+{"the Atlantic Basin": 3, "Pacific Ocean": 1, "Peru": 1, "the Pacific Ocean": 1, "Atlantic Ocean": 1, "Africa": 1, "Pacific": 1, "Atlantic": 3, "the South Atlantic": 1, "Singapore": 1, "El Ni\u00c3\u00b1o": 2, "the United States": 1, "the Atlantic Ocean": 1, "Caribbean Sea": 1, "Gulf of Mexico": 1, "Miami": 1}
+{"the Great Lakes": 3, "Great Lakes": 1, "Lake Superior": 1}
+{}

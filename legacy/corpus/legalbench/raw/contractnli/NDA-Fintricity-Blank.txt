@@ -1,0 +1,58 @@
+NON DISCLOSURE AGREEMENT
+This MUTUAL NON DISCLOSURE AGREEMENT (“NDA”) is dated .
+BETWEEN:
+FINTRICITY GROUP LIMITED, a company incorporated in England with registered number and having its registered office at 5 Scott Avenue, London SW15 3PA. United Kingdom. (“Fintricity”); and
+07795055
+, who resides at
+(“Receiving Party”).
+IN CONSIDERATION of the premises and mutual covenants and obligations contained herein IT IS HEREBY AGREED as follows:‐
+1 For the purposes of this Agreement:‐
+(a) "Fintricity" means Fintricity and Fintricity Affiliates.
+(b) "FINTRICITY Affiliate" means any entity, whether incorporated or not, over which FINTRICITY has Control.
+(c) “Company Affiliate” means any entity, whether incorporated or not, over which the Company has Control.
+(d) "Control" (or variants of it) means the ability whether directly or indirectly to direct the affairs of another by means of ownership, contract or otherwise.
+(e) "Confidential Information" shall mean all information of the disclosing party, whether commercial, financial, technical or otherwise, disclosed to the recipient in connection with the Business Purpose specified in the Schedule hereto ("the Business Purpose") (whether disclosed orally, in documentary form, by demonstration or otherwise) which is contained in any form whatsoever (including without limitation data, drawings, films, documents and computer readable media) and which is marked or otherwise designated to show expressly or by necessary implication that it is confidential or proprietary to the disclosing party.
+(f) "Disclosing Party" means the party furnishing Confidential Information, which in the case of FINTRICITY, includes any member of the FINTRICITY Group and "the recipient" means the party receiving it in the particular case.
+(f) "Receiving Party" means the party receiving Confidential Information, including any individual or individuals and "the recipient" means the party receiving it in the particular case.
+2 In connection with the Business Purpose it will be necessary for each party, either itself or through a third party acting as agent for it, to disclose to the other party Confidential Information of the disclosing party, which may be communicated orally, in document form, by demonstration or otherwise.
+3 Each party undertakes in respect of Confidential Information for which it is the recipient:‐
+(a) to treat such Confidential Information disclosed by the disclosing party as confidential;
+(b) not without the disclosing party's prior written consent in each case to communicate or disclose any part of such Confidential Information to any person except:‐
+(i) only to those personnel of the recipient on a need to know basis who are concerned with the Business Purpose;
+(ii) the recipient's auditors and professional advisers and any other persons or bodies having a legal right or duty to have access to or knowledge of the Confidential Information in connection with the business of the recipient;
+(iii) where the recipient is ordered by a court of competent jurisdiction to do so or there is a statutory obligation to do so except that the recipient shall use all reasonable endeavours to first inform the disclosing party in writing before any disclosure under such order or obligation is made; and
+(iv) to third parties engaged by the recipient who are concerned with the Business Purpose and who have been expressly authorised in writing by the disclosing party to receive the Confidential Information prior to disclosure.
+(c) to ensure that all persons and bodies mentioned in paragraph (b) above are made aware, prior to the disclosure of such Confidential Information, of the confidential nature thereof, that they owe a duty of confidence to the disclosing party and agree to hold such Confidential Information in confidence in accordance with the terms of this Agreement; and to use its reasonable endeavours to ensure that such persons and bodies comply with such obligations;
+(d) not to use or circulate such Confidential Information within its own organisation except solely to the extent necessary for the purposes of the Business Purpose or any other purpose the disclosing party may hereafter expressly authorise in writing;
+(e) to use all reasonable endeavours to effect and maintain adequate security measures to safeguard such Confidential Information from unauthorised access, use and misappropriation;
+(f) to procure at the request of the disclosing party for any of those persons and bodies referred to in paragraph (b) (ii) and (iv) to sign a separate confidentiality undertaking with the recipient in such form as the disclosing party may reasonably require prior to giving access to such Confidential Information.
+4 The obligations of confidentiality in Clause 3 above shall not apply:‐
+(a) to any portion of Confidential Information where the recipient can demonstrate that the Confidential Information concerned:‐
+(i) is or has become publicly known through no fault of the recipient, its employees, agents and sub‐contractors; or
+(ii) is lawfully received from an independent third party without any restriction and without any obligation of confidentiality; or
+(iii) is already known to the recipient with no obligation of confidentiality at the date it was disclosed by or obtained from the disclosing party; or
+(iv) is disclosed without restriction by the disclosing party to any third party.
+(b) to any development made by the recipient which is independently developed by the recipient without access to or use of the disclosing party's Confidential Information.
+5 All material containing Confidential Information furnished by or obtained from the disclosing party, including without limitation, magnetic tapes, documents, manuals, specifications, flowcharts, program listings and data file printouts, engineering drawings, architects plans, planning documents, ("the Materials"), shall be and remain the property of the disclosing party and shall not be reproduced in whole or part without the disclosing party's express written consent. Any copies of the Materials shall become the disclosing party's property and shall contain such copyright and other proprietary rights notice or legend as appears on the original copy.
+6 Each party may disclose Confidential Information received from the other party to other members of the recipient's company for use only in connection with the Business Purpose and each party shall be responsible for observance of the provisions of this Agreement by such other members of its respective group.
+7 Nothing contained in this Agreement shall be construed as granting to or conferring on the recipient any rights by license or otherwise, expressly or impliedly, for any invention, discovery or improvement made, conceived or acquired prior to or after the date of this Agreement relating to the Confidential Information of the disclosing party.
+8 The parties agree that the provision of Confidential Information hereunder and any discussions held in connection with the Business Purpose shall not prevent either party from pursuing similar or other discussions with third parties provided that no breach of this Agreement is so occasioned or oblige that party to take, continue or forego any action relating to the Business Purpose. Any estimates, forecasts or similar material provided by either party to the other shall not constitute any commitments.
+9 Upon the completion or termination of the Business Purpose, each recipient shall promptly deliver up to the disclosing party all Materials supplied by the disclosing party incorporating any Confidential Information of that party and all copies thereof and destroy or erase any Confidential Information contained in any materials and documentation prepared by or on behalf of the recipient or recorded in any memory device. Within fourteen (14) days of such request or completion of the Business Purpose the recipient shall certify in writing to the disclosing party that it has fully complied with its obligations under this Clause. Notwithstanding the foregoing each recipient may retain one copy of all Materials containing Confidential Information of the disclosing party received or made in connection with this Agreement for archival purposes only, subject always to strict compliance with the obligations of Clauses 3 and 5.
+10 The initial contact persons and/or the Disclosing Party to the Receiving Party shall be respected and honoured at all times and no attempt or hint of circumvention will be permitted by either of the parties, their respective offices, agents employees, assignees, guarantors or other associated party that comes to light at a latter stage.
+11 It is agreed that any overt or covert action of circumvention prescribed by this agreement shall constitute a fraudulent act against the other party and will be subject to judicial action, recompense for damages, possible punitive damages and injunctive relieve as imposed by the legal process.
+12 Each party agrees not to circumvent this agreement through the use of subterfuge involving the use of third parties. It is further understood that where any party contravenes the integrity of this non‐circumvention provision, the contravening party shall:
+a. indemnify fully and pay over all commissions, fees or monies obtained by the contravening party, directly or indirectly, to the party, directly or indirectly, to the party that was violated, and
+b. indemnify and to be liable for all legal fees for all parties, which may be incurred in the course of adjudication of said violation, and
+c. be subject to possible punitive action as awarded by the legal process. The signatories agree to keep confidential the identity of any kind and all contacts so provided by any other signatories. Such identity including names, addresses, telephones, telefax numbers, telex numbers or any other means, is the property of the introducing signatory and shall not be disclosed other than under the terms thereof.
+13 The Company agrees that, during the term of this agreement and for a period of 48 months thereafter, the Company shall not, whether by itself, its officers, personnel, contractors or agents of the Company or whether by a Company Affiliate or the officers, personnel, contractors or agents of that Company Affiliates, solicit or seek to solicit orders from any customer of Fintricity for services similar to the services which Fintricity provides to that customer without the prior written consent of Fintricity.
+14 Neither party shall make or permit others to make any reference to the subject matter of the Agreement, or the Confidential Information or use the name of the other party in any public announcements, promotional, marketing or sales materials or efforts without the prior written consent of the other party and such consent shall not be unreasonably withheld or delayed.
+15 This Agreement shall become effective as of the date any Confidential Information of a disclosing party is first made available to a recipient party.
+16 Except as stated in Clause 6 herein, nothing in this Agreement is intended to confer any benefit on any third party (whether referred to herein by name, class, description or otherwise) or any right to enforce any term of this Agreement.
+17 The termination of this Agreement or the completion of the Business Purpose for any reason shall not affect the obligations set out in this Agreement.
+This Agreement shall be governed by and construed in accordance with the laws of England and shall be subject to the exclusive jurisdiction of the English Courts.
+READ AND AGREED
+On behalf of the Receiving Party On behalf of Fintricity
+ Print Print Name:
+Job Name: Title:
+Date: Title: Date:
+Signed: Signed:

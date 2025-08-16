@@ -1,0 +1,220 @@
+If you are here, you have reached us by visiting www.PeopleFun.com or any other PeopleFun-owned website (the Site), or by registering with PeopleFun or installing any Game, or by using any of our other online or offline services (collectively, the Services).
+PeopleFun is committed to protecting your privacy.
+This privacy policy explains our collection, use, disclosure, retention, and protection of your personal information, as well as your rights to your data under US and International Law, including but not limited to EU Directive 2002/58/EC and the EU General Data Protection Regulation (GDPR), the Controlling the Assault of Non-Solicited Pornography And Marketing Act of 2003 (CAN-SPAM), and the US Childrens Online Privacy Protection Act (COPPA).
+This Privacy Policy does not apply to any third-party websites, services or applications, even if they are accessible through our Services.
+We may refer to PeopleFun herein as we or us.
+Also, please note that, unless we define a term in this Privacy Policy, all capitalized terms used in this Privacy Policy have the same meanings as in our Terms of Service.
+So, please make sure that you have read and understand our Terms of Service.
+Where we are required to identify a data controller pursuant to regulation, PeopleFun is the designated controller of the data we collect.
+This Privacy Policy describes:
+       the information we collect, how we collect such information and the purposes of our collection;
+       how we use and with whom we share such information;
+       how you can access and update your information; and
+       how we protect the information we store about you.
+When you interact with our Services, we may collect and store information from you directly as described below:
+ 2.1       Registration Information
+If you create an Account, you may be required to provide your name, e-mail address, a password and other information that helps us confirm that it is you accessing your account.
+We may do this through in-Game dialog boxes, which you may choose to skip.
+If you sign into the Site or Games with Facebook Connect we will collect information that is visible via your Facebook account such as: (1) your first and last name, (2) Facebook ID, (3) Profile Picture/URL, and (4) list of Facebook friends.
+Your Account may be used to publicly identify you as part of social features of the Services, which may include user-to-user interaction, chat or messaging functionality, public leaderboards, head-to-head competition, and other similar features.
+We may also offer you the option to complete a user profile that is visible to other PeopleFun users.
+Your user profile may include a profile photo, a PeopleFun username, your gender, biographic details that you provide, details about the Games you play, and a PeopleFun user ID number that is created by PeopleFun and used to identify your profile.
+The PeopleFun username will be public and will be shown to other users, but will only permit access to information that is considered public or that you have designated as public in your user profile settings.
+We may also offer you the ability to import your contacts or manually enter e-mail addresses so that you can locate your contacts on PeopleFun and invite your contacts to join you in the Games.
+We will store those contacts for purposes of helping you and your contacts make connections through our Services.
+2.2       Payment Information
+When you order any good or service through the Game, including any virtual currency or virtual good, our payment processing service provider will collect your name, phone number, e-mail address, mailing address, billing address, and complete credit card information that enables them to receive your payment.
+Our payment processing service provider may also retain this information to enable you to purchase additional items through our Game without having to re-enter it each time.
+Please note that purchases from third parties may also be subject to additional policies.
+2.3       Information Collected by Customer Support
+When you ask for assistance from our Customer Support team, we will collect and store the contact information you provide (generally your name and e-mail address), information about your game play or activity on the Games, and your user name or ID number.
+We will also store the correspondence and any information contained within.
+2.4       Push Notifications & Local Notifications
+With your consent we or our service providers may send push notifications to your mobile device to provide Game updates and other relevant messages.
+You can adjust the types of notifications you receive and when you receive them by editing your notification settings.
+We or our service providers may also send local notifications to your mobile device to provide Game updates and other relevant information.
+2.5       Technical and Usage Information
+When you access our Services, we may collect (i) certain technical information about your mobile device or computer system, including IP Address, mobile device ID (IDFA, Google Advertising ID or other identifiers), and the version of your operating system; and (ii) usage statistics about your interactions with the Games.
+In certain Games we will create and assign to your device an identifier that is similar to an account number.
+We may collect the name you have associated with your device, device type, telephone number, country, and any other information you choose to provide, such as user name, character name, or e-mail address.
+We may also access your contacts to enable you to invite friends to join you in the Games.
+This information is typically collected through the use of third-party mobile device software development kits.
+2.6       Location Information
+ When you use our Services, we may collect and store information about your location by converting your IP address into a rough geo-location or by accessing your mobile devices GPS coordinates or coarse location if you enable location services on your device.
+We may use location information to improve and personalize our Services for you.
+If you do not want us to collect location information, you may disable that feature on your mobile device.
+We may collect information about you in any one or more of the following ways:
+3.1       Communications Features
+You may be able to take part in certain activities through our Services that give you the opportunity to communicate or share information not just with PeopleFun, but also with other users of our Services.
+These include:
+       participating in player forums and message boards;
+       posting public comments to other users profiles or gameboards;
+             sending private messages or invitations to other users, either directly through the Games or to their e-mail accounts;
+       chat with other users; and
+       posting photos.
+We may use, record and store archives of these communications on PeopleFuns servers to protect the safety and well being of our users and PeopleFuns rights and property in connection with the Services.
+Games may use location-based tracking, which relies upon a mobile devices GPS coordinates.
+A users location may be used to suggest other users with whom they might want to connect, analyze usage trends, or target certain promotions.
+3.2       Cookies and Automated Information Collection
+When you access our Services, we collect certain technical information in order to (i) analyze the usage of our Services; (ii) provide a more personalized experience; and (iii) manage advertising.
+We and service providers acting on our behalf may use Log Files and tracking technologies to collect and analyze certain types of technical information, including Cookies, Flash Cookies, and Web Beacons.
+Log Files means certain information about how a person uses our Services, including both registered and unregistered users (either, a User).
+Log Files may include information such as a Users Internet Protocol (IP) addresses, browser types, browser language, referring and exit pages, and URLs, platform type, the number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, Game state and the date and time of activity on our Site or the Games, and other similar information.
+In some cases, we will associate this information with your user ID number for our internal use.
+Cookies are small text files that are placed on your device by a web server when you access our Services.
+We may use both session Cookies and persistent Cookies to identify that youve logged in to the Services and to tell us how and when you interact with our Services.
+We may also use Cookies to monitor aggregate usage and web traffic routing on our Services and to customize and improve our Services.
+Unlike persistent Cookies, session Cookies are deleted when you log off from the Services and close your browser.
+Although most browsers automatically accept Cookies, you can change your browser options to stop automatically accepting Cookies or to prompt you before accepting Cookies.
+Please note, however, that if you dont accept Cookies, you may not be able to access all portions or features of the Services.
+Some third-party services providers that we engage (including third-party advertisers) may also place their own Cookies on your device.
+Note that this Privacy Policy covers only our use of Cookies and does not include use of Cookies by such third parties.
+Web Beacons  (also known as web bugs, pixel tags or clear GIFs) are tiny graphics with a unique identifier that may be included on our Services for several purposes, including to deliver or communicate with Cookies, to know if a certain page was visited or whether an e-mail was opened,to advertise more efficiently by excluding our current users from certain promotional messages, to identifying the source of a new installation, to delivering ads to you on other websites.
+Unlike Cookies, which are stored on the device, Web Beacons are typically embedded invisibly on web pages (or in an e-mail).
+Flash Cookies are local shared objects, which help us to prevent fraud, remember your in-Game preferences and speed up load times.
+Please note that companies delivering advertisements in the Games or on our Site may also use cookies or other technologies, and those practices are subject to their own policies.
+ 3.3       Other Sources
+We may collect or receive information from other sources including (i) other PeopleFun users who choose to upload their email contacts, and (ii) third party information providers.
+We do not condition participation in our Services on you providing more personal information than is reasonably necessary for that activity.
+In general, we collect, store and use your information to provide you with a customized experience.
+For example, we may use information collected from you in any one or more of the following ways:
+            We use your personal information to fulfill a contract with you and provide you with our Services, to comply with our legal obligation, protect your vital interest, or as may be required for the public good.
+This includes:
+       to create Accounts and allow play of the Games;
+       to enable user-to-user communications;
+       to provide technical support and respond to user inquiries;
+       to prevent, detect, mitigate, and investigate fraud or potentially illegal activities, and enforce our Terms of Service;
+       To provide other services requested by you as described when we collect your information;
+       to notify users of in-Game updates, or updates to our Terms of Service or this Privacy Policy; and
+       to provide in-Game leader boards and promote in-Game player achievements.
+We use your personal information to pursue our legitimate interests where your rights and freedoms do not outweigh these interests.
+We have implemented controls to balance our interests with your rights.
+This includes:
+       to deliver and target non-behavioral or event based advertising;
+        to track user retention and aggregated gameplay information to improve the overall user experience for PeopleFuns products and services;
+        to solicit input and feedback to improve PeopleFun products and services and customize your user experience;
+        to use general location information to provide you with location based services (such as advertising, search results, and other personalized content);
+        to contact you with information that we reasonably believe may be relevant to you; and
+        to identify and suggest connections with other PeopleFun users.
+With your consent, we may use your personal information:
+to deliver and target behavioral or personalized ads; and to inform users about new products or promotional offers.
+If you have provided your e-mail address to PeopleFun, we may use it to respond to (i) customer support inquiries, and (ii) keep you informed of your in-Game activity, including comments from friends and notifications about in-Game status.
+With your consent, we may also send promotional e-mail messages (Promotional Communications) directly or in partnership with parties other than PeopleFun.
+Each Promotional Communication will generally offer recipients choices about withdrawing consent so you no longer recieve additional messages.
+We may share your information (in some cases personal information) with third parties in the following circumstances:
+5.1       Third Party Service Providers
+We will provide your information to third party companies to perform certain services, including but not limited to payment processing, data analysis, e-mail delivery, hosting services, customer service and to assist us in our marketing efforts.
+We direct all such third party service providers to maintain the confidentiality of the information disclosed to them and to not use your information for any purpose other than to provide services on PeopleFuns behalf.
+Here is a link to the Privacy Policies for all our third party service providers:
+Apple - https://www.apple.com/legal/privacy/en-ww/
+DeltaDNA -https://deltadna.com/privacy/
+Google - https://policies.google.com/privacy
+ 5.2       Friends and Other PeopleFun Players
+In many Games, friends and other players will be able to see your Game profile, which may include your name or a game name and your profile photo, which in certain cases can reveal your PeopleFun ID.
+Access to a PeopleFun ID may allow others to view the public information associated with your related PeopleFun account.
+5.3       Advertising of Third Party Products and Services
+We do not actively share personal information with third party advertisers for their direct marketing purposes unless you give us your consent.
+We may share (i) aggregated information (information about you and other users collectively, but not specifically identifiable to you); (ii) anonymous information; and (iii) certain technical information (including IP Addresses and mobile device IDs) to develop and deliver targeted advertising in the Games and on the websites of third parties.
+We may also allow advertisers to collect these types of information within the Games and they may share it with us.
+Advertisers may collect this information through the use of tracking technologies like browser cookies and web beacons.
+The information collected may be used to offer you targeted ad-selection and delivery in order to personalize your user experience by ensuring that advertisements for products and services you see will appeal to you, a practice
+known as behavioral advertising, and to undertake web and mobile analytics (i.e.
+to analyze traffic and other end user activity to improve your experience).
+We may disclose aggregated and anonymous information to describe the Services to prospective partners, advertisers, and other third parties, and for other lawful purposes.
+We may use aggregate, non-personally identifiable information for our own internal promotion or marketing purposes and we may share such aggregate non-personally identifiable information with others for marketing purposes.
+Our Services may contain advertisements from companies other than PeopleFun that may link to their own websites.
+We are not responsible for the privacy practices or the content of such websites.
+If you have any questions about how these other websites use your information, you should review their policies and contact them directly.
+In certain instances, you may need to opt in or opt out of advertising directly through our partners.
+Click here to see our advertising network database.
+Here is a link to the Privacy Policies for all our advertising partners:
+Provider - URL
+Ad Action Interactive - None
+Ad Colony- https://www.adcolony.com/privacy-policy/
+Adjust, Inc. -https://www.adjust.com/privacy-policy/
+Aerserv, LLC -https://www.aerserv.com/privacy-policy/
+Amazon -https://www.amazon.com/gp/help/customer/display.html?nodeId=468496
+Apple - https://www.apple.com/legal/privacy/en-ww/
+AppLovin - https://www.applovin.com/privacy
+Chartboost, Inc - https://answers.chartboost.com/en-us/zingtree
+Facebook -https://www.facebook.com/legal/FB_Work_Privacy
+Fyber - https://www.fyber.com/legal/privacy-policy/
+Google - https://policies.google.com/privacy
+HeyZap - https://www.fyber.com/legal/privacy-policy/
+HyprMX - https://hyprmx.com/pp.html
+InMobi - http://info.inmobi.com/pd/l_74462_2017_03_16_7fg8vs_74462_118895_Privacy_Policy_changes.pdf
+IronSource - https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/
+Kongregate - https://www.kongregate.com/pages/privacy
+LifeStreet Intl - http://www.lifestreet.com/privacy/
+LoopMe - https://loopme.com/privacy/
+Motive Interactive - None
+NativeX - http://www.nativex.com/privacy-policy/
+One By AOL - https://privacy.aol.com/legacy/privacy-policy.1.html
+Pinsight Media - https://pinsightmedia.com/privacy
+Smaato - https://www.smaato.com/privacy/
+Soomla - http://about.soom.la/end-user-privacy-policy/
+StartApp.com -https://www.startapp.com/policy/privacy-policy/
+TapJoy - https://dev.tapjoy.com/faq/tapjoy-privacy-policy/
+TapResearch - https://www.tapresearch.com/user/privacy
+Vungle - https://vungle.com/privacy-policy/
+ 5.4       Safety, Security and Compliance with Law
+Your information may be disclosed: (i) when we have a good faith belief that we are required to disclose the information in response to legal process (for example, a court order, search warrant or subpoena); (ii) to satisfy any applicable laws or regulations; (iii) where we believe that the Games are being used in the commission of a crime, including to report such criminal activity or to exchange information with other companies and organizations for the purposes of fraud protection and credit risk reduction; (iv) when we have a good faith belief that there is an emergency that poses a threat to the health and/or safety of you, another person or the public generally; and (v) in order to protect the rights or property of PeopleFun, including to enforce our Terms of Service.
+5.5       Sale or Merger
+In the event that PeopleFun undergoes a business transition, such as a merger, acquisition by another company, change of control, or sale of all or a portion of its assets, we may transfer all of your information, including personal information, to the successor organization in such transition.
+Our Services are intended for a general audience and are not intended for Children.
+We do not knowingly collect personal information from users deemed to be children under their respective national laws.
+If we learn that we have collected PII of any child we will take steps to delete such information from our files as soon as possible.
+We urge parents to instruct their children to never give out their real names, addresses or phone numbers without permission.
+We recognize a special obligation to protect personal information obtained from young children.
+Should you wish to have your childs personal information deleted from our records, please contact us at privacy@PeopleFun.com.
+We will be happy to remove your childs information as appropriate.
+Under the EU General Data Protection Regulation, individuals residing in the EU and other territories that have adopted GDPR compliance or comparable regulation have a right to:
+access your user data Correct the data you have provided to us Have information provided to you in a portable format Request the deletion of the data we have collected Restrict processing Object to processing or the legal basis on which we rely to process your data
+You may send an e-mail to privacy@PeopleFun.com with your request to exercise any of the rights identified above.
+Place the reason for your request (e.g.
+Delete my Data or Correct my Data) in the subject line and include your first name, last name, and e-mail address in the body of the e-mail.
+We will respond to your request within thirty (30) days.
+Please note that certain records, for example those pertaining to payments or customer service matters, will be retained for legal and accounting purposes.
+If you have sent or posted content through the Services, we may not be able to delete it.
+Accounts created with PeopleFun are considered active until we receive a user request to delete them or deactivate them.
+You can stop use of your geo-location (for example through check-ins) by visiting your devices settings for the relevant application or the settings page for the relevant Game.
+You can also stop checking in via the Game.
+Please note that requests to restrict processing or delete your data may require the termination of your user account if we require the information subject to the deletion request to maintain your user account or otherwise provide gameplay services to you.
+8.1       Opting out of Promotional Communications
+You can choose to opt out of receiving additional promotional e-mails from PeopleFun by clicking on the unsubscribe link in any such e-mail, or visiting the e-mail preference page.
+Please note that once we receive your request, it may take an additional period of time for your opt-out to become effective.
+Your unsubscribe or e-mail preference change will be processed promptly, usually within 10 business days.
+8.2       Opting Out of Ad Tracking
+You can opt out of the collection and use of your information for ad targeting by going to http://www.aboutads.info/choices or http://www.youronlinechoices.eu/ to limit collection through the Site or by configuring the settings on your mobile device to limit ad tracking through the App.
+8.3       Opting Out of Other Communications
+When you install our Games on your mobile device you can choose to receive push notifications.
+You can turn off push notifications by visiting the options or settings page within the relevant Game.
+You may also receive local notifications.
+You can turn off local notifications by visiting the options or settings page within the relevant Game.
+Note that if you opt-out of our Promotional Communications or other forms of communication, we may still e-mail or communicate with you from time to time if we need to provide you with information or if we need to request information from you with respect to a transaction initiated by you or for other legitimate non-marketing reasons.
+For Accounts registered directly with PeopleFun profile information is initially only available from the device that was used for registration.
+If another device attempts to access your user information an email will be sent to the email address on record and you must grant approval to the new device by responding to that email.
+It is important that you protect and maintain the security of your Account and that you immediately notify us of any unauthorized use of your Account.
+We encrypt the transmission of all information using secure socket layer technology (SSL).
+While we take certain precautions against possible security breaches of our Services, no website or Internet transmission is completely secure, and we cannot guarantee that unauthorized access, hacking, data loss, or other breaches will never occur.
+Although we strive to protect your personal data, we cannot guarantee the security of your data while it is being transmitted through our Services; any transmission is at your own risk.
+Once we have received your information, we have procedures and security features in place to try to prevent unauthorized access.
+Any information that is collected via our Services is covered by the Privacy Policy in effect at the time such information is collected.
+If we decide to make material changes to our Privacy Policy, we will notify you and other users by placing a notice on PeopleFun.com or by sending you a notice to the e-mail address we have on file for you, and well update the Last Updated Date above to indicate when those changes will become effective.
+We may supplement this process by placing notices in the Games and on the Site.
+You should periodically check www.PeopleFun.com and this privacy page for updates.
+We do not share personal information with third parties for their direct marketing purposes unless you affirmatively agree to such disclosure, typically by opting in to receive information from a third party that is participating in a sweepstakes or other promotion through our Services.
+If you do ask us to share your personal information with a third party for its marketing purposes, we will only share information in connection with that specific promotion, as we do not share information with any third party (other than our service providers) on a continual basis.
+To prevent disclosure of your personal information for use in direct marketing by a third party, do not opt in to such use when you provide personal information through our Services.
+Our Services may contain links to websites and services that are owned or operated by third parties (each, a Third-party Service).
+Any information that you provide on or to a Third-party Service or that is collected by a Third-party Service is provided directly to the owner or operator of the Third-party Service and is subject to the owners or operators privacy policy.
+Were not responsible for the content, privacy or security practices and policies of any Third-party Service.
+To protect your information we recommend that you carefully review the privacy policies of all Third-party Services that you access.
+In September 2013, California enacted amendments to the California Online Privacy Protection Act (California Business & Professions Code 22575-22579) which require operators of websites to disclose how they respond to do not track (DNT) signals from browsers used by consumers or other mechanisms that provide consumers a choice regarding the collection of personally identifiable information about the consumers online activities over time and across different websites or online services.
+While some newer browsers have incorporated Do Not Track features which, when turned on, send a signal or preference to the web sites you visit indicating that you do not wish your online activity to be tracked, a DNT protocol that can be implemented across multiple devices and sites has not yet been widely adopted.
+Currently, our computer system does not support, and cannot act on DNT signal headers that we may receive; accordingly, the choices that we provide you concerning out collection and use of personally identifiable information will continue to operate as described in this policy.
+Your personal information may be transferred to, and maintained on, computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction.
+If youre located outside the United States and choose to provide your personal information to us, we may transfer your personal information to the United States and process it there.
+If you have any questions, comments or concerns regarding our Privacy Policy and/or practices, please send an e-mail to privacy@PeopleFun.com.
+PeopleFun, Inc. 1651 N Collins, Blvd
+Richardson, TX, 75080

@@ -1,0 +1,34 @@
+CONFIDENTIALITY AND NON-DISCLOSURE AGREEMENT
+THIS AGREEMENT dated the ___ day of _________________.
+BETWEEN:
+_________________________________ _________________________________ _________________________________ _________________________________
+OF THE FIRST PART
+AND:
+KERBER APPLIED RESEARCH INC. 53 Isaac Brock Drive, Stoney Creek, Ontario Canada L8J 2P1
+OF THE SECOND PART WHEREAS:
+A. The parties contemplate entering into business and technical discussions concerning both current and planned products; and
+B. It may be necessary or desirable for each party to disclose to the other party certain confidential or proprietary technical information in order to enable discussions to freely take place between them concerning the subject matter mentioned above.
+NOW THEREFORE in consideration of the premises, covenants and agreements herein set forth, the parties agree as follows:
+1. For the purpose of this Agreement, “Confidential Information” means information, technical or commercial, whether in visual or machine readable form, received by one party from the other which is marked “Confidential” or “Proprietary”, or which would logically be considered confidential or proprietary in view of its relationship to the whole disclosure. Information initially furnished orally and identified by the disclosing party as confidential or proprietary at the time of disclosure will be confirmed by the disclosing party as Confidential Information in writing within thirty (30) days.
+2. The receiving party will not use, manufacture or sell any document, schematic, drawing, photograph, specification, specimen or any other material making up any part of the Confidential Information, or use any Confidential Information as a basis for the design or creation of any items or other means without the prior written consent of the disclosing party.
+3. For a period of five (5) years from the date of receiving it, all Confidential Information will be maintained in confidence by the receiving party, will not be disclosed to any third party or to any persons employed in its business other than those having a need to know for the purposes set forth above, and will be protected with the same degree of care as the receiving party normally uses in the protection of its own confidential and proprietary information, but in no case with any less degree than reasonable care. Each party further agrees not to use any Confidential Information received from the other party except for the purposes set forth above.
+4. The restrictions above will not apply to Confidential Information which:
+(a) Is known by the receiving party at the time of receipt;
+(b) Is or becomes a part of the public domain without a breach of this Agreement by the receiving party;
+(c) The receiving party obtains from a third party under conditions permitting its disclosure to others;
+(d) Is independently developed by the receiving party; or
+(e) Is disclosed pursuant to judicial action or government regulations, provided that the receiving party notifies the furnishing party prior to such disclosure and co-operates with the furnishing party in the event the furnishing party elects to legally contest and avoid such disclosure.
+5. The furnishing of Confidential Information pursuant to this Agreement shall not be construed as granting or conferring, either expressly or implicitly, any rights, licences or relationships.
+6. Each party shall retain all rights of ownership over all intellectual property associated with the above referenced subject matter, including the rights of ownership of patents, trademarks and copyrights.
+All tangible information including, without limitation, documents, schematics, drawings, photographs, specifications, specimens or any other information submitted by either party to the other, will remain the property of the furnishing party. If either party elects not to pursue any further business undertaking, each party will promptly return upon request all tangible information including any and all copies thereof relating to all Confidential Information.
+Neither party shall not, and it shall ensure that any of its affiliates do not, for a period of five years from the date of this Agreement, without the prior written consent of the other party, induce any employee employed by the other party to leave such employ or offer to employ or employ such employee.
+This Agreement shall be governed by and interpreted in accordance with the laws of the Province of Ontario.
+Failure to enforce any provision of this Agreement shall not constitute a waiver of any term hereof.
+IN WITNESS WHEREOF the parties have executed this Agreement as of the day and year first above written.
+Company: _____________________________________
+Per: _________________________________________
+Name:
+Title:
+and
+Per: ____________________________________
+Tom Kerber

@@ -1,0 +1,42 @@
+Please fill in your contact details, sign on the last page an fax this document to +31-84-8337781 or mail a scanned copy to info@ag-projects.com
+Non-Disclosure Agreement
+AG Projects, a Dutch corporation with its principal place of business at Dr. Leijdsstraat 92, 2021 RK Haarlem, Nederland [DISCLOSING PARTY] and the [RECEIVING PARTY] represented by:
+Name:
+Organization:
+Address:
+City:
+Postcode:
+Country:
+Telephone:
+Fax:
+E-mail:
+Website:
+Business profile:
+Solution vendor
+ System integrator
+ Service provider
+ Employee or contractor
+Other, please specify: …………………..
+Contemplate one or more meetings and various communications that will involve the disclosure by one of the parties [DISCLOSING PARTY] to the other party [RECEIVING PARTY] of technical, business, marketing, planning, pricing and other information and data, in written, oral, electronic, magnetic, photographic and/or other forms, including information and data regarding Internet-based transport solutions (Collectively CONFIDENTIAL INFORMATION).
+The parties agree as follows:
+1. CONFIDENTIAL INFORMATION: AG Projects products and services.
+2. Limited Purpose. The CONFIDENTIAL INFORMATION shall be used by the RECEIVING PARTY solely for the purpose of discussing AG Projects’ services and products.
+3. Property of Disclosing Party. The CONFIDENTIAL INFORMATION is proprietary to the DISCLOSING PARTY and is, and shall remain, the property of the DISCLOSING PARTY.
+4. No Copies. Tangible forms of the CONFIDENTIAL INFORMATION shall not be copied, in whole or in part, without the prior written consent of the DISCLOSING PARTY.
+5. No Disclosure. The RECEIVING PARTY and its employees, officers, agents and affiliates shall hold the CONFIDENTIAL INFORMATION in confidence and take all reasonable steps to preserve the confidential and proprietary nature of the CONFIDENTIAL INFORMATION, including, without limitation: (i) refraining from disclosing the CONFIDENTIAL INFORMATION to persons within its organization not having a reason to know, and all persons outside its organization unless they have a reason to know and are bound by fiduciary duties of confidentiality to the RECEIVING PARTY; and (ii) advising all of its employees, officers, agents and affiliates who gain access to the CONFIDENTIAL INFORMATION of its confidential and proprietary nature. The obligations of this paragraph also apply to the fact of the existence of the CONFIDENTIAL INFORMATION, of this Agreement, and the occurrence of all meetings and communications of the parties that involve CONFIDENTIAL INFORMATION. In the event the RECEIVING PARTY receives in writing an opinion from its outside counsel that it must disclose certain information, prohibited by the terms herein, in order to avoid committing a violation of law, the RECEIVING PARTY may disclose only that information necessary to avoid committing such violation of the law.
+6. Discovery. In the event that the RECEIVING PARTY is requested or required (by oral questions, interrogatories, requests for information or documents in legal proceedings, subpoena, civil investigative demand or other similar process) to disclose any of the CONFIDENTIAL INFORMATION, the RECEIVING PARTY shall provide the DISCLOSING PARTY with prompt written notice of any such request or requirement so that the DISCLOSING PARTY may seek a protective order or other appropriate remedy or waive compliance with the provisions of this Agreement. If, in the absence of a protective order or other remedy or the receipt of a waiver by the DISCLOSING PARTY, the RECEIVING PARTY is nonetheless, in the opinion of counsel, legally compelled to disclose CONFIDENTIAL INFORMATION to any tribunal or else stand liable for contempt or suffer other censure or penalty, the RECEIVING PARTY may, without liability hereunder, disclose to such tribunal only that portion of the CONFIDENTIAL INFORMATION which such counsel advises RECEIVING PARTY is legally required to be disclosed, provided that the RECEIVING PARTY will cooperate with the DISCLOSING PARTY in seeking to preserve the confidentiality of the CONFIDENTIAL INFORMATION before such tribunal.
+7. No Use. The RECEIVING PARTY understand and agrees that it is not allowed to sell, license or otherwise exploit any parts, products, services documents or information that embody in whole or in part any CONFIDENTIAL INFORMATION. The furnishing of any CONFIDENTIAL INFORMATION hereunder shall not be construed as the granting of a license under any patent, patent application, copyright, copyright registration, trade secret or other proprietary right by the DISCLOSING PARTY to any person or entity or as implying any obligation other than is specifically stated herein.
+8. Limitation. The confidentiality and non-disclosure obligations of the previous paragraphs shall not apply if, and to the extent that: the RECEIVING PARTY can prove that the CONFIDENTIAL INFORMATION was known to the RECEIVING PARTY prior to its receipt from the DISCLOSING PARTY (ii) the CONFIDENTIAL INFORMATION is or becomes part of the public domain other than by the fault of the RECEIVING PARTY; or (iii) the CONFIDENTIAL INFORMATION is rightfully disclosed to the RECEIVING PARTY by a third party that is legally free to disclose such CONFIDENTIAL INFORMATION.
+9. Return. All CONFIDENTIAL INFORMATION supplied by the DISCLOSING PARTY hereunder and all copies thereof, in whole or in part and on all media, shall be returned to the DISCLOSING PARTY by the RECEIVING PARTY within thirty (30) days upon demand by the DISCLOSING PARTY. All other information and all copies thereof prepared by the RECEIVING PARTY based on the CONFIDENTIAL INFORMATION, shall be either promptly destroyed or returned to the DISCLOSING PARTY upon demand, as determined by the DISCLOSING PARTY within its sole discretion.
+10. Duration. This Agreement shall apply to any CONFIDENTIAL INFORMATION that may have been provided to the RECEIVING PARTY prior to or after the date hereof, and shall continue to govern the delivery of CONFIDENTIAL INFORMATION until terminated by written notice from either party to the other, except that the obligations of the parties hereunder with regard to CONFIDENTIAL INFORMATION disclosed prior to termination shall continue for a period for two (2) years thereafter.
+11. Injunctive Relief. The RECEIVING PARTY understands and agrees that monetary damages will not be sufficient to avoid or compensate for the unauthorized use or disclosure of the CONFIDENTIAL INFORMATION and that injunctive relief would be appropriate to prevent any actual or threatened use of disclosure of such CONFIDENTIAL INFORMATION.
+12. Liquidated Damages. In case of unauthorized use or disclosure of the CONFIDENTIAL INFORMATION, The DISCLOSING PARTY shall be entitled to liquidated damages in the amount of €10 000 (ten thousand Euro) for each such use or disclosure. Notwithstanding the right to liquidated damages, the DISCLOSING PARTY has the right to take any measures available and to claim and receive a higher amount of compensation if the DISCLOSING PARTY can prove that the actual damage sustained will exceed the amount of liquidated damages.
+13. Definitive Agreement. The parties hereto agree that no contract or agreement between the parties shall be deemed to exist unless and until a final definitive agreement has been executed and
+delivered to both parties.
+14. Miscellaneous. This Agreement shall be binding on the respective parties hereto and their successors and permitted assigns. This Agreement may be modified only in writing signed by both parties hereto.
+15. Governing law. This Agreement shall be governed by and construed in accordance with the laws of Netherlands, excluding its rules for choice of law. Notwithstanding an action for injunction or other equitable remedy, all disputes relating to or arising out of or in connection with this Agreement shall be finally settled by arbitration in accordance with the Rules of the Arbitration Institute of the Amsterdam Chamber of Commerce. The arbitration shall be held in the Netherlands, Amsterdam and the English language shall be used in the proceedings. The arbitration decision shall be final and binding on the parties and enforceable in any court of competent jurisdiction.
+Signatures:
+AG Projects
+By: ____________________________ By:____________________________
+Title: Title:___________________________
+Date: Date: __________________________

@@ -1,0 +1,132 @@
+Data Use And Non-Disclosure Agreement
+Between
+The New York City Department of Health and Mental Hygiene
+And
+___________________________________ (“Data Recipient”)
+This DATA USE AND NON-DISCLOSURE AGREEMENT (“Agreement”) made as of the _______ day of _______, 2014 (“Effective Date”) by and between the City of New York through its Department of Health and Mental Hygiene (“DOHMH”), Division of _____________________, having its primary offices at Gotham Center, 42-09 28th Street, Queens, NY 11101-4132, and _______________________ (“Data Recipient”), having its primary offices at ____________________________ (each a “Party” and, collectively, the “Parties”).
+WHEREAS, pursuant to [LEGAL/PROGRAM TO ENTER BASED ON APPLICATION] the DOHMH is authorized to share Data, as defined herein, with the Data Recipient;
+WHEREAS, the Data Recipient desires to use the Data for public educational or research purposes that have been approved by the DOHMH; and
+WHEREAS, [ADDITIONAL WHEREAS CLAUSES MAY BE ENTERED AS APPLICABLE] [OPTIONAL],
+NOW, THEREFORE, in consideration of the mutual promises and covenants contained in this Agreement, and other valuable and good consideration, the receipt and sufficiency of which is hereby acknowledged, the Parties agree to the following:
+I. TERM AND TERMINATION
+A. Term. This Agreement shall commence as of the Effective Date and shall terminate on ____________________.
+B. Termination for Cause. Breach of a material provision of this Agreement by the Data Recipient, or the Authorized Users, shall be grounds for termination of this Agreement by DOHMH. Upon becoming aware of such a material breach, DOHMH may do one or more of the following:
+1. Provide an opportunity for Data Recipient to cure the violation within 30 days, and terminate the Agreement if Data Recipient does not cure or end the violation within the time specified by DOHMH;
+2. Demand assurances from the Data Recipient that remedial actions will be taken to remedy the circumstances that gave rise to the violation within a time frame set by, or approved by, DOHMH;
+3. Immediately terminate the Agreement; and/or
+4. Determine that no further Data, or other data, will be released to, nor agreements entered into with, Data Recipient for a period of time to be determined by DOHMH.
+C. Termination by DOHMH without Cause. DOHMH may terminate this Agreement at any time by providing 15 days written notice to Data Recipient.
+D. Effect of Termination.
+1. The Data Recipient will not be entitled to any damages for reason of the termination of this Agreement.
+2. Upon the termination of this Agreement for any reason, the confidentiality provisions set forth herein shall continue to apply to the Data shared with Data Recipient pursuant to this Agreement. Except as provided in paragraph (3) of this subsection, upon termination of this Agreement, for any reason, Data Recipient shall return or destroy the Data provided by DOHMH that Data Recipient maintains in any form, and all copies of the Data in all its forms. Data Recipient will confirm in writing to DOHMH Data Recipient’s destruction or return of Data, and all copies, within 60 days of the termination of this Agreement.
+3. In the event that Data Recipient determines that returning or destroying all of the Data, and all copies of the Data, is infeasible, Data Recipient shall provide to DOHMH notification of the conditions that make return or destruction infeasible. Upon receipt by DOHMH of such notification that return or destruction of the Data is infeasible, Data Recipient shall extend the protections of this Agreement to such Data and limit further uses and disclosures of such Data to those purposes that make the return or destruction infeasible, for so long as Data Recipient maintains such Data.
+II. PURPOSE OF AGREEMENT
+A. This Agreement sets forth the terms and conditions under which the formal access to certain data, as described in Section III of this Agreement and Attachment A hereto, is to be provided to the Data Recipient by DOHMH. This Agreement also describes, in its Attachment B, what use the Data Recipient may make of the Data. Furthermore, this Agreement also sets forth the security requirements that such access and use is conditioned upon, what responsibilities the Data Recipient agrees to assume in connection with such use and disposition of the Data, and all permutations of the Data, and the procedures for security, transfer, use, retention, ownership, and confidentiality of the Data.
+B. The headings and other captions in this Agreement are for convenience and reference only and shall not be used in interpreting, construing or enforcing any of the provisions of this agreement.
+III. THE DATA
+A. Definition of Data. Data shall mean the data produced by DOHMH to Data Recipient pursuant to this Agreement and will include, without limitation, the specific description and data elements set forth in Attachment A to this Agreement.
+B. Data Transmission. Upon the execution of this Agreement by the Parties, DOHMH shall securely transmit Data to the Data Recipient. [PROGRAM TO NEGOTIATE TERMS AND CONDITIONS OF DATA TRANSMISSION, INCLUDING A SCHEDULE FOR DATA TRANSMISSION AS APPLICABLE].
+C. Data Ownership. The Data Recipient hereby acknowledges that the DOHMH is the exclusive owner of the Data and all trade secrets and other rights therein. No license or conveyance of any such rights is granted or implied under this Agreement. Data Recipient shall not make, have made, use or sell for any purpose any product or other item using, incorporating or derived from Data, other than for the purpose stated in Attachment B for which the Data was provided under this Agreement. DOHMH may at any time request that the Data be promptly returned. Upon written request by DOHMH, Data Recipient shall promptly return to DOHMH Data, notes, and other tangible materials representing the Data and all copies and reproduction thereof (in whole or in part) and shall delete or otherwise destroy any copies or reproductions of such Data that may reside in Data Recipient’s possession, including but not limited to, on Data Recipient’s server, computer systems, or files.
+IV. PERMITTED USES OF THE DATA
+A. Data Recipient agrees to use the Data solely for the purposes set forth in Attachment B to this Agreement, and for no other purposes.
+B. Institutional Review Board (IRB) Review [IF APPLICABLE].This project has been reviewed by the DOHMH IRB [and/or the _________ IRB] as human subjects research [OR “Public Health: Non-Research” and is not under the purview of the IRB.]
+V. CONFIDENTIALITY AND SECURITY OF DATA
+A. Compliance with Applicable Privacy and Security Laws, Rules, and Regulations. The Data provided under this Agreement shall be used and maintained in accordance with applicable provisions of federal, state, and local laws, rules and regulations as are in effect at the time the Data is produced by DOHMH and retained by Data Recipient.
+B. Restrict Access to “Authorized Users”.
+1. Only the Data Recipient’s employees and/or consultants required to use the Data to perform the functions of this Agreement that are set forth in Attachment B, and so designated by Data Recipient as “Authorized Users” in Attachment C to this Agreement, will be given access to the Data.
+2. Such Authorized Users will be trained by Data Recipient as to the confidential nature of the Data, and its proper handling, and shall sign an agreement, in a form approved by DOHMH, to treat the Data as confidential and meet any appropriate security requirements (“Authorized User Agreement”).
+3. Data Recipient will provide DOHMH with a copy of each Authorized User Agreement that it has secured prior to the exchange of Data and prior to granting any user access to the Data.
+4. Data Recipient will notify DOHMH of any changes to Attachment C within 5 days of any changes to the Authorized User list. In addition, Data Recipient will provide DOHMH with any newly entered Authorized User Agreement with an employee and/or consultant within 5 days of entering such an agreement pursuant to the terms of this Agreement.
+5. Data Recipient shall immediately notify DOHMH if any Authorized User has failed to comply with the terms of this Agreement and has compromised the privacy and security of the Data. Such conduct will result in the immediate removal of the user from the list of Authorized Users and the immediate termination of Data access to that specific user.
+C. Security and Confidentiality. When Data Recipient receives Data from the DOHMH in accordance with this Agreement, or creates and uses files derived from Data, Data Recipient shall maintain the security and confidentiality of Data as required by this Agreement and applicable laws, rules and regulations. Except as otherwise provided in this Agreement, Data Recipient shall not, at any time, directly or indirectly disclose, share, give, loan, sell, or otherwise grant access to the Data provided pursuant to this Agreement, in part or in whole, to any other person or organization. Without limiting this provision, the following confidentiality and security measures shall apply:
+1. Disclosure of Individually Identifiable Information. Data Recipient shall not disclose Data, or any information it receives pursuant to this Agreement that is individually identifiable information, or information, which combined with publicly available information, may reasonably be used to identify an individual. Individually Identifying Information must be maintained in a manner approved by DOHMH, and consistent with applicable laws rules and regulations.
+2. Reporting Unauthorized or Inadvertent Use or Disclosure. Data Recipient agrees to report to DOHMH in writing any unauthorized or inadvertent use or disclosure of the Data by Data Recipient, its employees and/or consultants in violation of this Agreement, including, but not limited to, the theft or loss of portable devices or equipment containing Data or copies of Data, and any remedial action to be taken by Data Recipient with respect to such unauthorized or inadvertent use or disclosure. Data Recipient shall make such report to the designated privacy officer of DOHMH (per the Notice specifications of Section IX of this Agreement), in writing, within 3 business days after Data Recipient becomes aware of the unauthorized or inadvertent use or disclosure. Data Recipient agrees to fully cooperate with any investigation conducted by DOHMH or its agents of any such unauthorized or inadvertent use or disclosure.
+3. Accounting for Unauthorized or Inadvertent Use or Disclosure. In the event that an unauthorized or inadvertent use or disclosure of Data provided by DOHMH is made to a third party, Data Recipient shall ensure that a proper record of such unauthorized or inadvertent use or disclosure is kept and immediately provided to DOHMH. Data Recipient shall also assist in any subsequent investigation of the unauthorized or inadvertent use or disclosure and mitigate any possible resulting damages of same. The record required under this provision, shall include, at a minimum:
+a. The date of the disclosure;
+b. The name of the recipient;
+c. The address of the recipient, if known;
+d. A brief description of the information disclosed;
+e. Any remedial measures taken to retrieve or otherwise repossess such information; and
+f. All other details required or necessary for DOHMH to know when and how such unauthorized disclosure was made and what mitigating steps are being undertaken or recommended by the Data Recipient.
+D. Safeguards to Protect the Data. Data Recipient shall take all reasonable measures to safeguard and keep the Data confidential and secure, including, but not limited to:
+1. storing the Data in secure access-restricted files;
+2. encrypting any laptop, USB, CD or other mobile storage tool, device, or equipment used to store and/or transmit Data;
+3. creating a password or encryption system to obtain and restrict access to Data only to those Authorized Users who have signed the Authorized User Agreement;
+4. keeping any hardcopy versions of the files in locked areas with restricted access, and with a log book for users to sign in and sign out files;
+5. ensuring that only Authorized Users shall have access to Data;
+6. provide a firewall to protect Data so that no third party is allowed access to the Data; and
+7. complying with any additional DOHMH security requirement imposed on Data Recipient to ensure the security of the Data and minimize the risks of a breach.
+E. Security Audits. DOHMH reserves the right to conduct tests of the Data Recipient’s internal data safekeeping and other control systems prior to transfer of Data, and periodically after the transfer of Data, to provide reasonable assurance to itself that the Data Recipient is receiving and safekeeping the Data in compliance with the provisions of this Agreement and applicable laws, rules, and regulations. Upon request by DOHMH, the Data Recipient will promptly provide access and respond to DOHMH inquiries regarding Data privacy and security.
+F. No Reproduction without Consent. Except as set forth in Section III, Data Recipient shall not reproduce the Data in any form without the prior written consent of DOHMH.
+G. Survival. Upon the Expiration of this Agreement, only the continued use of Data for the purposes set forth in Attachment B will cease. All other provisions of this Agreement, including this Section V, shall survive.
+VI. REMEDIES FOR BREACH
+A. Data Recipient acknowledges that:
+1. the breach of this Agreement will cause DOHMH irreparable damage for which recovery of damages would be inadequate;
+2. the damages flowing from such breach are not readily susceptible to measurement in monetary terms; and
+3. DOHMH shall be entitled to immediate injunctive relief restraining any breach hereof, as well as such further relief as may be granted by a court of competent jurisdiction.
+B. Nothing in this Agreement shall be deemed to limit DOHMH’s remedies at law or in equity for any such breach by Data Recipient of any term of this Agreement.
+VII. WAIVER
+A. Any waiver by DOHMH of any act, failure to act or breach on the part of Data Recipient shall not constitute a waiver by DOHMH of any prior or subsequent act or failure to act or breach by Data Recipient and shall not be effective unless set forth in a written document executed by DOHMH.
+VIII. INDEMNIFICATION
+A. In no event will DOHMH be liable for any use by Data Recipient, its employees and/or consultants of the Data, or for any loss, claim, damage or liability, of whatsoever kind or nature, which may arise from, or in connection with, this Agreement, or for the use or dissemination by Data Recipient of the Data.
+B. Data Recipient agrees to defend, indemnify and hold harmless DOHMH, the City of New York, and their respective employees, officers, subcontractors, agents, and other members of their workforce (each of the foregoing hereinafter referred to as “Indemnified Party”) against all losses suffered by the Indemnified Party and all liability to third parties arising from or in connection with:
+1. any breach of the provisions of this Agreement by Data Recipient;
+2. any breach of the provisions of this Agreement relating to the use or disclosure of Data; or
+3. any negligent act or omission or intentional tortious act by Data Recipient that results in a violation of any laws, rules, or regulations.
+C. Accordingly, on demand, Data Recipient shall reimburse the Indemnified Party for any and all losses, liabilities, fines, penalties, costs, or expenses (including reasonable attorneys’ fees) which may for any reason be imposed upon the Indemnified Party by reason of any suit, claim, action, or proceeding, or demand by any third party which results from the conduct in XI.B.1, 2, or 3 above.
+IX. NOTICE
+A. All notices under this Agreement shall be in writing and shall be deemed delivered as follows: (1) if by personal delivery or electronic mail, upon receipt; (2) if by Federal Express or by another national overnight courier, upon the second business day after deposit with such courier; or (3) if by US certified mail, return receipt requested, upon the fifth day after deposit in the mail. All notices shall be sent to the names and addresses set forth below. Either Party may change its contact information by notice to the other; any such change shall take effect immediately upon delivery of such notice. Any notice pursuant to this Agreement shall be given or made to the respective Parties as follows:
+For DOHMH:
+New York City Department of Health and Mental Hygiene
+42-09 28th Street
+Long Island City, New York 11101
+Attn: _________________________
+[ENTER TITLE: __________________]
+Cc: DOHMH Chief Privacy Officer (for breach notifications)
+For Data Recipient [ENTER NAME OF DATA RECIPIENT]:
+[ENTER NAME OF ORGANIZATION]
+[ENTER ORGANIZATION’S ADDRESS]
+Attn: ______________________________
+[ENTER TITLE: __________________]
+X. PUBLICATION AND PUBLIC RELEASE OF DATA
+A. Data Recipient shall not reveal any individual identifying information such as a person’s date of birth, last name, first name, or any other identifying information in any draft or final publication.
+[OPTIONAL/SUBJECT TO PROGRAM NEEDS AND NEGOTIATION WITH DATA RECIPIENT]
+B. Data Recipient must obtain prior written approval from the DOHMH before releasing any public information concerning this Agreement.
+C. Subject to the terms of this Agreement, including without limitation, Attachment B to this Agreement, which describes the uses that the Data Recipient may make of the Data, the Data Recipient may publish or publicly present its work as described in Attachment B, which must not contain any individually identifiable information, of the use undertaken in accord with Attachment B. Prior to publication or public presentation of such work product, the Data Recipient will submit its final work product to the DOHMH for review and approval. If the work product:
+1. Is to be a work-made-for-hire for the benefit of the DOHMH or if it is to be a collaborative effort, then the final work product must be satisfactory in form to the DOHMH, and will be submitted to DOHMH, revised in accord with the DOHMH comments, and resubmitted for review and approval at such intervals as may be specified by the DOHMH until final approval by the DOHMH is achieved; or
+2. Is to be a work of an academic institution or scholar associated with an academic institution, then the conclusions reached in academic publications are subject to the DOHMH prior review and comment before publication or public presentation, with turnaround time of each successive draft being no longer than 30 days, unless otherwise specified in Attachment B; but it is provide, further, however, that if the Data Recipient and the DOHMH cannot come to an accord about the content thereof, then the academic institution or the academician must allow DOHMH to include a written dissenting opinion in the form required by DOHMH as to the conclusions/findings reached by the work product in publications and in oral presentations.
+D. [ADDITIONAL TERMS TO BE DEVELOPED BY PROGRAM AS APPLICABLE]
+XI. MERGER CLAUSE
+A. This Agreement and the Exhibits hereto constitute the entire understanding of the Parties and merges all prior discussion, agreements or understandings into it. No prior agreement, oral or otherwise, regarding the subject matter of this Agreement shall be deemed to exist or to bind any of the Parties.
+XII. MODIFICATION
+A. This Agreement may, from time to time, be modified by a writing signed by authorized representatives of the Parties. It may not be altered, modified, rescinded or extended orally.
+B. The Exhibits hereto may be modified upon written agreement by the Parties without the need to amend this Agreement in its entirety.
+XIII. NON-ASSIGNMENT CLAUSE
+A. The Data Recipient agrees that it shall not subcontract, assign, transfer, convey or otherwise dispose of its obligations under this Agreement except by operation of law, without the prior written consent of the other party.
+XIV. NO THIRD PARTY BENEFICIARY
+A. Nothing express or implied in this Agreement is intended to confer, nor shall anything herein confer, upon any person other than the Parties, any rights, remedies, obligations, or liabilities whatsoever.
+XV. ADDITIONAL PROVISIONS
+A. Jurisdiction, Venue, and Applicable Law. This Agreement shall be governed, construed, applied and enforced in accordance with the internal laws of the State of New York.
+B. Agency. For purposes of this Agreement, Data Recipient shall be deemed to be acting as an independent entity, and not an agent, of the DOHMH or the City of New York.
+C. No Data Warranties. Nothing contained herein shall constitute any representation, warranty, or guarantee to the Data Recipient with respect to the value or accuracy of the Data or information exchanged or that such exchanged information does not infringe any rights of third parties. The City shall not be held liable for any errors or omissions in the Data used or exchanged or in connection with the use of the Data.
+D. Counterparts. This agreement may be executed in one or more counterparts.
+E. Interpretation. Any ambiguity in this Agreement shall be resolved in favor of a meaning that permits the Parties to maintain the confidentiality and security of the Data.
+F. Severability. If any provision of this Agreement is found by a proper authority to be unenforceable or invalid, such unenforceability or invalidity shall not render this Agreement unenforceable or invalid as a whole and, in such event, such provision shall be changed and interpreted so as to best accomplish the objectives of such unenforceable or invalid provision within the limits of applicable law or applicable court decisions.
+G. Supersedes. This Agreement supersedes all prior and contemporaneous agreements and understandings, written or oral, relating to the use of the Data that is the subject matter of this Agreement.
+IN WITNESS WHEREOF, and intending to be legally bound, the Parties hereto have executed this Agreement as of the day and date first written above.
+NEW YORK CITY DEPARTMENT OF HEALTH AND
+MENTAL HYGIENE
+By: ________________________________________
+[NAME OF DATA RECIPIENT]
+By: ________________________________________
+[SOMEONE WHO IS AUTHORIZED TO BIND DATA RECIPIENT]
+DOHMH DATA USE APPLICATION AND AGREEMENT FOR DATA SHARING WITH EXTERNAL ENTITIES
+ATTACHMENT A – DATA POINTS
+Describe in detail the data that you are requesting from DOHMH, including the data source, the time period for data of interest, and specific data elements.
+DOHMH DATA USE APPLICATION AND AGREEMENT FOR DATA SHARING WITH EXTERNAL ENTITIES
+ATTACHMENT B – Project Description and Data Use
+Describe your project below and the intended use of the data. Please outline in as detailed a manner as possible the specific analyses that you will engage in using the requested data.
+DOHMH DATA USE APPLICATION AND AGREEMENT FOR DATA SHARING WITH EXTERNAL ENTITIES
+ATTACHMENT C – AUTHORIZED USERS
+Please list the name and job title of each employee and/or consultant of your organization who will have access to the Data and will be an “Authorized User” of the Data. This list should be limited to only those employees and/or consultants who will require access to the Data to further the purposes and uses set forth in Attachment B.
+Name Title

@@ -1,0 +1,77 @@
+NON-DISCLOSURE AGREEMENT
+This Agreement is effective the [ ] day of [ ] 2019 (the “Effective Date”) between:
+(1) NSK Europe Limited, registered number 2223191 whose registered office is at Belmont Place, Belmont Road, Maidenhead, Berkshire SL6 6TB, UK, (“NSK”)
+and
+(2) [Supplier name], registered number [company reg. no. ] whose registered office is at [insert address] (“[Insert name]”) each party referred to as a “Party” and the parties jointly referred to as the “Parties”.
+BACKGROUND
+A. The Parties intend to enter into discussions relating to the Purpose which will involve the exchange of Confidential Information between them.
+B. The Parties have agreed to comply with this Agreement in connection with the disclosure and use of Confidential Information.
+THE PARTIES AGREE AS FOLLOWS:
+1. DEFINITIONS
+Affiliate: shall mean any other corporation or other form of business entity, which, directly or indirectly, controls, is controlled by, or is under common control with, a Party at any time during the term of this Agreement. For purposes of this definition, the term “control” means direct or indirect beneficial ownership of more than 50% of the voting share or interest of the entity;
+Confidential Information: has the meaning given in clause 2 of this Agreement;
+Disclosing Party: a Party to this Agreement which discloses its Confidential Information to the other Party;
+Purpose: [[INSERT DETAILS e.g. to establish a business relationship in respect to the supply of [named service provision or goods] from X, etc]];
+Receiving Party: a Party to this Agreement which receives the Confidential Information from the other Party;
+Representatives: any employees, officers, directors, professional advisors or consultants in relation to each Party and any of its Affiliates, who are actively and directly engaged in the Purpose;
+Term: has the meaning given in clause 10.1 of this Agreement.
+2. CONFIDENTIAL INFORMATION
+2.1. Confidential Information means all confidential information relating to the Purpose which the Disclosing Party or any of its Affiliates, discloses or makes available, to the Receiving Party or any of its Affiliates, before, on or after the Effective Date. This includes:
+a) the fact that discussions and negotiations are taking place concerning the Purpose and the status of those discussions and negotiations;
+b) the terms of this Agreement;
+c) all confidential or proprietary information relating to: the business, affairs, customers, clients, suppliers, plans, business opportunities, finances, pricing, operations, processes, product information, techniques, know-how, technical information, design, trade secrets and findings or analysis derived from Confidential Information, whether in tangible or intangible form.
+2.2. Confidential Information does not include information which:
+a) which is or subsequently becomes public knowledge or publicly available through no fault of the Receiving Party; or
+b) which is known by the Receiving Party prior to the time of receipt, as evidenced by its written records; or
+c) which is lawfully obtained by the Receiving Party from a third party and is not subject to a similar restriction on disclosure;
+d) which is independently developed by Receiving Party; or
+e) the Parties agree in writing is not confidential.
+3. CONFIDENTIALITY OBLIGATIONS
+3.1. In consideration of the Disclosing Party disclosing Confidential Information to the Receiving Party, the Receiving Party undertakes that it shall:
+a) keep the Confidential Information secret and confidential, using at least the same degree of care as its uses to protect its own confidential information but no less than a reasonable degree of care;
+b) not use or exploit the Confidential Information in any way except for the Purpose;
+c) not disclose or make available any Confidential Information in whole or in part to any person except as expressly permitted by and in accordance with this Agreement; and
+d) to establish and maintain adequate security measures to safeguard the Confidential Information from unauthorized access or use.
+4. EXCEPTIONS
+4.1. Notwithstanding clause 3.1 of this Agreement, the Receiving Party may disclose the Confidential Information:
+a) to its and its Affiliate’s Representatives, provided always that the Receiving Party procures that such Representatives shall comply with the confidentiality obligations as set out in clause 3 of this Agreement, and the Receiving Party agrees to be liable for the actions or omissions of such Representatives in relation to the Confidential Information as if they were the actions or omissions of the Receiving Party; and
+b) as may be required by an order of any court of competent jurisdiction or governmental body in which case the Receiving Party shall, to the extent permitted by law, use reasonable endeavours to provide the Disclosing Party with prompt written notice of any such requirement prior to any disclosure so that the Disclosing Party may seek a protection order or other appropriate remedy. If no protective order or remedy is obtained by the Disclosing Party, the Receiving Party shall disclose only that portion of the Confidential Information that it is legally required to disclose.
+5. RETURN OR DESTRUCTION OF CONFIDENTIAL INFORMATION
+5.1. Upon the Disclosing Party’s written request, the Receiving Party shall (as requested by the Disclosing Party) either return to the Disclosing Party or destroy (provided that any such destruction shall be confirmed in writing by the Receiving Party) all Confidential Information of the Disclosing Party including all copies, reproductions, notes, extracts and summaries which include, reflect, incorporate or otherwise contain the Disclosing Party’s Confidential Information whether in tangible form or otherwise, such as electronic mail or computer files.
+5.2. Clause 5.1 of this Agreement shall not apply to:
+a) Confidential Information held electronically in archive or back-up systems which are not otherwise reasonably retrievable by the Representatives of the Receiving Party or its Affiliates; or
+b) Copies of Confidential Information which must be retained by the Receiving Party pursuant to applicable law.
+5.3. The provisions of this Agreement shall continue to apply to any documents and materials retained by the Receiving Party pursuant to clause 5.2 of this Agreement.
+6. INTELLECTUAL PROPERTY
+6.1. Each Party reserves all rights in its Confidential Information.
+6.2. Nothing in this Agreement shall be interpreted as a grant, by the Disclosing Party, of any license, title, interest or proprietary right to the Receiving Party in the Disclosing Party’s Confidential Information or its products embodying the same.
+6.3. All Confidential Information disclosed by the Disclosing Party to the Receiving Party pursuant to this Agreement shall be and remain the Disclosing Party’s property.
+7. NO REPRESENTATION
+7.1. Neither of the Parties make any express or implied representation or warranty as to the accuracy, reliability or completeness of the Confidential Information, expressly disclaiming any and all liability that may be based on the Confidential Information, including any errors therein or omissions there from.
+7.2. The Parties further agree that they are not entitled to rely on the accuracy or completeness of the Confidential Information.
+8. INADEQUACY OF DAMAGES
+8.1. Without prejudice to any other rights or remedies that each Party may have, each Party acknowledges and agrees that damages alone would not be an adequate remedy for any breach of the terms of this Agreement by the other Party. Accordingly, each Party shall be entitled to the remedies of injunctions, specific performance or other equitable relief for any threatened or actual breach of this Agreement.
+9. NO OBLIGATION TO DISCLOSE OR CONTINUE DISCUSSIONS
+9.1. Nothing in this Agreement shall impose an obligation on either Party to disclose its information, whether Confidential Information or otherwise, to the other Party.
+9.2. Nothing in this Agreement shall impose an obligation on either Party to continue discussions or negotiations in connection with the Purpose or enter into any contract or business relationship with each other.
+10. TERM AND SURVIVAL OF CONFIDENTIALITY OBLIGATIONS
+10.1. The term of this Agreement shall be for a period of [three (3)] years from the Effective Date (the “Term”) but may be terminated or extended upon both Parties’ written agreement.
+10.2. The rights and obligations contained in this Agreement shall continue in full force and effect for [two (2)] years after expiration of the Term or termination of this Agreement.
+11. NO PARTNERSHIP OR AGENCY
+11.1. Nothing in this Agreement is intended to or shall be deemed to establish any partnership or joint venture between the Parties, create any commercial agency relationships between the Parties or authorise any Party to make or enter into any commitments for or on behalf of the other Party.
+12. GENERAL
+12.1. Assignment and other dealings. Neither Party shall assign, transfer, subcontract or deal in any other manner with any of its rights and obligations under this Agreement without the prior written agreement of the other Party.
+12.2. Entire Agreement. This Agreement constitutes the entire agreement between the Parties and supersedes and extinguishes all previous agreements, promises, assurances, warranties, representations and understandings between them, whether written or oral, relating to its subject matter.
+12.3. Variation. No variation of this Agreement shall be effective unless it is in writing and signed by the Parties.
+12.4. Waiver. No failure or delay by a Party to exercise any right or remedy provided under this Agreement or by law shall constitute a waiver of that or any other right or remedy, nor shall it prevent or restrict the further exercise of that or any other right or remedy. No single or partial exercise of such right or remedy shall prevent or restrict the further exercise of that or any other right or remedy.
+12.5. Severance. If any provision of this Agreement is or becomes invalid or unenforceable, it shall be deemed modified to the minimum extent necessary to make it valid and enforceable. Any modification to a provision under this clause shall not affect the validity and enforceability of the rest of the Agreement.
+12.6. Notice. Any notice given to a Party under or in connection with this Agreement shall be in writing and shall be delivered by hand, by pre-paid first class post or by a reputable next-day courier service at its registered office or principal place of business or sent by email to the address specified by the Party in writing. Any notice shall be deemed to have been received: if delivered by hand, at the time the notice is delivered at the proper address; if sent by pre-paid first class post, on the second business day after posting; if by next-day courier service, at the time recorded by the courier; or if by email, at the time of transmission. This clause does not apply to the service of any proceedings or other documents in any legal action or, where applicable, any arbitration or other method of dispute resolution.
+12.7. Third Party Rights. This Agreement does not give rise to any rights under the Contracts (Rights of Third Parties) Act 1999 to enforce any term of this Agreement.
+12.8. Governing Law. This Agreement and any dispute or claim (including non-contractual disputes or claims) arising out of or in connection with it or its subject matter or formation shall be governed by and construed in accordance with the laws of England and Wales.
+12.9. Jurisdiction. Each Party irrevocable agrees that the courts of England and Wales shall have exclusive jurisdiction to settle any dispute or claim (including non-contractual disputes or claims) arising out of or in connection with this Agreement or its subject matter or formation.
+The undersigned are duly authorised to execute this Agreement on behalf of the parties.
+For and on behalf of NSK Europe Limited For and on behalf of [Full company name]
+Signature……………………………………... Signature……………………………………...
+Name…………………………………………. Name………………………………………….
+Job Title………………………………………. Job Title……………………………………….
+Date…………………………………………… Date……………………………………………

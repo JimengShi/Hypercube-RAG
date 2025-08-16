@@ -1,0 +1,29 @@
+Data Use and Non-Disclosure Agreement Concerning the Disclosure of Data for MICHIGAN’S TRAUMA REGISTRY
+The parties to this Agreement are the Michigan Department of Health and Human Services and _____________________________________________________________________________ (Reporting Entity). This Agreement is effective when the authorized representatives of each party have signed it.
+In accordance with this Agreement, data are provided by the Reporting Entity to the Michigan Department of Health and Human Services (MDHHS) for the Michigan Trauma Registry.
+The parties agree to the provisions specified in this Agreement and, as applicable, the Health Insurance Portability and Accountability Act (HIPAA), the Michigan Identity Theft Protection Act, and all other applicable public health, research, and confidentiality laws.
+The data elements to be provided to MDHHS under this Agreement will be consistent with the required element designated by MDHHS and as identified in the Michigan Administrative Code R. 325.125 et. seq. The data provided to MDHHS will be used only for purposes of the Michigan Trauma Registry, consistent with Part 209 of the Public Health Code and the Michigan Administrative Code R 325.125 through 325.138.
+Data in the Michigan Trauma Registry will be disclosed to Regional Trauma Networks through access to the Michigan Trauma Registry database. Individuals granted access to the Michigan Trauma Registry database will be required to execute user agreements with MDHHS. With regard to the data disclosed to MDHHS under this Agreement, the MDHHS agrees to:
+1. Use and disclose the data only in accordance with this Agreement, or as otherwise authorized by law;
+2. Notify Reporting Entity within a reasonable time prior to disclosing data that is required by law so that Reporting Entity may have an opportunity to object to such disclosure if necessary;
+3. Limit access to these data only to those MDHHS employees whose job responsibilities require access to the information;
+4. Use appropriate safeguards to prevent the use or disclosure of the information other than as provided by this Agreement;
+5. Report to the Reporting Entity within ten (10) business days of discovery any actual or suspected inappropriate use, disclosure, or breach of information from the Michigan Trauma Registry that involves data submitted under this Agreement;
+6. Make no attempt to identify or contact the individuals or entities within the data provided unless permitted in Part 209 of the Public Health Code or the Michigan Administrative Code R 325.125 through 325.138;
+7. Destroy all originals and copies of potentially identifiable information, in any format, in accordance with industry standards when no longer needed. This includes, but is not limited to: magnetic tapes, micro disk files, paper records, etc.;
+8. Clean computer hard drives (including, but not limited to, those stored in computers, laptops, printer, and copiers) and any portable storage media of any data received under this Agreement in accordance with industry standards before disposing of; and
+9. Not use the data provided to engage in any method, act, or practice which constitutes a commercial solicitation or advertisement of goods, services, or real estate to consumers.
+This Agreement may be terminated upon sixty days (60) written notice of the non-terminating party by the terminating party.
+This Agreement may be amended in a writing that is signed by each party’s authorized representative.
+The parties acknowledge and agree that the unauthorized use or disclosure of confidential information is punishable by imprisonment or fine or both under applicable state and federal laws specific to the data released.
+The parties have read and understand the above conditions and acknowledge that by their authorized representative’s signature below they agree to the terms and conditions above. Each party acknowledges that its authorized representative has the authority to execute this agreement its behalf.
+AUTHORIZED REPORTING ENTITY REPRESENTATIVE:
+___________________________________________________________________________
+Print Name Title
+___________________________________________________________________________
+Signature Date
+AUTHORIZED MDHHS REPRESENTATIVE:
+___________________________________________________________________________
+Print Name Title
+___________________________________________________________________________
+Signature Date

@@ -1,0 +1,18 @@
+NETWORK CONFIDENTIAL INFORMATION NON DISCLOSURE AGREEMENT
+THIS AGREEMENT is made and entered into effective ,    , by and between, the State of Illinois, (the “State"), and (“Vendor”) for itself and its affiliated companies.
+WHEREAS, both parties, for their mutual benefit, desire to have the State disclose to Vendor certain specifications, designs, plans, drawings or other business and/or technical information which is proprietary, restricted or secret, and confidential to the State (“CONFIDENTIAL INFORMATION").
+NOW, THEREFORE, the State and Vendor agree as follows:
+1. Vendor shall use such CONFIDENTIAL INFORMATION only for the purpose of discussing street level route information for the State’s fiber optic network data points and paths with the State’s support team in discussions regarding the State’s fiber project. Vendor shall restrict disclosure of such CONFIDENTIAL INFORMATION to its employees with a need to know (and advise such employees of the obligations assumed herein), and shall not disclose such CONFIDENTIAL INFORMATION to any third party without prior written approval of the State.
+These restrictions on the use or disclosure of CONFIDENTIAL INFORMATION shall not apply to any CONFIDENTIAL INFORMATION: i. which is independently developed by Vendor or is lawfully received free of restriction from another source having the right to so furnish such CONFIDENTIAL INFORMATION; ii. after it has become generally available to the public without breach of this Agreement by Vendor; iii. which, at the time of disclosure to Vendor, was known to Vendor to be free of restriction; or iv. which the State agrees in writing is free of such restrictions.
+2. No license under any trademark, patent, copyright, mask work protection right or any other intellectual property right is either granted or implied by conveying CONFIDENTIAL INFORMATION to Vendor. None of the CONFIDENTIAL INFORMATION which may be disclosed by the State shall constitute any representation, warranty, assurance, guarantee or inducement by the State of any kind, and, in particular, with respect to the non‐ infringement of trademarks, patents, copyrights, mask work protection rights or any other intellectual property rights, or other rights of third persons or of the State.
+3. All CONFIDENTIAL INFORMATION furnished hereunder shall be returned at the conclusion of each meeting between Vendor and the State.
+4. This Agreement shall be governed by the laws of the State of Illinois..
+5. The obligations of this Agreement with respect to the disclosure and use of CONFIDENTIAL INFORMATION shall survive for a period of three (3) years from the date of last disclosure.
+6. The parties recognize and agree that the obligations under paragraphs 1 and 6 of this Agreement shall survive the termination of this Agreement, and the parties shall be bound by such obligations after termination hereof.
+7. This Agreement constitutes the entire understanding between the parties hereto as to the CONFIDENTIAL INFORMATION and merges all prior discussions between them relating thereto.
+8. No amendment of this Agreement shall be valid or binding on the parties unless made in writing and signed on behalf of each of the parties by their respective duly authorized representatives.
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first set forth above.
+State of Illinois  [Vendor]
+Department of Innovation & Technology Services
+By:     By:
+(Typed or printed name and Title)  (Typed or printed name and Title)

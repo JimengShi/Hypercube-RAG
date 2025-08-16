@@ -1,0 +1,110 @@
+DATED
+ NON-DISCLOSURE AGREEMENT BETWEEN LONDON SCHOOL OF ECONOMICS & POLITICAL SCIENCE AND [PARTY 2]
+CONTENTS
+CLAUSE
+1. DEFINITIONS AND INTERPRETATION ........................................................... 1
+2. OBLIGATIONS OF CONFIDENTIALITY ........................................................... 3
+3. RETURN OF INFORMATION ............................................................................ 4
+4. RESERVATION OF RIGHTS AND ACKNOWLEDGEMENT ............................ 5
+5. WARRANTY AND INDEMNITY ......................................................................... 5
+6. TERM AND TERMINATION .............................................................................. 5
+7. ENTIRE AGREEMENT AND VARIATION ......................................................... 6
+8. NO WAIVER ...................................................................................................... 6
+9. ASSIGNMENT ................................................................................................... 6
+10. NOTICES ........................................................................................................... 7
+11. NO PARTNERSHIP ........................................................................................... 7
+12. THIRD PARTY RIGHTS .................................................................................... 7
+13. GOVERNING LAW AND JURISDICTION ......................................................... 7
+THIS AGREEMENT is dated
+PARTIES
+(1) LONDON SCHOOL OF ECONOMICS & POLITICAL SCIENCE a company limited by guarantee incorporated and registered in England and Wales with company number 70527 whose registered office is at Houghton Street, London, WC2A 2AE ("LSE"); and
+(2) [FULL COMPANY NAME] incorporated and registered in England and Wales with company number [NUMBER] whose registered office is at [REGISTERED OFFICE ADDRESS] (“Defined Term For Party”).
+BACKGROUND
+Each party wishes to disclose to the other party Confidential Information in relation to the Purpose. Each party wishes to ensure that the other party maintains the confidentiality of its Confidential Information.
+In consideration of the benefits to the parties of the disclosure of the Confidential Information, the parties have agreed to comply with the following terms in connection with the use and disclosure of Confidential Information.
+AGREED TERMS
+1. DEFINITIONS AND INTERPRETATION
+1.1 The following definitions and rules of interpretation in this clause apply in this Agreement:
+Business Day means a day (other than a Saturday, Sunday or public holiday) when banks in London are open for business.
+Confidential Information means all confidential information (however recorded, preserved or disclosed) disclosed by a party or its Representatives to the other party and that party's Representatives including but not limited to:
+(a) The fact that discussions and negotiations are taking place concerning the Purpose and the status of those discussions and negotiations;
+(b) The existence and terms of this Agreement;
+(c) Any information that would be regarded as confidential by a reasonable business person relating to:
+(i) The business, affairs, customers, clients, suppliers, plans, intentions, or market opportunities of the Disclosing Party; and
+(ii) The operations, processes, product information, know-how, designs, trade secrets or software of the Disclosing Party; and
+(d) Any information or analysis derived from Confidential Information;
+but not including any information that:
+(e) Is or becomes generally available to the public other than as a result of its disclosure by the Recipient or its Representatives in breach of this Agreement or of any other undertaking of confidentiality addressed to the party to whom the information relates (except that any compilation of otherwise public information in a form not publicly known shall nevertheless be treated as Confidential Information); or
+(f) Was available to the Recipient on a non-confidential basis prior to disclosure by the Disclosing Party; or
+(g) Was lawfully in the possession of the Recipient before the information was disclosed to it by the Disclosing Party; or
+(h) The parties agree in writing is not confidential or may be disclosed.
+Disclosing Party means a party to this Agreement which discloses or makes available directly or indirectly Confidential Information.
+Purpose means [STATE THE PURPOSE, FOR EXAMPLE, THE EVALUATION OR ESTABLISHMENT OF A COLLABORATION IN RESPECT OF A PARTICULAR PROJECT].
+Recipient means a party to this Agreement which receives or obtains directly or indirectly Confidential Information.
+Representative means employees, agents, officers, advisers and other representatives of the Recipient.
+1.2 Clause, schedule and paragraph headings shall not affect the interpretation of this Agreement.
+1.3 A person includes a natural person, corporate or unincorporated body (whether or not having separate legal personality) and that person's legal and personal representatives, successors and permitted assigns.
+1.4 Unless the context otherwise requires, words in the singular shall include the plural and in the plural include the singular.
+1.5 A reference to a statute or statutory provision is a reference to it as it is in force for the time being, taking account of any amendment, extension, or re-enactment, and includes any subordinate legislation for the time being in force made under it.
+1.6 Any obligation in this Agreement on a person not to do something includes an obligation not to agree or allow that thing to be done.
+1.7 References to clauses and schedules are to the clauses and schedules of this Agreement; references to paragraphs are to paragraphs of the relevant schedule.
+2. OBLIGATIONS OF CONFIDENTIALITY
+2.1 The Recipient shall keep the Disclosing Party's Confidential Information confidential and, except with the prior written consent of the Disclosing Party, shall:
+(a) Warrants and undertake that it is solely responsible for ensuring that the Personal Data is processed by it in accordance with the Data Protection Act 1998 (“the Act”) from the date that it is received from the Disclosing Party;
+(b) Not use or exploit the Confidential Information in any way except for the Purpose. If the Recipient proposes to use or process the Personal Data for a purpose other than the Purpose, the Recipient shall ensure that, prior to using or processing the Personal Data in such manner, it will ensure that such use or process is in compliance with the Act;
+(c) Not disclose or make available the Confidential Information in whole or in part to any third party, except as expressly permitted by this Agreement; and
+(d) Not copy, reduce to writing or otherwise record the Confidential Information except as strictly necessary for the Purpose (and any such copies, reductions to writing and records shall be the property of the Disclosing Party).
+2.2 The Recipient may disclose the Disclosing Party's Confidential Information to those of its Representatives who need to know this Confidential Information for the Purpose, provided that:
+(a) It informs its Representatives of the confidential nature of the Confidential Information before disclosure;
+(b) It procures that its Representatives shall, in relation to any Confidential Information disclosed to them, comply with this Agreement as if they were the Recipient and, if the Disclosing Party so requests, procure that any relevant Representative enters into a confidentiality agreement with the Disclosing Party on terms equivalent to those contained in this Agreement; and
+(c) It keeps a written record of these Representatives,
+and it shall at all times be liable for the failure of any Representative to comply with the terms of this Agreement.
+2.3 A party may disclose Confidential Information to the extent such Confidential Information is required to be disclosed by law, by any governmental or other regulatory authority, or by a court or other authority of competent jurisdiction provided that, to the extent it is legally permitted to do so, it gives the other party as much notice of this disclosure as possible.
+2.4 The Recipient shall establish and maintain adequate security measures (including any reasonable security measures proposed by the Disclosing party from time to time) to safeguard the Confidential Information from unauthorised access or use.
+2.5 No party shall make, or permit any person to make, any public announcement concerning this Agreement, the Purpose or its prospective interest in the Purpose without the prior written consent of the other party (such consent not to be unreasonably withheld or delayed) except as required by law or any governmental or regulatory authority (including, without limitation, any relevant securities exchange) or by any court or other authority of competent jurisdiction. No party shall make use of the other party's name or any information acquired through its dealings with the other party for publicity or marketing purposes without the prior written consent of the other party.
+3. RETURN OF INFORMATION
+3.1 At the request of the Disclosing Party, the Recipient shall:
+(a) Destroy or return to the Disclosing Party all documents and materials (and any copies) containing, reflecting, incorporating, or based on the Disclosing Party's Confidential Information;
+(b) Erase all the Disclosing Party's Confidential Information from its computer systems or which is stored in electronic form (to the extent possible); and
+(c) Certify in writing to the Disclosing Party that it has complied with the requirements of this clause, provided that a Recipient may retain documents and materials containing, reflecting, incorporating, or based on the Disclosing Party's Confidential Information to the extent required by law or any applicable governmental or regulatory authority and to the extent reasonable to permit the Recipient to keep evidence that it has performed its obligations under this Agreement. The provisions of this Agreement shall continue to apply to any documents and materials retained by the Recipient. 3.2 If the Recipient develops or uses a product or a process which, in the reasonable opinion of the Disclosing Party, might have involved the use of any of the Disclosing Party's Confidential Information, the Recipient shall, at the request of the Disclosing Party, supply to the Disclosing Party information reasonably necessary to establish that the Disclosing Party's Confidential Information has not been used or disclosed.
+4. RESERVATION OF RIGHTS AND ACKNOWLEDGEMENT
+4.1 All Confidential Information shall remain the property of the Disclosing Party. Each party reserves all rights in its Confidential Information. No rights, including, but not limited to, intellectual property rights, in respect of a party's Confidential Information are granted to the other party and no obligations are imposed on the Disclosing Party other than those expressly stated in this Agreement.
+4.2 Except as expressly stated in this Agreement, no party makes any express or implied warranty or representation concerning its Confidential Information, or the accuracy or completeness of the Confidential Information.
+4.3 The disclosure of Confidential Information by the Disclosing Party shall not form any offer by, or representation or warranty on the part of, the Disclosing Party to enter into any further agreement.
+4.4 The Recipient acknowledges that damages alone would not be an adequate remedy for the breach of any of the provisions of this Agreement. Accordingly, without prejudice to any other rights and remedies it may have, the Disclosing Party shall be entitled to the granting of equitable relief (including without limitation injunctive relief) concerning any threatened or actual breach of any of the provisions of this Agreement.
+5. WARRANTY AND INDEMNITY
+5.1 Each Disclosing Party warrants that it has the right to disclose its Confidential Information to the Recipient and to authorise the Recipient to use such Confidential Information for the Purpose.
+5.2 Each Recipient shall indemnify and keep fully indemnified the Disclosing Party at all times against all liabilities, costs (including legal costs on an indemnity basis), expenses, damages and losses (including any direct, indirect or consequential losses, loss of profit, loss of reputation and all interest, penalties and other reasonable costs and expenses suffered or incurred by the Disclosing Party) arising from any breach of this Agreement by the Recipient and from the actions or omissions of any Representative of the Recipient.
+6. TERM AND TERMINATION
+6.1 If either party decides not to become, or continue to be involved in the Purpose with the other party it shall notify the other party in writing immediately. The obligations of each party shall, notwithstanding any earlier termination of negotiations or discussions between the parties in relation to the Purpose, continue for a period of two (2) years from the termination of this Agreement.
+6.2 Termination of this Agreement shall not affect any accrued rights or remedies to which either party is entitled.
+7. ENTIRE AGREEMENT AND VARIATION
+7.1 This Agreement constitutes the entire agreement between the Parties and supersedes and extinguishes all previous drafts, agreements, arrangements and understandings between them, whether written or oral, relating to its subject matter.
+7.2 Each party agrees that it shall have no remedies in respect of any representation or warranty (whether made innocently or negligently) that is not set out in this Agreement. Each party agrees that its only liability in respect of those representations and warranties that are set out in this Agreement (whether made innocently or negligently) shall be for breach of contract.
+7.3 No variation of this Agreement shall be effective unless it is in writing and signed by each of the Parties (or their authorised representatives).
+8. NO WAIVER
+8.1 Failure to exercise, or any delay in exercising, any right or remedy provided under this Agreement or by law shall not constitute a waiver of that or any other right or remedy, nor shall it preclude or restrict any further exercise of that or any other right or remedy.
+8.2 No single or partial exercise of any right or remedy provided under this Agreement or by law shall preclude or restrict the further exercise of that or any other right or remedy.
+8.3 A party that waives a right or remedy provided under this Agreement or by law in relation to another party, or takes or fails to take any action against that party, does not affect its rights in relation to any other party.
+9. ASSIGNMENT
+Except as otherwise provided in this Agreement, no party may assign, sub-contract or deal in any way with, any of its rights or obligations under this Agreement or any document referred to in it.
+10. NOTICES
+10.1 Any notice required to be given under this Agreement, shall be in writing and shall be delivered personally, or sent by pre-paid first class post or recorded delivery or by commercial courier, to each party required to receive the notice at its address as set out below:
+(a) LSE: [CONTACT NAME] [ADDRESS]
+(b) [PARTY 2]: [CONTACT NAME] [ADDRESS]
+or as otherwise specified by the relevant party by notice in writing to each other party.
+10.2 Any notice shall be deemed to have been duly received:
+(a) If delivered personally, when left at the address and for the contact referred to in this clause; or
+(b) If sent by pre-paid first class post or recorded delivery, at 9.00 am on the second Business Day after posting; or
+(c) If delivered by commercial courier, on the date and at the time that the courier's delivery receipt is signed.
+10.3 [A notice required to be given under this Agreement shall not be validly given if sent by e-mail.]
+11. NO PARTNERSHIP
+Nothing in this Agreement is intended to, or shall be deemed to, establish any partnership or joint venture between any of the parties, constitute any party the agent of another party, nor authorise any party to make or enter into any commitments for or on behalf of any other party.
+12. THIRD PARTY RIGHTS
+A person who is not a party to this Agreement shall not have any rights under or in connection with it.
+13. GOVERNING LAW AND JURISDICTION
+13.1 This Agreement and any dispute or claim arising out of or in connection with it or its subject matter or formation (including non-contractual disputes or claims) shall be governed by and construed in accordance with English law.
+13.2 The parties irrevocably agree that the courts of England and Wales shall have non-exclusive jurisdiction to settle any dispute or claim that arises out of or in connection with this Agreement or its subject matter or formation (including non-contractual disputes or claims).
+This Agreement has been entered into on the date stated at the beginning of it.
+Signed by Andrew Webb for and on behalf of LSE ....................................... Acting School Secretary
+Signed by [NAME OF DIRECTOR] for and on behalf of [NAME OF ....................................... DEFINED TERM FOR PARTY] [title]
