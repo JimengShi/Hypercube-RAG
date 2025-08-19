@@ -26,24 +26,33 @@ python setup.py
 ```
 
 This automated setup script will:
-1. Create a Python virtual environment (`hypercube_env`)
+1. Create a conda environment (`hypercube_env`)
 2. Install all required dependencies
 3. Download the dataset from Hugging Face Hub
 4. Set up the complete project structure
 
 After setup, activate the environment:
 ```bash
-source hypercube_env/bin/activate  # Linux/Mac
-# OR
-hypercube_env\Scripts\activate     # Windows
+conda activate hypercube_env
 ```
 
 #### 2.2 Manual Environment Setup
-```
-conda create --name hypercube python==3.10
-conda activate hypercube
+If you prefer to set up manually:
 
-pip install accelerate openai together geopy nltk rouge_score sentence_transformers spacy
+```bash
+# Create conda environment
+conda create -n hypercube_env python=3.10 -y
+conda activate hypercube_env
+
+# Install dependencies
+pip install -r requirements.txt
+```
+
+Or with conda packages:
+```bash
+conda create -n hypercube_env python=3.10 -y
+conda activate hypercube_env
+conda install -c conda-forge accelerate openai together geopy nltk rouge_score sentence-transformers spacy
 ```
 
 #### 2.3 Dataset Download

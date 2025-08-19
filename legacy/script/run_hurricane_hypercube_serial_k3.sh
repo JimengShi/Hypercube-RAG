@@ -1,1 +1,0 @@
-   python qa_rag_hurricane.py --data hurricane --model gpt-4o --retrieval_method hypercube --k 3 --save true

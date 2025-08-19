@@ -49,29 +49,44 @@ def check_python_version():
 
 
 def setup_environment():
-    """Set up Python virtual environment"""
+    """Set up conda environment"""
     print("\n=== Environment Setup ===")
     
-    if not check_python_version():
-        print("Please install Python 3.10 or later")
+    # Check if conda is available
+    if not run_command("conda --version", "Checking conda installation"):
+        print("❌ Conda not found. Please install Miniforge or Anaconda first.")
+        print("💡 For ARM64 systems, install Miniforge:")
+        print("   curl -L -O https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-Linux-aarch64.sh")
+        print("   bash Miniforge3-Linux-aarch64.sh")
         return False
     
-    # Create virtual environment
     env_name = "hypercube_env"
-    if not run_command(f"python -m venv {env_name}", "Creating virtual environment"):
-        return False
     
-    # Get activation command based on OS
-    if os.name == 'nt':  # Windows
-        activate_cmd = f"{env_name}\\Scripts\\activate"
-        python_cmd = f"{env_name}\\Scripts\\python"
-        pip_cmd = f"{env_name}\\Scripts\\pip"
-    else:  # Unix/Linux/MacOS
-        activate_cmd = f"source {env_name}/bin/activate"
-        python_cmd = f"{env_name}/bin/python"
-        pip_cmd = f"{env_name}/bin/pip"
+    # Check if environment already exists
+    result = subprocess.run(
+        "conda env list | grep hypercube_env", 
+        shell=True, 
+        capture_output=True, 
+        text=True
+    )
     
-    print(f"📝 Virtual environment created: {env_name}")
+    if result.returncode == 0 and env_name in result.stdout:
+        print(f"✅ Conda environment '{env_name}' already exists, skipping creation")
+    else:
+        # Create conda environment
+        print(f"🔄 Creating conda environment: {env_name}")
+        
+        # Create environment with Python 3.10+
+        if not run_command(f"conda create -n {env_name} python=3.10 -y", "Creating conda environment"):
+            return False
+        
+        print(f"📝 Conda environment created: {env_name}")
+    
+    # Get conda activation command
+    activate_cmd = f"conda activate {env_name}"
+    python_cmd = f"conda run -n {env_name} python"
+    pip_cmd = f"conda run -n {env_name} pip"
+    
     print(f"📝 To activate manually: {activate_cmd}")
     
     return python_cmd, pip_cmd
@@ -89,7 +104,7 @@ def install_dependencies(pip_cmd):
     ]
     
     for package in essential_packages:
-        if not run_command(f"{pip_cmd} install {package}", f"Installing {package}"):
+        if not run_command(f'{pip_cmd} install "{package}"', f"Installing {package}"):
             return False
     
     # Install requirements.txt if exists
@@ -105,56 +120,60 @@ def download_dataset(python_cmd):
     """Download dataset from Hugging Face"""
     print("\n=== Downloading Dataset ===")
     
-    # Create download script
+    # Create download script using huggingface_hub to download files directly
     download_script = '''
 import os
-from datasets import load_dataset
+from huggingface_hub import snapshot_download
 from pathlib import Path
-import json
+import shutil
 
 print("📥 Downloading Hypercube-RAG dataset from Hugging Face...")
 
 try:
-    # Load dataset from Hugging Face
-    dataset = load_dataset("Rtian/hypercube-rag", trust_remote_code=True)
+    # Download the entire repository
+    repo_path = snapshot_download(
+        repo_id="Rtian/hypercube-rag",
+        repo_type="dataset",
+        local_dir="data_temp",
+        local_dir_use_symlinks=False
+    )
     
     print("✅ Dataset downloaded successfully")
     
-    # Create data directory structure
+    # Create data directory if it doesn't exist
     data_dir = Path("data")
-    data_dir.mkdir(exist_ok=True)
+    if data_dir.exists():
+        print("⚠️  Data directory already exists, backing up...")
+        shutil.move("data", f"data_backup_{Path('data').stat().st_mtime}")
     
-    # Create subdirectories
-    (data_dir / "query").mkdir(exist_ok=True)
-    (data_dir / "corpus").mkdir(exist_ok=True) 
-    (data_dir / "hypercube").mkdir(exist_ok=True)
+    # Move downloaded data to the correct location
+    shutil.move("data_temp", "data")
     
-    print("📁 Created data directory structure")
+    print("📁 Data structure created successfully")
     
-    # Process and save files by iterating through the dataset
-    if hasattr(dataset, 'keys'):
-        for split_name in dataset.keys():
-            split_data = dataset[split_name]
-            print(f"📊 Processing {split_name} split with {len(split_data)} files")
-            
-            for item in split_data:
-                # Determine file path based on the path in the dataset
-                if 'path' in item:
-                    file_path = Path("data") / item['path']
-                    file_path.parent.mkdir(parents=True, exist_ok=True)
-                    
-                    # Write content to file
-                    with open(file_path, 'w', encoding='utf-8') as f:
-                        if 'content' in item:
-                            f.write(item['content'])
-                    
-                    print(f"✅ Saved {file_path}")
+    # Clean up unnecessary files
+    print("🧹 Cleaning up unnecessary files...")
+    unnecessary_files = [
+        data_dir / ".gitattributes",
+        data_dir / "README.md",
+        data_dir / ".cache"
+    ]
     
-    # Alternative: try to access files directly if the above doesn't work
-    else:
-        print("📄 Attempting alternative download method...")
-        # This would need to be customized based on the actual dataset structure
-        pass
+    for file_path in unnecessary_files:
+        if file_path.exists():
+            if file_path.is_dir():
+                shutil.rmtree(file_path)
+                print(f"  Removed directory: {file_path.name}")
+            else:
+                file_path.unlink()
+                print(f"  Removed file: {file_path.name}")
+    
+    # List what was downloaded
+    for subdir in ["corpus", "query", "hypercube"]:
+        subdir_path = data_dir / subdir
+        if subdir_path.exists():
+            files = list(subdir_path.glob("**/*.jsonl"))
+            print(f"✅ {subdir}: {len(files)} files downloaded")
     
     print("🎉 Dataset setup completed!")
     print(f"📍 Data location: {data_dir.absolute()}")
@@ -162,8 +181,8 @@ try:
 except Exception as e:
     print(f"❌ Error downloading dataset: {e}")
     print("💡 You can try downloading manually:")
-    print("   from datasets import load_dataset")
-    print('   dataset = load_dataset("Rtian/hypercube-rag")')
+    print("   from huggingface_hub import snapshot_download")
+    print('   snapshot_download(repo_id="Rtian/hypercube-rag", repo_type="dataset", local_dir="data")')
     exit(1)
 '''
     
@@ -179,41 +198,6 @@ except Exception as e:
     except Exception:
         os.unlink(temp_script)
         return False
-
-
-def create_activation_helper():
-    """Create a helper script for environment activation"""
-    print("\n=== Creating Helper Scripts ===")
-    
-    env_name = "hypercube_env"
-    
-    if os.name == 'nt':  # Windows
-        script_content = f'''@echo off
-echo Activating Hypercube-RAG environment...
-call {env_name}\\Scripts\\activate.bat
-echo ✅ Environment activated! You can now run Python scripts.
-echo 💡 To deactivate, run: deactivate
-cmd /k
-'''
-        script_name = "activate_env.bat"
-    else:  # Unix/Linux/MacOS
-        script_content = f'''#!/bin/bash
-echo "Activating Hypercube-RAG environment..."
-source {env_name}/bin/activate
-echo "✅ Environment activated! You can now run Python scripts."
-echo "💡 To deactivate, run: deactivate"
-exec "$SHELL"
-'''
-        script_name = "activate_env.sh"
-    
-    with open(script_name, 'w') as f:
-        f.write(script_content)
-    
-    if os.name != 'nt':
-        os.chmod(script_name, 0o755)
-    
-    print(f"✅ Created {script_name}")
-    return script_name
 
 
 def main():
@@ -250,12 +234,9 @@ def main():
         print("❌ Dataset download failed")
         return
     
-    # Create helper scripts
-    script_name = create_activation_helper()
-    
     print("\n🎉 Setup completed successfully!")
     print("\n📋 Next steps:")
-    print(f"1. Activate environment: ./{script_name}")
+    print(f"1. Activate environment: conda activate hypercube_env")
     print("2. Verify setup: python -c \"import datasets; print('✅ Ready!')\"")
     print("3. Check data: ls data/")
     print("\n📚 For more information, see README.md")

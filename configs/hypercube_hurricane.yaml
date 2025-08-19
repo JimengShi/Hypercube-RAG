@@ -1,0 +1,32 @@
+# Hypercube retrieval on Hurricane dataset with GPT-4o
+name: "hypercube_hurricane_gpt4o"
+description: "Hypercube-RAG on Hurricane dataset"
+
+# Dataset settings
+dataset: "hurricane"
+
+# Model settings
+model: "gpt-4o"
+model_params:
+  temperature: 0.7
+  max_tokens: 512
+
+# Retrieval settings
+retrieval_method: "hypercube"
+k: 5
+embedding_model: "intfloat/e5-base-v2"
+
+# Evaluation settings
+eval_metrics:
+  - "exact_match"
+  - "f1"
+  - "rouge"
+use_llm_judge: false
+
+# Output settings
+output_dir: "output"
+save: true
+
+# Runtime settings
+max_samples: null  # Process all samples
+verbose: false
