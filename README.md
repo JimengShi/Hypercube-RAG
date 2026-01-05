@@ -1,4 +1,4 @@
-# Hypercube-RAG
+# Hypercube-based Retrieval-Augmented Generation
 <div align="left">
 <img src="https://github.com/JimengShi/Hypercube-RAG/blob/main/figures/hypercube_rag.jpg" alt="hypercuberag" width="1000"/> 
 </div>
