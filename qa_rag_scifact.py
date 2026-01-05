@@ -18,7 +18,7 @@ import time
 ent2emb = None
 
 
-def embed_string(target_str, emb_model, dict_path='ent2emb/ent2emb_scifact.pkl', ):
+def embed_string(target_str, emb_model, dict_path='ent2emb/ent2emb_scifact_latest.pkl', ):
     global ent2emb
     if ent2emb is None:
         if os.path.exists(dict_path):
@@ -54,10 +54,6 @@ with open('corpus/scifact/pubmed_abstract.txt') as f:
 
 # ================ build embedding index ================
 model = SentenceTransformer('intfloat/e5-base-v2')
-# model = SentenceTransformer('nvidia/NV-Embed-v2', trust_remote_code=True)
-# model.max_seq_length = 32768
-# model.tokenizer.padding_side="right"
-doc_embeddings = model.encode(['passage: ' + text for text in corpus], normalize_embeddings=True)
 
 
 # ================ construct hypercube ================
@@ -74,76 +70,60 @@ hypercube = {'date': defaultdict(list),
              'genetics_biology': defaultdict(list),
              'immunology_neuroscience': defaultdict(list),
              'pharmacology': defaultdict(list),}
-            #  'chemistry': defaultdict(list),}
 
 
 for dimension in dimensions:
-    with open(f'hypercube/scifact/{dimension}.txt') as f:
+    with open(f'hypercube_new/scifact/{dimension}.txt') as f:
         readin = f.readlines()
         for i, line in tqdm(enumerate(readin), total=len(readin), desc=f"{dimension}"):
             tmp = json.loads(line)
             for k in tmp:
                 hypercube[dimension][k].append(i)
                 
-                embed_string(target_str=k, emb_model=model, dict_path='ent2emb/ent2emb_scifact.pkl', )
+                embed_string(target_str=k, emb_model=model, dict_path='ent2emb/ent2emb_scifact_latest.pkl', )
 
 
 
 def get_docs_from_cells(cells, top_k):
+    """
+    cells: query extraction
+    """
     if cells is None: return []
     tmp_ids = []
-    # doc_ids = set(list(range(len(corpus))))
+    
     for k, v in cells.items():
         assert k in hypercube
         
         for vv in v:
-            # print("vv:", vv)
+            vv = vv.lower()
             if vv in hypercube[k]:
                 tmp_ids.extend(hypercube[k][vv])
             else:
-                vv_emb = ent2emb[vv]
+                vv_emb = model.encode(vv, normalize_embeddings=True)
+                
                 for cand in hypercube[k]:
                     if ent2emb[cand] @ vv_emb > 0.9: 
                         tmp_ids.extend(hypercube[k][cand])
-            # print(">>> tmp_ids 1:", tmp_ids)
-
-    # print(">>> tmp_ids total:", tmp_ids)
 
     doc_ids = topk_most_freq_id(tmp_ids, top_k)
 
-    # print(">>> doc_ids:", doc_ids)
-                        
-    # doc_ids = doc_ids.intersection(set(tmp_ids))
     return list(doc_ids)
 
 
 # ================ LLMs ================
 def llm_answer(model_type, query, cells, k, retrieval_method='hypercube'):
-    assert model_type in ['gpt-3.5-turbo', 'gpt-4o-mini', 'gpt-4o', 'deepseek', 'llama3', 'llama4', 'gemma', 'qwen']
+    assert model_type in ['gpt-4o-mini', 'gpt-4o', 'llama3']
     assert retrieval_method in ['hypercube', 'semantic', 'union']
 
 
-    ### set up retriever searching combination
-    # get docs from cells (hypercube return)
+    ### set up hypercube retriever 
     structure_docs = get_docs_from_cells(cells, k)
-
-    # get query embedding (semantic return)
-    query_embedding = model.encode(['query: ' + query])
-    scores = np.matmul(doc_embeddings, query_embedding.transpose())[:,0]
-    semantic_docs = [index for _, index in heapq.nlargest(k, ((v, i) for i, v in enumerate(scores)))]
 
     
     if retrieval_method == 'hypercube':
         doc_ids = structure_docs
         print(f'>>> Doc ids by hypercube retrieval: {[id + 1 for id in doc_ids]} \n')
-    elif retrieval_method == 'semantic':
-        doc_ids = semantic_docs
-        print(f'>>> Doc ids by semantic retrieval: {[id + 1 for id in doc_ids]} \n')
-    elif retrieval_method == 'union':
-        doc_ids = list(set(structure_docs).union(set(semantic_docs)))
-        doc_ids = doc_ids[:5]
-        print(f'>>> Doc ids by union retrieval: {[id + 1 for id in doc_ids]} \n') 
-    
+
     # limit retrieved documents of hypercube as input to llm
     docs = '\n\n'.join([f"Document {idx + 1}: {corpus[doc_id]}" for idx, doc_id in enumerate(doc_ids)])
 
@@ -171,7 +151,7 @@ def llm_answer(model_type, query, cells, k, retrieval_method='hypercube'):
         from openai import OpenAI
         client = OpenAI()
         completion = client.chat.completions.create(
-            model="gpt-4o-2024-11-20",
+            model="gpt-4o-2024-08-06",
             messages=[
                 {"role": "system", "content": instruction + docs},
                 {
@@ -204,7 +184,7 @@ def decompose_query(query):
         f"2. **Compose queries to retrieve documents for answering the question**: each document are indexed by the entities or phrases occurred inside and those entities or phrases lie within following dimensions: {dimensions}. "
         f"date dimension can be Time, Period, Duration, Period, Hour, Minutes, Day, Week, Month, Year entities/phrases.\n"
         f"location dimension can be geographic locations-related, nationality-related, city-related, state-related, prinvince-related entities/phrases/numbers/zipcodes.\n"
-        f"person dimension can be related to people, males, females, children, adults entities/phrases.\n"
+        f"person dimension can be related to names of people, males, females, children, adults and the descriptive phrases/terms such as person, women, adult, and the role name such as patient, doctor, lawer.\n"
         f"quantity dimension can be quantity-related, such as Numbers, Percentage, Ratio, Rates, Proportions, Fractions, Ages, Weights, Measurements, Finance amounts, Money amounts entities/phrases/numbers.\n"        
         f"organizations_research_initiatives dimension can be organization-related, medical research, cancer research, health initiatives, health surveys, disease studies-related entities/phrases.\n"
         f"medicine_health dimension can be medical, cancer, cardiology, diseases terms healty-related entities/phrases.\n"
@@ -214,6 +194,7 @@ def decompose_query(query):
         f"chemistry dimension can be chemistry-related, biochemistry-related entities/phrases/terms.\n"        
         f"For each of the above dimension, synthesize queries that are informative, self-complete, and mostly likely to retrieve target documents for answering the question.\n"
         f"Note that each of your query should be an entity or a short phrase and its associated dimension.\n\n"
+
         f"Example Input:\n"
         f"Question: 1/2000 in UK have abnormal PrP positivity\n"
         f"Example Output:\n"
@@ -234,7 +215,6 @@ def decompose_query(query):
             ...,
             title='Entity or phrase to query the documents'
         )
-        # 'person', 'date'
         query_dimension: Literal['date', 'location', 'person', 'quantity', 'organizations_research_initiatives', 'medicine_health', 'genetics_biology', 'immunology_neuroscience', 'pharmacology'] = Field(
             ...,
             title='Dimension of the entity or phrase to query documents'
@@ -247,7 +227,7 @@ def decompose_query(query):
         )
         
     response = client.beta.chat.completions.parse(
-        model="gpt-4o-2024-11-20",
+        model="gpt-4o-2024-08-06",
         messages=[
             {'role': 'system', 'content': system_prompt},
             {'role': 'user', 'content': input_prompt}
@@ -266,7 +246,7 @@ def decompose_query(query):
         
         for ent in detected_ents.list_of_queries:
             cells[ent.query_dimension].append(ent.query_content)
-            embed_string(target_str=ent.query_content, emb_model=model, dict_path='ent2emb/ent2emb_scifact.pkl', )
+            embed_string(target_str=ent.query_content, emb_model=model, dict_path='ent2emb/ent2emb_scifact_latest.pkl', )
         return cells
     
     except Exception as e:
@@ -283,7 +263,7 @@ from utils.metric import precision_at_k, recall_at_k
 def parse_args():
     parser = argparse.ArgumentParser(description="Evaluate QA model performance.")
     parser.add_argument("--data", type=str, required=True, help="Path to the QA dataset (JSON or CSV).")
-    parser.add_argument("--model", type=str, required=True, choices=["gpt-4o-mini", "gpt-4o", "deepseek", 'llama3', 'llama4', 'gemma', "qwen"], help="Select llm to get answer.")
+    parser.add_argument("--model", type=str, required=True, choices=["gpt-4o-mini", "gpt-4o", 'llama3'], help="Select llm to get answer.")
     parser.add_argument("--retrieval_method", type=str, required=True, default="hypercube", choices=['hypercube', 'semantic', 'union'], help="Retrieval methods.")
     parser.add_argument("--k", type=int, default=5, help="Number of retrieved documents.")
     parser.add_argument("--save", type=str, default="false", choices=["true", "false"], help="Evaluation metric: one score or multiple scores.")
@@ -351,18 +331,17 @@ def main():
 
     # Averaging Summary Information
     num_samples = len(qa_samples)
-    print(f"Total samples: {num_samples}, average BLEU: {total_bleu / num_samples:.4f}, average F1: {total_f1 / num_samples:.4f}, average Semantic: {total_semantic / num_samples:.4f}, average precision: {total_precison / num_samples:.4f}, average reall: {total_recall / num_samples:.4f}")
+    print(f"Total samples: {num_samples}, average F1: {total_f1 / num_samples:.4f}, average Semantic: {total_semantic / num_samples:.4f}, average precision: {total_precison / num_samples:.4f}, average reall: {total_recall / num_samples:.4f}")
 
     
 
     # Assume you have these variables already defined
     results = {
         "total_samples": num_samples,
-        "average_BLEU": round(total_bleu / num_samples, 4),
-        "average_F1": round(total_f1 / num_samples, 4),
-        "average_Semantic": round(total_semantic / num_samples, 4),
-        "average_Precision": round(total_precison / num_samples, 4),
-        "average_Recall": round(total_recall / num_samples, 4)
+        "average_F1": total_f1 / num_samples,
+        "average_Semantic": total_semantic / num_samples, 
+        "average_Precision": total_precison / num_samples,
+        "average_Recall": total_recall / num_samples
     }
 
 
@@ -372,10 +351,10 @@ def main():
     
     if args.save == "true":
         with open(f"{output_dir}/llm_output_{args.retrieval_method}_k{args.k}_responses.json", "w", encoding="utf-8") as f:
-            json.dump(llm_output, f, indent=2, ensure_ascii=False)
+            json.dump(llm_output, f, indent=4, ensure_ascii=False)
 
         with open(f"{output_dir}/llm_output_{args.retrieval_method}_k{args.k}_scores.json", "w", encoding="utf-8") as f:
-            json.dump(results, f, indent=2, ensure_ascii=False)
+            json.dump(results, f, indent=4, ensure_ascii=False)
 
         print("Saved llm output!")
 
