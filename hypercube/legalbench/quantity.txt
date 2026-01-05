@@ -1,95 +1,95 @@
-{"30 days": 1, "six (6) months": 1, "thirty (30) days": 1, "fifty-one percent (51%)": 2}
-{"2 August 2002": 1, "three years": 1}
-{"more than 50%": 1, "three (3) years": 1, "two (2) years": 1}
-{"6A": 1, "7": 1, "65396": 1, "038987": 1, "19": 1, "01760": 1, "1": 1, "3": 1, "30": 1, "2": 1}
-{"30 days": 1, "two (2) years": 1, "\u20ac10 000": 1}
-{"1997/006716/07": 2, "08:00": 1, "16:30": 1, "14 (fourteen) calendar days": 1, "2 (two) years": 1, "12 months": 1, "7 (seven) business days": 1, "12 consecutive calendar months": 1, "1 April to 31 March": 1, "25 of 2002": 1, "10": 1}
-{"5 years": 1}
-{"50%": 1, "60 days": 1, "three years": 1, "three-year": 1, "twelve (12) months": 1}
-{"38th Floor": 1, "2001": 1, "1.1": 1, "1.1.1": 1, "1.1.2": 1, "1.1.3": 1, "1.1.4": 1, "1.2": 1, "1.3": 1, "1.4": 1, "1.5": 1, "1.6": 1, "2.1": 1, "2.2": 1, "2.3": 1, "2.4": 1, "3.1": 1, "five (5) years": 1, "3.2": 1, "3.3": 1, "3.4": 1, "3.5": 1, "3.6": 1, "3.7": 1, "3.8": 1, "3.9": 1, "2007": 2}
-{"2002": 1, "107-296": 1, "196": 1, "2135": 1, "6": 2, "49": 1, "552a": 1, "5": 2, "1": 2, "2": 2, "3": 2, "4": 1, "8": 1, "10": 2, "11": 1, "12": 1, "13": 1, "14": 1, "7211": 1, "1034": 1, "2302(b)(8)": 1, "1982": 1, "50": 2, "421": 1, "641": 1, "793": 1, "794": 1, "798": 1, "952": 1, "1950": 1, "783(b)": 1, "12958": 1, "1995": 1, "44": 1, "35": 1}
-{"50 best finalists": 1, "up to two participants": 1, "6 - 8 November 2017": 1, "one year": 1, "April 2018": 1, "July 2018": 1, "October/November 2018": 1, "EUR 800": 1, "EUR 700": 1, "EUR 5,000": 1, "30 days": 1, "ten (10) days": 1, "2 May 2017": 1}
+{"fifty-one percent (51%)": 2}
 {}
-{"30 days": 1, "15 days": 1, "60 days": 1, "3 business days": 1, "5 days": 2}
-{"10 business days": 1, "60 days": 1}
+{"50%": 1}
+{}
+{"\u20ac10 000 (ten thousand euro)": 1}
+{"1997/006716/07": 1, "25": 1}
+{"majority": 1, "five": 1}
+{"50%": 1}
+{"registration number": 1}
+{}
+{"50": 1, "two": 1, "maximum of eur 800": 1, "maximum of eur 700": 1, "maximum fee of eur 5,000": 1, "30 days": 1}
+{}
+{"one or more": 1}
+{"part 209": 2, "r 325.125": 2, "r 325.138": 2}
+{"three (3)": 1}
+{"28": 1, "3182": 1, "15 120 483 650": 1, "two": 1}
+{"registration number 2002/015527/30": 1}
+{"one": 1, "5": 1}
+{"one (1) copy": 2, "third party": 4}
+{"2019rfp-02": 2}
+{}
+{}
+{}
+{}
+{"one": 1}
+{"five hundred dollars": 1, "thirty (30) days": 1}
+{"one": 1, "two": 1}
 {"three (3) years": 1}
-{"28 Blanche St": 1, "3182": 1, "15 120 483 650": 1, "1.1": 1, "1.2": 1, "1.2.1": 1, "1.2.2": 1, "3.1": 1, "3.1.1": 1, "3.1.2": 1, "4.1": 1, "4.1.1": 1, "4.1.2": 1, "4.2": 1, "two business days": 1, "5": 1, "6": 1, "two days": 1, "7": 1, "8": 1, "9": 1, "five (5) years": 1}
-{"2002/015527/30": 1, "5": 1, "7 (seven) business days": 2, "7 (seven) calendar day": 1, "7 (seven) days": 1, "2000": 1, "+27 11": 2}
-{"22, 2019": 1, "5 years": 1}
-{"three (3) years": 2, "fifteen (15) days": 1, "one (1) copy": 2}
+{"one copy": 1}
+{"three (3)": 1}
+{"2": 1}
+{}
+{"one": 1}
+{"first": 1, "second": 1}
 {}
 {}
-{"\u00a7 1": 1, "\u00a715AktG": 1, "\u00a7 2": 1, "\u00a7 3": 1, "\u00a7 4": 1, "\u00a7 5": 1, "\u00a7 6": 1, "\u00a7 7": 1, "five years": 1, "\u00a7 8": 1, "\u00a7 9": 1}
-{"seven years": 1}
 {}
-{"20__": 1, "1.": 3, "2.": 2, "5": 2, "5)": 1, "two (2) years": 1, "five (5) years": 1, "thirty (30) days": 1, "11.": 1}
+{"one": 1}
 {}
-{"70527": 1, "1998": 1, "two (2) years": 1, "9.00 am": 1, "second Business Day": 1}
-{"3 years": 1}
-{"14 days": 1, "3 business days": 1, "30 days": 1, "45 days": 1}
-{"three (3) year": 1}
-{"2 years": 1}
-{"20__": 1, "2 years": 1}
-{"2 years": 1, "1.1": 1, "1.2": 1, "2.1": 1, "2.2": 1, "2.3": 1, "2.4": 1, "2.5": 1, "2.6": 1, "2.7": 1, "3.1": 1, "3.2": 1, "4.1": 1, "4.2": 1, "4.3": 1, "4.4": 1, "5.1": 1, "5.2": 1, "6.1": 1, "6.2": 1, "6.3": 1, "7.1": 1, "7.2": 1, "8": 1, "9.1": 1, "9.2": 1, "9.3": 1, "10": 1, "11.1": 1, "11.2": 1, "11.3": 1, "12": 1, "13": 1, "14": 1, "15": 1, "16": 1}
-{"thirty (30) days": 1, "five (5) years": 2}
-{"2015": 1, "120 Prairie Lake Rd, Suite 1, East Dundee, IL 60118": 1, "15 days": 1, "one copy": 1, "two days": 1, "three years": 1, "ten days": 1, "five years": 1}
-{"201": 1, "1956": 1, "one": 1, "30 days": 1, "10 days": 1}
-{"five years": 1, "5 days": 1}
-{"2019": 1, "25": 1, "50-224": 1, "36829561600000": 1, "0000695250": 1, "5 years": 1, "one": 1, "more": 1}
-{"14 days": 1, "five (5) years": 2, "45 days": 1}
-{"five working days": 1, "one piece": 1, "two years": 1, "two countries": 2, "two copies": 1}
+{"one piece": 1, "two copies": 1}
 {}
-{"5 Scott Avenue": 1, "07795055": 1, "14 days": 1, "48 months": 1}
-{"3 years": 1}
-{"April 18-20, 2011": 1, "three (3) years": 1, "thirty (30) days": 1, "one archival copy": 1}
-{"$250,000.00": 1, "36 months": 1, "3 years": 1}
-{"10,000 USD": 1, "1,0000,000 USD": 1, "two (2) years": 1, "one (1)": 1}
-{"1 year": 1, "50%": 2, "5 (five) years": 1}
-{"2016": 1, "one (1) year": 1}
-{"30 days": 1, "thirty (30) calendar days": 1}
-{"14 (fourteen) days": 1, "10 (ten) days": 1}
-{}
-{"2018": 1, "11 Claylands Place London SW8 1NL": 1, "\u00a31": 1}
+{"number": 1}
+{"portion": 1}
+{"one": 1}
+{"$250,000.00": 1}
+{"10,000 usd": 1, "1,0000,000 usd": 1, "one (1)": 1}
+{"50%": 2}
+{"one (1)": 1}
+{"one": 1}
 {}
 {}
-{"fifteen (15) days": 1, "one copy": 1, "one (1) year": 1, "thirty (30) days": 1, "three (3) years": 1}
-{"one year": 1, "five (5) years": 1, "thirty (30) days": 1, "1999": 1}
-{"one year": 2, "2018": 1, "one or more": 1, "one year from the Effective Date": 1, "one year, whereupon this Agreement shall automatically terminate": 1}
-{"20____": 1, "30 days": 1}
-{"12 months": 1}
-{"three (3) years": 1, "two (2) years": 1}
-{"1": 5, "two-thirds": 1, "thirty (30) days": 2, "one year": 1}
-{"3 years": 1, "five (5) years": 1}
-{"three (3) years": 2, "two (2) years": 1, "eighteen (18) months": 1, "three": 1}
-{"September 11, 2013": 1, "10202 West Washington Boulevard": 1, "90232": 1, "435 North Michigan Avenue": 1, "60611": 1, "2 years": 1, "310-244-2169": 1, "310-244-0510": 1, "312-222-4206": 1, "10 years": 1, "250,000": 2, "10 business days": 2, "30 days": 2, "3": 1}
-{"18 months": 2, "12 months": 1}
+{"\u00a31": 1, "one pound": 1}
 {}
-{"18 U.S.C. Section 1833(b)": 2, "one copy": 1, "five (5) years": 1, "22 CFR \u00a7 120": 1, "15 CFR \u00a7 730": 1, "two-day delivery": 1}
+{"one": 2, "solely": 2}
 {}
-{"1 dollar": 2, "$ 1.00": 2}
-{"2801 S. University Ave": 1, "72204": 1, "one copy": 1, "five (5) years": 1}
+{"one": 1, "third": 2}
 {}
-{"thirty days": 1, "three (3) years": 2, "ten (10) days": 1, "five (5) days": 1}
-{"1": 3, "2": 2, "5": 2, "5 business days": 2}
-{"200__": 1, "16987344": 1, "29": 1, "1864": 1, "five (5) years": 1, "three (3) years": 1, "fifty percent (50%)": 1}
-{"18 C.F.R. \u00a7 388.113(c)(1)": 1, "1 Riverwood Dr.": 1, "18 C.F.R. \u00a7\u00a7 388.112, 113": 1, "one (1) copy": 1}
-{"2002": 1, "107-296": 1, "196": 1, "2135": 1, "49": 1, "552a": 1, "5": 2, "29": 1, "29.8": 1, "1": 1, "2": 1, "3": 1, "12958": 1, "7211": 1, "1034": 1, "10": 1, "2302(b)(8)": 1, "1982": 1, "50": 2, "421": 1, "641": 1, "793": 1, "794": 1, "798": 1, "952": 1, "18": 1, "4(b)": 1, "1950": 1, "783(b)": 1, "104-13": 1, "1995": 1, "44": 1, "35": 1}
-{"5th Floor": 1, "Block 1": 1, "160 Shelbourne Road": 1, "Dublin 4": 1, "company number 395190": 1}
+{"30 days": 1, "years": 1}
+{}
+{"three (3)": 1, "two (2)": 1}
+{"two-thirds": 1, "majority": 2, "simple majority": 1}
+{"portion": 2}
+{"three": 1, "two": 1, "eighteen": 1}
+{"10202": 2, "90232": 1, "435": 1, "60611": 1, "250,000": 2}
+{}
+{"one (1)": 1}
+{"one": 1}
+{}
+{"1 dollar": 2}
+{"one": 1}
+{}
+{"1302 exchange drive, suite 150": 1}
+{"one": 1, "5": 2}
+{"fifty percent": 1}
+{"one (1)": 1}
+{"49": 1, "29.8": 1, "one": 1}
 {}
 {}
-{"May 8th, 2018": 1, "120 Ottley Dr NE, Ste 100, Atlanta, GA 30324": 1, "one party": 1, "Section 2": 2, "Section 3": 1, "one": 1, "two": 1, "10": 1}
-{"20__": 1, "i": 2, "ii": 1, "iii": 1}
-{"two (2) years": 1}
-{"20 calendar days": 1, "one (1) copy": 1, "five (5) years": 1, "215-396-8373": 1}
-{"30 days": 2, "two years": 2, "one Party": 2, "thirty (30) days": 1, "year 1": 1, "thirty (30) days in advance": 1, "fifteen (15) days": 1, "sixty (60) days": 1, "two (2) years": 1, "thirty (30) days of receipt": 1, "six (6) months": 1, "thirty (30) days of the appointment": 1}
-{"fifteen (15) days": 1, "five (5) years": 1, "five-year period": 1, "1.0": 1, "one (1) year": 1, "thirty (30) days": 1}
+{"800": 1}
 {}
-{"2015": 1, "35 (3)": 1, "pp.23-39": 1, "365 days": 1, "7 business days": 1}
 {}
-{"15013": 1, "1\u201312 months": 1, "three (3) years": 1, "thirty (30) days": 2, "two (2) weeks": 1}
-{"one or more": 2, "some or all": 1, "six (6) months": 1, "one or more copies": 1}
-{"3 years": 1, "one (1) party": 1}
-{"41 Winter Street": 1, "7th Floor": 1, "3 years": 1}
-{"thirty (30) days": 1, "fifty percent (50%)": 1, "sixty (60) days": 1, "five (5) years": 1}
+{"two (2)": 1}
+{"one (1)": 1}
 {}
-{"ten (10) working days": 1, "three (3) years": 1}
+{"one": 1}
+{}
+{"pp.23-39": 1}
+{"same degree": 1}
+{"18 u.s.c. \u00a7 1839": 1, "5 u.s.c. \u00a7 552(b)(4)": 1, "35 u.s.c. \u00a7 200 et seq.": 1, "18 u.s.c. \u00a7 1905": 1}
+{"one": 2, "six (6)": 1}
+{"one (1)": 1}
+{}
+{"fifty percent (50%)": 1}
+{}
+{"one": 1}

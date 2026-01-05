@@ -1,95 +1,95 @@
-{"U.S.": 1, "Michigan": 2}
-{"Brussels": 2, "Belgian": 2, "Belgium": 1, "Zaventem": 2, "1930": 2}
-{"Maidenhead": 1, "Berkshire": 1, "SL6 6TB": 1, "UK": 1, "England": 1, "Wales": 1}
-{"Walluf": 1, "Germany": 1, "Singapore": 3, "038987": 1, "Natick": 1, "MA": 1, "01760": 1, "Boston": 1}
-{"Dutch": 1, "Dr. Leijdsstraat 92": 1, "2021 RK": 1, "Haarlem": 1, "Nederland": 1, "Netherlands": 2, "Amsterdam": 1}
-{"South Africa": 4, "Johannesburg": 1, "Republic of South Africa": 2, "North Gauteng Provincial Division": 1, "446 Rigel Avenue South": 1, "Erasmusrand": 1}
-{"Ireland": 2, "Dublin": 1}
-{"Florida": 3, "United States": 1, "11555 Heron Bay Blvd.": 1, "Suite 200": 1, "Coral Springs": 1, "33076": 1, "Broward County": 2}
-{"Johannesburg": 1, "2001": 1, "South Africa": 1}
-{"United States": 9}
-{"Copernicus": 10, "European": 3, "EU": 1, "Norway": 1, "Iceland": 1, "Tallinn": 2, "Estonia": 1, "Munich": 1, "Germany": 1}
-{"Massachusetts": 2, "Boston": 1}
-{"New York City": 2, "Queens": 1, "NY": 1, "11101-4132": 1, "Long Island City": 1, "New York": 2, "State of New York": 1}
-{"Michigan": 12}
-{"State of Illinois": 4, "Illinois": 2}
-{"St Kilda": 1, "Victoria": 2, "3182": 1}
-{"Republic of South Africa": 3, "Megawatt Park": 2, "Maxwell Drive": 2, "Sunninghill": 2, "Sandton": 1, "Johannesburg": 1, "2000": 1, "South Africa": 2}
-{"Torrance": 1, "CA": 1, "90503": 1, "California": 1}
-{"Alabama": 1, "Madison": 1, "AL": 1, "35758": 1, "U.S.A.": 1, "35759": 1}
-{"Metro Vancouver": 1, "Vancouver": 1, "British Columbia": 1, "BC": 1}
-{"Kenosha": 1, "WI": 1, "53144": 1}
-{"Furtwangen University": 4, "German": 1, "BW": 1}
-{"Maroubra": 1, "NSW": 1, "2035": 1, "Australia": 2}
-{"South Africa": 3, "Grindrod SA": 8, "Republic of South Africa": 1}
-{"Hispanic": 1, "National": 1, "Bar": 1, "Association": 1, "HNBA": 8, "District of Columbia": 1}
-{"Canada": 2, "Ontario": 5, "Toronto": 1, "33174": 1}
-{"London": 3, "England": 3, "Wales": 3, "WC2A 2AE": 1}
-{"65 Claremont Road": 1, "Highgate": 1, "London": 1, "N6 5BZ": 1, "UK": 1, "England": 2, "Wales": 2}
+{"state of michigan": 2}
+{"city of brussels": 1, "brussels": 1, "belgian": 1, "brussels trade register": 1, "gateway building, luchthaven nationaal 1 j, 1930 zaventem": 2}
+{"belmont place": 1, "belmont road": 1, "maidenhead": 1, "berkshire": 1, "sl6 6tb": 1, "uk": 1, "england and wales": 2}
+{"germany": 1, "singapore": 2, "boston": 1, "natick, ma": 1}
+{"dr. leijdsstraat 92, 2021 rk haarlem, nederland": 1, "netherlands": 2, "amsterdam": 1}
+{"south africa": 2, "johannesburg": 1, "north gauteng provincial division": 1, "republic of south africa": 2, "rigel park block a 446 rigel avenue south erasmusrand": 1}
+{"ireland": 2, "dublin 18": 1}
+{"florida": 2, "united states": 1, "broward county": 2, "coral springs": 1, "11555 heron bay blvd., suite 200": 1, "33076": 1}
+{"38th floor, carlton centre, johannesburg": 1, "republic of south africa": 1}
+{"united states": 4}
+{"tallinn": 1, "estonia": 1, "munich": 1, "federal republic of germany": 1, "germany": 1, "eu member states": 1, "norway": 1, "iceland": 1}
+{"massachusetts": 2, "boston": 1}
+{"new york city": 1, "gotham center": 1, "queens": 1, "ny 11101-4132": 1, "long island city": 1, "new york": 1, "state of new york": 1}
+{"michigan": 5}
+{"state of illinois": 3}
+{"st kilda": 1, "victoria": 1}
+{"republic of south africa": 2, "megawatt park": 2, "maxwell drive": 2, "sunninghill": 2, "sandton": 1, "johannesburg": 1, "south africa": 1}
+{"19951 mariner avenue": 1, "torrance": 1, "ca 90503": 1, "state of california": 1}
+{"state of alabama": 1, "madison, al 35758 u.s.a.": 1, "madison, al 35759": 1}
+{"metro vancouver": 1, "province of british columbia": 1, "bc": 1}
+{"kenosha": 1, "wi": 1, "10200 55th street": 1, "53144": 1}
+{"furtwangen": 3, "german": 1}
+{"34 astoria cct": 1, "maroubra": 1, "nsw": 1, "2035": 1, "australia": 1}
+{"south africa": 2, "republic of south africa": 1}
+{"district of columbia": 1}
+{"ontario": 3, "canada": 2, "toronto": 1}
+{"london": 2, "england": 2, "wales": 2, "houghton street": 1, "wc2a 2ae": 1}
+{"65 claremont road": 1, "highgate": 1, "london": 1, "n6 5bz": 1, "uk": 1, "england and wales": 2}
+{"united states": 1, "state": 1}
+{"paris": 1, "france": 1}
+{"san antonio": 1, "tx": 1, "us": 1, "state of florida": 1, "state of texas": 1}
+{"alberta": 2, "calgary": 1, "canada": 1}
+{"delaware": 2, "681 riverside drive, augusta, maine 04330": 2}
+{"stoney creek": 1, "ontario": 1, "canada": 1, "province of ontario": 1}
+{"nevada": 1, "east dundee": 1, "il 60118": 1, "state of illinois": 1}
+{"mumbai": 3, "india": 2}
+{"state of florida": 3, "u.s.a.": 2, "stuart fl 34994": 1}
+{"wroclaw": 2, "poland": 2, "plac strzelecki 25, 50-224 wroclaw, poland": 1}
+{"india": 1, "delhi": 1}
+{"shenzhen": 2, "china": 1, "nanshan district": 1}
+{"san francisco": 1, "california": 1}
+{"england": 2, "5 scott avenue, london sw15 3pa": 1, "united kingdom": 1}
+{"state of california": 2, "the united states of america": 1, "worldwide": 1}
+{"phoenix, arizona": 1, "scottsdale, arizona": 1, "delaware": 1, "new york, u.s.a.": 1}
 {}
-{"France": 1, "Paris": 1, "French": 1}
-{"San Antonio": 1, "TX": 1, "78233": 1, "US": 1, "Florida": 1, "Texas": 1}
-{"Alberta": 2, "Calgary": 1, "Canada": 1}
-{"Delaware": 2, "681 Riverside Drive": 2, "Augusta": 2, "Maine": 2, "04330": 2, "United States of America": 1}
-{"Stoney Creek": 1, "Ontario": 2, "Canada": 1, "L8J 2P1": 1}
-{"Nevada": 1, "120 Prairie Lake Rd": 2, "East Dundee": 2, "IL": 2, "60118": 2, "Illinois": 1}
-{"Mumbai": 3, "India": 3}
-{"Stuart": 1, "FL": 1, "34994": 1, "Florida": 3, "U.S.A.": 3}
-{"Wroclaw": 2, "Poland": 2, "Plac Strzelecki 25": 1, "50-224": 1, "United States": 1}
-{"India": 2, "Delhi": 1}
-{"Shenzhen": 3, "China": 2, "People's Republic of China": 2, "Nanshan Road": 1, "Nanshan District": 1, "755": 1}
-{"California": 1, "San Francisco": 1, "CA": 1, "94123": 1}
-{"England": 2, "London": 1, "SW15 3PA": 1, "United Kingdom": 1}
-{"California": 2, "The United States of America": 1}
-{"Delaware": 1, "5005 E. McDowell Road": 1, "Phoenix": 1, "Arizona": 2, "Scottsdale": 1, "New York": 1, "U.S.A.": 1}
+{"hong kong": 2, "shen zhen": 1, "china": 1, "nanshan district": 1, "guangdong": 1}
+{"luxembourg": 2, "switzerland": 1, "lausanne": 1, "hungary": 1, "budapest": 1}
+{"state of new york": 1, "new york, new york": 1}
+{"connecticut": 2, "usa": 2, "238 water street, naugatuck, ct 06770": 1}
+{"durban": 2, "south africa": 2, "umhlanga": 1}
+{"south african": 1}
+{"england": 2, "wales": 2, "london": 1}
+{"university of nebraska": 5}
+{"new york city": 2, "42 west 44th street": 1, "new york": 2, "ny": 1, "10036-6689": 1}
+{"state of wisconsin": 1, "u.s.a.": 1, "u.s. district court of western district of wisconsin": 1, "800 algoma blvd, oshkosh, wi 54901": 1}
+{"united states of america": 2, "lafayette, nj 07848": 1}
+{"delaware": 1, "williston basin": 1, "dunn": 1, "mckenzie": 1, "mclean": 1, "mercer": 1, "mountrail counties": 1, "north dakota": 1, "denver": 1, "colorado": 1, "state of texas": 1, "harris county": 1}
 {}
-{"Hong Kong": 3, "Wan Chai": 1, "Shen Zhen": 1, "China": 2, "Guangdong": 1, "P.R.C": 1}
-{"Luxembourg": 3, "Grand Duchy of Luxembourg": 1, "Switzerland": 1, "Lausanne": 1, "Canton de Vaud": 1, "Budapest": 1, "Hungary": 1, "1042": 1}
-{"New York": 2, "State of New York": 1, "federal": 1}
-{"Connecticut": 2, "USA": 2, "Naugatuck": 1, "CT": 1, "06770": 1}
-{"Republic of South Africa": 1, "Durban": 2, "South Africa": 2, "Umhlanga": 1, "Ridgeside Office Park": 1, "41 Richefond Circle": 1, "4021": 1, "P.O. Box 4027": 1}
-{"South African": 1}
-{"England": 3, "Wales": 3, "London": 1, "SW8 1NL": 1}
-{"University of Nebraska": 6, "Nebraska": 1}
-{"New York City": 3, "New York": 4, "NY": 1, "10036-6689": 1, "U.S.": 1, "State of New York": 1, "Borough of Manhattan": 2}
-{"UW Oshkosh": 2, "University of Wisconsin Oshkosh": 1, "800 Algoma Blvd": 1, "Oshkosh": 1, "WI": 1, "54901": 1, "Wisconsin": 2, "U.S.A.": 1, "U.S.": 1, "Western District of Wisconsin": 1}
-{"United States of America": 2, "116 Sunset Inn Road": 1, "Lafayette": 1, "NJ": 1, "07848": 1}
-{"Delaware": 1, "Williston Basin": 1, "Dunn": 1, "McKenzie": 1, "McLean": 1, "Mercer": 1, "Mountrail": 1, "North Dakota": 1, "Texas": 1, "Harris County": 1, "Denver": 1, "Colorado": 1, "80265": 1}
+{"alberta": 2}
+{"52 prospect street": 1, "fortitude valley q 4006": 1}
+{"south africa": 1}
+{"2034 hamilton place blvd., suite 400, chattanooga, tn 37421": 1, "state of tennessee": 2}
+{"london": 2, "england and wales": 1}
+{"culver city": 1, "california": 2, "chicago": 1, "illinois": 1, "los angeles county": 2, "u.s.a.": 1}
+{"state of delaware": 2, "united states": 1}
+{"state of ohio": 3, "columbus": 1, "franklin county": 1, "united states": 1}
+{"florida": 1, "5180 113th avenue north, clearwater, fl 33760 usa": 1}
+{"151 copse hill": 1, "london": 1, "england & wales": 2}
+{"new brunswick": 5, "gloucester county": 1, "rivi\u00e8re-\u00e0-la-truite (trout stream)": 1}
+{"state of arkansas": 2, "little rock ar": 1}
+{"vermont": 3, "rutland": 1, "united states": 1}
+{"richardson, tx 75081": 1, "state of texas": 1, "collin or dallas counties, texas": 1, "eastern district of texas": 1}
 {}
-{"Alberta": 3, "Canada": 1}
-{"Fortitude Valley": 1, "Q": 1, "4006": 1}
-{"South African": 1, "SAMED": 15, "South Africa": 1}
-{"Chattanooga": 1, "TN": 1, "37421": 1, "Tennessee": 2}
-{"UK": 1, "London": 2, "NW10 7PA": 2, "England": 1, "Wales": 1}
-{"Culver City": 1, "California": 2, "90232": 2, "Chicago": 1, "Illinois": 1, "60611": 1, "United States": 1, "Los Angeles County": 2}
-{"Delaware": 2, "United States": 1}
-{"Ohio": 4, "Columbus": 1, "43215-2256": 1, "Franklin County": 1, "United States": 1}
-{"Florida": 2, "Clearwater": 1, "FL": 1, "33760": 1, "USA": 1, "U.S.": 1, "State": 3}
-{"London": 1, "SW20 0SU": 1, "England": 1, "Wales": 1}
-{"New Brunswick": 6, "Gloucester County": 1, "Rivi\u00e8re-\u00e0-la-Truite": 1, "Trout Stream": 1, "613-3 Chemin Truite": 1}
-{"University of Arkansas": 3, "Little Rock": 3, "Arkansas": 3, "2801 S. University Ave": 1, "AR": 1, "72204": 1, "State of Arkansas": 1}
-{"Vermont": 4, "Rutland": 1, "05701": 1, "U.S.": 1, "North American": 1, "State of Vermont": 1}
-{"Richardson": 1, "TX": 1, "75081": 1, "Texas": 2, "Collin": 1, "Dallas": 1, "Eastern District of Texas": 1, "U.S.": 1}
-{"North American": 1, "United States": 1}
-{"Denmark": 2, "Danish": 1, "Frederiksberg": 1, "Copenhagen": 1}
-{"South Carolina": 6, "Cayce": 1, "SC": 2, "29033": 1, "Monks Corner": 1, "29461": 1, "U.S.": 1}
-{"United States": 10}
-{"Ireland": 3, "Dublin": 1, "160 Shelbourne Road": 1, "4": 1, "395190": 1, "England": 1, "Wales": 1}
-{"California": 1, "USA": 1}
-{"Owings Mills": 1, "Maryland": 2, "21117": 1, "North America": 1}
-{"Atlanta": 1, "GA": 1, "30324": 1, "U.S.": 1, "Delaware": 2, "New Castle County": 2}
-{"England and Wales": 1, "UK": 1, "Milton Keynes": 1, "MK11 3LW": 1}
-{"California": 3, "Santa Clara County": 1, "United States District Court for the Northern District of California": 1, "San Jose": 1}
-{"Pennsylvania": 1, "30 Indian Drive": 2, "Ivyland": 2, "PA": 2, "18974": 2, "Delaware": 2}
-{"McGill University": 3, "Canadian": 1, "845 Sherbrooke Street West": 2, "Montreal": 2, "Quebec": 2, "Canada": 2, "H3A 2T5": 1, "H3A 0G4": 1, "Province of Qu\u00e9bec": 1}
-{"Carnegie Mellon University": 4, "5000 Forbes Avenue": 1, "Pittsburgh": 1, "PA": 1, "15213": 1, "Commonwealth of Pennsylvania": 1, "Allegheny County": 1, "Pennsylvania": 2, "United States": 1}
-{"Motorola": 12, "Motorola Mobility": 3}
-{"Inria": 7, "France": 2, "French": 1, "Grenoble": 3, "Le Chesnay": 1, "ST Martin d'H\u00e8res": 1, "Rocquencourt": 1, "BP 105": 1, "78153": 1, "38402": 1}
-{"Delaware": 1, "11911 FM 529": 1, "Houston": 2, "Texas": 3, "77041": 1, "USA": 1, "Harris County": 1}
-{"U.S.": 3, "15013 Denver West Parkway": 1, "Golden": 1, "CO": 1, "80401": 1}
-{"United States": 1, "Florida": 1, "Miami": 1}
-{"Commonwealth of Pennsylvania": 1, "Bucks County": 2, "Pennsylvania": 2}
-{"Boston": 1, "MA": 1, "02108": 1, "Commonwealth of Massachusetts": 2, "Massachusetts": 1}
-{"Delaware": 2, "8501 N. Scottsdale Rd., Suite 280, Scottsdale, Arizona 85253": 1, "Arizona": 1, "85253": 1, "U.S.": 2}
-{"United States": 1, "California": 3}
-{"Wayne Fueling Systems LLC": 3, "United States of America": 1, "U.S.": 2, "State of Texas": 1, "U.S.A.": 1}
+{"denmark": 1, "frederiksberg c": 1, "copenhagen": 1}
+{"state of south carolina": 3, "cayce, sc 29033": 1, "1 riverwood dr., monks corner, sc 29461": 1}
+{"united states": 5}
+{"ireland": 3, "dublin 4": 1, "england": 1, "wales": 1}
+{"state of california": 1, "usa": 1}
+{"owings mills": 1, "maryland": 2, "north america": 1}
+{"atlanta": 1, "ga": 1, "delaware": 2, "new castle county": 2}
+{"england and wales": 1, "chapter house, pitfield": 1, "kiln farm, milton keynes mk11 3lw": 1}
+{"california": 3, "santa clara county": 1, "united states district court for the northern district of california": 1, "san jose": 1}
+{"pennsylvania": 1, "30 indian drive": 2, "ivyland": 2, "pa 18974": 2, "state of delaware": 1, "delaware": 1}
+{"canada": 2, "montreal": 1, "quebec": 1, "province of qu\u00e9bec": 1}
+{"5000 forbes avenue": 1, "pittsburgh": 1, "pa 15213": 1, "commonwealth of pennsylvania": 1, "allegheny county": 1, "western district of pennsylvania": 1, "united states": 1}
+{}
+{"france": 1, "domaine de voluceau \u2013 rocquencourt \u2013 bp": 1, "78153 le chesnay cedex": 1, "st martin d'h\u00e8res": 1, "grenoble": 1}
+{"houston": 2, "texas": 2, "usa": 1, "harris county": 1}
+{"15013 denver west parkway, golden, co 80401": 1, "u.s.": 2}
+{"united states bankruptcy court for the southern district of florida (miami division)": 1}
+{"commonwealth of pennsylvania": 1, "bucks county, pennsylvania": 2}
+{"boston": 1, "ma": 1, "commonwealth of massachusetts": 2}
+{"delaware": 2, "8501 n. scottsdale rd., suite 280, scottsdale, arizona 85253": 1, "u.s. commerce department": 1, "u.s. department of commerce": 1}
+{"state of california": 2, "united states": 1}
+{"united states of america": 1, "state of texas": 1, "u.s.": 1}

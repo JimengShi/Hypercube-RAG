@@ -1,95 +1,95 @@
-{"confidential information": 20, "technical information": 1, "public information": 1, "news": 0, "Confidential Information": 20}
-{"confidential information": 15, "technical information": 1, "public information": 2, "news": 0, "Confidential Information": 15}
-{"confidential information": 21, "technical information": 1, "public information": 1, "news": 0, "Confidential Information": 21}
-{"confidential information": 4, "technical information": 1, "public information": 2, "Confidential Information": 4}
-{"confidential information": 27, "technical information": 1, "public information": 1, "news": 0, "Confidential Information": 27}
-{"confidential information": 18, "technical information": 1, "public information": 1, "news": 0, "Confidential Information": 18}
-{"confidential information": 22, "technical information": 0, "public information": 1, "news": 0, "Confidential Information": 22}
-{"confidential information": 21, "technical information": 0, "public information": 1, "news": 0, "Confidential Information": 21}
-{"confidential information": 21, "technical information": 1, "public information": 2, "news": 0, "Confidential Information": 21}
-{"confidential information": 1, "technical information": 0, "public information": 0, "news": 0, "Protected Critical Infrastructure Information (PCII)": 4, "Sensitive Security Information (SSI)": 3, "Sensitive but Unclassified (SBU)": 3, "For Official Use Only (FOUO)": 1, "Official Use Only (OUO)": 1, "Sensitive Homeland Security Information (SHSI)": 1, "Limited Official Use (LOU)": 1, "Law Enforcement Sensitive (LES)": 1, "Safeguarding Information (SGI)": 1, "Unclassified Controlled Nuclear Information (UCNI)": 1, "Department of Homeland Security": 2, "United States Government": 6}
-{"confidential information": 15, "technical information": 1, "public information": 2, "news": 0, "Confidential Information": 15}
-{"confidential information": 15, "technical information": 1, "public information": 1, "news": 0}
-{"confidential information": 5, "technical information": 0, "public information": 2, "news": 0}
-{"confidential information": 2, "technical information": 0, "public information": 1, "news": 0}
-{"confidential information": 15, "technical information": 1, "public information": 1, "Confidential Information": 15}
-{"confidential information": 12, "technical information": 0, "public information": 1, "news": 0, "disclose Confidential Information": 1}
-{"confidential information": 22, "technical information": 1, "public information": 1, "news": 0, "Confidential Information": 22}
-{"confidential information": 15, "technical information": 0, "public information": 1, "news": 0, "Confidential Information": 15}
-{"confidential information": 4, "technical information": 1, "public information": 2, "news": 0, "Confidential Information": 4}
-{"confidential information": 15, "technical information": 0, "public information": 0, "news": 0, "Confidential Information": 20}
-{"confidential information": 5, "technical information": 1, "public information": 0, "news": 0, "Confidential Information": 3}
-{"confidential information": 10, "technical information": 0, "public information": 1, "news": 0}
-{"confidential information": 10, "technical information": 1, "public information": 0, "news": 0, "Confidential Information": 1}
-{"confidential information": 10, "technical information": 1, "public information": 1, "Confidential Information": 10}
-{"confidential information": 10, "technical information": 0, "public information": 2, "news": 0, "Confidential Information": 21}
-{"confidential information": 10, "technical information": 1, "public information": 1, "news": 0, "Confidential Information": 26}
-{"confidential information": 21, "technical information": 0, "public information": 1, "news": 0, "Confidential Information": 21}
-{"confidential information": 18, "technical information": 0, "public information": 1, "news": 0, "Confidential Information": 18}
-{"confidential information": 28, "technical information": 0, "public information": 1, "news": 0, "Confidential Information": 28}
-{"confidential information": 14, "technical information": 1, "public information": 1, "news": 0, "Confidential Information": 12}
-{"confidential information": 14, "Confidential Information": 22}
-{"confidential information": 27, "technical information": 1, "public information": 2, "news": 0, "Confidential Information": 27}
-{"confidential information": 25, "technical information": 0, "public information": 1, "news": 0, "Confidential Information": 25}
-{"confidential information": 9, "technical information": 2, "public information": 1, "Confidential Information": 9}
-{"confidential information": 15, "technical information": 0, "public information": 1, "news": 0, "Confidential Information": 15}
-{"confidential information": 15, "technical information": 0, "public information": 1, "news": 0, "Confidential Information": 15}
-{"confidential information": 15, "technical information": 1, "public information": 2, "news": 0}
-{"confidential information": 18, "technical information": 1, "public information": 1, "news": 0, "Confidential Information": 18}
-{"confidential information": 24, "technical information": 1, "public information": 2, "news": 0, "Confidential Information": 24}
-{"confidential information": 13, "technical information": 2, "public information": 1, "news": 0, "Confidential Information": 23}
-{"confidential information": 1, "technical information": 0, "public information": 1, "news": 0, "Confidential Information": 1}
-{"confidential information": 22, "technical information": 1, "public information": 1, "news": 0, "Confidential Information": 22}
-{"confidential information": 15, "technical information": 1, "public information": 1, "news": 0, "Confidential Information": 15}
-{"confidential information": 18, "technical information": 1, "public information": 1, "news": 0, "Confidential Information": 18}
-{"confidential information": 9, "technical information": 1, "public information": 0, "news": 0, "Confidential Information": 9}
-{"confidential information": 15, "technical information": 1, "public information": 1, "news": 0, "Confidential Information": 15}
-{"confidential information": 15, "technical information": 1, "public information": 1, "news": 0, "Confidential Information": 15}
-{"confidential information": 15, "technical information": 0, "public information": 1, "news": 1, "Confidential Information": 15}
-{"confidential information": 14, "technical information": 1, "public information": 2, "news": 0, "Confidential Information": 14}
-{"confidential information": 15, "technical information": 0, "public information": 1, "news": 0, "Confidential Information": 15}
-{"confidential information": 4, "technical information": 0, "public information": 1, "news": 0, "Confidential Information": 4}
-{"confidential information": 15, "technical information": 1, "public information": 1, "news": 0, "Confidential Information": 15}
-{"confidential information": 10, "technical information": 0, "public information": 1, "news": 0, "Confidential Information": 10}
-{"confidential information": 3, "technical information": 0, "public information": 1, "news": 0, "Confidential Information": 3}
-{"confidential information": 19, "technical information": 1, "public information": 1, "news": 0, "Confidential Information": 19}
-{"confidential information": 3, "technical information": 1, "public information": 0, "news": 0, "Confidential Information": 3}
-{"confidential information": 18, "technical information": 0, "public information": 2, "news": 0, "Confidential Information": 17}
-{"confidential information": 15, "technical information": 1, "public information": 1, "Confidential Information": 15}
-{"confidential information": 3, "technical information": 0, "public information": 1, "news": 0, "Confidential Information": 3}
-{"confidential information": 15, "technical information": 1, "public information": 1, "Confidential Information": 15}
-{"confidential information": 5, "technical information": 1, "public information": 2, "news": 0, "Confidential Information": 5}
-{"confidential information": 18, "technical information": 0, "public information": 1, "news": 0, "Confidential Information": 18}
-{"confidential information": 3, "technical information": 2, "public information": 2, "news": 0}
-{"confidential information": 25, "technical information": 1, "public information": 1, "news": 0, "Confidential Information": 25}
-{"confidential information": 15, "technical information": 0, "public information": 1, "news": 0, "Confidential Information": 15}
-{"confidential information": 15, "technical information": 1, "public information": 1, "news": 0, "Confidential Information": 15}
-{"confidential information": 15, "technical information": 1, "public information": 1, "news": 0, "Confidential Information": 15}
-{"confidential information": 15, "technical information": 1, "public information": 1, "news": 0, "Confidential Information": 15}
-{"confidential information": 8, "technical information": 0, "public information": 2, "news": 0, "Confidential Information": 8}
-{"confidential information": 15, "public information": 1, "Confidential Information": 15}
-{"confidential information": 5, "technical information": 0, "public information": 1, "news": 0, "Confidential Information": 5}
-{"confidential information": 18, "technical information": 1, "public information": 2, "news": 0, "Confidential Information": 18}
-{"confidential information": 5, "technical information": 0, "public information": 2, "news": 0, "non-public information": 24, "market sensitive information": 4, "Confidential Information": 5}
-{"confidential information": 15, "technical information": 1, "public information": 2, "news": 0, "Confidential Information": 15}
-{"confidential information": 12, "critical energy infrastructure information": 5, "CEII": 10, "Dominion Energy South Carolina, Inc.": 2, "South Carolina Public Service Authority": 2, "Disclosing Party": 6, "Receiving Party": 10, "Agreement": 15, "Disclosing Parties": 10, "state of South Carolina": 2, "18 C.F.R. \u00a7 388.113(c)(1)": 1, "18 C.F.R. \u00a7\u00a7 388.112, 113": 1, "Confidential Information": 12}
-{"confidential information": 1, "technical information": 0, "public information": 1, "news": 0, "Protected Critical Infrastructure Information (PCII)": 3, "Sensitive Security Information (SSI)": 3, "Sensitive but Unclassified (SBU)": 3, "For Official Use Only (FOUO)": 1, "Official Use Only (OUO)": 1, "Sensitive Homeland Security Information (SHSI)": 1, "Limited Official Use (LOU)": 1, "Law Enforcement Sensitive (LES)": 1, "Safeguarding Information (SGI)": 1, "Unclassified Controlled Nuclear Information (UCNI)": 1, "Department of Homeland Security": 2, "United States Government": 5, "Critical Infrastructure Information Act of 2002": 1, "Homeland Security Act of 2002": 1, "Executive Order No. 12958": 1, "Military Whistleblower Protection Act": 1, "Whistleblower Protection Act": 1, "Intelligence Identities Protection Act of 1982": 1, "Subversive Activities Act of 1950": 1, "Paperwork Reduction Act of 1995": 1, "Confidential Information": 1}
-{"confidential information": 5, "technical information": 0, "public information": 1, "news": 0, "Confidential Information": 5}
-{"confidential information": 11, "technical information": 0, "public information": 1, "news": 0}
-{"confidential information": 15, "technical information": 0, "public information": 2, "news": 0, "Confidential Information": 15}
-{"confidential information": 20, "technical information": 1, "public information": 1, "news": 0, "Confidential Information": 20}
-{"confidential information": 8, "technical information": 1, "public information": 1, "news": 0, "Confidential Information": 7}
-{"confidential information": 8, "technical information": 1, "public information": 1, "Confidential Information": 2}
-{"confidential information": 2, "technical information": 1, "public information": 2, "news": 0, "Confidential Information": 2}
-{"confidential information": 8, "technical information": 1, "public information": 1, "news": 0, "Confidential Information": 8}
-{"confidential information": 24, "technical information": 1, "public information": 2, "news": 0, "Confidential Information": 24}
-{"confidential information": 5, "technical information": 0, "public information": 0, "news": 0, "Confidential Information": 5}
-{"confidential information": 2, "technical information": 1, "public information": 1, "news": 0, "Confidential Information": 2}
-{"confidential information": 15, "technical information": 1, "public information": 1, "news": 0, "Confidential Information": 15}
-{"confidential information": 5, "technical information": 1, "public information": 1, "news": 0, "Confidential Information": 5}
-{"Confidential Information": 1}
-{"confidential information": 3, "technical information": 0, "public information": 1, "news": 0}
-{"confidential information": 15, "technical information": 0, "public information": 2, "news": 0, "Confidential Information": 15}
-{"confidential information": 5, "technical information": 1, "public information": 1, "news": 0, "Confidential Information": 5}
-{"confidential information": 10, "technical information": 0, "public information": 0, "news": 0, "Confidential Information": 10}
-{"confidential information": 18, "technical information": 1, "public information": 1, "news": 0, "Confidential Information": 18}
+{"confidential information": 18, "proprietary information": 2, "trade secret information": 2, "nonpublic information": 1, "business information": 1, "technical procedures": 1, "marketing plans": 1, "product plans": 1, "experimental results": 1, "specifications": 1, "documents": 1, "drawings": 1, "models": 1, "apparatus": 1, "sketches": 1, "designs": 1, "schedules": 1, "software": 2, "prototypes": 2, "samples": 1, "methodologies": 1, "formulations": 1, "know-how": 1, "news": 1}
+{"confidential information": 8, "price sensitive information": 1, "technical": 1, "commercial": 1, "financial": 2, "accounting": 1, "legal": 2, "administrative": 1, "analyses": 1, "compilations": 1, "forecasts": 1, "notes": 1, "memoranda": 1, "documents": 1}
+{"confidential information": 20, "technical information": 1, "public knowledge": 1, "publicly available": 1, "written records": 1}
+{"confidential information": 2, "information": 20, "technical documentation": 1, "analyses": 1, "studies": 1, "knowledge": 1, "samples": 1, "publicly available": 2, "written records": 2, "reasonable evidence": 2, "obligation of confidentiality": 1, "warranty": 1, "correctness": 1, "completeness": 1, "merchantability": 1, "fitness for a particular purpose": 1, "non-infringement": 1}
+{"confidential information": 16, "technical information": 1, "public domain": 1}
+{"confidential information": 10, "data message": 1}
+{"confidential information": 18, "technical information": 1, "public information": 1}
+{"confidential information": 15, "non-public information": 1, "trade secrets": 1, "publicly available": 1, "public information": 1}
+{"confidential information": 12, "public domain": 2, "proprietary information": 2, "trade secrets": 1, "intellectual property": 2, "copyright": 2}
+{"information": 20, "protected critical infrastructure information": 1, "sensitive security information": 1, "sensitive but unclassified": 2, "sensitive homeland security information": 1, "limited official use": 1, "law enforcement sensitive": 1, "safeguarding information": 1, "unclassified controlled nuclear information": 1, "for official use only": 1, "official use only": 1, "confidential information": 1, "classified national security information": 1, "sensitive information": 1}
+{"confidential information": 15, "idea": 5, "ideas": 5, "public domain": 2, "business concepts": 1, "software": 1, "procedures": 1, "products": 1, "services": 1, "development projects": 1, "programmes": 1, "data": 1, "know-how": 1, "news": 1}
+{"confidential information": 12, "information": 5, "proprietary information": 1, "technical information": 1, "publicly available": 1, "nonpublic information": 1, "non-public information": 1}
+{"data": 40, "confidential information": 1, "individually identifiable information": 2, "public information": 1}
+{"data": 11, "confidential information": 1, "information": 3}
+{"confidential information": 10, "technical information": 1, "street level route information": 1, "fiber optic network data points and paths": 1, "public": 1}
+{"confidential information": 8, "trade secrets": 2, "proprietary know-how": 1, "data": 2, "know-how": 1, "formulae": 1, "recipes": 1, "processes": 1, "designs": 1, "design rights": 1, "photographs": 1, "drawings": 1, "plans": 1, "intentions": 1, "product information": 1, "market opportunities": 1, "specifications": 1, "manufacturing data": 1, "public domain": 1}
+{"confidential information": 18, "technical, commercial or financial information": 1, "know-how and trade secrets": 1, "processes, machinery, designs, drawings, technical specifications and data": 1, "supplier and customer information": 1, "business practices": 1, "business plans, policies or practices": 1, "analyses, compilations, studies": 1, "oral confidential information": 1, "written confidential information": 1}
+{"confidential information": 10, "information": 5, "non-public information": 2}
+{"confidential information": 2, "proprietary information": 12, "technical solutions": 1, "financial information": 1, "sales and marketing information": 1, "public domain": 1}
+{"confidential information": 11, "information": 2}
+{"confidential information": 4, "technical information": 1, "personally identifiable information": 2, "pii": 2}
+{"confidential information": 7, "business secrets": 1, "banking confidentiality": 1, "data protection": 1, "publicly available": 1, "graded assessment": 3, "assessment process": 2, "assessment decision": 1, "examination for plagiarism": 1, "oral agreement": 1}
+{"confidential information": 6, "proprietary, technical, or business data": 1, "trade secrets": 1, "technical information": 1}
+{"confidential information": 8, "technical": 1, "commercial": 1, "procurement requirements": 1, "purchasing": 1, "manufacturing": 1, "customer lists": 1, "investors": 1, "employees": 1, "business and contractual relationships": 1, "business forecasts": 1, "sales and merchandising": 1, "marketing plans": 1, "business or personnel information": 1, "proposal": 1, "public domain": 1}
+{"confidential communications": 2, "confidential information": 8, "business and financial information": 1, "membership lists": 2, "personal information": 2, "proprietary": 2, "personally identifiable information": 1, "financial reports": 1, "personnel evaluations": 1, "program plans and reports": 1, "memoranda": 1, "e-mail": 1, "communications": 2}
+{"confidential information": 15, "technical information": 2, "claim information": 1, "claim request": 3, "claim response": 2, "personal information": 3, "hcai system information": 1}
+{"confidential information": 15, "public information": 1}
+{"confidential information": 15, "confidential materials": 8, "non public information": 1, "publicly available": 1, "business policies or practices": 1, "software products": 1, "marketing or promotion": 1, "business relationship": 2, "residuals": 2, "patents": 2, "copyrights": 2, "trademarks": 1, "trade secret information": 1, "ideas": 1, "concepts": 1, "know-how": 1, "techniques": 1}
+{"confidential information": 20, "proprietary information": 3, "trade secret information": 2, "publicly": 1, "non-public": 1, "personal nature": 1, "oral and written communications": 1, "tangible information": 1, "oral or visual form": 1, "written materials": 1, "models": 1, "specimens": 1, "trade secrets": 1}
+{"confidential information": 10, "technical information": 1, "public domain": 1, "trade secrets": 2, "price information": 1, "product lists": 1, "business plans": 1, "intellectual property": 4, "financial information": 1}
+{"confidential information": 12, "information": 20, "technical data": 2, "business records": 1, "trade secrets": 1, "product ideas": 1, "financial information": 1, "customer or client lists": 1, "public": 1}
+{"confidential information": 18, "business secrets": 1, "business information": 1, "business plans": 1, "financial and pricing information": 1, "business practices": 1, "financial statements and reports": 1, "project specifications": 1, "projections": 1, "schematics and drawings": 1, "trade secrets": 1, "processes": 1, "materials": 1, "customer lists": 1, "supplier lists": 1, "sales volume": 1, "territories": 1, "markets": 1, "current, future or potential acquisitions": 1, "technical": 1, "production": 1, "operational": 1, "marketing or sales information": 1, "technical information": 1}
+{"confidential information": 18, "technical information": 1, "public information": 1, "trade secrets": 2, "know-how": 2}
+{"confidential information": 7, "technical information": 2, "proprietary information": 1, "public domain": 1, "intellectual property": 1}
+{"confidential information": 10, "proprietary": 3, "trade secret": 1}
+{"confidential information": 10, "proprietary and confidential information": 2, "submissions": 3, "concept": 1, "idea": 1, "game-play mechanic": 1, "set design": 1, "business model": 1, "documents": 1, "data": 1, "papers": 1, "statements": 1, "business/customer information": 1, "trade secrets": 1}
+{"confidential information": 12, "technical information": 1, "publicly known": 2, "public domain": 1, "trade secret": 1, "proprietary information": 1}
+{"confidential information": 12, "information": 5, "public domain": 2, "non-public information": 2, "news": 1}
+{"confidential information": 18, "technical information": 1, "commercial information": 1, "sensitive data": 1, "design": 1, "fabrication & assembly drawings": 1, "know-how": 1, "processes": 1, "product specifications": 1, "raw materials": 1, "trade secrets": 1, "market opportunities": 1, "business or financial affairs": 1, "product samples": 1, "inventions": 1, "concepts": 1, "samples": 1, "models": 1, "computer programs": 2, "drawings": 2, "documents": 2, "public knowledge": 2, "marketing materials": 2, "logo": 2}
+{"confidential information": 12, "technical information": 2, "public domain": 2, "trade secrets": 2, "trademarks": 2, "patents": 2, "know-how": 2}
+{"confidential materials": 8, "confidential information": 1, "publicly available": 1, "non-public": 1, "proprietary information": 1}
+{"confidential information": 15, "business purpose": 7, "publicly known": 1, "identity": 1, "names": 1, "addresses": 1, "telephones": 1, "telefax numbers": 1, "telex numbers": 1}
+{"confidential information": 14, "technical data": 2, "know-how": 2, "public knowledge": 1, "public domain": 1}
+{"confidential information": 14, "non-public information": 1, "technical data": 2}
+{"confidential information": 6, "proprietary information": 2, "financial statements": 1, "legal documents": 1, "business records": 1, "trade secrets": 1, "technical information": 1, "pricing structure": 1, "marketing strategies": 1, "market research": 1, "patient demographics": 1, "appraisal(s)": 2}
+{"confidential information": 12, "technical information": 1, "public information": 1, "news": 1}
+{"confidential information": 10, "public domain": 1}
+{"confidential information": 12, "business plan": 1, "financial matters": 1, "products and/or services": 1, "business affairs": 1, "finances": 1, "forecasts": 2, "sales": 2, "financial results": 1, "records": 1, "budgets": 1, "business strategies": 1, "marketing strategies": 1, "development strategies": 1, "commercial strategies": 1, "notes": 1, "analyses": 1, "compilations": 1, "reports": 1, "data": 1, "statistics": 1, "summaries": 1, "interpretations": 1, "materials": 1}
+{"confidential information": 12, "trade secrets": 1, "type design data": 1, "drawings": 1, "photographs": 1, "specifications": 1, "models": 1, "prototypes": 1, "designs": 1, "materials": 1, "construction": 1, "assembly": 1, "computer hardware and software": 1, "technical": 1, "commercial": 1, "operational information": 1, "manufacturing methods and techniques": 1, "quality control and test methods": 1, "marketing data": 1, "target customers": 1, "customer lists": 1, "market plans": 1, "cost and pricing data": 1, "product applications": 1, "public domain": 2}
+{"confidential information": 10, "information": 12, "public": 2, "news": 1}
+{"confidential information": 1, "information": 5, "commercial secrets": 1, "confidential": 5, "publicly available": 1, "resrequest information": 1}
+{"confidential information": 15, "technical information": 1, "public information": 1, "data": 1, "ideas": 2, "information": 10, "news": 1}
+{"confidential information": 3, "sensitive information": 3, "confidential data": 4, "sensitive data": 4, "databases": 1, "records": 2, "social security numbers": 2, "checking and savings account numbers": 1, "non-published telephone numbers": 1, "personnel appraisals": 1, "educational records": 1, "medical history": 1, "insurance coverage information": 1, "passwords": 1, "student disciplinary and academic records": 1, "personal health information": 1, "medical and research data": 1, "legally protected information": 1, "financial reports": 1, "security parameters and configurations": 1, "payroll information": 1, "personnel records": 1, "system logs and network traffic data": 1, "university digital asset": 1, "budget, financial, personnel, payroll or procurement information": 1}
+{"non-public information": 2, "evaluation material": 10, "discussions disclosure": 6, "confidential information": 1}
+{"confidential information": 14, "information": 8, "proprietary interests": 1, "patentable subject matter": 1, "intellectual property": 1, "technical information": 1, "business information": 1, "public domain": 1, "export regulated information": 1}
+{"confidential information": 2, "technical information": 1, "commercial data": 1, "products": 1, "technology": 1, "processes": 1, "commercial activities": 1}
+{"confidential information": 15, "information": 5, "data": 4, "analyses": 2, "interpretations": 1, "compilations": 2, "reports": 1, "reservoir data": 1, "geologic and geophysical data": 1, "maps": 1, "models": 1, "financial data": 1, "economic data": 1, "commercial data": 1, "contractual data": 1, "environmental data": 1, "marketing data": 1, "operational data": 1, "engineering data": 1, "documents": 2, "materials": 2, "notes": 1, "studies": 2, "summaries": 1, "evaluation materials": 1}
+{"confidential information": 13, "technical data": 2, "know-how": 2, "public knowledge": 1, "information": 5, "news": 1}
+{"evaluation material": 18, "confidential information": 1, "material non-public information": 1}
+{"confidential information": 12, "proprietary and confidential": 4, "technical information": 1, "publicly known": 1}
+{"confidential information": 2, "information": 3, "technical": 1, "commercial": 1, "scientific information": 1, "know-how": 1, "trade secrets": 1, "processes": 1, "machinery": 1, "designs": 1, "drawings": 1, "technical specifications": 1, "clients": 1, "prospects": 1, "historical and forecast financial information": 1, "organisational and operational structure and data": 1, "public": 2, "media": 1}
+{"confidential information": 18, "information": 12, "publicly available": 1, "non-confidential basis": 1, "pricing documents": 2, "proprietary information": 1}
+{"technical information": 2, "confidential information": 3, "commercial information": 2, "proprietary information": 2, "public domain": 2, "information": 20}
+{"confidential information": 15, "proprietary information": 3, "public information": 1, "technical data": 1, "material, non-public information": 1}
+{"confidential information": 12, "non-public": 3, "proprietary information": 3, "public": 2, "residual information": 2, "intellectual property": 2}
+{"confidential information": 8, "state information": 1, "bwc information systems documentation": 1, "file specifications": 1, "data definitions": 1, "source code": 1, "sensitive personal information": 2, "medical records": 1, "addresses": 1, "telephone numbers": 1, "social security numbers": 1}
+{"confidential information": 12, "trade secrets": 3, "technical or business knowledge": 1, "proprietary information": 2, "public disclosure": 1, "business relationship": 2, "historical, compliance, warranty and/or legal purposes": 1, "confidential business information": 1}
+{"confidential information": 12, "public domain": 1, "notes": 3, "software": 1, "utilities": 1, "solutions": 1, "designs": 1, "techniques": 1, "methods": 1, "methodologies": 1, "tools": 1, "processes": 1, "templates": 1, "data": 1, "products": 1, "services": 1, "specifications": 1, "plans": 1, "forecasts": 1, "business plans": 2, "strategies": 1, "records": 1, "customer lists": 1, "requirements": 1, "trade secrets": 1, "business proposals": 1}
+{"confidential information": 6, "non-public information": 2, "exclusive information": 1, "financial information": 2, "operational information": 1}
+{"confidential information": 10, "proprietary": 2, "business plans": 1, "forecasts": 1, "content": 1, "processes": 1, "projections": 1, "analysis": 1, "software": 1, "hardware": 1, "product": 1, "system designs": 1, "specifications": 1, "documentation": 2, "code": 1, "structure": 1, "protocols": 1, "public domain": 2}
+{"confidential information": 2, "critical energy infrastructure information": 4, "ceii": 8, "bes cyber system information": 4, "bcsi": 8, "business confidential information": 2, "ci": 5, "classified information": 15}
+{"confidential information": 10, "proprietary information": 2, "public domain": 2, "technical data": 2}
+{"non-public information": 28, "confidential information": 3, "market sensitive information": 3, "information sharing policy": 3, "public domain": 1, "documentation": 1, "news": 1}
+{"confidential information": 15, "proprietary information": 2, "technical data": 1, "trade secrets": 1, "personal information": 1}
+{"confidential information": 12, "critical energy infrastructure information": 5, "ceii": 10, "non-public transmission information": 1}
+{"information": 25, "protected critical infrastructure information": 2, "pcii": 10, "sensitive security information": 3, "ssi": 5, "sensitive but unclassified": 3, "sbu": 5, "sensitive homeland security information": 1, "shsi": 1, "law enforcement sensitive": 1, "les": 1, "safeguarding information": 1, "sgi": 1, "unclassified controlled nuclear information": 1, "ucni": 1, "for official use only": 1, "fouo": 1, "official use only": 1, "ouo": 1, "confidential information": 1, "classified national security information": 1}
+{"information": 15, "confidential information": 2, "public": 1, "confidential treatment": 1}
+{"confidential information": 10, "information": 12, "public": 1, "news": 1, "technical information": 1}
+{"confidential information": 12, "financial statements": 1, "financial information": 1, "public information": 1, "non-confidential information": 1}
+{"confidential information": 13, "technical data": 1, "public domain": 1, "proprietary rights": 1, "trade secrets": 2, "patents": 1, "patent applications": 1, "copyrights": 1, "know-how": 1, "processes": 1, "research": 1, "development": 1, "ideas": 1, "inventions": 1, "formulas": 1, "algorithms": 1, "technical drawings": 1, "schematics": 1, "design": 1, "diagrams": 1, "models": 1, "flow charts": 1, "documentation": 1, "specifications": 1, "databases": 1, "materials": 1, "financial information": 1, "projections": 1, "business plans": 1, "employee information": 1, "customer lists": 1, "sales information": 1, "forecasts": 1, "marketing plans": 1, "customer leads": 1, "customer information": 1, "anticipated markets": 1, "non-public business information": 1}
+{"confidential information": 6, "technical information": 1, "public domain": 1}
+{"confidential information": 8, "technical information": 1, "public domain": 1}
+{"confidential information": 10, "proprietary information": 10, "confidential": 2, "technical data": 2, "public domain": 2, "trade secret": 1}
+{"confidential information": 5, "technical information": 1, "public information": 1}
+{"confidential information": 15, "trade secrets": 1, "business and technical information": 1, "intellectual property rights": 1, "export-controlled information": 2}
+{"confidential motorola information": 4, "confidential information": 1}
+{"confidential information": 1, "proprietary and confidential traffic-related data": 1, "gtl data": 4, "traffic data": 2, "information": 1}
+{"confidential information": 12, "business plans": 1, "contractual": 1, "engineering": 1, "financial": 1, "sales": 1, "marketing": 1, "operational information": 1, "product specifications": 1, "technical data": 1, "trade secrets": 1, "know-how": 1, "ideas": 1, "concepts": 1, "public": 1, "confidential treatment": 1}
+{"proprietary information": 10, "nrel protected information": 7, "confidential information": 1, "technical data": 1}
+{"confidential information": 2, "proprietary information": 2, "public information": 1}
+{"confidential information": 14, "proprietary and confidential nature": 1, "trade secret(s)": 2}
+{"confidential information": 10, "information": 8, "documents": 2, "business plans": 1, "source code": 1, "software": 2, "documentation": 1, "financial analysis": 1, "marketing plans": 1, "customer names": 1, "customer list": 1, "customer data": 1}
+{"confidential information": 3, "proprietary information": 10, "technical data": 2, "trade secrets": 1, "data": 2, "technology": 2, "know-how": 2, "pricing": 1, "computer programs": 1, "computer code": 1, "modules": 1, "scripts": 1, "algorithms": 1, "features": 2, "modes of operation": 1, "inventions": 1, "techniques": 1, "processes": 2, "methodologies": 1, "schematics": 1, "testing procedures": 1, "design and function specifications": 1, "documentation": 1, "product development plans": 1, "forecasts": 1}
+{"confidential information": 10, "information": 5}
+{"confidential information": 14, "proprietary information": 2, "personal data": 2, "notes": 8, "technical data": 1, "trade secrets": 2}

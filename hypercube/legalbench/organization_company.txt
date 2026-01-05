@@ -1,0 +1,96 @@
+{"affiliates": 6, "agreement": 20, "disclosing party": 10, "recipient": 15, "confidential information": 20, "subject matter": 3, "period of confidentiality": 2, "period for exchange of information": 2, "purpose": 3, "addenda": 1, "trade secret": 4, "employees": 1, "contract workers": 1, "consultants": 1, "contractors": 1, "prototypes": 2, "software": 2, "documents": 2, "drawings": 1, "models": 1, "apparatus": 1, "sketches": 1, "designs": 1, "schedules": 1, "product plans": 1, "marketing plans": 1, "technical procedures": 1, "manufacturing processes": 1, "samples": 1, "methodologies": 1, "formulations": 1, "patent applications": 1, "know-how": 1, "experimental results": 1, "specifications": 1, "business information": 1, "ownership": 1, "sdk": 1, "injunctive relief": 1, "choice of law": 1, "severability": 1, "entire agreement": 1, "headings": 1, "counterparts": 1}
+{"limited liability company": 2, "public law": 1, "city of brussels": 1, "board of directors": 1, "deloitte real estate": 2, "laga": 2, "financial advisory": 1, "deloitte consulting & advisory": 1, "deloitte touche tohmatsu limited": 1, "civil limited liability cooperative company": 1, "brussels trade register": 1}
+{"party": 15, "parties": 10, "affiliate": 3, "representatives": 2, "corporation": 1, "business entity": 1, "employees": 1, "officers": 1, "directors": 1, "professional advisors": 1, "consultants": 1, "business relationship": 1, "company": 1, "nsk": 1}
+{"advanide companies worldwide": 1, "advanide europe gmbh": 2, "advanide holdings pte ltd": 2, "advanide americas, inc": 2, "executive board": 1, "directors": 2, "employees": 2, "advisers": 2, "subsidiaries": 1, "affiliates": 1, "courts of singapore": 1}
+{"organization": 2, "department": 1, "university": 0}
+{"afrigis": 3, "client": 3, "parties": 10, "party": 15, "disclosing party": 3, "receiving party": 8, "client brand": 2}
+{"party": 28, "parties": 15, "representatives": 5, "affiliate": 2, "representative": 2, "department": 0, "university": 0, "aspiegel": 1}
+{"affiliate": 5, "business entity": 2, "company": 2, "partner": 3, "representative": 4, "consultant": 1, "advisor": 1, "contractor": 1, "employee": 2, "court": 2, "federal court": 1, "superior court": 1, "united states": 1, "florida": 2, "broward county": 2, "boston consulting group": 1}
+{"transnet limited": 5, "transnet": 10, "the bidder": 5, "the disclosing party": 6, "the receiving party": 7, "the parties": 3, "luxrail": 1, "the blue train": 1, "the target": 5, "BT": 1}
+{"department of homeland security": 3, "united states government": 6, "pcii program": 3, "pcii program manager": 3, "ssi": 3, "sbu": 3, "dhs": 1}
+{"organiser": 10, "copernicus masters": 6, "copernicus accelerator": 8, "european commission": 3, "mentor": 30, "participants": 15, "anwendungszentrum gmbh oberpfaffenhofen": 1, "copernicus participating countries": 2, "accelerator bootcamp": 2, "european satellite navigation competition": 1, "satellite masters conference": 1, "acceleration bootcamp": 1, "federal republic of germany": 1, "munich": 1, "CopAcc": 1, "ToP Mentors": 1}
+{"corporation": 2, "massachusetts corporation": 1, "business": 3, "agents": 2, "employees": 2, "firm": 1, "state of massachusetts": 1, "federal courts": 1}
+{"department of health and mental hygiene": 5, "city of new york": 2, "division": 1, "institutional review board": 1, "academic institution": 2}
+{"michigan department of health and human services": 4, "reporting entity": 4, "michigan trauma registry": 5, "regional trauma networks": 1, "public health code": 2, "michigan administrative code": 2}
+{"state": 10, "vendor": 10, "department": 1, "university": 0, "DoiT": 1, "ICN": 1}
+{"efca": 12}
+{"eskom holdings soc ltd": 5, "company": 3, "third party": 6, "party": 20, "parties": 18, "project": 10, "representatives": 3, "government": 1, "national energy regulator of south africa": 1}
+{"original equipment suppliers association": 1}
+{"corporation": 1, "business": 1, "corporate office": 1, "party": 15, "parties": 12, "business relationship": 1, "corporate": 1, "company": 1, "organization": 1, "department": 1, "Excelerate": 1}
+{"first nations health authority": 5, "company": 10, "metro vancouver office project": 2, "FNHA": 1}
+{"focus group": 6, "company": 4, "research study": 3, "owner": 2, "APIC": 1}
+{"hochschule furtwangen university": 4, "university": 5, "dean": 2, "company": 8, "institutions": 1, "contracting parties": 4, "related companies": 1, "staff": 1, "examination regulations": 2, "university law": 1, "examination": 1, "university and the student": 1, "thesis supervisor": 1, "2nd hfu-supervisor": 1}
+{"party-1": 3, "party-2": 3, "subsidiaries": 1, "associated entities": 2, "business entity": 1, "organization": 1, "corporation": 1, "partnership": 1, "association": 1, "business trust": 1, "contractual organization": 1, "group": 1, "entity": 2, "companies": 1, "GreenStorm": 1}
+{"procurement": 2, "operations": 1, "administrative facilities": 1, "head of procurement": 1, "buyer": 1, "Grindrod SA": 1}
+{"board of governors": 1, "hispanic national bar association": 4, "hnba": 10, "board member": 11, "committee": 1}
+{"IBC": 1, "PMS": 1}
+{"london school of economics & political science": 2, "IGC": 1, "LSE": 1}
+{"company": 2, "business": 2, "consultants": 2, "employees": 2, "subsidiary": 1, "agents": 2, "lawyers": 1, "premises": 1, "infomagnet": 1}
+{"party": 12, "parties": 10, "company": 9, "recipient": 9, "discloser": 7, "agreement": 6, "confidential information": 6, "employees": 3, "affiliates": 3, "organization": 2, "officers": 2, "agents": 2, "united states": 1, "court": 1, "government": 1, "regulatory agency": 1, "attorneys": 1, "state": 1, "IPTK": 1}
+{"company": 3, "customer": 3, "agreement": 10, "party": 15, "parties": 10, "recipient": 2, "employees": 2, "contractors": 2, "agents": 2, "firm": 1, "partnership": 1, "corporation": 1, "business": 2, "property": 3, "subsidiaries": 1, "affiliates": 1, "divisions": 1, "officers": 1, "directors": 1, "successors": 2, "assigns": 2, "courts": 1, "Inaturals": 1}
+{"jb machine llc": 1}
+{"alberta corporation": 1, "offices": 1, "office": 1, "parties": 3, "party": 5, "directors": 1, "officers": 1, "employees": 1, "representatives": 2, "disclosing party": 10, "receiving party": 10, "corporation": 1, "jbf": 1}
+{"party": 15, "parties": 13, "company": 6, "group": 3, "representative": 3, "representatives": 3, "subsidiary": 2, "holding company": 2, "business day": 2, "recipient": 2, "disclosing party": 2, "kenway": 2, "purpose": 2, "agreement": 1, "kenway composites": 1, "cpk manufacturing llc": 1, "delaware": 1, "augusta": 1, "maine": 1, "serious fraud office": 1, "bribery act 2010": 1, "court": 1, "united states of america": 1, "courts of delaware": 1, "Kenway": 1}
+{"kerber applied research inc.": 1, "kerber": 1}
+{"affiliates": 4, "company": 3, "vendor": 3, "corporation": 1, "business": 1, "division": 1, "subsidiaries": 1, "business units": 1, "department": 0, "university": 0}
+{"film writers association": 2, "department": 0, "SWA": 1}
+{"product development experts, inc.": 2, "inventor": 1}
+{"company": 5, "parties": 10, "party": 12, "entity": 2, "office": 2, "subsidiary": 1, "affiliated entity": 1, "employees": 3, "directors": 2, "officers": 2, "advisors": 2, "attorneys": 2, "auditors": 1, "agents": 2, "shareholders": 2, "representatives": 2, "professional advisors": 2, "organization": 1, "business association": 1, "the knights of unity": 1}
+{"centre for data governance": 1, "nic": 1, "ncdg": 2, "user department": 2}
+{"entrusting party": 20, "recipient": 20, "party a": 4, "party b": 4, "parties": 4, "representatives": 4, "cooperative programs": 2, "cooperative project": 1, "cooperative program": 1, "people's courts of the people's republic of china": 1, "Artop": 1, "Inno": 1}
+{"owner": 15, "buyer": 14, "representatives": 6, "broker": 4, "the kase group": 2, "brokerage entities": 1, "subsidiaries": 1, "affiliates": 1, "partners": 1, "Dollar General": 1, "Portfolio Entity": 1}
+{"fintricity": 6, "fintricity affiliates": 1, "fintricity group": 1, "company affiliate": 2, "company": 3}
+{"information security": 1, "penetration testing": 1, "engineering": 1, "marketing": 1, "consultants": 2, "agents": 2, "directors": 2, "officers": 2, "employees": 2, "state of california": 2, "federal and state courts": 1, "united states of america": 1}
+{"semiconductor components industries": 2, "on semiconductor": 2, "industry analyst conference": 1, "ON Semiconductor": 1, "Industry Analysts": 1}
+{"roi corporation": 4}
+{"customer": 8, "parties": 15, "party": 14, "seeed": 8, "hong kong international arbitration centre": 2, "Seeed": 1}
+{"group companies": 4, "international federation of teqball": 1, "f\u00e9d\u00e9ration internationale de teqball": 1, "ametis conseils sa": 1, "budapest teqball sportegyes\u00fclet": 1, "f\u0151v\u00e1rosi t\u00f6rv\u00e9nysz\u00e9k": 1, "Sqiller": 1, "Beta Testers": 1}
+{"subsidiaries": 2, "affiliates": 2, "party": 6, "parties": 4, "representatives": 4, "employees": 1, "officers": 1, "directors": 1, "partners": 1, "shareholders": 1, "agents": 1, "attorneys": 1, "accountants": 1, "advisors": 1, "lenders": 1, "investors": 1, "entity": 2, "person": 1, "executive": 1, "regulatory": 1, "administrative": 1, "agency": 1, "governmental authority": 1, "disclosing party": 8, "recipient": 15, "media news group, inc.": 1}
+{"supplier": 15, "gk": 8, "gkt": 3, "international chamber of commerce": 1, "Gar": 1, "Kenyon": 1}
+{"project managers": 2, "technology hubs": 1, "agents": 1, "representatives": 1, "employees": 2, "affiliated companies": 2, "employment contracts": 1, "intellectual property rights": 1, "recipient": 1, "high court of south africa": 1, "gwi project managers": 2, "GWI": 1, "Technohubs": 1}
+{"business partner": 5, "mandarin": 4, "resrequest": 2, "organisation": 1, "company": 1, "ResConnect": 1}
+{"company": 2, "franchise agreement": 2, "group member": 2, "business day": 1, "intellectual property rights": 2, "agreement": 1, "authorised person": 2, "disclosers": 1, "recipient": 1, "officers": 1, "directors": 1, "employees": 1, "legal representatives": 1, "undertaking": 1, "confidential information": 1, "purpose": 1, "confidentiality agreement": 1, "confidentiality deed": 1, "non-disclosure agreement": 1, "jasmine technologies ltd": 1, "claylands place": 1, "london": 1, "england": 1, "wales": 1, "companies act 2006": 1, "english": 1, "courts of england and wales": 1, "contracts (rights of third parties) act 1999": 1, "street stream": 1}
+{"university of nebraska": 7, "university": 5, "central administration": 1, "department": 1, "NU": 1}
+{"new york city bar association": 1}
+{"university of wisconsin system": 1, "university of wisconsin oshkosh": 1, "uw oshkosh": 2, "office of sponsored programs": 1}
+{"party": 12, "parties": 8, "agreement": 36, "petro-lube": 12, "petro-lubricant testing laboratories, inc.": 3, "assigns": 2, "employees": 2, "evaluation": 5, "evaluations": 4, "purchase order": 1, "test report": 1, "export administration regulations": 1, "european council regulation 428/2009": 1, "contracts (rights of third parties) act of 1999": 1, "Petrolube": 1}
+{"qep": 1, "bmo": 1}
+{"company": 5, "third party": 3, "subsidiaries": 1, "employees": 2, "business": 3, "disclosing party": 4, "receiving party": 3, "recipient": 1, "federal and state courts": 1, "QuickBooks": 1}
+{"business corporations act": 1, "tudor, pickering, holt & co. securities \u2013 canada, ulc": 1, "national bank financial inc.": 1, "RROI": 1}
+{"party": 18, "parties": 8, "business": 2, "company": 1, "employees": 2, "officers": 2, "directors": 2, "agents": 2, "agency": 1, "partnership": 1, "joint venture": 1, "relationship": 1, "agreement": 20, "Roundhouse": 1, "Creative": 1}
+{"board": 28, "committee": 20, "samed": 19, "member": 10, "members": 8, "membership": 2, "organization": 2, "association": 2, "university": 0, "samed": 1}
+{"SE_NDCA": 1, "PRE-QUAL PACKAGE": 1}
+{"receiving party": 10, "sintec": 22, "employees": 1, "staff": 1, "employment relationship": 2, "business relationship": 3, "preamble": 3, "parties": 5, "representative": 1, "arbitration": 2, "arbitrators": 1, "arbitral proceedings": 1}
+{"sony pictures": 4, "tribune company": 1, "corporate legal department": 1, "general counsel": 2, "jams": 2, "los angeles county superior court": 1, "california court of appeal": 1, "sony pictures television": 1}
+{"axial": 2, "academy": 1, "department": 1, "university": 1}
+{"state of ohio": 3, "bureau of workers' compensation": 3, "department of administrative services": 1, "das": 1, "bureau of workers\u2019 compensation pharmacy program": 2, "SupplementOne": 1}
+{"corporation": 1, "companies": 2, "business": 5, "company": 2, "directors": 1, "officers": 1, "employees": 1, "agents": 1, "entity": 1, "lab facility": 1, "federal": 2, "state": 2, "local government": 1, "attorney": 2, "lawsuit": 2, "proceeding": 2, "office of the directorate of defense trade controls": 1, "ddtc": 1, "party": 20, "parties": 15}
+{"directors": 1, "shareholders": 1, "funders": 1, "joint venture partners": 1, "banks": 1, "investment body": 1, "solicitor": 1, "accountant": 1, "private investors": 1, "group": 1, "patent": 1, "copyright": 1, "trade secret": 1, "trademark": 1, "intellectual property": 1, "financiers": 1, "professionals": 1, "tabun kitchen investments": 1}
+{"franchisor": 15, "franchise": 14, "franchisee": 8, "agreement": 13, "corporations act": 1, "business corporations act": 1, "association": 1, "organization": 1, "union": 1, "corporation": 1, "entity": 1, "university": 0, "Tazza": 1, "CAFFE": 1}
+{"university of arkansas at little rock": 3, "board of trustees of the university of arkansas": 1, "university": 1, "UALR": 1}
+{"vermont electric power company": 1, "vermont transco": 1, "federal energy regulatory commission": 1, "north american electric reliability corporation": 1, "critical infrastructure protection standards": 1, "freedom of information act": 1, "state of vermont": 1}
+{"business": 2, "subsidiaries": 1, "affiliates": 1, "projects": 1, "relationship": 1, "vendors": 1, "management": 1, "plant": 1, "equipment": 1, "company": 1, "employees": 1, "consultants": 1, "contractors": 1, "representatives": 1, "agents": 1, "courts": 1, "president": 1, "mutual customer": 1, "allazo electronics": 1}
+{"wecc": 18, "north american electric reliability corporation": 1, "ferc": 2, "wecc": 1}
+{"parties": 8, "company": 5, "corporation": 1, "business": 3, "employees": 1, "contractors": 1, "affiliates": 2, "disclosing party": 10, "receiving party": 10, "court": 2, "city court of copenhagen": 1, "amc": 1}
+{"CEII": 1, "NDA": 1}
+{"department of homeland security": 3, "united states government": 6, "pcii program": 3, "pcii program manager": 3, "ssi": 3, "sbu": 3, "dhs": 1, "federal programs": 1, "government agencies": 2, "executive order": 2, "congress": 2, "department of justice": 1, "executive agency": 1}
+{"party": 18, "parties": 13, "agreement": 12, "providing party": 6, "receiving party": 10, "representatives": 2, "business under discussion": 3, "information": 16, "partner": 1, "partners": 1, "directors": 1, "officers": 1, "employees": 1, "affiliates": 1, "insurers": 1, "agents": 1, "advisors": 1, "auditors": 1, "corporation": 1, "company": 1, "partnership": 1, "group": 1, "eHandshake": 1}
+{"business": 15, "broker": 14, "seller": 13, "transaction": 6, "advisors": 3, "affiliates": 2, "landlords": 2, "employees": 2, "suppliers": 2, "customers": 2, "accounting": 1, "legal": 1, "financial": 1, "companies": 1, "reporting agencies": 1, "epsteen": 1}
+{"affiliates": 5, "company": 10, "employees": 2, "contractors": 2, "consultants": 2, "firm": 1, "individual": 1, "partnership": 1, "euler hermes": 1}
+{"department": 1, "university": 1, "affiliate": 3}
+{"company": 2, "business relationship": 3, "facility": 1, "process": 1, "processes": 2, "features": 1, "functions": 1, "performance": 1, "components": 1, "subsystems": 1, "use": 1, "technology": 1, "intellectual property": 1, "resources": 1, "research": 1, "innovations": 1, "products": 1, "service offerings": 1, "strategic partners": 1, "techniques": 1, "software": 1, "patent applications": 1, "inventions": 1, "trade secrets": 1, "designs": 1, "drawings": 1, "engineering": 1, "hardware configuration information": 1, "marketing": 1, "strategies": 1, "studies": 1, "property": 1, "agents": 1, "advisors": 1, "affiliates": 1, "accountants": 1, "attorneys": 1, "consultants": 1, "lenders": 1, "court": 1, "attorney's fees": 1, "party": 2, "parties": 3, "representatives": 2, "employees": 1, "internal analyses": 1, "work papers": 1, "ingram": 1}
+{"khronos": 10, "participant": 8, "member": 1}
+{"corporation": 2, "pennsylvania corporation": 1, "party": 20, "parties": 8, "representatives": 2, "state of delaware": 1, "courts of delaware": 1, "LTI": 1}
+{"McGill University": 1}
+{"carnegie mellon university": 4, "office of sponsored programs": 2, "department": 1, "university": 1, "institution of higher learning": 1}
+{"motorola mobility": 5, "facility": 3, "labs": 1, "cxd areas": 1, "security officers": 1, "motorola employee": 1, "motorola contractor": 1, "escort privileges": 1}
+{"inria": 10, "organization": 8, "cnrs": 2, "control system dept": 1, "gipsa-lab": 1, "necs team": 2, "grenoble traffic lab": 3, "institute of electrical and electronics engineers": 1, "french courts": 1, "necs team developers zone": 1, "GTL": 1}
+{"recipient": 10, "representatives": 3, "parties": 6, "officers": 1, "managers": 1, "employees": 1, "consultants": 1, "contractors": 1, "professional advisors": 1, "successors": 1, "assigns": 1, "Oceaneering": 1}
+{"alliance for sustainable energy": 2, "national renewable energy laboratory": 2, "u.s. department of energy": 3, "doe": 5, "NREL": 1}
+{"company": 15, "parties": 5, "affiliated entities": 4, "representatives": 8, "united states bankruptcy court": 1, "southern district of florida": 1, "simply fashion": 1}
+{"business": 15, "broker": 22, "seller": 18, "organization": 1, "partnership": 1, "limited liability company": 1, "corporation": 1, "business entity": 1, "employees": 2, "customers": 1, "suppliers": 1, "agents": 1, "attorneys": 1, "accountants": 1, "advisors": 1, "office": 1, "heirs": 1, "executors": 1, "successors": 1, "assigns": 1, "administrators": 1, "representatives": 1, "american arbitration association": 1, "owner": 2, "Stony Hill": 1, "Buyer": 1}
+{"business": 3, "party": 15, "parties": 5, "employees": 3, "company": 1, "thoughtbot": 1}
+{"subsidiaries": 1, "affiliates": 1, "divisions": 1, "units": 1, "corporation": 1, "entities": 1, "businesses": 1, "joint ventures": 1, "party": 5, "parties": 8, "company": 2, "employees": 2, "parent": 2, "companies": 1, "stock": 1, "directors": 1, "u.s. commerce department": 2, "government body": 1, "court": 1, "administration agency": 1, "stock exchange": 1, "governmental authority": 1, "u.s. department of commerce": 1, "disclosing party": 9, "receiving party": 9, "affiliated receiving party": 2, "agreement": 19, "non-disclosure agreement": 2, "confidentiality agreement": 1, "export administrative regulations": 1, "laws of delaware": 2, "courts of delaware": 1, "tpi": 1}
+{"company": 10, "vmware": 1}
+{"wayne fueling systems llc": 3, "company": 3, "affiliates": 8, "authorized parties": 8}
+{"affiliates": 6, "department": 0, "university": 0}
