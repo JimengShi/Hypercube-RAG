@@ -31,12 +31,12 @@ pip install -r requirements.txt
 ### 3. Run the framework
 #### 3.0 Construct knowledge hypercube 
 
-- (**Optional**) You can skip this step if you want to run on our datasets since we have constructed the hypercube and saved the results in `hypercube` folder.
+- If you want to run on our datasets, you can skip this step since we have constructed the hypercube and saved the results in `hypercube` folder.
 
-- If you want to use your own dataset, please first put the text corpus in `corpus` folder: `corpus/YOUR_DATA_FOLDER/YOUR_DATA_FILE`, then construct hypercube using a name entity recogition file `ner.py` file.
+- If you want to use your own dataset, please first put the text corpus in `corpus` folder: `corpus/YOUR_DATA_FOLDER/YOUR_DATA_FILE`, then construct your own hypercube by revising the entity extraction file in the `gpt_extraction` folder.
 
 ```
-python corpus/YOUR_DATA_FOLDER/YOUR_ner.py
+python gpt_extraction/joint_extract_xxx.py
 ```
 
 
