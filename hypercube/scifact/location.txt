@@ -1,7 +1,30 @@
 {}
 {}
 {}
-{"Asian": 1}
+{"asian": 1}
+{"human": 5}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"fr": 1}
+{}
+{}
+{}
+{}
+{"uk": 3, "british": 1}
+{}
+{"mammalian": 1, "chick": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"anopheles gambiae": 2}
 {}
 {}
 {}
@@ -10,12 +33,25 @@
 {}
 {}
 {}
-{"Guerbet": 1, "FR": 1}
+{}
+{}
+{}
+{"lung": 5, "lungs": 2, "organ": 1, "organs": 1}
+{}
+{"paramecium tetraurelia": 2}
+{}
+{"zebrafish": 1}
+{"eastern china": 2, "wuxi": 1}
+{"moroccan": 2, "morocco": 1}
+{}
+{"boston": 1, "latitudes": 1}
 {}
 {}
 {}
 {}
-{"UK": 4, "British": 1}
+{}
+{}
+{"rat": 1}
 {}
 {}
 {}
@@ -24,7 +60,626 @@
 {}
 {}
 {}
-{"O'Nyong-Nyong": 2, "Anopheles gambiae": 2}
+{"india": 2, "chennai": 1}
+{"mouse": 2, "mice": 2}
+{}
+{}
+{}
+{}
+{"saccharomyces cerevisiae": 1}
+{}
+{"british": 1}
+{"south africa": 1}
+{"european": 1, "dutch": 2, "swedish": 2}
+{}
+{"human placenta": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"arabidopsis": 2}
+{}
+{}
+{"belgian": 1}
+{"global": 3, "national": 3, "countries": 2}
+{"human": 1, "mouse": 1}
+{}
+{"shaanxi province": 2, "china": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"murine": 2, "human": 2, "fetal": 3, "adult": 2, "mice": 1}
+{}
+{}
+{}
+{}
+{"global": 3, "national": 1, "geographies": 3, "worldwide": 1, "countries": 2, "territories": 2, "central america": 1, "eastern sub-saharan africa": 1}
+{"world": 1, "us": 1}
+{"galapagos": 1, "indonesia": 1, "lesser antilles": 2, "greater antilles": 1, "martinique": 2}
+{"mice": 4, "humans": 1, "western": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"human": 4}
+{"united states": 3, "atlanta": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"english": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"korean": 2, "korea": 1}
+{}
+{}
+{"united states": 1}
+{}
+{"african": 1, "kenya": 2}
+{"bacillus subtilis": 1, "streptococcus pneumoniae": 3, "s. pneumoniae": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{"england": 2, "uk": 1}
+{"uk": 2, "eu": 1}
+{}
+{}
+{"human": 2, "mice": 1}
+{"lung": 2, "tissues": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"mammalian": 1, "rat": 1, "human": 1}
+{}
+{}
+{}
+{}
+{"mouse": 3, "mice": 2}
+{}
+{}
+{}
+{}
+{"ontario": 3, "provincial": 2, "urban": 1}
+{}
+{"yeast": 2, "human": 3}
+{}
+{"egyptian": 2}
+{}
+{"academic medical centre": 1, "university of amsterdam": 1, "amsterdam": 1, "the netherlands": 1}
+{}
+{}
+{}
+{}
+{"human": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"republic of ireland": 1, "ireland": 2}
+{}
+{}
+{}
+{"caenorhabditis elegans": 2, "c. elegans": 1}
+{}
+{}
+{"swedish": 2}
+{}
+{}
+{"countries": 4, "americas": 1, "asia": 1, "central africa": 1, "west africa": 1}
+{}
+{}
+{}
+{}
+{}
+{"africa": 1, "rural areas": 2, "low-income countries": 2, "fragile states": 1}
+{}
+{"myxococcus xanthus": 2}
+{"human": 3}
+{}
+{}
+{"drosophila melanogaster": 1, "rodents": 1, "madin\u2013darby canine kidney": 1}
+{}
+{}
+{"s. cerevisiae": 1}
+{"malawi": 3, "central africa": 1, "zomba general hospital": 1}
+{"indonesia": 3, "east java": 1, "north sulawesi": 1, "central sulawesi": 1, "southeast sulawesi": 1, "gorontalo": 1, "bali": 1, "south sulawesi": 1, "jambi": 1}
+{}
+{}
+{}
+{"fiji": 2}
+{}
+{"drosophila": 2, "drosophila melanogaster": 1}
+{"us": 2, "american": 2}
+{}
+{"bacteria": 1, "archaea": 1, "escherichia coli": 1}
+{"windows": 1, "linux": 1, "mac osx": 1}
+{}
+{"arabidopsis thaliana": 1}
+{}
+{"canada": 1}
+{}
+{}
+{"african": 2, "sub-saharan africa": 1}
+{"arabidopsis thaliana": 1}
+{"rotterdam": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"netherlands": 1}
+{}
+{}
+{}
+{"new world": 1, "old world": 1}
+{}
+{"brain": 2, "entorhinal cortex": 1, "guinea pig brain": 1}
+{}
+{}
+{"united states": 1}
+{}
+{}
+{}
+{"china": 1, "shanghai": 1, "chinese": 3, "non-western": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"icu": 6, "brigham and women's hospital": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"swiss": 1, "finnish": 2}
+{}
+{}
+{}
+{}
+{"united nations": 1, "world": 2, "national": 2, "africa": 3, "asia": 1, "sub-saharan": 1, "eastern": 1, "middle": 1, "western africa": 1, "northern africa": 1}
+{}
+{}
+{}
+{"mouse": 2, "human": 1}
+{}
+{}
+{}
+{"perth": 1, "western australia": 1}
+{}
+{"human": 4}
+{}
+{}
+{"xenopus": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"japanese": 1, "fujiwara-kyo": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"russia": 1, "estonia": 1, "lithuania": 1, "latvia": 1, "hungary": 1, "poland": 1, "czech republic": 1, "czechs": 1, "hungarians": 1}
+{}
+{"human": 1, "mouse": 1}
+{}
+{"nematode": 1, "caenorhabditis elegans": 2, "volvox carteri": 1, "drosophila melanogaster": 1}
+{}
+{"tanzania": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"human": 4, "mouse": 1}
+{}
+{}
+{"pseudomonas aeruginosa": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{"tanzania": 2, "rural tanzania": 1, "rufiji": 2, "southern coast": 1, "southern tanzania": 1}
+{}
+{}
+{}
+{}
+{}
+{"united states": 1}
+{}
+{}
+{"south africa": 3, "hlabisa subdistrict": 1, "kwazulu-natal": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"rat striatum": 1}
+{}
+{"veterans integrated service network 20": 1, "veterans healthcare administration": 1}
+{"british": 1, "caerphilly": 1}
+{"mice": 2}
+{"mouse": 1}
+{"england": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{"vietnam": 2, "urban": 2, "rural": 2}
+{}
+{}
+{}
+{}
+{}
+{"chinese": 3, "china": 1}
+{"united states": 2, "u.k.": 1}
+{}
+{"mayo clinic": 1}
+{}
+{"xenopus": 2}
+{}
+{}
+{"us": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"in vivo": 2, "in vitro": 1, "mouse skin": 1, "human abscesses": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"tehran": 1, "iran": 1}
+{}
+{"british": 3}
+{}
+{"endothelium": 2, "human umbilical cord vein endothelial cells": 1, "huvec": 3, "cos7 cell": 1, "bovine aortic endothelial cells": 1, "thoracic aorta": 1}
+{}
+{}
+{}
+{"us": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"earth": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"human": 5, "mouse": 1}
+{}
+{}
+{"species": 1}
+{}
+{}
+{}
+{"cornea": 3, "eye": 1}
+{}
+{"bacteria": 5, "archaea": 2, "prokaryotes": 2, "actinobacteria": 1, "deinococcus-thermus": 1}
+{}
+{}
+{"hospital": 3, "university-affiliated hospital": 1}
+{"world health organization": 1}
+{}
+{"portuguese": 1, "japanese": 1, "european": 1}
+{}
+{}
+{"asia": 1, "africa": 1, "southeast asia": 1}
+{}
+{}
+{}
+{}
+{"mouse": 1, "mice": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"kigali": 1, "rwanda": 1, "lusaka": 1, "zambia": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"developed countries": 1}
+{}
+{}
+{}
+{}
+{"chinese han": 3, "beijing": 1}
+{}
+{}
+{}
+{}
+{"rat": 4, "mouse": 3, "mice": 1}
+{"cns": 8, "non-cns": 4, "ventral regions": 1, "dorsal regions": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"western australia": 1}
+{}
+{"s. cerevisiae": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"bacillus subtilis": 2}
+{}
+{}
+{"british": 3, "west of scotland": 1, "european": 1, "australia": 1}
+{}
+{"human": 1, "mouse": 1}
+{}
+{"sweden": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"xenopus laevis": 2}
+{}
+{"eukaryotes": 1, "eukaryotic": 1, "nosema locustae": 1, "plasmodium knowlesi": 1}
+{}
+{}
+{"human": 5, "mouse": 1}
+{}
+{}
+{}
+{}
+{"in vitro": 2, "in vivo": 2, "human": 1, "c3h/hen mice": 1}
+{}
+{}
+{}
+{"turkish": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"latitude": 6, "equator": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"hispanic": 3, "non-hispanic white": 2, "u.s.": 1, "mexicans": 1, "european": 1}
+{}
+{}
+{}
+{"danish": 5, "denmark": 1, "scandinavian": 1}
+{}
+{}
+{}
+{"italian": 1, "aosta": 1, "n. italy": 1}
+{"human": 6}
+{}
+{}
+{}
+{}
+{"kaiser permanente northern california": 1}
+{"human": 3, "mouse": 1}
+{}
+{}
+{}
+{}
+{}
+{"uk": 1, "british": 2, "rural areas": 1}
+{}
+{"human": 5}
+{}
+{}
+{}
+{}
+{}
+{}
+{"memorial sloan kettering cancer center": 2}
+{}
+{}
+{"australia": 1, "canada": 1, "france": 1, "united states": 1}
+{"human": 3, "rabbits": 1}
+{}
+{"mice": 1, "humans": 1}
+{}
+{}
+{"escherichia coli": 1}
+{"rice": 3, "oryza sativa": 1}
+{}
+{"northeast united states": 1, "northeastern part of the united states": 1, "long island": 2, "new york": 1, "northeast": 2, "district of columbia": 1, "new york city": 2, "philadelphia": 2, "pennsylvania": 1, "central new jersey": 1, "northeastern new jersey": 1}
+{}
+{"human": 1, "murine": 1}
+{"uk": 1, "new zealand": 1, "the netherlands": 1}
+{}
+{}
+{}
+{}
+{"us": 1}
+{"northeastern germany": 3, "germany": 2}
+{}
+{}
+{}
+{}
+{"west midlands": 1, "south east england": 1}
+{}
+{}
+{}
+{"mouse": 2}
+{}
+{}
+{}
+{"hospital clinics": 1, "general practices": 1, "clinical research centers": 1, "14 countries": 1}
+{}
+{"sub-saharan africa": 3, "australia": 1, "canada": 1, "united kingdom": 2, "united states": 2, "ethiopia": 1, "kenya": 1, "malawi": 2, "nigeria": 1, "south africa": 3, "tanzania": 1, "uganda": 2, "zambia": 1, "zimbabwe": 1}
+{}
+{"western european": 1}
+{}
+{}
+{"gothenburg": 1, "sweden": 1, "skillman": 1, "nj": 1}
+{"skillman, nj": 1}
+{"european countries": 1}
+{}
+{}
+{}
+{"globally": 1, "country": 3, "countries": 2}
+{}
+{}
+{}
+{"pku": 2}
+{}
+{"italy": 2, "veneto region": 2, "north-eastern italy": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"england": 1}
+{}
+{}
+{"uku town": 1, "japan": 1, "southwestern japan": 1}
+{}
+{}
+{}
+{}
 {}
 {}
 {}
@@ -34,17 +689,13 @@
 {"mouse": 2}
 {}
 {}
-{"HeLa": 1, "human": 1}
 {}
 {}
 {}
 {}
+{"us": 1}
 {}
-{"zebrafish": 1}
-{"Eastern China": 2, "China": 1, "Wuxi": 1}
-{"Moroccan": 2, "Morocco": 1}
 {}
-{"Boston": 1}
 {}
 {}
 {}
@@ -52,15 +703,16 @@
 {}
 {}
 {}
+{"mexican": 1}
 {}
+{"cambodia": 3, "south west cambodia": 1, "western cambodia": 1}
 {}
 {}
 {}
+{"japan": 1}
 {}
-{"Westminster": 1}
 {}
 {}
-{"India": 2, "Chennai": 1}
 {}
 {}
 {}
@@ -69,55 +721,54 @@
 {}
 {}
 {}
-{"South Africa": 1}
-{"European": 1, "Dutch": 2, "Swedish": 2}
+{"liver": 1}
 {}
 {}
 {}
 {}
-{"Arabidopsis thaliana": 1}
 {}
+{"swedish": 1}
 {}
-{"European": 1}
+{"washington d.c.": 1, "cape town": 1, "south africa": 1}
 {}
 {}
+{"mouse": 1, "human": 1}
 {}
 {}
-{"Belgian": 1}
-{"Global": 4, "national": 4, "regional": 1, "countries": 2, "country": 1, "international": 1, "World Health Organization": 1}
 {}
+{"western world": 1}
 {}
-{"Shaanxi Province": 2, "China": 2}
 {}
 {}
 {}
+{"eukaryotes": 2, "organisms": 1, "mammals": 1, "paramecium tetraurelia": 2, "plants": 1, "fungi": 1, "animals": 1, "species": 1}
 {}
-{"American": 1}
+{"human": 2, "saccharomyces cerevisiae": 1}
 {}
 {}
 {}
 {}
 {}
+{"mice": 1, "mouse": 1}
 {}
+{"buffalo": 2}
 {}
-{"murine": 2, "human": 2, "fetal": 3, "liver": 5, "hepatic": 2, "mice": 1, "SMMC-7721": 1}
 {}
 {}
 {}
 {}
-{"Global": 4, "regional": 1, "national": 1, "geographies": 3, "worldwide": 1, "countries": 2, "territories": 2, "central America": 1, "eastern sub-Saharan Africa": 1}
 {}
-{"Galapagos": 1, "Indonesia": 1, "Lesser Antillean": 1, "Martinique": 2, "Lesser Antilles": 1, "Greater Antilles": 1}
 {}
 {}
 {}
 {}
+{"mammalian cerebral cortex": 1, "mouse neocortex": 1, "hippocampus": 1}
+{"world": 1}
 {}
 {}
 {}
+{"plants": 2, "arabidopsis": 1}
 {}
-{"human": 4}
-{"United States": 3, "US": 1, "Atlanta": 2}
 {}
 {}
 {}
@@ -125,562 +776,17 @@
 {}
 {}
 {}
+{"nigerian": 1}
 {}
 {}
 {}
-{"English": 1}
 {}
 {}
 {}
 {}
 {}
 {}
-{"Drosophila": 5}
-{}
-{}
-{}
-{}
-{"Korean": 2, "Korea": 1}
-{}
-{}
-{"United States": 1}
-{}
-{"African": 1, "Kenya": 2}
-{"Bacillus subtilis": 1, "Streptococcus pneumoniae": 2, "S. pneumoniae": 2}
-{}
-{}
-{}
-{}
-{}
-{}
-{"England": 2, "UK": 1}
-{"UK": 2, "EU": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"rat": 1}
-{}
-{}
-{}
-{}
-{"mouse": 4, "mice": 2}
-{}
-{}
-{}
-{}
-{"Ontario": 3}
-{}
-{"yeast": 2, "human": 3, "Saccharomyces cerevisiae": 1}
-{}
-{"Egyptian": 3}
-{}
-{"Amsterdam": 2, "The Netherlands": 1}
-{}
-{"mice": 1, "human": 2, "intestine": 3, "Crohn's disease": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Republic of Ireland": 1, "Ireland": 2, "Irish": 1}
-{}
-{}
-{"porcine": 2, "coronary": 5, "swine": 1, "left circumflex coronary artery": 2, "LCx": 5, "left anterior descending coronary artery": 1, "LAD": 5}
-{"Caenorhabditis elegans": 2, "C. elegans": 1}
-{}
-{}
-{"Swedish": 2, "Sweden": 0}
-{}
-{}
-{"countries": 4, "Americas": 1, "Asia": 1, "central": 1, "west Africa": 1, "country": 2, "Africa": 1}
-{}
-{"American": 3, "European": 2}
-{}
-{}
-{}
-{"Africa": 1}
-{}
-{"Myxococcus xanthus": 2, "M. xanthus": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{"S. cerevisiae": 1}
-{"Malawi": 3, "Central Africa": 1, "Zomba General Hospital": 1}
-{"Indonesia": 4, "East Java": 1, "North": 1, "Central": 1, "Southeast Sulawesi": 1, "Gorontalo": 1, "Bali": 1, "South Sulawesi": 1, "Jambi": 1, "Sulawesi": 1}
-{}
-{}
-{}
-{"Fiji": 3}
-{}
-{}
-{"US": 3, "American": 2}
-{}
-{}
-{}
-{"Strigamia maritima": 4, "Drosophila": 1}
-{"Arabidopsis thaliana": 1}
-{}
-{"Canada": 1}
-{}
-{}
-{"African": 2, "Africa": 1, "sub-Saharan Africa": 1}
-{}
-{"Rotterdam": 1, "World Health Organization": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Netherlands": 1}
-{}
-{}
-{}
-{"New World": 1, "Old world": 1}
-{}
-{"rat": 1, "entorhinal cortex": 1, "guinea pig": 1}
-{}
-{}
-{"United States": 1}
-{}
-{}
-{}
-{"Chinese": 3, "Shanghai": 1, "China": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Brigham and Women's Hospital": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Swiss": 1, "Finnish": 2}
-{}
-{}
-{}
-{}
-{"United Nations": 1, "National Center for Health Statistics": 1, "World Health Organization": 1, "WHO": 2, "Global Database on Child Growth and Malnutrition": 1, "countries": 1, "Worldwide": 2, "developed countries": 1, "developing regions": 1, "Africa": 3, "Asia": 1, "sub-Saharan": 1, "Eastern": 1, "Middle": 1, "Western Africa": 1, "Northern Africa": 1, "world": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Perth": 1, "Western Australia": 1}
-{}
-{}
-{"Arabidopsis": 2}
-{}
-{"Xenopus": 1, "HeLa": 2, "Drosophila": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Japanese": 1, "Fujiwara-kyo": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Russia": 1, "Estonia": 1, "Lithuania": 1, "Latvia": 1, "Hungary": 1, "Poland": 1, "Czech Republic": 1, "Czechs": 1, "Hungarians": 1}
-{}
-{}
-{}
-{"Caenorhabditis elegans": 2, "Volvox carteri": 1, "Drosophila melanogaster": 1, "C. elegans": 2}
-{}
-{"Tanzania": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"federal": 1, "state": 1}
-{}
-{}
-{}
-{}
-{}
-{"human": 4, "mouse": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Tanzania": 3, "Rufiji": 2, "southern coast": 1, "Southern Tanzania": 1}
-{}
-{}
-{}
-{}
-{"Japanese": 1}
-{"United States": 1}
-{}
-{}
-{"South Africa": 3, "Hlabisa": 1, "KwaZulu-Natal": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"rat": 1}
-{}
-{"Veterans Integrated Service Network 20": 1, "Veterans Healthcare Administration": 1}
-{"British": 1, "Caerphilly": 1}
-{}
-{}
-{"England": 3}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Vietnam": 2}
-{}
-{}
-{}
-{}
-{}
-{"Chinese": 3, "China": 2}
-{"United States": 2, "U.K.": 1}
-{}
-{"Mayo Clinic": 1}
-{}
-{}
-{}
-{}
-{"US": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Masih Daneshvari hospital": 1, "Tehran": 1, "Iran": 1}
-{}
-{"British": 3}
-{}
-{"human umbilical cord vein endothelial cells": 1, "HUVECs": 1, "HUVEC": 2, "COS7": 1, "bovine aortic endothelial cells": 1, "BAECs": 1, "thoracic aorta": 1}
-{}
-{"National Surgical Adjuvant Breast & Bowel Project": 1}
-{"mouse": 4, "human": 1}
-{"World Health Organization": 2, "International": 1, "US": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"murine": 2, "mice": 1, "C57BL/6": 1, "B6": 1}
-{}
-{}
-{}
-{}
-{}
-{"World Health Organization": 1}
-{}
-{"Portuguese": 1, "Japanese": 1, "European": 1}
-{}
-{}
-{"Asia": 1, "Africa": 1, "Southeast Asia": 1}
-{}
-{"Caenorhabditis elegans": 1}
-{}
-{}
-{}
-{}
-{"human": 1}
-{}
-{}
-{}
-{}
-{}
-{"Kigali": 1, "Rwanda": 1, "Lusaka": 1, "Zambia": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Chinese": 4, "Han": 4, "Beijing": 1}
-{}
-{}
-{}
-{}
-{"rat": 4, "mouse": 2, "mice": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Western Australia": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"British": 3, "West of Scotland": 1, "European": 1, "UK": 1, "Australia": 1, "European Union": 1}
-{}
-{"human": 1, "mouse": 1}
-{}
-{"Swedish": 1, "Sweden": 1}
-{"Escherichia coli": 2, "Bacillus subtilis": 2, "Saccharomyces cerevisiae": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Nosema locustae": 1, "Plasmodium knowlesi": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Turkish": 1}
-{"macaque": 2, "temporal": 6, "parietal": 6, "frontal": 5, "ventrolateral": 3, "inferior parietal lobule": 3, "superior temporal sulcus": 2, "extreme capsule": 1, "superior longitudinal fasciculus": 1, "arcuate fasciculus": 1, "ventral premotor cortex": 1, "ventral area 6": 1, "left hemisphere": 1, "human": 4, "nonhuman": 1, "primate": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Caucasians": 4, "non-Caucasians": 3, "latitude": 8, "equator": 1, "global": 2, "worldwide": 1}
-{"human": 1, "HepG2": 1, "mouse": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"ARIC": 5}
-{}
-{}
-{}
-{"Hispanic": 3, "non-Hispanic White": 2, "European": 1, "U.S.": 1, "Mexicans": 1}
-{}
-{}
-{}
-{"Danish": 5, "Denmark": 1, "Copenhagen": 1, "Scandinavian": 1}
-{}
-{}
-{}
-{"Italian": 1, "Aosta": 1, "Italy": 1}
-{}
-{}
-{}
-{}
-{}
-{"California": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{"British": 2, "UK": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Memorial Sloan Kettering Cancer Center": 2, "Commonwealth": 1}
-{}
-{}
-{"Australia": 1, "Canada": 1, "France": 1, "United States": 1}
-{"human": 3, "rabbits": 1, "rabbit": 1}
-{}
-{"BM": 3, "mice": 2, "humans": 1}
-{}
-{}
-{"Escherichia coli": 1}
-{}
-{}
-{"northeast United States": 1, "United States": 2, "Long Island": 3, "New York": 1, "Northeast": 1, "11 northeastern states": 1, "District of Columbia": 1, "New York City": 1, "Philadelphia": 2, "Pennsylvania": 1, "New Jersey": 2}
-{}
-{}
-{"UK": 1, "New Zealand": 1, "Netherlands": 1, "British": 1}
-{}
-{}
-{"HIV-1": 5, "V2": 2, "VRC26": 4, "C": 1, "CAP256": 3, "PI": 2, "SU": 3}
-{}
-{"US": 2}
-{"Northeastern Germany": 3, "Germany": 2}
-{}
-{}
-{}
-{}
-{"West Midlands": 1, "England": 1}
-{"human": 2}
-{}
-{}
-{}
-{}
-{}
-{}
-{"14 countries": 1}
-{}
-{"sub-Saharan Africa": 3, "Australia": 1, "Canada": 1, "United Kingdom": 2, "United States": 2, "Ethiopia": 1, "Kenya": 1, "Malawi": 2, "Nigeria": 1, "South Africa": 3, "Tanzania": 1, "Uganda": 2, "Zambia": 1, "Zimbabwe": 2}
-{}
-{"Western European": 1}
-{}
-{}
-{"Gothenburg": 1, "Sweden": 1, "Skillman": 1, "NJ": 1, "Medicare": 1}
-{"Skillman": 1, "NJ": 1}
-{"European countries": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Italy": 2, "Italian": 1, "Veneto Region": 2, "North-eastern Italy": 1}
-{"hepatitis B": 4, "HBV": 8, "liver": 3, "X/c-myc": 2}
-{}
-{}
-{}
-{}
-{}
-{}
-{"England": 1}
-{}
-{}
-{"Uku town": 1, "Japan": 1, "Japanese": 1}
-{}
-{"quail": 8, "Coturnix japonica": 1, "chicken": 7, "Gallus gallus": 1}
-{}
-{"developed countries": 1}
-{}
+{"chicken": 2, "birds": 2}
 {}
 {}
 {}
@@ -693,137 +799,31 @@
 {}
 {}
 {}
-{"Whitehall II": 1, "US": 1}
 {}
 {}
+{"liver": 1, "human": 1, "murine": 1}
 {}
 {}
 {}
 {}
 {}
-{"National Institutes of Health": 1}
 {}
-{"Mexican": 1, "Mexicans": 1}
 {}
-{"Cambodia": 3, "South West Cambodia": 1, "Western Cambodia": 1}
 {}
 {}
 {}
-{"Japan": 1}
 {}
 {}
 {}
+{"c57bl/6": 3, "b6": 6, "129/svj": 1}
 {}
 {}
 {}
 {}
+{"central nervous system": 2}
+{"saccharomyces cerevisiae": 1}
 {}
-{}
-{}
-{}
-{"human": 1}
-{}
-{"MHM": 8, "Z": 8, "DMRT1": 2, "BamHI": 1, "CpG": 2, "ZZW": 1, "ZZZ": 1, "W": 1}
-{}
-{}
-{}
-{"Swedish": 1}
-{}
-{"Washington D.C.": 1, "Cape Town": 1, "South Africa": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"human": 3, "hamster": 3, "anglerfish": 2}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Nigerian": 1}
-{}
-{}
-{}
-{}
-{"human": 2, "mammalian": 1}
-{"Kaposi's sarcoma": 7}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"liver": 1, "worldwide": 1, "human": 1}
-{"marmoset": 3}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Caenorhabditis elegans": 1}
-{"mice": 1, "mouse": 2}
-{}
-{}
-{"C57BL/6": 1, "B6": 8, "129/SvJ": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
+{"mouse": 1, "human": 1}
 {}
 {}
 {}
@@ -832,31 +832,34 @@
 {}
 {}
 {}
+{"caenorhabditis elegans": 1, "mammals": 1, "mouse": 1}
 {}
 {}
 {}
 {}
+{"xenopus laevis": 1, "rattus norvegicus": 1}
 {}
-{"Xenopus laevis": 1, "Rattus norvegicus": 1}
 {}
 {}
 {}
+{"saccharomyces cerevisiae": 1, "bacteria": 1, "humans": 1, "yeast": 2}
+{"human": 3, "breast": 2, "head": 1, "neck": 1}
+{"human": 5}
 {}
 {}
 {}
 {}
-{"World Health Organization": 2, "National Center for Health Statistics": 3}
-{"Ames": 2}
 {}
 {}
 {}
-{"New York": 1}
 {}
 {}
+{"white": 3, "black": 4, "oriental": 2}
 {}
-{"white": 3, "black": 4, "Oriental": 2}
 {}
 {}
+{"mammals": 1, "yeast": 1, "mice": 1}
+{"ca1": 2, "murine": 1}
 {}
 {}
 {}
@@ -866,49 +869,49 @@
 {}
 {}
 {}
+{"mouse liver": 1}
 {}
-{"human": 6, "Mouse": 3, "murine": 1}
 {}
 {}
 {}
 {}
 {}
-{"FANTOM5": 2}
 {}
 {}
 {}
 {}
+{"omaha": 1}
 {}
 {}
-{"Omaha": 1}
+{"us": 2}
 {}
 {}
-{"US": 2}
 {}
+{"bethesda, md": 1}
 {}
+{"arabidopsis thaliana": 1}
 {}
-{"Bethesda": 1, "MD": 1}
+{"united states": 1, "canada": 1}
 {}
-{"Arabidopsis thaliana": 1, "Pseudomonas syringae": 1}
-{"bovine": 2}
-{"United States": 1, "Canada": 1}
 {}
 {}
 {}
+{"japanese": 2}
 {}
-{"Japanese": 3, "Asian": 1}
 {}
+{"finland": 1}
 {}
-{"Finland": 1}
+{"d. discoidieum": 1, "s. pombe": 1, "s. cerevisiae": 1}
 {}
-{"D. discoidieum": 1, "S. pombe": 1, "S. cerevisiae": 1}
+{"mice": 1, "humans": 1}
+{"grantham hospital": 1, "university of hong kong": 1, "chinese": 1}
+{"human cerebral cortex": 1, "temporal neocortex": 1}
 {}
+{"new jersey": 1}
 {}
-{"Grantham Hospital": 1, "University of Hong Kong": 1, "Hong Kong": 1, "Chinese": 1}
-{"Human": 1}
 {}
-{"New Jersey": 1}
 {}
+{"african": 1}
 {}
 {}
 {}
@@ -916,34 +919,34 @@
 {}
 {}
 {}
-{"nasopharyngeal": 2}
 {}
+{"countries": 3, "india": 1, "nigeria": 1, "pakistan": 1, "china": 1, "democratic republic of the congo": 1, "africa": 1, "world": 2, "regions": 2}
 {}
+{"australia": 1, "brazil": 1, "canada": 1, "china": 2, "italy": 1, "japan": 1, "south korea": 1, "spain": 1, "sweden": 1, "taiwan": 1, "thailand": 2, "uk": 1, "usa": 1}
 {}
-{"193": 2, "Countries": 2, "India": 1, "Nigeria": 1, "Pakistan": 1, "China": 1, "Democratic Republic of the Congo": 1, "Africa": 1, "world": 3, "global": 2}
 {}
-{"Australia": 1, "Brazil": 1, "Canada": 1, "China": 2, "Italy": 1, "Japan": 1, "South Korea": 1, "Spain": 1, "Sweden": 1, "Taiwan": 1, "Thailand": 2, "UK": 2, "USA": 1}
+{"us": 2}
+{"uk": 2}
 {}
 {}
-{"US": 2}
-{"UK": 2}
 {}
 {}
 {}
 {}
+{"belgium-flanders": 1}
+{"sub-saharan africa": 1}
 {}
 {}
-{"Belgium-Flanders": 1}
-{"sub-Saharan Africa": 1, "African": 1}
+{"western style populations": 1}
 {}
 {}
-{"Western": 1, "abdominal": 2, "aorta": 1, "aortic": 2, "coronary": 1, "31": 1, "20": 2}
 {}
 {}
 {}
 {}
 {}
 {}
+{"zebrafish": 5, "birds": 2, "mammals": 1}
 {}
 {}
 {}
@@ -951,1499 +954,32 @@
 {}
 {}
 {}
+{"africa": 1}
 {}
 {}
 {}
-{"Africa": 1}
+{"bethesda": 1}
 {}
 {}
 {}
-{"Bethesda": 1}
 {}
 {}
 {}
 {}
+{"west africa": 1, "developed world": 1, "developing countries": 1, "developed countries": 1, "developing world": 1}
+{"europe": 1, "usa": 1, "russia": 1, "uk": 1}
 {}
 {}
 {}
-{"West Africa": 1, "developed world": 1, "developing countries": 1, "developed countries": 1, "developing world": 1}
-{"Europe": 1, "USA": 1, "Russia": 1, "UK": 1}
 {}
 {}
 {}
+{"massachusetts general hospital fertility center": 1, "boston": 1, "ma": 1, "usa": 1}
 {}
 {}
 {}
-{"Massachusetts General Hospital Fertility Center": 1, "Boston": 1, "MA": 1, "USA": 1}
-{}
-{}
-{}
-{"Australian": 1, "New Zealand": 1}
-{"Australian": 1, "North American": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"zebrafish": 1, "human": 1, "yeast": 1}
-{}
-{"Belarus": 2, "Minsk": 3, "Soviet Union": 1, "Minsk city": 1}
-{}
-{"Arabs": 1, "Chinese": 1, "Egyptians": 1, "Aztecs": 1, "Americans": 1, "Harvard": 2, "Harvard University": 1}
-{"European": 1}
-{}
-{}
-{"urban": 1, "African American": 3}
-{"Northern England": 1, "Northern": 1, "Yorkshire": 1, "England": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"tonsil": 1, "inguinal": 1}
-{"United States": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{"U.S.": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Sweden": 2}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"United States": 1, "San Francisco": 6, "Calif": 1}
-{}
-{}
-{"European": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"England": 1}
-{}
-{}
-{}
-{"United Kingdom": 1}
-{}
-{}
-{}
-{}
-{"South Africa": 9, "KwaZulu-Natal": 1, "Limpopo Province": 1, "Limpopo": 1, "Mpumalanga": 1}
-{"African-Caribbean": 3, "Toronto": 3, "Canada": 1, "Canadian": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"United Kingdom": 2, "UK": 1}
-{"Drosophila": 1, "vertebrates": 1, "chick": 1, "avian": 1, "mouse": 1}
-{"Sydney": 1}
-{}
-{}
-{}
-{"Britain": 3, "England": 1, "Scotland": 1, "Wales": 1, "UK": 1}
-{"Bethesda": 1, "MD": 1}
-{}
-{}
-{}
-{"OASIS": 2}
-{}
-{"Norwegian": 1}
-{}
-{}
-{}
-{}
-{}
-{"Italy": 1}
-{}
-{}
-{"European": 1, "EU": 3}
-{}
-{}
-{}
-{}
-{"New York": 1}
-{}
-{}
-{}
-{}
-{"mouse": 4, "human": 3}
-{"Australian": 1}
-{}
-{}
-{}
-{}
-{"Asian": 3, "Black": 3, "White": 3}
-{"Cook Islands": 1}
-{}
-{}
-{"New York State": 1}
-{}
-{"Sprague-Dawley": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"American": 2}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Germany": 1}
-{"US": 1}
-{"human": 2}
-{}
-{"Ohio": 1}
-{}
-{"countries": 3, "worldwide": 2}
-{}
-{"White-house Station": 1, "NJ": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Drosophila": 4, "Xenopus": 1, "zebrafish": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Madin-Darby": 2}
-{"Rotterdam": 1, "Netherlands": 1}
-{}
-{}
-{}
-{}
-{"central nervous system": 2, "CNS": 2, "mouse": 2, "mice": 2, "human": 1}
-{}
-{"Caenorhabditis elegans": 2, "Drosophila": 1}
-{"Kaiser Permanente Southern California": 1, "California": 1}
-{}
-{}
-{}
-{}
-{}
-{"Avon": 1, "UK": 1}
-{"human": 2}
-{"human": 2, "mouse": 1, "humans": 1, "mice": 1, "species": 1}
-{}
-{}
-{}
-{}
-{"England": 2, "UK": 1, "General Practice Patient Survey": 1, "Asian": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"World Health Organization": 2, "World Mental Health": 2, "countries": 4, "Americas": 1, "Europe": 1, "Middle East": 1, "Africa": 1, "Asia": 1, "Shanghai": 1, "United States": 1, "Colombia": 1, "Nigeria": 1}
-{"Bangladesh": 3}
-{}
-{}
-{}
-{"Africa": 1, "southeast Asia": 1}
-{"Italian": 2, "northern Europeans": 1, "Europeans": 1, "Sicily": 1, "British": 1, "Australian": 1}
-{}
-{"Dutch": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"National Cancer Institute Cohort Consortium": 1, "United States": 1, "Europe": 1, "Americans": 2}
-{}
-{}
-{}
-{}
-{}
-{}
-{"United Kingdom": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Spain": 4}
-{}
-{}
-{}
-{}
-{}
-{}
-{"US11": 5}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Escherichia coli": 2}
-{}
-{}
-{}
-{"Caulobacter crescentus": 2}
-{"United States": 2}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Italian": 2}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"university": 1}
-{}
-{}
-{}
-{}
-{"Caenorhabditis elegans": 2, "Chlamydomonas reinhardtii": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Australia": 1}
-{"South Africa": 1, "U.S.": 1}
-{"PENN STATE UNIVERSITY": 1}
-{}
-{}
-{}
-{}
-{"Pseudomonas aeruginosa": 2, "P. aeruginosa": 2, "Vibrio cholerae": 1, "Acinetobacter baylyi": 1}
-{}
-{"human": 2}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Rochester": 1, "Minn": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"pulmonary": 2}
-{}
-{}
-{}
-{"Taiwan": 4, "United States": 1, "Japan": 2}
-{}
-{}
-{}
-{"United States": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{"England": 1, "UK": 1}
-{}
-{}
-{}
-{}
-{}
-{"National Quality Forum": 1, "Centers for Medicare & Medicaid Services": 1, "State-level": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Serratia marcescens": 2, "S. marcescens": 1}
-{}
-{"US": 2, "Malaysia": 1, "Bangladesh": 1, "Dominican Republic": 1}
-{}
-{}
-{}
-{"spleen": 3}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"mouse": 5, "human": 7, "EpiSCs": 1, "ESCs": 5, "iPS": 2, "XaXa": 1}
-{"sheep": 2}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Duke Clinical Research Institute": 1, "Durham": 1, "North Carolina": 1}
-{"Escherichia coli": 2}
-{}
-{"Cairo": 1, "Egypt": 2}
-{}
-{"Ayod County": 2, "Southern Sudan": 3, "Jonglei State": 1, "Sudan": 1}
-{}
-{"China": 4}
-{}
-{}
-{}
-{}
-{"American": 1}
-{}
-{}
-{}
-{}
-{}
-{"National Research Ethics Service Committee South Central-Hampshire A": 1, "National Health Service": 1, "United Kingdom": 1}
-{"US": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"US": 1}
-{}
-{}
-{}
-{"rats": 3, "mice": 1, "lung": 2}
-{}
-{}
-{"Iowa": 2, "Washington": 1}
-{}
-{"African": 1}
-{}
-{}
-{}
-{}
-{}
-{"United States": 1}
-{}
-{"United States": 2, "US": 3}
-{"Danish": 1}
-{}
-{}
-{"Human": 2}
-{}
-{}
-{}
-{"RET": 5}
-{}
-{"human": 5, "murine": 4}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"human": 3}
-{}
-{}
-{}
-{"B95-8": 1}
-{}
-{}
-{}
-{}
-{}
-{"world": 1, "global": 2, "worldwide": 2}
-{"European": 2, "Africa": 2, "Asia": 2, "United Nations": 1, "World": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{"yeast": 2, "human": 4, "S. cerevisiae": 1, "frog": 1, "vertebrate": 1}
-{}
-{}
-{}
-{"Kenyan": 1, "Malindi": 2, "Kilifi": 2, "Kwale": 3, "Kenya": 1}
-{}
-{}
-{}
-{"132603-3": 1}
-{}
-{}
-{}
-{}
-{"chromosome 21": 4, "chromosome 8": 3, "Drosophila": 1}
-{}
-{"US": 6, "Mexican Americans": 2, "non-Hispanic blacks": 2}
-{}
-{}
-{"Asia": 2, "Chinese": 1}
-{}
-{}
-{}
-{}
-{}
-{"human": 2}
-{}
-{"Worldwide": 1, "global": 2}
-{}
-{}
-{}
-{}
-{"Alzheimer": 3}
-{"Brazil": 1, "Guatemala": 1, "India": 1, "Philippines": 1, "South Africa": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Taipei": 2, "Taiwan": 2}
-{}
-{}
-{}
-{"US": 6, "United States": 5, "OECD": 3, "187": 1, "34": 2}
-{"African": 2, "Paris": 2, "sub-Saharan Africa": 1}
-{"Asia": 3, "America": 2, "Australia": 2, "New Zealand": 2}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Drosophila melanogaster": 1, "Drosophila": 1, "Kc167": 1, "humans": 1}
-{}
-{}
-{"China": 5, "Guangzhou": 4, "Southeast Asia": 2, "Thailand": 1, "Indonesia": 1, "Philippines": 1}
-{"national": 2, "countries": 1, "country": 1}
-{}
-{}
-{}
-{}
-{"HepG2": 3, "human": 3}
-{}
-{}
-{}
-{"US": 1}
-{}
-{}
-{}
-{}
-{}
-{"Central America": 1, "Andes": 1}
-{"Australian": 1, "East Timor": 1, "Australia": 1}
-{}
-{}
-{}
-{}
-{"Framingham": 2}
-{"Human": 3}
-{"United States": 1}
-{}
-{}
-{"Victoria": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Cali": 2, "Colombia": 2}
-{}
-{}
-{}
-{"rhesus": 2, "human": 2, "African": 1}
-{"Tasmanian": 5, "Tasmania": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Venezuela": 2, "Trujillo": 1}
-{}
-{"human": 5, "mice": 1, "rat": 1, "mouse": 1}
-{}
-{"CAST/EiJ": 1, "C57BL/6J": 1}
-{}
-{}
-{}
-{}
-{"human": 4}
-{"South Asian": 1}
-{}
-{"Norwegian": 4, "Norwegian National Health Screening Services": 1, "Norwegian Cancer Registry": 1}
-{}
-{"mouse": 2, "C57BL/6": 1}
-{}
-{}
-{}
-{}
-{}
-{"British Columbia": 1, "Vancouver": 1}
-{}
-{}
-{}
-{}
-{"New Zealand": 3, "Caucasian": 2}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Kyoto": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Xenopus": 4}
-{}
-{"international": 1, "countries": 1, "continents": 1}
-{}
-{}
-{}
-{}
-{"Saccharomyces cerevisiae": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Aedes aegypti": 1}
-{"Caenorhabditis elegans": 3, "C. elegans": 2}
-{"United States": 3, "U.S.": 1}
-{}
-{}
-{"C.I.Parhon National Institute of Endocrinology": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"zebrafish": 4}
-{}
-{}
-{}
-{}
-{}
-{"East Asians": 2, "east Asians": 2, "European": 1, "east Asian": 1, "European-ancestry": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Saccharomyces cerevisiae": 2, "S. cerevisiae": 1, "Saccharomyces castellii": 1, "Candida glabrata": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Dutch": 1}
-{"Netherlands": 2}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Nurses' Health Study II": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"multinational": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Australian": 1}
-{}
-{}
-{}
-{}
-{"Drosophila": 1}
-{}
-{}
-{}
-{}
-{"prostate": 5}
-{}
-{}
-{}
-{"Netherlands": 3, "Northern Americas": 1, "Atlanta": 1, "USA": 1, "Dutch": 1}
-{"India": 3, "Indian": 2, "nationally": 1, "urban": 2, "rural": 2}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Africa": 2}
-{}
-{}
-{}
-{"lung": 6}
-{"vertebrates": 2, "fission yeast": 4}
-{}
-{}
-{}
-{"Chinese": 5, "Malays": 4, "Indians": 4, "Singapore": 4, "Indian": 3, "Malay": 3, "Chinese females": 2, "island state of Singapore": 1}
-{}
-{}
-{}
-{}
-{}
-{"human": 3}
-{}
-{"St. James's University Fertility Control Clinic": 1, "England": 1, "Afro-Caribbean": 1, "Asian": 1}
-{}
-{"United States": 1, "national": 1}
-{}
-{"Chironomus": 3, "Chironomus pallividittatus": 1}
-{"rat": 2}
-{}
-{}
-{"Hong Kong": 2}
-{}
-{}
-{}
-{}
-{"North America": 1, "South America": 1}
-{}
-{}
-{}
-{"mice": 3, "humans": 1}
-{}
-{}
-{"Hong Kong": 1, "southern provinces of China": 1, "China": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Southern Sudan": 2, "Mankien": 1}
-{}
-{}
-{}
-{"Caucasians": 1}
-{}
-{"Norway": 1, "Norwegian": 2, "Vaernes": 1, "Heggelia": 1}
-{"West Nile": 3}
-{"murine": 1, "human": 1, "Jurkat": 3, "CD3": 1, "RyR1\u2212/\u2212": 1}
-{}
-{}
-{"Zaandam": 1}
-{"ABO": 1}
-{}
-{}
-{}
-{}
-{"Kenyan": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"U.S.": 3, "United States": 1}
-{"Turku": 2, "Finland": 1}
-{"Yucatan": 1}
-{}
-{"Radiation Therapy Oncology Group": 2}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"FASEB": 2}
-{}
-{}
-{"China": 4, "Chinese": 1, "Peking University": 1}
-{}
-{}
-{}
-{"Bangladesh": 3, "Netrokona": 1, "Bangla": 1, "English": 1}
-{}
-{"University hospital": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Netherlands": 1}
-{}
-{}
-{"US": 1, "Tennessee": 1, "California": 1}
-{}
-{}
-{}
-{"West Nile": 3, "American": 2}
-{}
-{}
-{}
-{"global": 5, "geographic": 2, "spatial": 6, "worldwide": 1, "mainland China": 1, "Southeast Asia": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Asian": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{"QU\u00e9bec": 1, "Caucasian": 1}
-{}
-{}
-{}
-{}
-{}
-{"Waltham": 1, "Mass": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"European": 2}
-{"US": 1, "United Kingdom": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{"African": 2, "mammalian": 2, "fly": 1, "insect": 2, "mouse": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"East Asians": 1, "European": 1, "east Asians": 2, "non-European": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{"7p15.2": 2}
-{}
-{}
-{"midwestern": 1}
-{}
-{}
-{}
-{"American": 2, "US": 5, "national": 1}
-{"Korean": 1, "Koreans": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"UK": 3, "Italy": 1, "Australia": 1, "USA": 1, "Scottish": 1}
-{}
-{"Wistar": 1}
-{}
-{}
-{}
-{"The Lancet Series": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"US": 1}
-{}
-{"UK": 5, "NHS": 1, "National Health Service": 1, "ISRCTN24647151": 1, "US": 1, "American": 1}
-{"Italian": 3}
-{"United States": 1}
-{}
-{}
-{}
-{}
-{"Drosophila": 5}
-{"human": 1}
-{}
-{}
-{}
-{"Xenopus laevis": 1, "Xenopus": 2}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"United States": 1}
-{}
-{}
-{}
-{"Asians": 6, "Singapore": 1, "Chinese": 2, "Malay": 1, "Asian-Indian": 1, "Asian": 5, "Asian-Indians": 1, "Malays": 1}
-{}
-{}
-{}
-{}
-{}
-{"human": 3}
-{}
-{}
-{"influenza": 1}
-{}
-{}
-{}
-{"US": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"England": 1, "Scotland": 1, "Wales": 1}
-{"Framingham": 2, "US": 1}
-{}
-{}
-{"Sri Lankan": 1, "Asia Pacific": 1}
-{}
-{"United States": 3, "US": 1}
-{}
-{"chicken": 2}
-{}
-{}
-{"ICU": 6, "urban": 1, "hospital": 1, "February 1, 1993": 1, "July 31, 1993": 1, "October 1, 1994": 1, "July 7, 1995": 1}
-{}
-{"yeast": 1, "fly": 1, "worm": 1, "mouse": 1, "human": 2}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Canada": 2, "Quebec": 2}
-{"The Gambia": 2, "Kenya": 2}
-{}
-{"US": 1}
-{"Global": 2, "countries": 3, "country-level": 1, "GAVI": 2, "147": 1, "countries from 1990 to 2007": 1, "region": 1, "neighboring country": 2, "Global Alliance for Vaccines and Immunisation": 1}
-{"Pseudomonas aeruginosa": 1}
-{"worldwide": 1, "UK": 3, "US": 1, "EU": 1}
-{}
-{"England": 2, "Wales": 2, "UK": 2, "NHS Health and Social Care Information Centre": 1, "Prescribing Services Partneriaeth Cydwasanaethau GIG Cymru": 1, "Office for National Statistics": 1}
-{}
-{}
-{"human": 3}
-{"European": 2, "Hamburg": 1, "Solothurn": 1, "Switzerland": 1, "London": 1}
-{}
-{}
-{"human": 11, "mice": 2, "SCID": 1, "mouse": 1, "murine": 1, "lungs": 1}
-{}
-{}
-{}
-{}
-{}
-{"British Columbia": 1, "Canada": 1, "Canadian": 1}
-{}
-{}
-{"United Kingdom": 1}
-{}
-{"Rat-1": 2, "B16": 2, "Chinese hamster ovary": 1, "NIH3T3": 1, "Rat1": 1, "PC12": 1, "human": 1, "EJ": 1, "ErbB2": 1}
-{}
-{}
-{}
-{}
-{"Xenopus": 2}
-{}
-{}
-{}
-{}
-{"African": 6, "Caribbean": 2, "African\u2010American": 2, "Africa": 1}
-{}
-{}
-{}
-{"U.S.": 1}
-{}
-{}
-{}
-{"North American": 1}
-{}
-{}
-{}
-{"Aerobics Center Longitudinal Study": 1}
-{"England": 2, "Wales": 2}
-{}
-{}
-{}
-{"Norfolk": 1, "United Kingdom": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Listeria monocytogenes": 3, "mice": 2, "L. monocytogenes": 2, "murine": 1, "liver": 1, "spleen": 1}
-{"Bacillus subtilis": 2}
-{"West Nile": 3, "United States": 1}
-{}
-{}
-{"Latin American": 2}
-{"human": 3, "rat": 1}
-{"Brown Norway": 3}
-{}
-{"S. cerevisiae": 1, "S. pombe": 2}
-{}
-{}
-{}
-{}
-{}
-{"London": 1, "Birmingham": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"UK": 1}
-{}
-{"Latin America": 4, "Latin American": 1, "Americas": 1}
-{}
-{}
-{}
-{"Spanish": 2}
-{}
-{"World Health Organization": 1, "WHO": 4, "United Nations": 1, "U.S.": 1, "countries": 6, "country": 1, "region": 1}
-{}
-{}
-{"US": 3, "United States": 1}
-{"countries": 1}
-{}
-{}
-{}
-{}
-{}
-{"Ossabaw Island": 1, "Chatham County": 1, "Ga.": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"United States": 1, "US": 3, "National Health and Nutrition Examination Survey": 1, "Non-Hispanic blacks": 1, "Mexican Americans": 1, "non-Hispanic whites": 1}
-{}
-{}
-{}
-{}
-{}
-{"France": 1, "French": 1, "Eastern Cooperative Oncology Group": 1, "Royal Marsden Hospital": 1, "ClinicalTrials.gov": 1, "NCT01771458": 1}
-{}
-{"Irish": 2, "arctic": 1}
-{}
-{"California": 1, "northern California": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Africa": 1, "India": 1, "Papua New Guinea": 1, "the Philippines": 1, "Thailand": 1, "Canadian": 1}
-{}
-{}
-{"Chinese": 5, "Han": 4, "Caucasians": 2}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Oxford": 1}
-{}
-{}
-{"U.S.": 1}
-{}
-{}
-{}
-{"caucasian": 1, "Quebec": 1, "Canada": 1}
-{"Raleigh-Durham": 1, "North Carolina": 1}
-{}
-{}
-{}
-{"Bath": 1, "NHS Centre for Reviews and Dissemination": 1, "London": 1}
-{"Swedish": 2, "Sweden": 0, "Northern European": 1}
-{}
-{}
-{}
-{"United States": 1}
-{}
-{"humans": 1}
-{}
-{}
-{}
-{}
-{"England": 1}
-{}
-{}
-{"Swedish": 1, "Ontario": 1, "National Health Service": 1}
-{}
-{}
-{}
-{"Aedes aegypti": 3, "Dengue": 1}
-{"TwinsUK": 1}
-{}
-{"south Asians": 2, "Indian subcontinent": 1, "South Asian": 1, "South Asians": 2}
-{}
-{"UK": 1}
-{}
-{}
-{}
-{}
-{}
-{"US": 1, "White": 3, "African-American": 2}
-{}
-{"Global": 10, "regional": 1, "national": 2, "World": 1, "Socio-demographic Index": 1, "SDI": 3, "sub-Saharan Africa": 1, "countries": 2}
-{"human": 10}
-{"China": 1}
-{}
-{}
-{}
-{}
-{}
-{"United States": 2, "U.S.": 1}
-{}
-{"Norway": 1}
-{}
-{"Mexico": 5, "Mexican": 2, "Mexicans": 1, "Mexican Americans": 1, "Native American": 1, "East Asians": 1, "Europeans": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"United Kingdom": 1, "UK": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{"European": 1, "Europe": 2, "France": 1, "Germany": 1, "Italy": 1, "continental Europe": 1}
-{}
-{}
-{"C57BL/KaLwRij": 3}
-{"South Africa": 3}
-{"England": 3, "Wales": 3}
-{"South Africa": 4, "South African": 2}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"KwaZulu-Natal": 1, "sub-Saharan African": 1, "South Africa": 1}
-{}
-{"UK": 1}
-{}
-{"Stanford": 1}
-{}
-{}
-{}
-{}
-{"Northern California": 1}
-{"Latin America": 1, "China": 2, "India": 2, "Cuba": 1, "Venezuela": 1, "Dominican Republic": 1, "Peru": 1, "Mexico": 1, "USA": 1}
-{}
-{"Kilifi District": 1, "Kenya": 1}
-{}
-{}
-{"Myanmar": 3, "Southeast Asia": 1}
-{"human": 4, "Africa": 1, "H952": 1}
-{}
-{}
-{}
-{"European": 1}
-{}
-{"Kenyan": 2, "sub-Saharan Africa": 1}
-{}
-{}
-{}
-{"east African great lakes region": 1, "Great Lakes region": 2, "East Africa": 2, "Uganda": 1, "Tanzania": 1, "Kenya": 1, "Burundi": 1, "Africa": 1}
-{}
-{}
-{"Sausalito": 1, "CA": 1}
-{}
-{"human": 4, "mouse": 2}
-{}
-{}
-{}
-{}
-{"Denmark": 1}
-{"sheep": 1}
-{}
-{}
-{}
-{}
-{}
-{"European": 2, "Scottish": 1}
-{}
-{"African Americans": 2, "non-African Americans": 2}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"United States": 1}
-{}
-{}
-{}
-{}
-{}
-{"globally": 1}
-{}
-{"European": 2, "Spain": 1, "Italy": 1, "Sweden": 1, "Norwegian": 1, "English": 1, "Milan": 1, "Norway": 1, "Slovakia": 1, "Europe": 1}
-{}
-{}
-{}
-{}
-{}
-{"Africa": 1, "Asia": 1, "South America": 1, "Europe": 1, "North America": 1, "countries": 2, "settings": 9}
-{"Drosophila": 3, "Mammalian": 1, "yeast": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Northwest Veterans Healthcare Administration": 1}
-{"Uganda": 1, "sub-Saharan Africa": 2, "Ugandan": 1}
-{}
-{}
-{}
-{"US": 1, "Department of Defense": 2, "United States": 1}
-{}
-{}
-{}
-{"Saccharomyces cerevisiae": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Sub-Saharan Africa": 4, "United States": 3, "SSA": 8, "US": 8, "World Health Organization": 1, "American Medical Association": 2, "South Africa": 1, "Nigeria": 1, "Ghana": 1, "Ethiopia": 1, "Sudan": 1, "Liberia": 1}
-{}
-{"human": 3}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Leishmania mexicana": 3}
-{}
-{}
-{}
-{}
-{"Cuba": 1, "Dominican Republic": 1, "Venezuela": 1, "Peru": 1, "Mexico": 1, "China": 1, "US": 1}
-{}
-{"15 countries": 2}
-{}
-{"United States": 1}
-{}
-{}
-{}
-{"Oslo University Hospital Outpatient Clinic": 1, "Oslo": 1, "Norway": 1}
-{"Finnish": 3}
-{"Asian": 2, "Caucasian": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{"University-based urban HIV clinic": 1}
-{}
-{"East": 5, "West": 2, "Germany": 8, "Poland": 7, "German": 1, "Democratic Republic": 1, "GDR": 4, "Federal Republic": 1, "East German": 1, "East-west": 1}
-{"U.S.A.": 1}
-{}
-{}
-{}
-{"Italy": 2}
-{}
-{}
+{"australian": 1, "new zealand": 1}
+{"australian": 1, "north american": 1}
 {}
 {}
 {}
@@ -2454,35 +990,1499 @@
 {}
 {}
 {}
-{"Arabidopsis thaliana": 2, "Columbia": 1, "Col-0": 3, "Landsberg erecta": 1, "Ler": 2}
-{"BALB/c": 3, "C.B10": 2, "C57BL/10": 1, "C57BL/6": 1}
-{}
-{}
-{"Mouse": 2}
-{}
-{"National Survey of Children with Special Health Care Needs": 1, "states": 1}
-{"Seattle": 1, "Washington": 1}
-{"UK": 1, "British": 1, "US": 4}
 {}
 {}
 {}
 {}
+{"zebrafish": 1}
+{}
+{"belarus": 2, "minsk": 3, "soviet union": 1}
+{}
+{"arabs": 1, "chinese": 1, "egyptians": 1, "aztecs": 1, "americans": 1, "harvard university": 1}
+{"european": 1}
 {}
 {}
-{"Egypt": 4, "Egyptian": 1}
-{"Cabarrus": 3, "Kannapolis": 2, "NC": 1, "ZIP code": 2, "Census": 3}
-{}
-{"Bogalusa": 2, "Young Finns Study": 1}
-{}
-{}
-{}
-{"Zanzibar": 4, "Pemba": 3, "Unguja": 3}
+{"urban": 1, "community": 3}
+{"northern england": 1, "northern and yorkshire cancer registry": 1}
 {}
 {}
 {}
 {}
-{"Deinococcus": 3}
-{"British Columbia": 1}
+{}
+{}
+{}
+{}
+{}
+{"united states": 1}
+{}
+{}
+{}
+{"jellyfish": 1, "mice": 1, "caenorhabditis elegans": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"bacterium": 1, "bacillus subtilis": 2, "bacteria": 1, "plants": 1}
+{}
+{}
+{}
+{"sweden": 2}
+{}
+{}
+{}
+{}
+{"liver": 5}
+{}
+{}
+{"united states": 1, "san francisco": 4, "calif": 1}
+{}
+{}
+{"european countries": 1}
+{}
+{}
+{}
+{}
+{}
+{"city of hope": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"countries": 1, "postcode": 1, "north of england": 1}
+{}
+{}
+{}
+{"united kingdom": 1}
+{}
+{}
+{}
+{}
+{"south africa": 8, "kwazulu-natal": 1, "limpopo province": 1, "mpumalanga": 1}
+{"african-caribbean": 3, "toronto": 2, "canada": 1}
+{}
+{}
+{}
+{}
+{"human": 1, "mouse": 1, "colorectal": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"united kingdom": 2, "uk": 1}
+{"avian": 2, "drosophila": 1, "vertebrates": 1, "chick": 1, "mouse": 1}
+{"sydney": 1}
+{}
+{}
+{}
+{"britain": 3, "england": 1, "scotland": 1, "wales": 1, "uk": 1}
+{"bethesda, md": 1}
+{}
+{}
+{}
+{"countries": 1}
+{}
+{"norwegian": 1}
+{}
+{}
+{}
+{}
+{}
+{"italy": 1}
+{}
+{}
+{"eu": 2, "european": 1}
+{}
+{}
+{}
+{}
+{"new york": 1}
+{}
+{}
+{}
+{}
+{}
+{"australian": 1}
+{}
+{}
+{"xenopus": 1}
+{}
+{"asian": 3, "black": 3, "white": 3}
+{"cook islands": 1}
+{}
+{}
+{"new york state": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"usa": 1}
+{}
+{}
+{"anopheles gambiae": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"germany": 1}
+{"us": 1}
+{"human": 3}
+{}
+{"ohio": 1}
+{}
+{"global": 1, "cross-national": 1, "countries": 2, "worldwide": 2, "low- and middle-income countries": 2}
+{"human": 3}
+{"white-house station, nj": 1}
+{}
+{}
+{}
+{}
+{"human": 1, "c. elegans": 1}
+{}
+{"drosophila": 4, "xenopus": 1, "zebrafish": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"madin-darby": 2}
+{"netherlands": 1}
+{}
+{}
+{}
+{}
+{"central nervous system": 3, "cns": 1, "mouse": 2, "mice": 2, "human": 1}
+{"western": 2}
+{"caenorhabditis elegans": 2, "drosophila": 1}
+{"kaiser permanente southern california": 1}
+{}
+{}
+{}
+{"bone marrow": 2, "spleen": 1}
+{}
+{"avon": 1}
+{"human": 2}
+{"human": 3, "mouse": 1, "humans": 1, "mice": 1}
+{"salivary glands": 2}
+{}
+{}
+{}
+{"england": 2, "uk": 1}
+{}
+{}
+{}
+{"auditory cortex": 2, "cortex": 2, "cat auditory cortex": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"world health organization": 2, "americas": 1, "europe": 1, "middle east": 1, "africa": 1, "asia": 1, "shanghai": 1, "united states": 1, "colombia": 1, "nigeria": 1}
+{"bangladesh": 2}
+{}
+{}
+{}
+{"africa": 1, "southeast asia": 1}
+{"italian": 2, "northern europeans": 1, "europeans": 1, "sicily": 1, "british/australian": 1}
+{"hypocenter": 1}
+{"dutch": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"japanese": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"drosophila melanogaster": 2}
+{}
+{"mitochondria": 2, "muscle mitochondria": 1, "human": 2, "mouse": 1, "neurospora": 1}
+{"united states": 1, "europe": 1}
+{}
+{"escherichia coli": 2}
+{}
+{}
+{}
+{}
+{"united kingdom": 1}
+{}
+{}
+{}
+{}
+{}
+{"drosophila": 1}
+{"spain": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"mice": 1, "mouse": 1}
+{}
+{}
+{"escherichia coli": 2}
+{}
+{}
+{}
+{}
+{"united states": 2}
+{}
+{}
+{"mouse": 1, "human": 1}
+{}
+{}
+{"bovine": 1, "aortic": 2, "rats": 1}
+{}
+{}
+{}
+{}
+{"mice": 1, "humans": 2}
+{"italian": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{"paris": 1}
+{}
+{}
+{"bovine": 3, "ruminants": 1, "monogastric": 1, "dairy cows": 2}
+{"university teaching hospital": 1}
+{}
+{}
+{}
+{}
+{"caenorhabditis elegans": 2, "chlamydomonas reinhardtii": 1}
+{}
+{"caenorhabditis elegans": 2}
+{}
+{}
+{}
+{}
+{"australia": 1}
+{"south africa": 1, "u.s.": 1}
+{"penn state university": 1}
+{}
+{"mammalian": 1, "mouse": 1, "human": 1}
+{"liver": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"rochester, minn": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"taiwan": 3, "united states": 1, "japan": 2}
+{}
+{}
+{}
+{"united states": 1, "world": 2}
+{}
+{}
+{"aachen": 1}
+{}
+{}
+{}
+{"england": 1, "uk": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"earth": 3}
+{}
+{"egyptians": 1}
+{}
+{}
+{"gastric": 2, "human": 2}
+{}
+{}
+{}
+{"us": 2, "malaysia": 1, "bangladesh": 1, "dominican republic": 1}
+{}
+{"xenopus": 2}
+{}
+{"spleen": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{"yeast": 3, "saccharomyces cerevisiae": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"duke clinical research institute": 1, "durham": 1, "north carolina": 1, "international": 1}
+{"escherichia coli": 2, "saccharomyces cerevisiae": 1}
+{}
+{"cairo": 1, "egypt": 2}
+{}
+{"ayod county": 2, "southern sudan": 3, "jonglei state": 1}
+{"industrialized countries": 1}
+{"china": 3, "rural china": 2, "province": 1, "county": 2, "townships": 2, "eastern china": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"united kingdom": 1, "south central-hampshire": 1}
+{"us": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"uk": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sea urchin": 1}
+{}
+{"african": 1}
+{}
+{"us": 1}
+{}
+{}
+{}
+{"human": 5, "mice": 1, "rat": 3, "rats": 3, "lungs": 1}
+{}
+{}
+{"iowa": 2, "washington counties": 1}
+{}
+{"african": 1}
+{}
+{}
+{}
+{}
+{}
+{"united states": 1}
+{}
+{"united states": 2, "us": 2}
+{"danish": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"saccharomyces cerevisiae": 1}
+{"human": 4}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"global": 5, "european": 2, "africa": 2, "asia": 2, "united nations": 1}
+{"intestine": 3}
+{}
+{}
+{}
+{}
+{}
+{"yeast": 2, "human": 4, "s. cerevisiae": 1, "frog": 1, "vertebrate": 1}
+{}
+{"african": 1}
+{}
+{"kenyan coast": 1, "malindi": 2, "kilifi": 2, "kwale": 2, "kenya": 1, "kwale district": 2}
+{}
+{}
+{}
+{"geographic": 4, "local region": 2, "cities": 2}
+{}
+{"drosophila": 2}
+{}
+{}
+{}
+{}
+{"us": 4, "mexican americans": 2, "non-hispanic blacks": 2}
+{}
+{}
+{"asia": 2, "chinese": 1}
+{}
+{}
+{}
+{}
+{}
+{"human": 3, "mammalian": 2}
+{}
+{"worldwide": 2, "global": 2}
+{}
+{}
+{}
+{}
+{}
+{"brazil": 1, "guatemala": 1, "india": 1, "the philippines": 1, "south africa": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"taipei": 2, "taiwan": 2}
+{}
+{}
+{}
+{"united states": 5, "us": 4, "oecd": 3}
+{"paris": 2, "sub-saharan africa": 1, "africa": 1}
+{"asia": 3, "america": 2, "australia": 2, "new zealand": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"drosophila melanogaster": 2}
+{}
+{}
+{"china": 4, "guangzhou": 3, "tropical": 1, "subtropical": 1, "southeast asia": 2, "thailand": 1, "indonesia": 1, "philippines": 1}
+{"national": 2, "countries": 1, "country": 1}
+{}
+{}
+{}
+{}
+{"hepg2": 3, "human": 3}
+{}
+{}
+{}
+{"us": 1}
+{}
+{}
+{}
+{}
+{}
+{"central america": 1, "andes": 1}
+{"east timor": 1, "australia": 1}
+{"mouse": 1, "human": 1}
+{}
+{}
+{"drosophila": 1, "mammals": 2, "mice": 1, "humans": 1}
+{}
+{"human": 3, "umbilical cord": 2, "liver": 2}
+{"united states": 1}
+{}
+{}
+{"victoria": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"cali": 2, "colombia": 2}
+{}
+{}
+{}
+{"rhesus": 2, "human": 2, "baboon": 1, "african green monkey": 1}
+{"tasmania": 2}
+{}
+{}
+{"sea urchin": 1, "fish": 1, "drosophila": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"venezuela": 2, "trujillo": 1}
+{}
+{"mice": 1, "vivo": 2, "rat": 1, "scid mouse": 1}
+{}
+{"mouse": 1}
+{}
+{}
+{}
+{}
+{}
+{"south asian": 1, "developing countries": 1}
+{}
+{"norwegian": 3}
+{}
+{"mouse": 2, "c57bl/6": 1}
+{"human": 2, "rat": 2}
+{}
+{}
+{}
+{}
+{"british columbia": 1, "vancouver": 1}
+{}
+{}
+{}
+{}
+{"new zealand": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"caenorhabditis elegans": 1}
+{}
+{}
+{}
+{}
+{"human": 3, "rats": 1}
+{"xenopus": 4}
+{"caenorhabditis elegans": 1}
+{"international": 1, "centers": 1, "countries": 1, "continents": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"mosquito": 5, "mosquitoes": 3, "nature": 2, "aedes aegypti": 1}
+{}
+{"united states": 2, "u.s.": 1}
+{}
+{}
+{"c.i.parhon national institute of endocrinology": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"human umbilical vein endothelial cells": 2}
+{"humans": 2}
+{}
+{}
+{}
+{}
+{"zebrafish": 3}
+{}
+{"drosophila": 1}
+{}
+{"drosophila": 3, "mouse": 1, "humans": 1, "insect": 1, "mammalian": 1, "vertebrates": 1, "ascidians": 1, "insects": 1, "cephalopods": 1, "nemerteans": 1, "metazoa": 1}
+{}
+{"east asians": 2, "east asian": 2, "european": 2, "european-ancestry": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"dutch": 1}
+{"netherlands": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"windows": 2, "mac os x": 2, "linux": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"australian": 1}
+{}
+{"mouse": 3, "human": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"netherlands": 2, "northern americas": 1, "usa": 1, "dutch": 1}
+{"india": 3, "indian": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{"human populations": 2, "africa": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"singapore": 4, "chinese": 4, "malays": 4, "indians": 4, "island state": 1}
+{"caenorhabditis elegans": 1}
+{}
+{}
+{}
+{}
+{"human": 3}
+{}
+{"england": 1}
+{}
+{"united states": 1}
+{}
+{}
+{"atrioventricular junction": 1, "atrioventricular node": 2, "avn": 3, "rat": 2, "av bundle": 2, "left bundle branch": 1, "inferior nodal extension": 2, "transitional zone": 2}
+{"spleen": 3}
+{}
+{"hong kong": 2, "district council constituency area": 1}
+{}
+{"england": 1}
+{}
+{}
+{"north america": 1, "south america": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"hong kong": 1, "southern provinces of china": 1}
+{}
+{"drosophila": 2}
+{}
+{}
+{}
+{}
+{}
+{"humans": 2, "human": 1}
+{}
+{"southern sudan": 3, "mankien payam": 1}
+{}
+{}
+{}
+{"caucasians": 1}
+{}
+{"norway": 1, "norwegian national guard": 2, "vaernes": 1, "heggelia": 1}
+{"west nile": 3}
+{}
+{}
+{}
+{"zaandam": 1}
+{}
+{}
+{}
+{}
+{}
+{"kenyan": 1}
+{}
+{}
+{}
+{"archaea": 1, "bacteria": 1, "euryarchaea": 1, "crenarchaeota": 1, "crenarchaeon": 1, "sulfolobus acidocaldarius": 1}
+{}
+{}
+{}
+{"escherichia coli": 1}
+{}
+{}
+{}
+{}
+{}
+{"u.s.": 3, "united states": 1}
+{"turku": 2, "finland": 1}
+{}
+{"mouse": 2, "human": 1, "drosophila": 1}
+{}
+{}
+{}
+{}
+{"international": 1, "american": 1}
+{}
+{}
+{"human": 3}
+{}
+{"hippocampus": 3, "rat hippocampus": 1, "hippocampal slices": 2}
+{}
+{}
+{}
+{"china": 3, "provinces of china": 1, "peking university": 1}
+{}
+{}
+{}
+{"bangladesh": 3, "netrokona district": 1, "rural bangladesh": 1}
+{"saccharomyces cerevisiae": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"netherlands": 1}
+{}
+{}
+{"us": 1, "tennessee": 1, "california": 1}
+{}
+{}
+{}
+{"wild birds": 1, "american crows": 1, "house sparrows": 1, "american robins": 1}
+{}
+{}
+{}
+{"global": 3, "geographic": 2, "mainland china": 1, "southeast asia": 1}
+{}
+{}
+{}
+{}
+{"animals": 2, "fungi": 2, "plants": 2, "arabidopsis": 1}
+{}
+{}
+{}
+{"asian": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"qu\u00e9bec": 1}
+{}
+{}
+{}
+{}
+{}
+{"waltham, mass": 1}
+{}
+{}
+{}
+{"spinal": 4, "periphery": 1, "brain": 1, "spinal cord": 1, "periaqueductal grey": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"european": 2}
+{"united kingdom": 1, "us": 1}
+{"human": 4}
+{"drosophila": 1}
+{}
+{}
+{}
+{"hela cells": 1}
+{"african": 2, "mammalian": 2, "insect": 1, "mouse": 1}
+{}
+{}
+{}
+{"saccharomyces": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"saccharomyces cerevisiae": 1}
+{"east asians": 3, "european": 2}
+{}
+{"drosophila": 1, "lung": 2, "murine": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"midwestern": 1}
+{}
+{}
+{}
+{"us": 4, "american": 2}
+{"korean": 2, "koreans": 1}
+{}
+{}
+{}
+{}
+{}
+{"us": 1}
+{}
+{}
+{"uk": 2, "italy": 1, "australia": 1, "scottish": 1, "usa": 1}
+{}
+{}
+{}
+{}
+{}
+{"countries": 2, "world": 1}
+{"murine": 1, "human": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"human": 1}
+{"us": 1}
+{}
+{"uk": 3, "national health service": 1, "nhs": 1, "us": 1}
+{"italian": 3}
+{"united states": 1}
+{}
+{}
+{}
+{}
+{"drosophila": 4}
+{}
+{}
+{}
+{}
+{"xenopus laevis": 1}
+{}
+{"mice": 1, "human": 2, "mouse": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"united states": 1}
+{}
+{}
+{}
+{"asians": 5, "singapore": 1, "asian": 2, "asian-indian": 1, "malays": 1, "chinese": 1, "asia": 1}
+{}
+{}
+{}
+{}
+{}
+{"human": 3}
+{}
+{}
+{}
+{"sydney": 1}
+{}
+{}
+{"us": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"england": 1, "scotland": 1, "wales": 1}
+{"us": 1}
+{}
+{}
+{"rural developing world": 1, "industrialised countries": 1, "sri lankan": 1, "rural asia pacific": 1}
+{}
+{"united states": 3, "us": 1}
+{}
+{}
+{}
+{}
+{"icu": 5, "coronary care unit": 1, "urban": 1, "hospital": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"canada": 2, "quebec": 2}
+{"the gambia": 2, "kenya": 2}
+{}
+{"us": 1}
+{}
+{}
+{"uk": 2, "us": 1, "eu": 1, "worldwide": 1}
+{}
+{"england": 3, "wales": 3, "uk": 2}
+{"university athletic facilities": 1}
+{}
+{}
+{"european": 2, "hamburg": 1, "solothurn": 1, "switzerland": 1, "london": 1}
+{"international": 1, "countries": 1}
+{}
+{"human": 8, "murine": 1}
+{}
+{}
+{}
+{}
+{}
+{"british columbia": 1, "canada": 1}
+{}
+{"human umbilical vein endothelial cells": 3, "mouse carotid arteries": 1}
+{"united kingdom": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"xenopus": 2}
+{}
+{}
+{}
+{"mouse": 3, "mice": 2}
+{"african": 5, "caribbean": 2, "african-american": 2, "africa": 1}
+{}
+{}
+{}
+{}
+{"human": 2, "brain": 2, "mice": 1}
+{}
+{}
+{"north american": 1}
+{}
+{"human": 3, "fetal": 1, "neonatal": 1}
+{}
+{}
+{"england": 2, "wales": 2}
+{}
+{}
+{}
+{"united kingdom": 1}
+{"drosophila": 2}
+{}
+{}
+{"c. elegans": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"c. elegans": 1, "animals": 1, "mammals": 1}
+{}
+{"liver": 1, "spleen": 1}
+{"bacillus subtilis": 3}
+{"united states": 1}
+{}
+{}
+{"latin american countries": 2}
+{"human": 3, "rat": 1}
+{"brown norway": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"london": 1, "birmingham": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"uk": 1}
+{}
+{"latin america": 3, "americas": 1}
+{}
+{}
+{}
+{"spanish": 2}
+{}
+{"countries": 4, "world": 1}
+{}
+{}
+{"us": 3, "united states": 1, "urban": 1, "neighborhood": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"ossabaw island": 1, "chatham county": 1, "ga": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"united states": 2, "us": 2, "non-hispanic blacks": 1, "mexican americans": 1, "non-hispanic whites": 1}
+{"mice": 2}
+{}
+{}
+{}
+{"e. coli": 1}
+{"france": 1, "french": 1}
+{}
+{"irish": 1, "arctic": 1}
+{}
+{"northern california": 1}
+{}
+{"humans": 1, "mice": 1}
+{}
+{}
+{}
+{}
+{}
+{"africa": 1, "india": 1, "papua new guinea": 1, "the philippines": 1, "thailand": 1, "developing countries": 2, "canadian": 1}
+{}
+{"human": 3, "mouse": 1, "chicken": 1}
+{"chinese han population": 3, "caucasians": 2, "chinese": 2}
+{}
+{}
+{}
+{}
+{}
+{"cerebellar": 3, "hippocampal": 3, "brain": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"oxford": 1}
+{}
+{}
+{"u.s.": 1}
+{}
+{}
+{}
+{"quebec": 1, "canada": 1}
+{"raleigh-durham": 1, "north carolina": 1}
+{}
+{}
+{"english": 1, "german": 1}
+{"london": 1}
+{"swedish": 2, "northern european": 1}
+{}
+{}
+{}
+{"united states": 1}
+{}
+{"humans": 1}
+{}
+{}
+{}
+{}
+{"england": 1}
+{}
+{}
+{"swedish": 1, "ontario": 1}
+{}
+{}
+{}
+{"aedes aegypti": 2}
+{"twinsuk": 1}
+{}
+{"south asians": 3, "indian subcontinent": 1}
+{}
+{"uk": 1}
+{}
+{}
+{}
+{}
+{}
+{"us": 1}
+{}
+{"global": 5, "national": 2, "subnational": 1, "sub-saharan africa": 1, "regionally": 1, "countries": 2}
+{"bacteria": 1, "humans": 2}
+{"china": 1}
+{}
+{}
+{}
+{}
+{}
+{"united states": 2, "u.s.": 1}
+{}
+{"norway": 1}
+{}
+{"mexico": 5, "native american": 1, "europeans": 1, "east asians": 1, "mexican": 2, "mexican americans": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"united kingdom": 1, "uk": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"european": 1, "europe": 2, "france": 1, "germany": 1, "italy": 1, "continental europe": 1}
+{}
+{}
+{"c57bl/kalwrij": 3}
+{"south africa": 2}
+{"england": 3, "wales": 3}
+{"south africa": 3, "south african": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"kwazulu-natal": 1, "sub-saharan african": 1, "south africa": 1}
+{}
+{"uk": 1}
+{}
+{"cerebral cortex": 2, "brain": 3, "mouse": 1}
+{}
+{}
+{}
+{}
+{"northern california": 1}
+{"latin america": 1, "china": 2, "india": 2, "cuba": 1, "venezuela": 1, "dominican republic": 1, "peru": 1, "mexico": 1, "usa": 1}
+{"drosophila": 2}
+{"kilifi district": 1, "kenya": 1}
+{}
+{}
+{"myanmar": 2, "southeast asia": 1}
+{"africa": 1}
+{}
+{}
+{}
+{"european": 1}
+{}
+{"kenyan": 2, "sub-saharan africa": 1}
+{"drosophila": 2}
+{}
+{}
+{"east african great lakes region": 1, "great lakes region": 2, "uganda": 1, "tanzania": 1, "kenya": 1, "burundi": 1, "east africa": 2}
+{}
+{}
+{"sausalito, ca": 1}
+{}
+{"human": 4, "mammalian": 1}
+{}
+{"mouse": 1, "human": 1}
+{}
+{}
+{"denmark": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"european": 2, "scottish": 1}
+{}
+{"african americans": 2}
+{}
+{}
+{"yeast": 1}
+{}
+{}
+{}
+{"mouse": 3}
+{}
+{}
+{"human": 2}
+{}
+{}
+{}
+{}
+{}
+{"united states": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"european": 2, "spain": 1, "italy": 1, "sweden": 1, "norwegian": 1, "english": 1, "milan": 1, "norway": 1, "slovakia": 1}
+{}
+{}
+{}
+{}
+{"human": 6}
+{"africa": 1, "asia": 1, "south america": 1, "europe": 1, "north america": 1, "low-income settings": 4, "high-income settings": 4, "low-income countries": 1, "high-income countries": 1, "developing countries": 1, "resource-poor settings": 1}
+{"drosophila": 3, "yeast": 1}
+{}
+{"mouse": 2, "embryo": 2, "midbrain-hindbrain junction": 1, "cervical trunk": 1, "lower trunk": 1}
+{}
+{"fission yeast": 3, "human": 1, "budding yeast": 2}
+{}
+{}
+{}
+{"human": 3}
+{}
+{"commelina diffusa": 1}
+{}
+{}
+{"northwest veterans healthcare administration": 1}
+{"uganda": 1, "sub-saharan africa": 2}
+{}
+{}
+{}
+{"us": 1, "united states": 1}
+{"rat": 2}
+{}
+{}
+{"yeast": 1}
+{"hippocampus": 2, "lateral ventricles": 1, "olfactory bulb": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sub-saharan africa": 4, "united states": 4, "ssa": 5, "south africa": 1, "nigeria": 1, "ghana": 1, "ethiopia": 1, "sudan": 1, "liberia": 1}
+{}
+{}
+{}
+{"yeast": 4, "eukaryotic": 1, "humans": 1, "mammals": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"london": 1}
+{}
+{"leishmania mexicana": 3}
+{}
+{}
+{}
+{}
+{"cuba": 1, "dominican republic": 1, "venezuela": 1, "peru": 1, "mexico": 1, "china": 1}
+{}
+{"15 countries": 2}
+{}
+{"united states": 1}
+{}
+{}
+{}
+{"oslo": 2, "norway": 1}
+{"finnish": 3}
+{"asian": 2, "caucasian": 1}
+{}
+{}
+{}
+{}
+{"eukaryotic": 1, "arabidopsis": 1}
+{}
+{"university-based urban hiv clinic": 1}
+{}
+{"east germany": 3, "west germany": 1, "poland": 5, "germany": 3, "german democratic republic": 2, "federal republic": 1}
+{"u.s.a.": 1}
+{}
+{}
+{}
+{"italy": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"munich": 1}
+{}
+{}
+{"arabidopsis thaliana": 2, "columbia": 1, "landsberg erecta": 1}
+{"balb/c": 3, "c57bl/10": 1, "c.b10": 2, "c57bl/6": 1}
+{}
+{"lung": 2, "heart": 1, "kidney": 1, "small intestine": 1, "brain": 1, "pancreas": 1, "aorta": 1, "liver": 1, "spleen": 1}
+{}
+{}
+{}
+{"seattle": 1, "washington": 1}
+{"uk": 1}
+{}
+{}
+{}
+{}
+{"african": 1}
+{}
+{"egypt": 4, "egyptian": 1}
+{"kannapolis": 2, "cabarrus county": 2, "nc": 1, "zip code": 2, "census tracts": 2}
+{}
+{"bogalusa": 2, "finns": 1}
+{}
+{}
+{}
+{"zanzibar": 3, "pemba": 2, "unguja": 2, "island": 1}
+{}
+{}
+{}
+{"windows": 1, "mac os": 1, "linux": 1}
+{}
+{"british columbia": 1}
 {}
 {"yeast": 1}
 {}
@@ -2492,182 +2492,182 @@
 {}
 {}
 {}
+{"legionella": 3, "legionnaires'": 1}
 {}
 {}
 {}
 {}
 {}
 {}
+{"african": 1}
+{"uk": 1}
 {}
-{"African": 2}
-{"UK": 1}
 {}
 {}
+{"human": 5}
+{"rat hippocampal": 1}
 {}
+{"jerusalem": 2, "west jerusalem": 1}
 {}
 {}
 {}
-{"Jerusalem": 2, "West Jerusalem": 1}
 {}
 {}
 {}
 {}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Finnish": 1}
-{}
-{}
-{"Epstein-Barr virus": 2, "EBV": 6}
-{}
-{"Japanese": 1}
-{}
-{"Anopheles gambiae": 5}
-{}
-{"European Union": 1, "UK": 2, "Victoria": 1, "Australia": 1, "South Africa": 1, "Finland": 1, "Switzerland": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Swedish": 1, "Sweden": 1}
-{}
-{"Netherlands": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{"northern Sri Lanka": 2, "Sri Lanka": 2, "Tamil": 1}
-{"mammalian": 5, "chick": 2, "Drosophila": 2}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"world": 3, "U.S.": 1, "U.K.": 1, "Europe": 1, "Japan": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"HeLa": 2}
-{"rodents": 1, "humans": 2, "mice": 1, "mouse": 2, "human": 2}
-{}
-{}
-{}
-{}
-{"mammalian": 4, "urodele": 2, "amphibians": 1, "teleost": 1, "fish": 1, "mammals": 2}
-{}
-{}
-{"Medicare": 4, "Medicaid": 1, "NHATS": 2}
-{"Linux": 1, "Mac OS X": 1, "NetBSD": 1, "Solaris": 1, "Windows XP": 1, "Hamburg": 1}
-{}
-{}
-{}
-{"C. elegans": 2}
-{"Australia": 2}
-{}
-{}
-{"U.S.": 1, "American": 1, "Chinese": 1}
-{"C. elegans": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{"United States": 1, "New Hampshire": 1, "NH": 1}
-{}
-{}
-{}
-{}
-{"human": 2, "mouse": 2, "rat": 1, "chicken": 1}
-{"Brazil": 1}
-{}
-{"Tehran": 1, "Iran": 1}
-{"South Asia": 3}
-{}
-{}
-{}
-{}
-{}
-{"mammalian": 3, "mitochondrial": 4, "bovine": 2, "liver": 1}
-{"European": 1, "Europe": 1}
-{"Icelandic": 1}
-{}
-{}
-{}
-{}
-{"human": 4, "mouse": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"NHS": 1}
 {"human": 1}
 {}
-{"Copenhagen": 4, "Glostrup": 1, "Denmark": 1}
-{"Helmholtz-Zentrum Berlin": 2, "Berlin": 1, "BESSY II": 1, "Europe": 1}
+{"multiethnic cohort": 2}
+{"finnish": 1}
+{"humans": 1, "halobacterium": 1}
+{}
+{}
+{}
+{"japanese": 1}
+{}
+{"anopheles gambiae": 6}
+{}
+{"european union": 1, "uk": 2, "victoria australia": 1, "south africa": 1, "switzerland": 1, "newcastle": 1, "finnish": 1}
+{}
+{"brain": 2, "cns": 2, "optic nerve": 1}
 {}
 {}
 {}
 {}
+{"swedish": 1, "sweden": 1}
 {}
-{"United Kingdom": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Human": 5}
-{"Huntington's": 3, "Alzheimer's": 1, "human": 1}
-{"European": 1}
-{}
-{"Southern California": 1, "Santa Barbara Channel": 2, "SBC": 4, "Deepwater Horizon": 2, "DWH": 3}
+{"netherlands": 1}
 {}
 {}
 {}
 {}
 {}
 {}
+{"northern sri lanka": 3, "sri lanka": 2}
+{"mammalian": 4, "chick": 2, "drosophila": 2}
+{}
+{}
+{"drosophila": 1}
+{}
+{}
+{"olfactory bulb": 1, "cortex": 1, "striatum": 1, "septum": 1, "forebrain": 1}
+{}
+{"world": 2, "u.s.": 1, "u.k.": 1, "europe": 1, "japan": 1}
 {}
 {}
 {}
-{"Norwegian": 1}
 {}
 {}
 {}
-{"Swiss": 1}
-{"Taiwanese": 2}
 {}
 {}
-{"United Kingdom": 1, "France": 1}
-{"national": 5, "regions": 1}
+{}
+{"rodents": 1, "humans": 1, "mouse": 2}
+{}
+{}
+{}
+{}
+{"mammalian": 3, "urodele": 2}
+{}
+{}
+{}
+{"linux": 1, "mac os x": 1, "netbsd": 1, "solaris": 1, "windows xp": 1}
+{}
+{"cryptococcus neoformans": 3, "galleria mellonella": 2}
+{}
+{}
+{"australia": 2}
+{}
+{}
+{"u.s.": 1, "american": 1, "chinese": 1}
+{"c. elegans": 1}
+{}
+{"drosophila": 1}
+{}
+{}
+{"human": 5}
+{}
+{"united states": 1, "new hampshire": 1}
+{}
+{}
+{"s. cerevisiae": 2, "yeast": 1}
+{}
+{"human": 2, "mouse": 2, "rat": 1, "chicken": 1}
+{"brazil": 1}
+{}
+{"tehran": 1, "iran": 1}
+{"low- and middle-income countries": 3, "south asia": 3, "urban settings": 1}
+{}
+{}
+{}
+{}
+{}
+{"mammalian": 2, "bovine": 2}
+{"european": 1, "nine european countries": 1}
+{"icelandic": 1}
+{}
+{"mouse": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"copenhagen": 3, "denmark": 1, "glostrup": 1}
+{"helmholtz-zentrum berlin": 2, "bessy ii": 1, "europe": 1}
+{}
+{}
+{}
+{}
+{}
+{"united kingdom": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"southern california": 1, "santa barbara channel": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"saccharomyces cerevisiae": 2}
+{}
+{}
+{"norwegian": 1}
+{}
+{}
+{}
+{"swiss": 1}
+{"taiwanese": 2}
+{}
+{"yeast": 1, "humans": 1}
+{"united kingdom": 1, "france": 1}
+{"national": 3}
 {}
 {"global": 1, "29 countries": 1}
 {}
 {}
 {}
-{"United States": 1}
+{"united states": 1}
 {"mice": 2}
 {}
 {}
@@ -2677,62 +2677,22 @@
 {}
 {}
 {}
-{"primate": 3, "humans": 2, "nonhuman primates": 1, "rodents": 1}
 {}
 {}
 {}
 {}
 {}
-{"U.S.": 1}
 {}
-{"Tasmania": 1}
+{"u.s.": 1}
 {}
+{"tasmania": 1, "latitudes 41-3 degrees s": 1}
+{"zebrafish": 1}
 {}
-{"United States": 1}
-{"zebrafish": 2}
+{"united states": 1}
+{"zebrafish retina": 2}
 {}
-{}
-{"Switzerland": 1, "Swiss": 2, "US": 1}
-{}
-{}
-{"kidney": 6, "lung": 4, "kidneys": 5, "lungs": 4}
-{}
-{}
-{}
-{}
-{"United States": 1, "US": 1}
-{}
-{}
-{}
-{}
-{}
-{"mouse": 1}
-{}
-{}
-{}
-{}
-{}
-{"Sweden": 1, "Swedish": 1}
-{}
-{}
-{"FINRISK97": 2, "Health 2000": 2}
-{}
-{}
-{}
-{}
-{"University of Split": 1, "Croatia": 1}
-{}
-{}
-{}
-{"India": 4, "Indian": 1}
-{}
-{}
-{}
-{"Iran": 4, "Sistan & Baluchestan Province": 1, "Nikshahr": 1, "Sarbaz": 1, "Hormozgan Province": 1, "Bandar Jask": 1, "Minab": 1, "Kerman Province": 1, "Kahnoj": 1, "Ghale Ganj": 1, "Afghan": 1}
-{}
-{}
-{}
-{"Santiago de Cuba": 3, "Cuba": 2}
+{"drosophila": 1, "fly": 1, "worm": 1, "caenorhabditis elegans": 1}
+{"swiss": 2, "switzerland": 1}
 {}
 {}
 {}
@@ -2740,15 +2700,7 @@
 {}
 {}
 {}
-{}
-{}
-{}
-{}
-{}
-{"Japanese": 2, "Korea": 1}
-{}
-{}
-{"Zahedan": 1, "southeastern Iran": 1, "Iran": 2, "Sistan and Baluchestan province": 1, "World Health Organization": 1}
+{"united states": 1}
 {}
 {}
 {}
@@ -2756,10 +2708,33 @@
 {}
 {}
 {}
-{"mouse": 2, "chick": 1}
-{"Ume\u00e5": 2, "Sweden": 1}
-{"Australian": 2, "Queensland": 1, "South Australia": 1}
-{"Italian": 1}
+{"cellular": 3, "cell": 2}
+{}
+{}
+{}
+{"sweden": 2, "swedish": 1}
+{"saccharomyces": 2}
+{}
+{"finland": 1}
+{}
+{}
+{}
+{}
+{"university of split": 1, "croatia": 1}
+{}
+{}
+{"human": 1}
+{"india": 3}
+{"bacillus subtilis": 2}
+{}
+{}
+{"iran": 3, "sistan & baluchestan province": 1, "nikshahr": 1, "sarbaz district": 1, "hormozgan province": 1, "bandar jask": 1, "minab": 1, "kerman province": 1, "kahnoj": 1, "ghale ganj": 1}
+{"brain": 3}
+{}
+{}
+{"santiago de cuba": 3, "cuba": 2, "island of cuba": 1}
+{}
+{}
 {"human": 4}
 {}
 {}
@@ -2768,181 +2743,204 @@
 {}
 {}
 {}
-{"Sweden": 1, "Swedish": 3}
 {}
 {}
+{"korea": 1}
 {}
 {}
+{"zahedan": 1, "southeastern iran": 1, "sistan and baluchestan province": 1, "iran": 1}
 {}
 {}
 {}
 {}
+{"human": 1, "mice": 1}
 {}
-{"African American": 5, "Phoenix": 1, "American": 1}
 {}
+{"mouse": 2, "chick": 1, "urodele": 1}
+{"ume\u00e5": 2, "sweden": 1}
+{"australian": 2, "queensland": 1, "south australia": 1}
+{"italian": 1}
 {}
-{"Thai": 2}
-{"Nantes": 1, "France": 1}
 {}
 {}
+{"bacteria": 1, "human": 2}
 {}
-{"Escherichia coli": 1, "E.coli": 1}
+{"mice": 1, "human": 2}
 {}
 {}
+{"sweden": 2, "swedish": 3}
 {}
+{"brain": 2, "spinal cord": 1, "peripheral nerve": 1, "mouse": 1, "human": 2, "cerebral cortex": 1}
 {}
 {}
 {}
 {}
 {}
 {}
-{"Noonan Syndrome": 2, "mammalian": 1, "NS": 2, "mouse": 1, "human": 1}
+{"human": 6, "worldwide": 1}
+{"african american": 4, "phoenix": 1}
 {}
 {}
+{"thai": 2}
+{"nantes": 1, "france": 1}
+{"human": 2}
 {}
-{"National": 1}
 {}
-{"Africa": 5, "African": 1}
+{"escherichia coli": 1}
 {}
-{"Koreans": 2, "Korea": 1, "Korean": 5}
 {}
+{"mice": 1, "humans": 2}
 {}
 {}
 {}
 {}
-{"endemic": 4, "countries": 2}
-{"Papua New Guinea": 1}
 {}
-{"Eurasian": 3, "turkeys": 1, "chicken": 1}
-{"British": 1, "UK": 2, "Cambridge": 1}
-{"humans": 2, "human": 3}
 {}
 {}
 {}
-{"North American": 1}
 {}
-{"MAnhattan": 1, "Hispanics": 2, "blacks": 2, "whites": 2}
-{"Mycobacterium smegmatis": 3, "Mycobacterium tuberculosis": 1, "Escherichia coli": 1}
 {}
 {}
-{"sub-Saharan Africa": 2, "Africa": 1, "SSA": 3}
-{"Salmonella enterica Serovar Typhi": 2, "S. Typhi": 5, "humans": 2, "human": 1}
 {}
+{"africa": 4, "african": 1}
 {}
+{"koreans": 2, "korea": 1}
 {}
-{"UK": 3}
-{"Hayat Abad Medical Complex": 1}
 {}
-{"C57BL/6": 2}
 {}
 {}
 {}
 {}
+{"papua new guinea": 1}
 {}
+{"eurasian": 3}
+{"uk": 1, "cambridge": 1}
+{"humans": 3}
 {}
-{"C57BL/6": 1}
 {}
 {}
+{"north american": 1}
 {}
+{"northern manhattan": 1}
+{"mycobacterium smegmatis": 3, "mycobacterium tuberculosis": 1, "escherichia coli": 1}
 {}
 {}
+{"sub-saharan africa": 2, "africa": 2, "ssa": 3}
 {}
+{"human": 2}
 {}
 {}
+{"uk": 2}
+{"hayat abad medical complex": 1}
 {}
 {}
-{"Black": 8, "White": 8}
 {}
-{"British": 1}
 {}
 {}
 {}
 {}
-{"Sierra Leone": 1}
 {}
-{"UK": 1}
+{"c57bl/6": 1}
+{"livers": 1}
+{"westernized countries": 1}
 {}
 {}
 {}
 {}
 {}
+{"humans": 1}
 {}
+{"european": 1}
+{"black": 6, "white": 6}
 {}
 {}
-{"Leishmania": 3, "amazonensis": 2, "Trypanosomatid": 1, "Rattus norvergicus": 1}
 {}
+{"inner city": 1}
+{"mice": 2, "drosophila": 1, "vertebrates": 2, "mammalian": 1}
 {}
-{"Gabonese": 1}
+{"sierra leone": 1, "southern sierra leone": 1}
 {}
+{"uk": 1}
 {}
 {}
-{"Thai": 2, "Thailand": 1}
 {}
 {}
 {}
 {}
 {}
 {}
+{"leishmania": 3, "rattus norvergicus": 1, "human": 1}
 {}
 {}
-{"Marek's disease": 2, "KSHV": 2, "MD": 1, "RB-1B": 1, "MDV": 2}
+{"gabonese": 1}
 {}
+{"mice": 2, "humans": 1}
 {}
+{"thai villages": 2, "thailand": 1, "homes": 2, "houses": 1, "schools": 1, "rural areas": 1}
 {}
 {}
+{"humans": 2}
 {}
 {}
 {}
+{"yeast": 1}
 {}
+{"marek's disease": 2, "chickens": 1}
 {}
 {}
+{"humans": 2}
+{"human": 4, "mouse": 1}
 {}
 {}
 {}
 {}
-{"French": 2, "France": 1}
 {}
 {}
 {}
 {}
 {}
-{"Washington State": 1}
 {}
+{"french": 2}
 {}
+{"xanthomonas": 1}
 {}
 {}
 {}
+{"washington state": 1}
+{}
+{}
+{}
+{}
+{"human": 5}
 {}
 {"humans": 1, "mice": 1, "pigs": 1}
 {}
-{"Gansu": 1, "Provincial": 1, "Maternity": 1, "Child Care Hospital": 1, "Lanzhou": 1, "China": 1}
+{"gansu provincial maternity & child care hospital": 1, "lanzhou": 1, "china": 1}
 {}
-{"Princeton": 1, "School District": 1, "whites": 4, "blacks": 2}
-{"GReek": 1}
-{}
-{"England": 1, "Scotland": 1, "Wales": 1}
-{"US": 1}
+{"princeton": 1}
 {}
 {}
+{"england": 1, "scotland": 1, "wales": 1}
+{"us": 1}
 {}
-{}
-{}
-{}
-{"Princess Margaret Hospital": 1}
+{"human": 5}
 {}
 {}
 {}
 {}
-{"US": 1}
+{"princess margaret hospital": 1}
 {}
 {}
 {}
+{"humans": 3, "rhesus monkeys": 1}
+{"us": 1}
 {}
 {}
-{"Asians": 2, "Korean": 1, "Koreans": 1, "European": 2}
+{"xenopus": 2}
 {}
 {}
-{}
+{"asians": 2, "korean": 2, "european": 2}
+{"human": 3, "mouse": 2}
 {}
 {}
 {}
@@ -2953,13 +2951,15 @@
 {}
 {}
 {}
+{"drosophila": 3, "humans": 1, "mice": 1}
 {}
 {}
 {}
 {}
-{"Escherichia coli": 2}
 {}
-{"Rochester": 1, "Olmsted County": 2, "Minnesota": 1}
+{"prokaryotic": 1, "human": 1, "escherichia coli": 2, "e. coli": 1}
+{}
+{"olmsted county": 2, "minnesota": 1, "rochester": 1}
 {}
 {}
 {"human": 3}
@@ -2967,112 +2967,29 @@
 {}
 {}
 {}
-{"human": 8}
-{"Human": 2}
-{}
-{}
-{}
-{}
-{"Ifakara Town": 1, "Tanzania": 2, "Ifakara": 1}
-{}
-{"rat": 3, "Wistar": 1, "L3-L5": 1}
-{"Mycobacterium tuberculosis": 2, "mycobacteria": 1, "M. tuberculosis": 1}
-{}
-{}
-{}
-{"North America": 1}
-{}
-{}
-{}
-{"England": 2, "English": 1}
-{}
-{}
-{}
-{}
-{"eastern Europe": 5, "Hungary": 1, "Czechoslovakia": 1, "Poland": 1, "German Democratic Republic": 1, "Federal Republic of Germany": 1, "England and Wales": 1, "United States": 1, "Canada": 1, "western European": 1, "North American": 1, "western nations": 1, "western countries": 1, "eastern European": 2, "West": 2}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Europe": 1, "European": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"United States": 1}
-{"China": 2, "Chinese": 1, "Nanning": 1}
-{}
-{}
-{}
-{"UK": 1, "Europe": 1, "Australasia": 1}
-{}
-{}
-{"East Anglia": 1}
-{}
-{"United States": 1, "Americans": 1}
-{"Vietnam": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Baltimore City": 1, "U.S.A.": 2, "Baltimore": 1, "MD": 1}
-{}
-{"human": 4, "African": 1}
 {}
 {"human": 2}
 {}
-{"human": 1, "rat": 2, "murine": 1}
 {}
 {}
 {}
-{"Japanese": 1}
+{"ifakara town": 1, "southern tanzania": 2, "ifakara": 1}
+{"kidney": 2, "glomeruli": 2, "mesangial cells": 2, "mouse": 1, "mice": 1}
+{"rat knee joint": 3, "dorsal root ganglia": 1, "synovial vasculature": 1}
+{"mycobacterium tuberculosis": 3, "mycobacteria": 1, "m. tuberculosis": 1}
 {}
 {}
 {}
-{}
-{"United States": 1}
-{}
+{"north america": 1}
 {}
 {}
 {}
+{"england": 2}
+{"rice": 3}
 {}
 {}
-{}
-{"Australia": 1, "New Zealand": 1}
-{}
-{}
-{}
-{}
-{"Lower Hunter": 1, "New South Wales": 1, "Australia": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Australian": 1, "South Australian": 1, "Indigenous": 2}
+{"bacteria": 1, "man": 1}
+{"eastern europe": 3, "hungary": 1, "czechoslovakia": 1, "poland": 1, "german democratic republic": 1, "federal republic of germany": 1, "england and wales": 1, "united states": 1, "canada": 1, "western europe": 1, "west": 2}
 {}
 {}
 {}
@@ -3082,9 +2999,92 @@
 {}
 {}
 {}
-{"human": 5, "murine": 1, "mouse": 3, "mice": 1}
+{}
+{"europe": 2, "european": 2, "cities": 1}
 {}
 {}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"united states": 1}
+{"china": 2, "nanning": 1, "chinese": 1}
+{}
+{}
+{}
+{"uk": 1, "europe": 1, "australasia": 1}
+{}
+{"human": 2, "mouse": 1}
+{"east anglia": 1}
+{}
+{"united states": 1}
+{"vietnam": 1}
+{}
+{"lung": 3, "tracheobronchial lymph nodes": 1}
+{}
+{}
+{}
+{"stomach": 1}
+{}
+{"baltimore city": 1, "u.s.a.": 2, "baltimore": 1, "md": 1}
+{}
+{"human": 3, "african": 1}
+{}
+{"human": 2}
+{}
+{}
+{}
+{}
+{}
+{"japanese": 1}
+{"rice": 2, "oryza sativa": 1}
+{}
+{}
+{}
+{"united states": 1}
+{"caribbean": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"australia": 1, "new zealand": 1}
+{}
+{}
+{}
+{}
+{"lower hunter region": 1, "new south wales": 1, "australia": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"australian": 1, "south australian": 1, "non-metropolitan": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"human umbilical vein": 1, "bovine aorta": 1, "rat heart": 2}
 {}
 {}
 {}
@@ -3094,7 +3094,7 @@
 {}
 {}
 {}
-{"US": 1}
+{"us": 1}
 {}
 {}
 {}
@@ -3106,12 +3106,12 @@
 {}
 {}
 {}
+{"arabidopsis": 3}
+{"african-american": 1}
 {}
-{"SWOG": 2, "African-American": 1}
 {}
 {}
-{}
-{"Gambia": 2, "west Africa": 1, "West Africa": 1}
+{"the gambia": 2, "west africa": 2, "villages": 2}
 {}
 {}
 {}
@@ -3120,63 +3120,54 @@
 {"woodchuck": 1, "chimpanzee": 1, "human": 4}
 {}
 {}
-{"Netherlands": 2, "European": 1, "Europe": 3, "sub-Saharan Africa": 2, "African": 1, "Dutch": 1}
-{"Royal Brompton & Harefield NHS Foundation Trust": 1, "London": 1, "Oxford Street": 3, "Hyde Park": 3, "British": 1}
-{"United States": 1, "US": 2}
+{"the netherlands": 2, "europe": 3, "sub-saharan africa": 2, "african countries": 1}
+{"london": 1, "oxford street": 3, "hyde park": 3, "royal brompton & harefield nhs foundation trust": 1}
+{"united states": 2, "us": 2}
+{}
+{}
+{}
+{"urban": 1}
+{"countries": 2, "united kingdom": 1, "united states": 1, "australia": 1}
+{}
+{"spain": 1, "latin america": 1}
+{}
+{}
+{"lungs": 1, "spleen": 1}
+{}
+{"human": 3, "mouse": 2, "mice": 1}
+{"united states": 1}
+{}
+{}
+{}
+{"human": 3, "mouse": 2}
+{}
+{"malawi": 4, "neighbouring country": 1}
+{}
+{}
+{"north american": 1}
+{"human": 1, "heart": 1, "brain": 1, "skeletal muscle": 1, "placenta": 1, "lung": 1, "liver": 1, "kidney": 1, "pancreas": 1, "caenorhabditis elegans": 1, "arabidopsis thaliana": 1}
+{}
+{"taro": 2, "banana": 2, "tobacco": 2, "maize": 1}
+{}
+{"denmark": 1}
 {}
 {}
 {}
 {}
-{"United Kingdom": 1, "United States": 1, "Australia": 1}
-{}
-{"Spain": 1, "Latin America": 1}
+{"u.k.": 2}
 {}
 {}
-{}
-{}
-{}
-{"United States": 1}
-{}
-{}
-{}
-{}
-{}
-{"Malawi": 5, "WHO": 1}
-{}
-{}
-{"North American": 1}
-{}
-{}
-{"banana": 3, "tobacco": 3, "Taro": 2, "maize": 1}
-{}
-{"Denmark": 1}
-{}
-{}
-{}
-{}
-{"U.K.": 2}
-{}
-{}
-{"Africa": 3, "African": 2, "Central Africa": 1}
-{"China": 1, "India": 1, "Cuba": 1, "Dominican Republic": 1, "Venezuela": 1, "Mexico": 1, "Peru": 1}
+{"africa": 3, "central africa": 1}
+{"china": 1, "india": 1, "cuba": 1, "dominican republic": 1, "venezuela": 1, "mexico": 1, "peru": 1}
 {}
 {}
 {"rabbit": 2}
 {}
-{"Scotland": 1}
+{"south east scotland": 1}
 {}
 {}
-{"United Kingdom": 1}
-{"Italy": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"English": 2}
-{"Mouse": 1, "bovine": 2, "rat": 1, "pig": 1}
+{"united kingdom": 1}
+{"italy": 1}
 {}
 {}
 {}
@@ -3184,19 +3175,7 @@
 {}
 {}
 {}
-{}
-{}
-{}
-{}
-{}
-{"U.S.": 1}
-{}
-{}
-{"HIV": 4}
-{}
-{}
-{"Navrongo": 3, "Kassena-Nankana": 2, "Ghana": 2}
-{"worldwide": 1, "United States": 1, "Internationally": 1}
+{"english": 1}
 {}
 {}
 {}
@@ -3210,24 +3189,45 @@
 {}
 {}
 {}
-{}
-{}
-{"Germany": 2, "Southern Germany": 1}
-{}
-{}
-{}
-{"UK": 2}
-{}
-{"Southern French": 1, "French Mediterranean": 1, "Ard\u00e8che": 1, "H\u00e9rault": 1}
-{}
-{}
-{"British": 1}
+{"urban": 1, "u.s.": 1}
 {}
 {}
 {}
+{"mouse": 6, "human": 3, "rhesus macaque": 1}
+{}
+{"kassena-nankana districts": 2, "northern ghana": 2, "ghana": 2}
+{"worldwide": 1, "united states": 1, "internationally": 1}
 {}
 {}
-{"worldwide": 1}
+{"mouse": 1, "mice": 1, "human": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"germany": 2, "southern germany": 1}
+{}
+{}
+{}
+{"uk": 2}
+{"liver": 3}
+{"southern french": 1, "french mediterranean": 1, "ard\u00e8che": 1, "h\u00e9rault": 1}
+{}
+{}
+{"british": 1}
+{}
+{}
+{}
+{}
+{}
+{}
 {}
 {}
 {}
@@ -3238,38 +3238,34 @@
 {}
 {"human": 3, "mouse": 3, "rat": 3}
 {}
-{"United States": 2, "San Francisco": 1, "Baltimore": 1}
+{"united states": 2, "san francisco": 1, "baltimore": 1}
+{}
+{"university of wisconsin": 1}
+{}
+{"detroit": 1}
 {}
 {}
 {}
-{"Detroit": 1}
+{"uk": 1}
+{"c57bl6": 2}
+{}
+{"west bengal": 1, "india": 2, "kolkata": 1}
+{}
+{"australia": 3}
+{"xenopus": 3, "caenorhabditis elegans": 1}
+{}
+{"human": 4}
+{}
+{"b. subtilis": 2}
 {}
 {}
+{"dutch": 2}
 {}
-{"UK": 1}
-{"C57BL6": 2}
+{"northern ireland": 2}
+{"sulfolobus solfataricus": 1}
 {}
-{"West Bengal": 1, "India": 2, "Kolkata": 1}
-{}
-{"Australia": 3}
-{"Xenopus": 4, "Caenorhabditis elegans": 1}
-{"rat": 1}
-{}
-{}
-{"Bacillus subtilis": 2, "B. subtilis": 1}
-{}
-{}
-{"Dutch": 2}
-{}
-{"Northern Ireland": 2, "Ireland": 1}
-{}
-{"Nation": 2}
-{"Hispanic": 2, "African Americans": 2, "Los Angeles": 1, "California": 1, "San Luis Valley": 2, "Colorado": 1, "San Antonio": 2, "Texas": 1}
-{}
-{}
-{}
-{}
-{}
+{"hispanic": 2, "african americans": 2, "los angeles": 1, "california": 1, "san luis valley": 1, "colorado": 1, "san antonio": 1, "texas": 1}
+{"brain": 2, "parotid gland": 3, "insect salivary gland": 3}
 {}
 {}
 {}
@@ -3288,34 +3284,648 @@
 {}
 {}
 {}
+{"zebrafish": 3, "danio rerio": 1}
+{}
+{"human brain": 1, "rat brain": 1}
+{"murine": 5, "human": 6, "mice": 1, "mouse": 1}
 {}
 {}
-{"England": 2, "Wales": 2}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"University of California, San Francisco": 1, "California": 1}
+{"england": 2, "wales": 2}
 {}
 {}
 {}
 {}
 {}
-{"Caenorhabditis elegans": 2, "C. elegans": 1}
+{}
+{}
+{}
+{"university of california, san francisco": 1}
+{"escherichia coli": 2, "e. coli": 1, "e. coli strain emfr9": 1, "e. coli ly180": 1, "gram-negative bacteria": 1}
+{}
+{}
+{}
+{}
+{"caenorhabditis elegans": 2}
 {}
 {}
 {}
 {}
 {}
-{"Zomba Hospital": 1, "Malawi": 2, "subsaharan Africa": 1, "Zomba General Hospital": 1}
-{"UK": 1, "western countries": 1}
+{"zomba hospital": 1, "malawi": 2, "subsaharan africa": 1, "zomba general hospital": 1}
+{"uk": 1, "western countries": 1}
 {}
-{"Republic of South Africa": 1, "South Africa": 2}
-{"Adelaide": 1, "South Australia": 1, "Australian": 1, "New Zealand": 1}
+{"republic of south africa": 1, "south africa": 2}
+{"adelaide": 1, "south australia": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"human": 2, "tibial plateau": 1}
+{}
+{"dba/1j": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"bacterial": 2, "chloroplast": 1}
+{}
+{}
+{}
+{"vibrio cholerae": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"african": 3}
+{"leeds": 1}
+{}
+{}
+{"italian": 1, "european": 1}
+{}
+{}
+{}
+{"usa": 1, "uk": 1, "spain": 1}
+{}
+{}
+{"latitude": 2, "equator": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"mouse lungs": 1, "mice": 2}
+{}
+{"united states": 1, "us": 1, "49 states": 1, "district of columbia": 1}
+{"human": 3, "rat": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sulfolobus": 3, "sulfolobus islandicus": 1}
+{}
+{}
+{"uk": 1}
+{"guanacaste": 1, "costa rica": 1}
+{}
+{}
+{}
+{"human": 5, "monkey": 1}
+{}
+{}
+{"university hospital": 1}
+{}
+{}
+{}
+{}
+{"drosophila melanogaster": 1, "chordates": 1, "arthropods": 1, "metazoans": 2, "plants": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"barbados": 3, "caribbean": 1, "japan": 2}
+{}
+{"thermus thermophilus": 1}
+{}
+{"switzerland": 1}
+{}
+{"mouse": 2, "mice": 2, "humans": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"mouse": 2}
+{"brain": 2, "mouse": 1}
+{}
+{}
+{}
+{}
+{"mucosal": 2, "lymphoid": 2, "lungs": 1, "small intestine": 1}
+{}
+{"chinese": 2, "han": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"barley": 3, "arabidopsis thaliana": 1}
+{}
+{"new york": 1, "usa": 1, "ume\u00e5": 1, "sweden": 1, "milan": 1, "italy": 1}
+{}
+{}
+{"queensland": 5, "australia": 4}
+{}
+{}
+{"saccharomyces cerevisiae": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"netherlands": 1}
+{}
+{}
+{}
+{}
+{"danish": 6, "odense": 1, "north jutland": 1}
+{}
+{}
+{"ain shams university": 2, "cairo": 1, "egypt": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"drosophila": 3}
+{}
+{}
+{}
+{"turkey": 1, "japan": 1}
+{}
+{}
+{"hela": 1, "drosophila": 1, "mouse": 2}
+{"europe": 1, "european": 1}
+{}
+{}
+{}
+{}
+{"western world": 1}
+{}
+{}
+{}
+{}
+{}
+{"humans": 3}
+{}
+{}
+{}
+{}
+{"canadian": 2, "canada": 1}
+{}
+{}
+{}
+{"u.s.": 2, "poland": 2}
+{}
+{}
+{}
+{}
+{"los angeles": 1}
+{"u.s.": 2, "south asians": 3, "illinois": 1}
+{}
+{}
+{}
+{}
+{"jiangsu province hospital": 1}
+{}
+{}
+{}
+{"framingham": 2, "rotterdam": 2, "vanderbilt": 2, "german": 1, "european": 1}
+{"birmingham": 2}
+{}
+{}
+{"countries": 3, "region": 2, "nation": 2, "world": 3, "africa": 1, "asia": 1}
+{"united states": 1}
+{}
+{}
+{}
+{"edinburgh": 3, "scotland": 1}
+{}
+{"yeast": 3}
+{}
+{}
+{"low-income countries": 1}
+{}
+{}
+{}
+{}
+{"german": 1, "us": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"dutch": 1}
+{}
+{"iranian": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{"baltimore county": 1, "maryland": 1, "us": 1}
+{"england": 1, "wales": 1, "japan": 1, "caribbean": 1, "africa": 2, "melanesia": 1, "europe": 1, "united kingdom": 1, "native american": 1}
+{}
+{}
+{}
+{}
+{}
+{"france": 1, "belgium": 1, "finland": 1, "italy": 1, "spain": 1}
+{"mouse": 1}
+{"mouse liver": 2, "liver": 3, "human liver": 1, "mice": 1}
+{"e. coli": 3, "escherichia coli": 1}
+{}
+{}
+{"c. elegans": 2}
+{}
+{"isfahan": 5, "iran": 4, "central part of iran": 1, "province of isfahan": 1, "world": 1}
+{"caenorhabditis elegans": 2}
+{"geographic region": 1}
+{"connecticut": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"united states": 1}
+{"asian-americans": 2, "american indians": 2, "caucasian": 1, "african-american": 1, "hispanic": 1}
+{}
+{"bacillus subtilis": 2, "escherichia coli": 3}
+{}
+{"human embryonic kidney 293 cells": 1, "rat basophilic leukemia cells": 2}
+{}
+{}
+{}
+{"germany": 1}
+{}
+{}
+{}
+{}
+{"wisconsin": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"uk": 1}
+{}
+{}
+{}
+{"caenorhabditis elegans": 3, "chicken": 1, "xenopus": 1, "drosophila": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"canadian": 2}
+{}
+{}
+{}
+{}
+{"maize": 1}
+{}
+{}
+{"united states": 1}
+{}
+{}
+{}
+{}
+{"rat brains": 1, "brain": 1, "cortex": 1, "hippocampus": 1, "central nervous system": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"human": 2}
+{"south africa": 2, "hlabisa": 4, "kwazulu-natal": 1}
+{}
+{}
+{}
+{}
+{}
+{"ghana": 2, "sub-saharan africa": 1, "accra": 1, "kumasi": 1, "urban": 3, "rural": 1, "city": 1, "cities": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"archaea": 2}
+{}
+{}
+{}
+{}
+{"southwestern taiwan": 1}
+{"hela": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"france": 1, "the united states": 1, "portugal": 2, "italy": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"rochester": 1, "minnesota": 1}
+{"north america": 1, "canada": 2, "central canada": 1, "eastern canada": 1, "quebec": 1, "ontario": 1, "southeast canada": 1}
+{}
+{}
+{}
+{}
+{}
+{"russia": 4, "arkhangelsk": 2, "western europe": 1, "usa": 1}
+{}
+{"escherichia coli": 2}
+{}
+{"cardiac tissue": 2, "rat ventricular myocardium": 1}
+{}
+{}
+{}
+{"endemic areas": 1}
+{}
+{}
+{}
+{"countries": 6, "urban": 2, "rural": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"africa": 1, "papua new guinea": 1, "sub-saharan africa": 1}
+{}
+{"humans": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"china": 2, "gusu district": 1, "suzhou": 1}
+{}
+{}
+{}
+{}
+{"korean": 3, "korea": 1, "asians": 1}
+{}
+{}
+{}
+{"xenopus": 1}
+{"ovarian": 3, "peritoneal": 2, "rectal": 1, "retossigmoidal": 1, "uterossacral": 1}
+{}
+{"finland": 2, "finnish": 1}
+{}
+{"human": 5, "mice": 2, "mammals": 1}
+{"city of birmingham": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"dutch": 2, "nottingham": 1}
+{"u.s.": 2, "cities": 3}
+{}
+{}
+{}
+{}
+{}
+{"portugal": 3, "lisbon": 1}
+{}
+{"finland": 7, "the netherlands": 7, "erasmusmc-rotterdam": 1, "dutch": 1}
+{"saccharomyces cerevisiae": 1}
+{"salmonella enterica serovar typhi": 3, "s. typhi": 3}
+{}
+{}
+{"countries": 1}
+{}
+{}
+{}
+{"europe": 1, "helsinki": 1, "finland": 1, "guipuzcoa": 2, "spain": 2, "cergy-pontoise": 1, "france": 1, "european": 1}
+{"texas": 2, "united states": 1, "europe": 1, "usa": 2, "chinese restaurant": 1, "el paso": 1}
+{"human": 1, "drosophila melanogaster": 2, "hela": 1, "escherichia coli": 1, "streptococcus pneumoniae": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"united states": 1}
+{}
+{"in vitro": 2, "in vivo": 2}
+{"the netherlands": 2, "dutch": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"african": 2, "bangladeshi": 1}
+{}
+{}
+{}
+{}
+{"sub-saharan africa": 2, "mozambican": 1, "burkina faso": 2}
+{}
+{"cats": 3}
+{"african-american": 2, "american": 1}
+{}
+{}
+{}
+{}
+{"murine": 1, "yolk sac": 1, "fetal liver": 1, "midbrain": 1, "embryonic": 1}
+{}
+{"mice": 1, "human": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"african americans": 2, "jackson": 1}
+{}
+{"united states": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"chinese hamster ovary": 1}
+{}
+{"african-american": 5, "caucasian": 5}
+{"invertebrates": 1, "shrimp": 3, "water flea": 1, "insecta": 1}
+{"human": 2, "sea urchin": 1}
+{}
+{"spanish": 1}
+{}
+{}
+{}
+{"human": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"belgium": 1, "usa": 1, "canada": 1}
+{}
+{}
+{}
+{"french": 1}
+{}
+{"human": 2, "dogs": 2, "bitches": 1, "rats": 1}
+{}
+{}
+{"gerbils": 2, "humans": 1}
+{}
+{}
+{}
+{}
+{}
+{"s. cerevisiae": 2, "saccharomyces cerevisiae": 1}
+{}
+{}
+{"united states": 2, "european social democracies": 1, "developing countries": 1}
+{}
+{"escherichia coli": 2}
+{}
+{}
+{"university of illinois at chicago": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
 {}
 {}
 {}
@@ -3337,6 +3947,12 @@
 {}
 {}
 {}
+{"united kingdom": 4, "england": 2, "wales": 2}
+{}
+{}
+{}
+{}
+{"france": 1}
 {}
 {}
 {}
@@ -3344,60 +3960,44 @@
 {}
 {}
 {}
+{"chinese": 2, "beijing": 1, "tokyo": 1}
+{"sea level": 1}
+{"hispanic": 2}
 {}
-{"Vibrio cholerae": 2}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"African": 3}
+{"california": 1}
+{"united states": 3}
+{"human": 4}
 {}
 {}
 {}
-{"Italian": 1, "European": 1}
+{"europe": 2, "st paul, mn, u.s.a.": 1}
+{}
+{}
+{"rabbit": 1, "sheep": 2, "monkey": 1, "human": 2}
+{"hispanic/latino": 2}
+{"bacillus subtilis": 2, "escherichia coli": 2}
+{"us": 1}
 {}
 {}
 {}
-{"USA": 1, "UK": 1, "Spain": 1}
+{"mexico": 2, "central west": 2, "redlands": 1, "ca": 1, "usa": 1}
 {}
 {}
 {}
+{"southern finland": 1}
 {}
 {}
 {}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"United States": 1, "US": 2, "state": 1, "states": 1, "District of Columbia": 1}
-{}
-{}
-{}
-{"Medicare": 8}
+{"england": 2}
+{"country": 2, "asian": 1}
 {}
 {}
 {}
 {}
 {}
+{"islamic republic of iran": 2, "sistan va baluchestan province": 1, "south": 1, "southern part of the province": 1}
+{"chinese": 1}
 {}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"human": 2}
-{}
-{}
-{"U. S. A.": 1}
 {}
 {"human": 5}
 {}
@@ -3405,531 +4005,35 @@
 {}
 {}
 {}
-{"UK": 1, "nationally": 1}
-{"Guanacaste": 1, "Costa Rica": 1}
 {}
+{"europe": 2, "european countries": 2}
+{"germany": 3}
 {}
+{"university of tennessee": 1, "knoxville": 1, "tennessee": 1, "united states": 1, "european countries": 1, "centre for publishing at university college london": 1}
 {}
-{"HIV": 1, "human": 4, "JEG-3": 3, "NCI-H295A": 1, "HepG2": 1, "HeLa": 1, "COS-1": 1}
 {}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Barbados": 3, "Afro-Caribbean": 1, "Caribbean": 1, "Japan": 2}
-{}
-{"Thermus thermophilus": 1}
-{}
-{"Switzerland": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Vibrio cholerae": 2}
-{}
-{}
-{"Chinese": 1, "Chinese Han": 1, "Han": 2}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"New York": 1, "USA": 1, "Ume\u00e5": 1, "Sweden": 1, "Milan": 1, "Italy": 1}
-{}
-{}
-{"Barmah Forest": 2, "Queensland": 5, "Australia": 4}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Netherlands": 1}
-{}
-{}
-{}
-{}
-{"Danish": 7, "Odense": 1, "North Jutland": 1}
-{}
-{}
-{"Ain Shams University": 2, "Cairo": 1, "Egypt": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Turkey": 1, "Japan": 1}
-{}
-{}
-{"HeLa": 1, "Drosophila": 1, "mouse": 3}
-{"Europe": 1, "European": 1}
-{}
-{}
-{}
-{"human": 5, "herpes simplex virus": 1, "Rous sarcoma virus": 1, "human T-cell lymphotropic virus": 1, "HeLa": 1, "Saos-2": 1}
-{"Western world": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Canadian": 1, "Canada": 1}
-{}
-{}
-{}
-{"U.S.": 2, "Poland": 2}
-{}
-{}
-{}
-{}
-{"Los Angeles": 1}
-{"U.S.": 2, "South Asians": 4, "Illinois": 1, "English": 1, "Hindi": 2, "Urdu": 2}
-{}
-{}
-{}
-{}
-{"Jiangsu Province": 1}
-{}
-{}
-{}
-{"Framingham": 2, "Rotterdam": 2, "Vanderbilt": 2, "German": 1, "AFNet": 3, "European": 1}
-{"Birmingham": 2, "south Asian": 3, "Asian": 1}
-{}
-{}
-{"countries": 3, "region": 2, "nation": 2, "country": 1, "nations": 2, "world": 3, "regions": 2, "Africa": 1, "Asia": 1}
-{"United States": 1, "US": 2}
-{}
-{}
-{}
-{"Edinburgh": 3, "Scotland": 1}
-{"Mcf10a": 1}
-{}
-{"Saccharomyces cerevisiae": 1}
-{}
-{}
-{}
-{"U.S.": 1}
-{}
-{}
-{"German": 1, "US": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Dutch": 1}
-{"International Association for the Study of Lung Cancer": 1, "American Thoracic Society": 1, "European Respiratory Society": 1}
-{"iranian": 1, "Iranian": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{"US": 1, "Baltimore County": 1, "Maryland": 1, "Caucasians": 2, "African Americans": 1}
-{"England": 1, "Wales": 1, "Japan": 1, "Caribbean": 1, "Africa": 2, "Melanesia": 1, "Europe": 1, "American": 1, "United Kingdom": 1}
-{}
-{}
-{}
-{}
-{}
-{"France": 1, "Belgium": 1, "Finland": 1, "Italy": 1, "Spain": 1}
-{}
-{"mouse": 2, "liver": 4, "human": 1, "mice": 1}
-{"E. coli": 4, "Escherichia coli": 1}
-{}
-{}
-{}
-{}
-{"Isfahan": 6, "Iran": 5}
-{"Caenorhabditis elegans": 1, "C. elegans": 1}
-{"Medicare": 5, "U.S.": 1, "Centers for Medicare & Medicaid Services": 1}
-{"Connecticut": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"United States": 1}
-{"Asian-Americans": 1, "American Indians": 1, "Caucasian": 1, "African-American": 1, "Hispanic": 1, "American Indian": 1, "Asian-American": 1, "National": 1}
-{}
-{"Bacillus subtilis": 2, "Escherichia coli": 3, "E. coli": 3, "B. subtilis": 1}
-{}
-{"human": 1, "embryonic": 1, "rat": 2, "leukemia": 2}
-{}
-{}
-{}
-{"Germany": 1, "Pforheim": 1}
-{}
-{}
-{}
-{}
-{"Wisconsin": 2, "Beaver Dam": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"UK": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Canadian": 2}
-{}
-{"male": 2, "veterans": 2, "June": 1}
-{}
-{}
-{}
-{}
-{}
-{"United States": 1}
-{}
-{}
-{"liver": 8}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Salmonella enterica": 2, "Typhi": 6}
-{"South Africa": 2, "Hlabisa": 4, "KwaZulu-Natal": 1, "national": 2}
-{}
-{}
-{}
-{}
-{}
-{"Ghana": 2, "sub-Saharan Africa": 1, "Accra": 1, "Kumasi": 1}
-{"cynomolgus": 1}
-{}
-{}
-{}
-{}
-{}
-{"Sulfolobus islandicus": 2, "S. islandicus": 2}
-{}
-{}
-{}
-{}
-{"Taiwan": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"France": 1, "the United States": 1, "Portugal": 2, "Italy": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Rochester": 1, "Minnesota": 1}
-{"North America": 1, "Canada": 3, "Quebec": 1, "Ontario": 1, "southeast Canada": 1}
-{}
-{}
-{"mouse": 1, "human": 1}
-{}
-{}
-{"Russia": 5, "Arkhangelsk": 3, "Western Europe": 1, "USA": 1}
-{}
-{"Escherichia coli": 2}
-{}
-{"rat": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"countries": 10, "urban": 2, "rural": 2}
-{}
-{}
-{}
-{"guinea pig": 2}
-{}
-{}
-{}
-{}
-{"Africa": 2, "Papua New Guinea": 1, "sub-Saharan Africa": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Escherichia coli": 5}
-{}
-{}
-{}
-{}
-{"China": 2, "Gusu": 1, "Suzhou": 1}
-{}
-{}
-{}
-{}
-{"Korean": 4, "Korea": 1, "Asians": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Finland": 2, "Finnish": 1}
-{}
-{}
-{"Birmingham": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Dutch": 3, "Nottingham": 1, "Minnesota": 1}
-{"U.S.": 2, "African-American": 2, "Hispanic": 2, "African-Americans": 2, "Hispanics": 2, "cities": 2}
-{}
-{}
-{}
-{}
-{}
-{"Portuguese": 3, "Portugal": 3, "Lisbon": 1}
-{}
-{"Finland": 8, "the Netherlands": 8, "Finnish": 1, "Dutch": 1, "ErasmusMC-Rotterdam": 1}
-{}
-{"Salmonella enterica serovar typhi": 1, "S. Typhi": 4, "typhoid": 3}
-{}
-{}
-{"8": 1, "5": 1, "countries": 1}
-{}
-{}
-{"human": 7}
-{"Europe": 1, "European": 2, "Helsinki": 2, "Finland": 1, "Guipuzcoa": 2, "Spain": 2, "Cergy-Pontoise": 1, "France": 1}
-{"Texas": 2, "United States": 1, "Europe": 1, "USA": 2, "EI Paso": 1, "April 1993": 1, "September 1993": 1}
-{"human": 1, "Drosophila melanogaster": 2, "HeLa": 1, "Escherichia coli": 1, "Streptococcus pneumoniae": 1}
-{}
-{"human": 1}
-{}
-{}
-{}
-{}
-{}
-{"United States": 1}
-{}
-{"Stylonychia lemnae": 2, "Human": 1}
-{"The Netherlands": 2, "Leiden": 1, "Dutch": 1, "Netherlands": 1}
-{}
-{}
-{"Medicare": 5, "Medicaid": 4, "SNFs": 3, "U.S.": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"African": 2, "Bangladeshi": 1}
-{}
-{}
-{}
-{}
-{"sub-Saharan Africa": 2, "Mozambican": 1, "Burkina Faso": 2}
-{}
-{}
-{"African-American": 2, "American": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Detroit": 2}
-{}
-{}
-{}
-{}
-{}
-{"African Americans": 3, "Jackson": 1}
-{}
-{"U.S.": 5, "United States": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"African-American": 6, "Caucasian": 4}
-{"Litopenaeus vannamei": 1, "Penaeus monodon": 2, "Daphnia": 1}
-{"Stylonychia": 1, "human": 2, "Streptomyces anulatus 3533-SV4": 1, "sea urchin": 1}
-{}
-{"Spanish": 1}
-{}
-{"human": 5, "Toledo": 1, "AD169": 1, "Towne": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Belgium": 1, "USA": 1, "Canada": 1}
-{}
-{}
-{}
-{"French": 1}
-{}
-{"human": 3, "dogs": 2, "bitches": 1, "vagina": 1, "fingernails": 1, "epidermis": 1, "nail": 1, "kidney": 1, "corium": 1, "horny layer": 1, "placental": 1, "rats": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
+{"new world": 1}
 {"human": 3}
 {}
-{"US": 2, "United States": 2, "European": 1}
+{"asia": 3, "africa": 1, "sri lanka": 1, "india": 1, "cambodia": 1, "myanmar": 1, "thailand": 2, "china": 3, "malaysia": 1, "vietnam": 1}
+{"african": 1, "southeast asian": 1, "european": 1}
+{"european union": 1, "italian": 1, "piemonte": 1, "tuscany": 1, "veneto": 1, "emilia-romagna": 1, "lazio": 1}
+{"north london": 2, "europeans": 1}
 {}
 {}
 {}
 {}
-{"University of Illinois at Chicago": 1}
 {}
 {}
 {}
 {}
-{"humans": 3}
+{"ottawa": 1}
 {}
 {}
 {}
 {}
 {}
 {}
-{"world": 1}
 {}
 {}
 {}
@@ -3937,120 +4041,132 @@
 {}
 {}
 {}
+{"mammalian": 2, "escherichia coli": 1, "simian virus 40": 2, "herpes simplex virus type 1": 1, "hela": 1}
 {}
 {}
+{"streptomyces erythraeus": 1, "bacillus stearothermophilus": 1, "escherichia coli": 1, "staphylococcus aureus": 1}
 {}
 {}
 {}
+{"drosophila melanogaster": 1}
 {}
 {}
 {}
 {}
 {}
-{"United Kingdom": 5, "England": 2, "Wales": 2}
-{"World War II": 1, "Navy": 1, "Marine": 1}
 {}
 {}
 {}
-{"France": 1}
 {}
 {}
+{"united states": 2}
 {}
 {}
 {}
+{"gaithersburg": 1, "md": 1, "usa": 2, "san diego": 1, "ca": 1, "alameda": 1, "il": 1}
+{"urban populations": 1, "eight countries": 1}
 {}
 {}
-{"Chinese": 2, "Beijing": 1, "Japanese": 1, "Tokyo": 1}
 {}
-{"Hispanic": 3}
 {}
-{"California": 1}
-{"United States": 4}
 {}
 {}
-{"SW480": 1}
 {}
-{"Europe": 2, "St Paul": 1, "MN": 1, "U.S.A.": 1}
 {}
+{"london": 2, "united kingdom": 1, "afro-caribbean": 2, "htlv-i-endemic areas": 1}
 {}
-{"rabbit": 1, "sheep": 2, "monkey": 1, "human": 2}
-{"Hispanic/Latino": 2}
-{"Bacillus subtilis": 2, "Escherichia coli": 1, "E. coli": 1}
-{"US": 1}
 {}
 {}
 {}
-{"Mexicans": 1, "Mexico": 2, "Mexican": 2, "Central West": 2, "CW": 3, "Redlands": 1, "CA": 1, "USA": 1}
-{"CAPPP": 1, "HOPE": 2, "ALLHAT": 1, "LIFE": 1, "SCOPE": 1, "VALUE": 1, "DREAM": 1, "NAVIGATOR": 1, "ONTARGET": 1}
-{"liver": 2}
 {}
-{"Finland": 1}
+{"caucasian": 1, "minnesota": 1}
 {}
 {}
+{"mice": 2, "mouse": 1}
+{"american": 2, "domestic": 2, "international": 2}
 {}
-{"England": 2}
 {}
 {}
+{"gut": 2}
+{"danish": 1}
 {}
+{"eastern equatoria": 3, "upper nile": 3, "southern sudan": 4, "sudan": 1}
+{"salmonella enterica serovar typhimurium lt2": 1, "escherichia coli": 1}
 {}
+{"ghana": 2}
 {}
 {}
-{"Islamic Republic of Iran": 2, "Iran": 1, "Sistan va Baluchestan": 1, "south": 1, "southern": 1}
-{"Chinese": 1}
+{"west-central africa": 2, "belgium": 1}
 {}
 {}
+{"denmark": 1}
+{"developing countries": 1}
+{"escherichia coli": 1}
 {}
 {}
 {}
 {}
 {}
+{"australia": 1}
 {}
 {}
-{"Europe": 1, "European": 2}
-{"Germany": 3}
 {}
+{"gastric": 3, "human": 2, "murine": 1}
 {}
+{"canada": 1, "england": 1, "scotland": 1, "spain": 1, "italy": 1, "ireland": 1, "usa": 1}
 {}
 {}
 {}
-{"human": 3}
+{"gerbil": 1, "mouse": 1}
 {}
+{"us": 2, "united states": 1, "district of columbia": 1, "american": 1}
+{"drosophila": 4, "insects": 2, "crustaceans": 1}
 {}
-{"African": 1, "southeast Asian": 1, "European": 1}
-{"European Union": 1, "Italian": 1, "Piemonte": 1, "Tuscany": 1, "Veneto": 1, "Emilia-Romagna": 1, "Lazio": 1}
-{"North London": 1, "North Europeans": 1}
-{"human": 2}
 {}
 {}
+{"murine": 1, "human": 1, "lung": 1}
 {}
 {}
 {}
+{"copenhagen city heart study": 1, "copenhagen general population study": 1}
 {}
 {}
 {}
+{"europe": 1}
 {}
 {}
 {}
 {}
+{"hippocampal": 2, "central nervous system": 1}
 {}
+{"saccharomyces cerevisiae": 1}
 {}
 {}
 {}
 {}
 {}
+{"drosophila": 2}
 {}
+{"united states": 1}
+{"england": 2}
+{"european": 1, "u.s.": 1}
 {}
-{"Diptera": 1, "Lepidopteran": 1, "Bombyx mori": 1, "Drosophila": 1, "Sarcophaga": 1, "Dipteran": 1}
 {}
+{"human": 5, "mouse": 5, "jejunum": 2, "small bowel": 3}
+{"olmsted county": 1, "minnesota": 1}
 {}
+{"yeasts": 1, "humans": 1}
 {}
-{"Streptomyces erythraeus": 1, "Bacillus stearothermophilus": 1, "Escherichia coli": 1, "Staphylococcus aureus": 1}
 {}
 {}
 {}
 {}
+{"europe": 4, "european": 2, "finland": 1, "sweden": 1, "iceland": 1, "northern europe": 2, "denmark": 2, "england": 1, "scotland": 1, "uk": 1, "france": 1, "the netherlands": 1, "germany": 1, "italy": 1, "switzerland": 1, "western europe": 2, "estonia": 1, "poland": 1, "eastern europe": 2}
 {}
+{"middle east": 1, "united kingdom": 1, "united states": 1, "the netherlands": 1}
+{"mouse": 2, "retina": 2, "cochlea": 2, "cns": 2, "forebrain": 1, "midbrain": 1, "cerebellum": 1}
 {}
+{"cortex": 3, "hippocampus": 2, "diencephalon": 3, "brain": 2}
 {}
 {}
 {}
@@ -4059,143 +4175,27 @@
 {}
 {}
 {}
-{"United States": 2}
 {}
+{"landsat satellite": 1}
+{"mouse": 1}
 {}
 {}
-{"Gaithersburg": 1, "MD": 1, "USA": 3, "San Diego": 1, "CA": 1, "Alameda": 1, "IL": 1, "Des Plaines": 1}
-{"WHO": 2}
 {}
+{"small intestine": 4, "colon": 5, "colonic": 4, "human": 2, "murine": 1}
+{"framingham": 2, "massachusetts": 1}
+{"europe": 1}
 {}
 {}
 {}
 {}
+{"sub-saharan africa": 1}
 {}
+{"ghana": 2}
 {}
 {}
-{"London": 2, "United Kingdom": 1, "Afro-Caribbean": 2}
+{"human": 4, "mouse": 2, "xenopus": 1, "nuclear": 2}
+{"united states": 3, "state": 3, "local": 3, "territorial": 1, "regional": 1, "national": 1}
 {}
-{}
-{}
-{}
-{}
-{"Caucasian": 1, "Minnesota": 1}
-{}
-{}
-{}
-{"American": 2, "Society": 2, "Clinical": 2, "Oncology": 3, "ASCO": 2, "domestic": 2, "international": 2}
-{}
-{}
-{}
-{}
-{"Danish": 1}
-{}
-{"Eastern Equatoria": 3, "Upper Nile": 3, "southern Sudan": 4, "Sudan": 1}
-{"Salmonella enterica serovar Typhimurium LT2": 1, "Escherichia coli": 1}
-{}
-{"Ghana": 2}
-{}
-{}
-{"west-central African": 1, "West-Central Africa": 1, "Belgium": 1}
-{}
-{}
-{"Danish": 1, "Denmark": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Australia": 1}
-{}
-{}
-{}
-{}
-{}
-{"Canada": 1, "England": 1, "Scotland": 1, "Spain": 1, "Italy": 1, "Ireland": 1, "USA": 1}
-{}
-{}
-{}
-{}
-{}
-{"US": 2, "United States": 1, "District of Columbia": 1, "American": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Copenhagen": 2, "City": 1}
-{}
-{}
-{}
-{"Europe": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Drosophila": 2}
-{}
-{"United States": 1}
-{"England": 2}
-{"U.S.": 1, "European": 1}
-{"Escherichia coli": 1}
-{}
-{"human": 5, "mouse": 5, "jejunum": 2}
-{"Olmsted County": 1, "Minnesota": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Europe": 5, "EUROCARE": 1, "European": 2, "Finland": 1, "Sweden": 1, "Iceland": 1, "Northern Europe": 2, "Denmark": 2, "England": 1, "Scotland": 1, "UK": 2, "France": 1, "The Netherlands": 1, "Germany": 1, "Italy": 1, "Switzerland": 1, "Western Europe": 2, "Estonia": 1, "Poland": 1, "Eastern Europe": 2}
-{}
-{"Middle East": 1, "United Kingdom": 1, "United States": 1, "The Netherlands": 1}
-{}
-{}
-{"C57BL/6": 2}
-{}
-{}
-{}
-{}
-{}
-{"Xenopus laevis": 3}
-{}
-{}
-{}
-{"Landsat Satellite": 1, "UCI Machine Learning Repository": 1}
-{}
-{}
-{}
-{}
-{"BDF1": 1, "C57BL/6": 1, "human": 2}
-{"Framingham": 2, "Massachusetts": 1}
-{"Europe": 1, "European": 1}
-{}
-{}
-{}
-{}
-{"sub-Saharan Africa": 1}
-{}
-{"Ghana": 2}
-{}
-{}
-{}
-{"United States": 2, "State": 4, "local": 3, "territorial": 1, "multistate": 1, "national": 1}
-{"USA": 1}
 {}
 {}
 {}
@@ -4209,6 +4209,9 @@
 {}
 {}
 {}
+{"maize": 2}
+{}
+{"human": 3}
 {}
 {}
 {}
@@ -4222,6 +4225,13 @@
 {}
 {}
 {}
+{"united kingdom": 1}
+{}
+{}
+{}
+{}
+{"gabon": 1}
+{"kenya": 2, "western kenya": 1}
 {}
 {}
 {}
@@ -4230,10 +4240,216 @@
 {}
 {}
 {}
-{"Gabon": 1}
-{"Kenya": 2}
+{}
+{}
+{"united states": 1, "olmsted county": 1, "minnesota": 1}
+{"bacteria": 2, "bacterium": 1}
+{}
+{}
+{}
+{}
+{"blacks": 2, "non-hispanic whites": 2}
+{}
+{}
+{}
+{"united states": 2}
+{}
+{}
+{"swaziland": 2}
+{"great britain": 1, "paris": 1}
+{"japan": 1}
+{}
+{"united kingdom": 1}
+{}
+{"catalonia": 2, "spain": 1}
+{}
+{}
+{"rat": 2, "human": 1, "xenopus": 1}
+{}
+{}
+{}
+{}
+{"united states": 1}
+{"japanese": 3}
+{"global": 3, "african": 1, "euro/anglo": 1}
+{}
+{}
+{}
+{"europe": 2, "european": 3}
+{"mumbai": 2, "india": 2, "developing countries": 1, "us": 1}
+{"human": 1}
+{}
+{"kaiser permanente northwest": 1}
+{}
+{"alabama": 1, "los angeles": 1, "baltimore": 1, "whites": 1, "blacks": 1, "montgomery": 1, "titusville": 1, "mobile": 1}
+{}
+{}
+{}
+{}
+{}
+{"rice": 4}
+{}
+{"yeast": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"chick": 1, "avian": 1}
+{}
+{}
+{}
+{}
+{"hlabisa": 4, "south africa": 2, "kwazulu-natal": 1}
+{}
+{}
+{"mouse": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"japan": 1}
+{}
+{}
+{"southern india": 1}
+{"northern alberta": 1}
+{}
+{}
+{"human": 6, "balb/c": 1}
+{}
+{"us": 1}
+{"u.s.": 1}
+{"ansung": 1}
+{}
+{}
+{}
+{}
+{"rat": 1}
+{}
+{}
+{"human": 2, "murine": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"developing countries": 2, "taiwan": 1, "thailand": 1}
+{"france": 1}
+{}
+{}
+{}
+{"world": 1}
+{"us": 2, "washington, dc": 1, "hart senate office building": 1, "us capitol": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"united kingdom": 2}
+{}
+{}
+{}
+{}
+{}
+{"usa": 1}
+{}
+{}
+{}
+{}
+{"s\u00e3o paulo state": 2, "brazil": 3, "s\u00e3o paulo city": 1}
+{}
+{}
+{}
+{"northern": 1, "finland": 1}
+{"us": 1}
+{}
+{"xenopus laevis": 1}
+{"ghana": 3, "sub-saharan africa": 1, "west africa": 1, "accra": 1}
+{"urban university hospital": 1}
+{"danish": 3, "european": 1, "north american": 1}
+{}
+{}
+{}
+{"porcine": 3}
+{"long island": 1, "ny": 1, "usa": 1}
+{}
+{"rat carotid artery": 1}
+{}
+{"dutch": 1}
+{}
+{}
+{}
+{"xenopus": 1}
+{"mouse": 1, "mice": 1, "human": 1}
+{"human": 4, "murine": 1}
+{"italian": 3, "european union": 1}
+{}
+{"yeast": 2, "mycoplasma": 1, "eukarya": 1, "archaea": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"lung": 2}
+{}
+{}
+{}
+{}
+{}
+{"gambian": 1}
+{"sub-saharan africa": 1, "kajiado district": 1, "southern kenya": 1, "kenya": 1}
+{"mouse brain": 2, "human chromosome band 16p13.3-13.2": 1, "rat brain": 1, "hippocampus": 1, "cerebellum": 1, "neocortex": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"china": 2, "russia": 2, "united states": 2, "countries": 1}
+{}
+{}
+{"mouse": 1}
+{}
+{"trinidad": 3, "european": 1, "north american": 1}
+{}
+{"europe": 1, "us": 1}
+{}
+{}
+{}
+{"liver": 4}
+{"cerebellar": 3, "supratentorial": 3}
+{}
+{"asian": 1, "caucasian": 1}
+{}
 {"human": 2}
 {}
+{"eukaryotes": 1, "mammalian": 1, "yeast": 1, "saccharomyces cerevisiae": 1, "metazoans": 1}
+{"brain": 1, "spleen": 1}
+{"united states": 1}
+{"mouse": 2, "human": 1}
 {}
 {}
 {}
@@ -4242,346 +4458,130 @@
 {}
 {}
 {}
-{"United States": 1, "Olmsted County": 1, "Minnesota": 1}
+{"nude mice": 2}
 {}
+{"st. vincent": 3}
 {}
 {}
 {}
-{"Framingham": 2}
-{"blacks": 1, "non-Hispanic whites": 1, "black": 1, "non-Hispanic white": 1}
 {}
+{"london": 1, "england": 1}
+{"human large intestine": 1}
+{"asian": 2}
 {}
 {}
-{"United States": 2}
 {}
 {}
-{"Swaziland": 2}
 {}
-{"Japan": 1}
 {}
-{"United Kingdom": 1}
+{"bone": 1, "brain": 1, "lung": 1}
+{"national": 1, "department of veterans affairs": 1}
 {}
-{"Catalonia": 2, "Spain": 1}
 {}
 {}
+{"e. coli": 1, "escherichia coli": 1}
 {}
+{"drosophila": 2}
 {}
 {}
 {}
+{"united states": 2, "europe": 2, "european union": 1, "eu": 1}
+{"thailand": 2, "bangkok": 2, "united states": 1}
+{"duke university": 1, "durham": 1, "north carolina": 1}
 {}
-{"United States": 1}
-{"Japanese": 3}
-{"Global": 5, "Disease": 1, "87": 1, "44": 1, "African": 1, "Euro/Anglo": 1}
+{"usa": 1}
+{"mouse": 1, "human": 1}
 {}
 {}
+{"human": 1, "mouse": 1}
 {}
-{"European Medicines Agency": 3, "Europe": 1, "European Society for Medical Oncology": 1}
-{"Mumbai": 2, "India": 2, "US": 1}
+{"lungs": 1, "bone marrow": 1}
+{"finnish": 2, "finland": 1}
+{"frog": 1, "rat": 2, "pig": 1, "mouse": 1, "man": 1, "human": 1, "frogs": 1, "humans": 1}
 {}
 {}
-{"Kaiser Permanente Northwest": 1}
 {}
-{"Alabama": 2, "Los Angeles": 1, "Baltimore": 1, "whites": 1, "blacks": 1, "Montgomery": 1, "Titusville": 1, "Mobile": 1}
+{"drosophila": 1, "caenorhabditis elegans": 1, "human": 1}
 {}
 {}
+{"arabidopsis": 1, "yeast": 1, "fly": 1, "human": 1}
 {}
+{"eye": 3, "iris": 1, "ciliary body": 1, "retina": 1}
+{"united states": 2}
+{"mouse": 1, "bovine": 1, "drosophila": 1, "human": 1}
 {}
-{}
-{"Rice": 4}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Liverpool": 1}
-{"chick": 2}
-{}
-{}
-{}
-{}
-{"Hlabisa": 4, "South Africa": 2, "KwaZulu-Natal": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Japan": 1}
-{}
-{}
-{"Southern India": 1, "India": 1}
-{"Northern Alberta": 1}
-{}
-{}
-{}
-{}
-{"US Department of Veterans Affairs": 1}
-{"U.S.": 1}
-{"Ansung": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"human": 2}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Taiwan": 1, "Thailand": 1}
-{"French": 1, "PAQUID": 2, "France": 1}
-{}
-{}
-{}
-{}
-{"US": 2, "Washington, DC": 1, "Hart Senate Office Building": 1, "US Capitol": 1}
-{"mouse": 1, "mice": 2, "rat": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"United Kingdom": 2}
-{}
-{}
-{}
-{}
-{}
-{"USA": 1}
-{}
-{}
-{}
-{}
-{"S\u00c3O PAULO": 2, "BRAZIL": 3, "S\u00e3o Paulo": 1, "Brazil": 1}
-{"Mongolian": 1}
-{}
-{}
-{"northern": 1, "FINRISK": 1}
-{"US": 1}
-{}
-{}
-{"Ghana": 4, "sub-Saharan Africa": 1, "West Africa": 1, "Accra": 1, "Ghanaian": 1}
-{}
-{"Danish": 3, "European": 1, "North American": 1}
-{}
-{}
-{}
-{"porcine": 2}
-{"West Nile": 3, "Long Island": 1, "NY": 1, "USA": 1}
-{}
-{}
-{}
-{"Dutch": 1}
-{}
-{}
-{}
-{}
-{}
-{"human": 3, "murine": 1, "monocytes": 2, "species-specific": 1, "humans": 1}
-{"Italian": 4, "European Union": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Gambian": 1}
-{"Maasai": 4, "Sub-Saharan Africa": 1, "Kajiado": 1, "Southern Kenya": 1, "Kenya": 2}
-{"mouse": 2, "mammalian": 2, "human": 1, "rat": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"China": 2, "Russia": 2, "United States": 2}
-{}
-{}
-{}
-{}
-{"Trinidadian": 2, "Trinidad": 3, "European": 1, "North American": 1}
-{"Lewis": 2}
-{"Europe": 1, "US": 1}
-{}
-{}
-{}
-{"EORTC": 1}
-{"SEER": 2}
-{}
-{"China": 1, "Asian": 1, "Caucasian": 1}
-{"yeast": 2, "Saccharomyces cerevisiae": 1}
-{}
-{}
-{"mammalian": 1, "yeast": 1, "Saccharomyces cerevisiae": 1}
-{}
-{"United States": 1}
-{"hippocampus": 2}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"St. Vincent": 3}
-{}
-{}
-{}
-{}
-{"London": 1, "England": 1}
-{}
-{"Asian": 2}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"Veterans Affairs": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{}
-{"United States": 3, "Europe": 2, "European Union": 1, "EU": 1, "U.S.": 1}
-{"Thailand": 2, "Bangkok": 2, "United States": 1}
-{"Duke University": 1, "Durham": 1, "North Carolina": 1}
-{}
-{"Klebsiella aerogenes": 1, "USA": 1}
-{}
-{}
-{}
-{"human": 1, "mouse": 1, "pancreas": 2}
-{}
-{}
-{"Finnish": 2, "Finland": 1}
-{"frog": 2, "rat": 2, "pig": 1, "mouse": 1, "man": 1, "human": 1, "frogs": 1, "humans": 1}
-{}
-{}
-{}
-{}
-{}
-{}
-{"arabidopsis": 1}
-{}
-{}
-{"United States": 2}
-{}
-{}
-{"British": 2, "Great Britain": 1}
+{"great britain": 1, "british": 2}
 {}
 {}
 {}
 {"rats": 1}
 {}
 {}
+{"human": 4}
 {}
 {}
 {}
-{}
-{"German": 1, "Germans": 1}
-{}
-{}
-{}
-{}
-{}
+{"german": 1, "germans": 1}
 {}
 {}
 {}
 {}
 {}
+{"mammalian": 1, "mice": 1, "humans": 1}
 {}
 {}
 {}
-{}
-{}
-{"New York": 1}
-{}
-{}
-{"Pakistan": 3, "Dadu": 1, "Sindh": 1, "NCT00682006": 1, "United States": 1}
-{}
-{}
-{}
-{}
-{}
-{"Colombia": 1, "Cambodia": 1, "Thailand": 1, "East Africa": 1}
-{}
-{}
-{"southern Africa": 1, "Pacific Island states": 1, "WHO": 2, "Europe": 1, "North America": 1, "the Caribbean": 1, "Asia": 1, "South-Central America": 1, "sub-Saharan Africa": 1, "Africa": 4, "Abuja Declaration": 1, "US": 1}
+{"saccharomyces cerevisiae": 1}
+{"kyoto": 1}
 {}
 {}
 {}
 {}
 {}
 {}
-{"humans": 1}
 {}
-{"Wistar": 1}
+{"pakistan": 2, "dadu": 1, "sindh province": 1, "rural district": 1}
+{}
+{}
+{}
+{}
+{}
+{"colombia": 1, "cambodia-thailand border": 1, "east africa": 1}
+{}
+{}
+{"southern africa": 1, "pacific island states": 1, "europe": 1, "north america": 1, "the caribbean": 1, "asia": 1, "south-central america": 1, "sub-saharan africa": 1, "africa": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{"humans": 1, "mice": 1}
+{}
+{}
 {}
 {}
 {}
 {}
 {"bovine": 4}
-{"HIV": 3, "SIV": 2, "lymph nodes": 2, "HIV-1": 1, "AIDS": 1, "HIV-seropositive": 1, "HIV-infected": 1, "SIV-infected": 1}
 {}
-{"Swedish Birth Register": 1, "Swedish Cancer Register": 1, "Swedish Cause of Death Register": 1, "Swedish Register of Population and Population Changes": 1, "Sweden Birth Register": 1}
-{"Australian": 1}
 {}
+{"sweden": 1, "swedish": 4}
+{"australian": 1}
 {}
 {}
 {}
 {}
 {}
-{"U.S.": 1}
 {}
+{"u.s.": 1}
 {}
 {}
 {}
-{"China": 1}
 {}
+{"china": 1}
 {}
+{"mice": 2, "human": 3, "fetal": 2, "pancreatic": 1, "mouse": 1}
 {}
 {}
 {}
@@ -4598,25 +4598,28 @@
 {}
 {}
 {}
-{"porcine": 1, "human": 1}
-{"North American": 2, "North America": 1}
+{"skin": 5, "porcine": 1, "human": 1}
+{"north american": 2, "north america": 1}
 {}
 {}
 {}
 {}
+{"cns": 1, "chinese hamster ovary": 1, "brain": 1}
 {}
 {}
+{"johns hopkins hospital": 1}
+{"mammalian": 1, "human": 2, "mouse": 1, "xenopus": 1}
 {}
-{"Johns Hopkins Hospital": 1}
 {}
+{"human": 3, "mouse": 2, "mice": 1}
 {}
+{"united states": 1}
 {}
 {}
+{"denmark": 1, "copenhagen": 1}
 {}
-{"United States": 1}
 {}
 {}
-{"Danish": 1, "Copenhagen": 1, "Denmark": 1}
 {}
 {}
 {}
@@ -4624,52 +4627,56 @@
 {}
 {}
 {}
+{"u.s.": 1}
 {}
 {}
+{"mammalian": 1, "mouse": 2}
 {}
-{"U.S.": 1, "American": 1}
 {}
 {}
+{"arabidopsis": 2, "tobacco by2 cells": 2}
 {}
+{"united kingdom": 1, "university of glasgow": 1, "scotland": 1}
 {}
 {}
+{"khoula hospital": 1}
+{"mycobacterium tuberculosis": 2, "escherichia coli": 1}
+{"human": 1}
+{"beef": 2, "rat": 2}
 {}
-{"Arabidopsis": 2, "tobacco": 1, "BY2": 3}
 {}
-{"United Kingdom": 1, "University of Glasgow": 1, "Scotland": 1}
 {}
 {}
-{"Khoula Hospital": 1}
+{"dong-a university hospital": 1, "busan": 1, "south korea": 1}
 {}
-{"U87MG": 1}
 {}
+{"aorta": 1, "iliac": 1, "carotid": 2}
 {}
 {}
 {}
 {}
-{"Dong-A University Hospital": 1, "Busan": 1, "South Korea": 1, "National Cancer Institute": 1}
 {}
 {}
-{"aorta": 1, "iliac": 1, "carotid": 2, "murine": 2}
 {}
 {}
 {}
+{"us": 1}
 {}
 {}
+{"xenopus": 1}
+{"australian": 1}
 {}
 {}
+{"new york state": 2}
+{"helsinki": 2, "finland": 1}
 {}
 {}
-{"US": 1, "Arizona": 1, "Massachusetts": 1}
 {}
 {}
-{"Xenopus": 1}
-{"Australian": 1}
 {}
 {}
-{"New York State": 2}
-{"Helsinki": 2, "Finland": 1}
 {}
+{"primate": 1, "yeast": 1}
 {}
 {}
 {}
@@ -4680,33 +4687,38 @@
 {}
 {}
 {}
-{"Wistar": 1, "C7": 1}
 {}
+{"developing countries": 2, "industrialized world": 1}
 {}
 {}
 {}
 {}
 {}
+{"genome": 3}
 {}
 {}
 {}
 {}
 {}
 {}
+{"saccharomyces cerevisiae": 1}
 {}
 {}
 {}
+{"madrid": 1, "spain": 1}
+{"south africa": 3, "zambia": 3, "india": 3, "vietnam": 3}
 {}
 {}
 {}
 {}
+{"human": 4, "mouse": 2}
 {}
 {}
 {}
 {}
 {}
-{"Madrid": 1, "Spain": 1}
-{"South Africa": 3, "Zambia": 3, "India": 3, "Vietnam": 3}
+{"minneapolis": 1}
+{"us": 1}
 {}
 {}
 {}
@@ -4714,95 +4726,98 @@
 {}
 {}
 {}
+{"uk": 1, "italy": 1}
 {}
+{"lung": 2, "lymph node": 1}
 {}
 {}
-{"Minneapolis": 1}
-{"US": 1, "Minnesota": 1, "New York": 1}
 {}
 {}
 {}
-{"Xenopus": 1, "human": 1}
 {}
 {}
 {}
-{"British": 1, "Italian": 1, "UK": 1, "Italy": 1}
 {}
+{"southern california": 1, "united states": 1}
 {}
+{"murine": 1, "nasal": 3, "trigeminal ganglia": 3}
 {}
 {}
 {}
 {}
 {}
+{"english-language": 1, "us$": 1}
 {}
 {}
 {}
 {}
-{"southern California": 1, "United States": 1, "Hispanic": 1}
+{"greater new york": 1}
 {}
 {}
+{"brain": 4, "neocortex": 1, "olfactory bulb": 1, "hippocampus": 1, "thalamus": 1, "pia mater": 1}
 {}
+{"usa": 1, "sweden": 1, "norway": 1, "denmark": 1, "finland": 1}
+{"kansas city": 1}
 {}
 {}
+{"thai": 1}
 {}
+{"midwest": 1}
+{"southwest region of iran": 2, "iran": 3, "southwest part of iran": 1, "khuzestan": 1}
 {}
-{"US$": 1}
+{"usa": 1}
 {}
 {}
 {}
-{"HEK293": 3}
-{"New York": 1}
 {}
 {}
 {}
+{"republic of korea": 1}
+{"saccharomyces cerevisiae": 1}
 {}
-{"USA": 1, "Sweden": 1, "Norway": 1, "Denmark": 1, "Finland": 1}
-{"Kansas City": 1}
-{"American": 1}
 {}
-{"Thai": 1}
 {}
-{"Midwest": 1}
-{"Southwest": 4, "Iran": 3, "Khuzestan": 1}
 {}
-{"USA": 1}
 {}
+{"gut": 2, "human": 2}
 {}
 {}
 {}
 {}
 {}
-{"Republic of Korea": 1}
 {}
 {}
+{"developing countries": 1, "chinese": 2}
 {}
 {}
-{"mouse": 3}
 {}
 {}
 {}
+{"shigella": 5}
 {}
 {}
 {}
+{"japanese": 3}
+{"saccharomyces cerevisiae": 1}
 {}
 {}
 {}
-{"Cochrane Injuries Group's Specialised Register": 1, "Cochrane Central Register of Controlled Trials": 1, "CENTRAL": 1, "The Cochrane Library": 1, "MEDLINE": 1, "Ovid SP": 2, "EMBASE": 1, "ISI Web of Science": 2, "Science Citation Index Expanded": 1, "SCI-EXPANDED": 1, "Conference Proceedings Citation Index - Science": 1, "CPCI-S": 1, "Chinese Biomedical Literature and Retrieval System": 1, "CBM": 1, "Chinese Medical Current Contents": 1, "CMCC": 1, "Chinese Medical Academic Conference": 1, "CMAC": 1, "English": 1, "Chinese": 1}
+{"finland": 2, "finnish": 2}
 {}
 {}
 {}
 {}
-{"mouse": 6}
 {}
 {}
 {}
+{"america": 1}
 {}
-{"Japanese": 3}
+{"western societies": 1}
+{"humans": 2, "human": 4}
 {}
 {}
 {}
 {}
-{"Finland": 3, "Finnish": 2}
 {}
 {}
 {}
@@ -4810,54 +4825,53 @@
 {}
 {}
 {}
-{"America": 1}
 {}
 {}
-{"humans": 1, "human": 4}
 {}
+{"mandrillus sphinx": 2}
 {}
 {}
 {}
+{"doetinchem": 1}
+{"new york city": 2}
 {}
+{"saccharomyces cerevisiae": 2}
 {}
 {}
+{"united kingdom": 3, "british": 1}
 {}
 {}
 {}
 {}
+{"tropics": 2}
 {}
+{"boston area": 1}
 {}
 {}
-{"Mandrillus sphinx": 2}
+{"korean": 3}
+{"femoral bone marrow": 1, "iliac crest bm": 1}
 {}
 {}
 {}
-{"Doetinchem": 1}
-{"New York City": 2}
 {}
 {}
 {}
 {}
-{"United Kingdom": 3, "British": 1}
 {}
 {}
 {}
 {}
 {}
 {}
-{"Boston": 1}
 {}
 {}
-{"Korean": 3}
-{"femoral": 1, "iliac crest": 1}
-{"human": 6, "mouse": 2}
 {}
 {}
+{"neotropical": 1, "panama": 1, "tropical": 2}
 {}
 {}
 {}
 {}
-{"human": 2, "SHIP": 2, "mouse": 1}
 {}
 {}
 {}
@@ -4867,103 +4881,89 @@
 {}
 {}
 {}
-{"neotropical": 1, "latitude": 1, "tropical": 2, "Panama": 1}
+{"finnish": 1}
+{"danish": 1, "north jutland": 1, "aarhus": 1, "viborg": 1}
+{"united states": 1, "canada": 1, "australia": 1, "germany": 1}
 {}
 {}
 {}
 {}
 {}
 {}
+{"dundee": 1, "united kingdom": 1}
 {}
 {}
 {}
 {}
 {}
 {}
+{"west of scotland": 1}
+{"finnish": 4}
 {}
-{"Finnish": 1}
-{"Danish": 1, "North Jutland": 1, "Aarhus": 1, "Viborg": 1}
-{"United States": 1, "Canada": 1, "Australia": 1, "Germany": 1, "European": 1}
 {}
 {}
 {}
+{"uk": 1}
 {}
 {}
 {}
-{"Dundee": 1, "United Kingdom": 1}
 {}
+{"uk": 1}
 {}
 {}
+{"united states": 1, "us": 1}
 {}
 {}
 {}
-{"Scotland": 1}
-{"Finnish": 5}
 {}
 {}
 {}
 {}
-{"UK": 1}
 {}
 {}
 {}
 {}
-{"UK": 1}
 {}
 {}
-{"United States": 1, "US": 1}
+{"england": 1, "scotland": 1}
 {}
-{"TRANSLATE-ACS": 2}
 {}
+{"houston": 1}
+{"denmark": 2, "north jutland": 1, "aarhus counties": 1}
+{"nasopharynx": 2, "chinese": 1}
 {}
 {}
+{"african": 2, "caribbean": 1}
 {}
+{"greek": 2}
 {}
 {}
+{"mus musculus": 2}
+{"united states": 1}
+{"english": 3, "england": 1, "british": 1}
 {}
 {}
 {}
 {}
 {}
-{"British": 1, "England": 1, "Scotland": 1, "European": 1, "EPIC-Oxford": 1}
 {}
 {}
-{"Houston": 1}
-{"Denmark": 2, "North Jutland": 1, "Aarhus": 1}
-{"nasopharynx": 2, "Chinese": 1}
+{"world": 2, "africa": 1, "southwest pacific": 1}
 {}
 {}
-{"African": 2, "Caribbean": 1}
+{"swiss": 1}
 {}
-{"GReek": 2}
+{"maasstad hospital rotterdam": 1}
 {}
 {}
-{"Mus musculus": 2}
-{"United States": 1}
-{"English": 3, "England": 1, "British": 1}
 {}
 {}
 {}
 {}
-{}
-{}
-{}
-{"World": 2, "countries": 1, "Africa": 1, "southwest Pacific": 1}
-{"rat": 1, "dog": 2, "primates": 2, "rodent": 1, "rodents": 1}
-{}
-{"Swiss": 1}
-{}
-{"Maasstad Hospital Rotterdam": 1}
-{"Chironomus thummi": 2}
-{}
-{"Xenopus tropicalis": 6, "Xenopus laevis": 8, "Nieuwkoop and Faber": 1}
-{}
-{}
-{}
-{"European": 2, "United States": 2, "Europe": 2, "U.S.": 1}
-{"PEPFAR": 3, "Botswana": 1, "Ethiopia": 1, "Nigeria": 1, "Uganda": 1, "Vietnam": 1}
-{}
-{"U.S.": 1, "American": 1, "Latino": 1}
+{"europe": 3, "united states": 2, "u.s.": 1, "world": 2}
+{"botswana": 1, "ethiopia": 1, "nigeria": 1, "uganda": 1, "vietnam": 1}
+{"caenorhabditis elegans": 1, "animals": 2, "plants": 1, "fungi": 1, "phyla": 1}
+{"u.s.": 1, "national": 3, "latino": 1}
 {}
 {}
 {}
@@ -4974,32 +4974,35 @@
 {"countries": 1}
 {}
 {}
-{"East Asian": 1}
+{"east asian": 1}
 {}
 {}
-{"U.S.": 1}
+{"u.s.": 1, "non-hispanic white": 1}
 {}
 {}
 {}
 {}
 {}
-{"Dallas": 1, "black": 2, "white": 2, "Hispanic": 2, "Hispanics": 1, "whites": 1, "blacks": 1}
+{"dallas": 1}
+{"maize": 2}
 {}
+{"escherichia coli": 3}
+{"western world": 1, "developing countries": 1}
+{"guanacaste": 1, "costa rica": 1}
+{"russia": 2, "russian": 1}
+{"lateral hypothalamus": 3, "lh": 5, "thalamus": 1, "amygdala": 1, "paraventricular": 1, "perifornical": 1}
 {}
 {}
 {}
-{"Guanacaste": 1, "Costa Rica": 1}
-{"Russian": 1, "Russia": 1}
 {}
 {}
 {}
 {}
 {}
+{"sweden": 1}
 {}
 {}
 {}
-{"lung": 9, "human": 2}
-{"Sweden": 1}
 {}
 {}
 {}
@@ -5007,28 +5010,27 @@
 {}
 {}
 {}
-{"human": 3}
 {}
 {}
 {}
+{"caucasian": 2, "african american": 3, "hispanic": 2, "japanese": 1}
 {}
 {}
-{"Caucasian": 2, "African American": 3, "Hispanic": 2, "Japanese": 1}
+{"drosophila": 1}
 {}
 {}
+{"samoa": 3}
+{"countries": 1, "territories": 1, "global": 2}
 {}
 {}
+{"italian": 1}
+{"american society of clinical oncology": 1, "european society of medical oncology": 1}
+{"worldwide": 2, "countries": 1, "world regions": 1, "country": 1}
 {}
-{"Samoa": 4}
-{"195": 2, "countries": 1, "territories": 1, "Global": 2, "Globally": 1, "Disease": 2, "Study": 2, "DALYs": 2, "Bill & Melinda Gates Foundation": 1}
 {}
 {}
-{"Italian": 1}
-{"American": 1, "European": 1}
-{"worldwide": 2, "countries": 2, "world": 1, "regions": 1, "American": 1}
 {}
 {}
-{"International": 6}
 {}
 {}
 {}
@@ -5038,28 +5040,29 @@
 {}
 {}
 {}
+{"uk": 1, "usa": 1, "sweden": 1}
 {}
 {}
-{"UK": 1, "USA": 1, "Sweden": 1}
 {}
 {}
 {}
 {}
 {}
+{"koreans": 2, "australians": 2, "korean": 3, "australian": 3}
+{"india": 1, "israel": 1, "haiti": 1}
 {}
+{"rat": 3, "mice": 1}
 {}
-{"Koreans": 3, "Australians": 3, "Australian": 3, "Korean": 3, "AUD": 1}
-{"India": 1, "Israel": 1, "Haiti": 1}
+{"western cape": 1, "cape town": 1, "south africa": 1}
 {}
-{"rat": 3, "liver": 6, "Mice": 1}
+{"european": 1, "sweden": 2, "swedish": 1, "region v\u00e4stra g\u00f6taland": 1}
 {}
-{"Western Cape": 1, "Cape Town": 1, "South Africa": 1}
 {}
-{"European": 1, "Sweden": 2, "Swedish": 1, "V\u00e4stra G\u00f6taland": 1}
+{"world": 1, "singapore": 1}
+{"european": 2, "europe": 4, "western europe": 2, "scandinavia": 2, "southern europe": 2, "central and eastern europe": 2}
 {}
 {}
 {}
-{"European": 2, "Europe": 4, "Western Europe": 2, "Scandinavia": 2, "Southern Europe": 2, "Central and Eastern Europe": 2}
 {}
 {}
 {}
@@ -5069,115 +5072,112 @@
 {}
 {}
 {}
+{"finnish": 1, "finland": 1}
+{"western cultures": 1}
 {}
 {}
 {}
-{"Finnish": 1, "Finland": 1}
+{"china": 2, "zheng zhou city": 1, "henan province": 1, "p.r. china": 1}
+{"rural": 1, "urban": 1}
 {}
+{"niedersachsen": 1, "germany": 1, "lower saxony": 1}
+{"us": 1}
 {}
 {}
+{"australian": 1, "high-income countries": 1}
+{"lithuania": 2, "hungary": 3, "romania": 3, "west germany": 2, "germany": 2}
+{"u.s.": 1}
+{"united states": 2, "american": 1, "mexican americans": 2, "whites": 1, "african americans": 2}
+{"portland": 1, "oregon": 1}
+{"europe": 1, "united kingdom": 1, "united states": 1, "israel": 1}
 {}
-{"China": 2, "Zheng Zhou City": 1, "Henan Province": 1, "P.R. China": 1}
 {}
 {}
-{"Niedersachsen": 1, "Germany": 1, "Lower Saxony": 1}
-{"US": 1}
 {}
 {}
-{"Australian": 1}
-{"Lithuania": 2, "Hungary": 3, "Romania": 4, "west Germany": 3, "Germany": 2, "Hungarian": 1, "Romanian": 2, "Lithuanian": 1, "Europe": 1}
-{"U.S.": 1}
-{"United States": 2, "American": 1, "Mexican Americans": 2, "whites": 1, "African Americans": 2, "US": 2}
-{"Portland": 1, "Oregon": 1}
-{"Europe": 1, "the United Kingdom": 1, "the United States": 1, "Israel": 1}
 {}
+{"united kingdom": 1}
+{"indian": 1}
 {}
 {}
 {}
-{"FIH": 1}
+{"sri lanka": 1}
 {}
-{"United Kingdom": 1}
-{"Indian": 1}
+{"liverpool": 1}
 {}
 {}
 {}
-{"Sri Lanka": 1, "Sri Lankan": 1}
 {}
-{"Liverpool": 1}
 {}
 {}
 {}
+{"human": 1}
+{"tropical": 3, "oceanic": 2, "sea": 3, "waters": 1, "latitudes": 1}
 {}
 {}
 {}
 {}
 {}
 {}
-{"human": 4}
+{"caenorhabditis elegans": 2, "drosophila melanogaster": 1, "arabidopsis thaliana": 1}
 {}
 {}
-{"Brassica": 2, "Tobacco": 1}
+{"chinese": 3}
 {}
-{"Lundehund": 7}
-{"Caenorhabditis elegans": 2, "Drosophila melanogaster": 1, "Arabidopsis thaliana": 1}
 {}
+{"yunnan": 2, "kaiyuan": 2, "yunnan province": 1, "australia": 1, "morocco": 1}
 {}
-{"Chinese": 3}
 {}
 {}
-{"Yunnan": 2, "Kaiyuan": 2, "Yunnan Province": 1, "Australia": 1, "Morocco": 1}
 {}
 {}
-{"InP": 3, "InGaAs": 1}
 {}
+{"synchrotron soleil": 2, "gif-sur-yvette": 1, "france": 1}
+{"australian": 1, "australia": 2}
 {}
 {}
-{"SOLEIL": 2, "SWING": 2, "Gif-sur-Yvette": 1, "France": 1}
-{"Australian": 1, "Australia": 1}
 {}
 {}
+{"inland": 2}
 {}
-{"Wal-Mart": 2}
 {}
 {}
 {}
 {}
 {}
 {}
+{"australian": 1, "american": 1, "california": 1, "portola valley": 1}
+{"canadian": 3, "canada": 2, "southern canada": 2}
 {}
 {}
-{"Australian": 1, "American": 1, "California": 1, "Portola Valley": 1}
-{"Canadian": 3, "Canada": 2, "Southern Canada": 2, "338": 1, "120": 1, "1950\u20132010": 2, "1900\u20132010": 1, "1961": 1}
+{"eastern arctic": 3, "arctic islands": 1, "resolute bay": 1, "craig harbour": 1, "ennadai lake": 1, "garry lake": 1, "whale cove": 1}
 {}
 {}
-{"Inuit": 2, "Eastern Arctic": 3, "Arctic": 2, "Resolute Bay": 1, "Craig Harbour": 1, "Ennadai Lake": 1, "Garry Lake": 1, "Whale Cove": 1}
+{"bangkok": 1, "thailand": 1, "western societies": 1}
 {}
+{"inner city": 2, "america": 1}
 {}
-{"Bangkok": 1, "Thailand": 1}
+{"china": 2, "beijing": 1, "shanghai": 1, "shenyang": 1, "dalian": 1, "united states": 1, "american": 1}
+{"african american": 1}
 {}
-{"America": 1}
 {}
-{"China": 3, "Beijing": 1, "Shanghai": 1, "Shenyang": 1, "Dalian": 1, "American": 1, "Chinese": 1, "United States": 1}
-{"African American": 1}
 {}
 {}
+{"u.s.": 1}
+{"london": 1}
 {}
+{"beijing": 6}
+{"australia": 3}
+{"grand forks": 2, "north dakota": 1, "east grand forks": 3, "minnesota": 1}
+{"beijing city": 3, "urban area": 1, "6th ring road": 2}
 {}
-{"U.S.": 1}
+{"us": 1}
 {}
 {}
-{"Beijing": 6}
-{"Australia": 3, "Australian": 1, "national": 1, "state": 1}
-{"Grand Forks": 3, "North Dakota": 1, "East Grand Forks": 3, "Minnesota": 1}
-{"Beijing City": 2, "Beijing": 2}
+{"uk": 2, "british": 1}
 {}
-{"US": 1}
+{"western europe": 1, "north america": 1}
 {}
 {}
-{}
-{}
-{"western Europe": 1, "North America": 1}
-{}
-{}
-{"Vietnam": 2, "Vietnamese": 1, "Ho Chi Minh City": 1, "Kyoto": 1, "Japan": 1, "Merignac": 1, "France": 1}
+{"vietnam": 2, "ho chi minh city": 1, "kyoto": 1, "japan": 1, "merignac": 1, "france": 1}
 {}

@@ -1,0 +1,5183 @@
+{"diffusion tensor magnetic resonance imaging": 2, "apparent diffusion coefficient": 3, "relative anisotropy": 3, "water diffusion": 1}
+{"s100a9": 2, "cd33": 3, "itim": 1, "itam": 1}
+{"reverse transcription": 4, "integration": 1, "secondary structure": 1}
+{"bisulfite": 1, "cytosine": 1}
+{}
+{"phosphorylation": 1}
+{"zinc-finger nucleases": 2, "zfn": 2}
+{"microarrays": 3, "serotyping": 2, "serotypes": 8, "bayesian": 4, "random effects model": 1}
+{}
+{}
+{"phosphorylation": 1}
+{"oxidative": 1}
+{}
+{}
+{}
+{}
+{"polysaccharide": 2, "oxidizable quinones": 1, "antioxidants": 1, "phenol-binding reagents": 1, "phenol oxidase inhibitors": 1}
+{}
+{}
+{"serum-free medium": 1}
+{"phospho-s6 (p-s6)": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"fluorescence": 3, "fluorescent resonance energy transfer": 1, "donor": 3, "acceptor": 2, "molecule": 1, "buffer": 1, "media": 1, "europium cryptate": 2, "terbium cryptate": 2, "quantum yield": 1, "molar extinction coefficient": 1, "emission peaks": 1, "fluorophors": 1, "fluorophore": 1}
+{}
+{}
+{"sio2": 8, "nanoparticles": 10, "titanium oxide": 1, "tio2": 1, "zinc oxide": 1, "aluminum oxide": 1, "gold oxide": 1, "silver oxide": 1, "iron oxide": 1, "silica oxide": 1, "liquid chromatography-tandem mass spectrometry": 1}
+{"methylation": 1, "acetylation": 1, "residues": 1, "proteins": 2, "modifications": 3}
+{}
+{}
+{}
+{"leucine zipper domains": 2}
+{"sumoylation": 1, "phosphorylation": 1}
+{}
+{"activin/nodal signalling": 3, "growth factors": 1, "pathway": 1}
+{}
+{"caspase-2": 1, "caspase-3": 1, "caspase-4": 1, "caspase-7": 1, "caspase-8": 1, "caspase-9": 1, "caspase-10": 1, "herp": 1, "grp78": 1, "chop": 1}
+{}
+{"real time reverse transcriptase-polymerase chain reaction (rrt-pcr)": 2, "haemagglutination inhibition assay": 2}
+{}
+{}
+{"photolysis": 1, "thermally induced rearrangement": 1, "double bonds": 1}
+{}
+{}
+{"arginine": 6, "enzymes": 1, "de novo": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"chemoinformatics": 1, "organic molecules": 1}
+{}
+{}
+{"anti-oxidant": 1, "prostaglandin e(2)": 1, "pge(2)": 1, "cyclooxygenase-2": 1, "cox-2": 1}
+{"protein": 2, "rna interference": 1, "western immunoblotting": 1}
+{"hydroxyl radical": 3, "oxidative stress": 1, "thiourea": 2, "propidium iodide": 1, "nad(+) cycling assay": 1}
+{"creatinine": 2}
+{"c-jun n-terminal kinase mitogen-activated protein kinase": 1, "jnk mapk": 2, "nuclear factor kappa-b": 1, "nf-\u03bab": 2, "phosphorylation": 2}
+{}
+{}
+{"flow cytometry": 2, "cytometric": 2, "propidium iodide": 1, "phycoerythrin": 1, "fluorescein isothiocyanate": 1}
+{}
+{"diacylglycerol kinase \u03ba": 1}
+{"matrix metalloproteinases": 1}
+{"affinity chromatography": 1, "magnesium ions": 1, "phosphate": 1, "ph": 1}
+{"hyperacetylation": 1}
+{}
+{"sucrose": 2, "surfactant": 2, "silwet l-77": 1, "benzylamino purine": 1, "ph": 1}
+{}
+{}
+{}
+{"crispr/cas9": 2, "crisprs/cas9": 1, "cas9": 2, "electroporation": 3, "microinjection": 2, "sgRNAs": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"alkali cations": 2, "li+": 2, "cs+": 3, "rb+": 1, "k+": 1, "na+": 1, "cscl": 1, "polyethylene glycol": 1, "polyamines": 1, "basic proteins": 1}
+{}
+{}
+{}
+{"complexes": 2}
+{"redox": 3, "oxygen": 1, "h2o2": 1}
+{"gases": 1, "liquids": 1, "particulate matter": 2, "coagulation/thrombosis": 1}
+{}
+{}
+{}
+{}
+{"acetylation": 5, "acetyltransferase": 2, "deacetylase": 1, "hyperacetylated": 1, "hyperacetylation": 2}
+{"chemical approaches": 2, "compounds": 1}
+{"lysine 4 trimethylation": 2, "lysine 27 trimethylation": 1, "lysine 36 trimethylation": 1, "lysine 9 trimethylation": 2, "lysine 20 trimethylation": 1}
+{}
+{"oxidatively": 1, "oxidized": 1, "biochemical": 1}
+{}
+{"plasma": 3, "vitamin d": 3, "1,25-dihydroxyvitamin d": 2, "25-hydroxyvitamin d": 2, "25(oh)d": 4}
+{}
+{}
+{}
+{}
+{}
+{}
+{"pi4p": 4, "vap": 4, "osbp": 1}
+{}
+{}
+{}
+{}
+{}
+{"centrifugal elutriation": 3, "ca++": 1, "mg++": 1, "pbs": 1, "edta": 1}
+{}
+{"enzymatic": 2, "base substitutions": 1}
+{}
+{}
+{"proteins": 2, "nucleic acids": 1}
+{}
+{"histone deacetylases": 2, "hdac": 1, "hdacs": 2, "hdac4": 2, "hdac5": 2, "hdac6": 2}
+{}
+{}
+{"binding": 2, "retention": 2, "uptake": 2, "transport": 2, "contamination": 2}
+{}
+{}
+{}
+{"mass-spectrometric analysis": 2}
+{"bicarbonate": 2, "carbonic anhydrases 4 and 2": 1, "car4 and car2": 1}
+{"volatile substances": 1, "mass spectrometry": 2, "ion-source": 2, "laser desorption/ionization": 1, "quadrupole ion trap time-of-flight": 1, "ultraviolet laser": 1, "triplet lens": 1, "intrinsic water": 1, "volatile compounds": 1, "oil drop": 1}
+{"amino acids": 3, "compounds": 1, "molecules": 1}
+{"green synthesis": 1, "silver nanoparticles": 2, "nanoparticles": 2, "uv-vis spectroscopy": 1, "energy-dispersive x-ray spectroscopy": 1, "high resolution-transmission electron microscopy": 1, "x-ray diffraction": 1, "dynamic light scattering": 1, "physicochemical": 1}
+{"phosphorylation": 5, "serine": 3, "threonine": 2, "alanines": 1, "glutamate": 1, "atpase": 1}
+{"gallyas silver staining": 1, "campbell-switzer staining": 1, "argyrophilic": 1}
+{}
+{}
+{}
+{}
+{"acidic residues": 1}
+{}
+{"particulate matter": 4, "pm2.5": 5, "pm2.5-10": 2}
+{"redox": 3, "metabolism": 1, "synthesis": 2, "electron transport": 1}
+{"mg2(+)-dependent reverse transcriptase enzyme": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"cyclin-dependent kinase": 2, "ser780/ser795": 1}
+{"leukotrienes": 1, "enzyme": 1, "arachidonate 5-lipoxygenase": 1, "alox5": 2}
+{}
+{}
+{}
+{"nitric oxide synthase": 1, "inos": 3}
+{}
+{}
+{"\u03b3-h2ax": 1, "sa-\u03b2-galactosidase": 1}
+{"biochemical": 2, "dissolution": 1}
+{}
+{"purification": 1, "uv cross-linking": 1, "dinucleotide": 1}
+{}
+{}
+{}
+{}
+{"lipolysis": 2}
+{}
+{}
+{}
+{"base pairing": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"degradation": 2, "diffusible proteins": 1}
+{"epigenetic": 5, "epigenetic modifying agents": 1, "epigenetic silencing": 1, "epigenetic modulation": 2, "epigenetic mechanisms": 1}
+{"extracellular signal-regulated kinase 1/2": 2, "erk1/2": 3, "p38": 4, "jnk": 1, "c-jun n-terminal kinase": 1}
+{"oxidized": 2, "reactive oxygen species": 1, "ros": 3, "nadph oxidase": 1}
+{"biophysical": 2, "extracellular matrix": 1, "elastic modulus": 1, "adhesive substrata": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"hydroxyl radicals": 3, "oxidative damage": 1, "fenton reaction": 1}
+{}
+{"nitric oxide": 1}
+{"gtpase": 1}
+{}
+{"ethanol": 5, "metabolic": 2, "metabolism": 1, "biogenesis": 1, "degradation": 1, "assimilation": 1}
+{}
+{"polypropylene": 6, "acetic acid": 3, "biocompatibility": 2}
+{}
+{}
+{}
+{}
+{"reactive oxygen": 1, "oxidative": 1, "compounds": 1}
+{}
+{"polymerase chain reaction": 1, "pcr": 2, "primers": 1, "hybridization": 2, "probes": 2}
+{}
+{}
+{"isothermal titration calorimetry": 2, "dissociation constants": 1}
+{"enzyme": 1, "complex": 1, "substrate": 1, "assay": 1, "recombinant": 1, "holoenzyme": 1, "unwinding": 1, "g-g hairpin": 1}
+{}
+{"hydrolytic": 1}
+{"e-cadherin": 4, "\u03b2pix": 1, "\u03b1-catenin": 1, "green fluorescent protein": 1}
+{"polymerase chain reaction": 1, "western blot analysis": 1, "chromatin immunoprecipitation": 1, "trimethylation": 3, "lysine 27": 2}
+{}
+{"thermodynamic properties": 1}
+{}
+{}
+{}
+{"biotinylated": 1}
+{"dense-core vesicles": 2, "exocytosis": 1, "biogenic amine": 1}
+{}
+{"lipid": 1, "molecular": 2, "signaling": 1}
+{}
+{}
+{"biochemical": 1, "conformational": 3, "denaturing": 1, "fibrillary": 1, "congophilic": 2}
+{"ions": 1}
+{"isotropic": 1}
+{}
+{}
+{"fluorescein isothiocyanate": 1}
+{}
+{"glutaminolysis": 5, "rag-mtorc1 signaling": 1, "kinase": 1, "torc1": 5, "mtorc1": 4, "gtp": 1, "lysosomal translocation": 2, "rag": 2, "ragb": 1}
+{"hydroxylation": 1}
+{}
+{"methylation": 2, "methyltransferase": 1}
+{}
+{"oxidative stress": 2}
+{"oligofructose": 1, "fructo-oligosaccharide (ofs)": 2, "oligosaccharides": 1}
+{"phosphorylation": 4}
+{"metabolites": 1}
+{"calcium": 3, "store-operated calcium entry": 2, "calcium channels": 1}
+{}
+{"enzymatic catalysis": 1, "hydrogen bonds": 1}
+{"reactive nitrogen intermediates": 1}
+{}
+{"dextran sodium sulfate": 2}
+{}
+{"phosphorylation": 1}
+{}
+{}
+{"ca2+": 4}
+{"diffusion tensor imaging": 3, "t2 weighted mr imaging": 1, "t1 and t2 weight imaging": 1, "tract based spatial statistics": 1, "radial diffusivity": 3, "fractional anisotropy": 1, "t2 white matter hyperintensities": 1}
+{}
+{"albumin-bound estradiol": 1}
+{}
+{}
+{"in vitro": 3, "in vivo": 1, "toxicology": 1, "assays": 2, "cell-mediated": 1, "complement-dependent": 1, "cytotoxicity": 1}
+{}
+{"aptamer": 3, "macropinocytosis": 1}
+{"transglutaminase 2": 3, "tg2": 4, "enzymatic activity": 1, "crosslinking": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"fructosamine": 6, "hba1c": 3, "glucose control": 3}
+{"in vitro": 1, "in vivo": 1, "chemically modified": 1}
+{}
+{}
+{"atp": 2, "hydrolysis": 1, "peptide": 2, "alanine": 1, "nucleotide": 1}
+{}
+{"hyperosmolality": 2, "l-phenylalanine": 1, "l-phenylalanylgly-cylglycine": 1, "l-homoarginine": 1, "1-bromotetramisole": 1, "levamisole": 1}
+{"bile acid": 2, "oxygen consumption": 1}
+{"chemical identity": 1, "integrity": 1}
+{"phospholipase c": 1, "residue": 2, "hydrophobic": 1}
+{}
+{"protein misfolding cyclic amplification": 1, "pmca": 2}
+{"c\u2192t substitution": 1, "a\u2192g substitution": 1, "arg 257 (cga)": 1, "stop codon (tga)": 1, "lys 83 (aag)": 1, "glu codon (gag)": 1, "arg257stop (r257x)": 1}
+{}
+{}
+{"oxidative phosphorylation": 1, "glycolysis": 1}
+{"ca2+": 5, "crac channel": 3, "crac current": 1, "store-operated ca2+ entry": 2, "transmembrane segments": 1}
+{}
+{}
+{}
+{}
+{}
+{"biochemical": 1, "molecular": 1, "biochemistry": 1}
+{"ubiquitin": 2, "proteolysis": 3, "ubiquitin ligase": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"gtp-bound": 1}
+{"hydrophilic": 1}
+{"oxidative": 2, "pentose phosphate pathway": 1, "ppp": 2, "nadph": 1, "ros": 1}
+{"polymerase": 4, "catalytic": 2, "subunits": 2, "biochemical": 1}
+{"chemorepellent": 1}
+{}
+{"spectral power": 1, "gamma band": 2, "beta range": 1}
+{"pentosidine": 3}
+{"lox": 2}
+{}
+{"amino acid": 2, "receptor antagonist": 1, "depolarizing agents": 1, "sodium": 1}
+{"multiprotein complexes": 1, "h3k27me3": 2}
+{"biochemical": 2}
+{"chemically": 1, "oxidative": 1, "oxidases": 1}
+{"nad(+)": 3, "biosynthesis": 1, "metabolism": 1}
+{}
+{}
+{"ca2+": 2}
+{}
+{}
+{"c-src": 4, "crk-associated substrate (cas)": 1, "focal adhesion kinase (fak)": 1}
+{"lysine 27 tri-methylation": 2, "lysine 4 tri-methylation": 1, "methylation": 1, "epigenetic": 1}
+{}
+{}
+{"nadph oxidase": 2, "oxidase": 1}
+{}
+{"metabolic": 3, "mutagenesis": 1, "precursors": 1, "flux": 1}
+{}
+{"amyloid-dna composites": 1, "polymerization": 1, "immunogenic complexes": 1}
+{"phosphatidylinositol-3-oh kinase": 1}
+{}
+{}
+{}
+{}
+{"tyrosine kinase receptor": 1}
+{}
+{"5-hmc": 8, "5-hydroxymethylcytosine": 1, "hydroxymethylated": 1, "dhmrs": 2, "glutamate": 1, "calcium": 1, "gaba": 1, "dopamine": 1}
+{}
+{"interleukin": 1, "il-6": 2, "nf-kappab": 2}
+{}
+{}
+{}
+{}
+{}
+{"oxygen": 1}
+{"arachidonoyl": 2, "lysophosphatidylcholine acyltransferase 3": 1, "arachidonate": 1, "catalyze": 1, "biophysical": 1}
+{"fluorescence": 2, "quenching": 1, "electrophoretic mobility shift analysis": 2, "gel filtration chromatography": 1, "solution": 1, "titrations": 1, "salt": 1, "dissociation constants": 1, "biophysical analyses": 1}
+{"receptor tyrosine kinase": 2, "signalling pathways": 2, "signalling crosstalk": 1, "networking": 1}
+{}
+{"actin-myosin networks": 1, "adhesive complexes": 1}
+{"lipid": 2}
+{"oxygen metabolism": 2, "reactive oxygen species": 1, "antioxidant enzyme": 1, "superoxide dismutase 1": 1, "oxygen tension": 2}
+{}
+{}
+{"human chorionic gonadotropin": 2, "hcg": 2, "beta 1-subunit": 1, "serum": 2}
+{"phosphorylation": 4, "serine 421": 2, "camkii": 1, "molecular mechanisms": 1}
+{}
+{}
+{"methylate": 1, "methylations": 1, "methyltransferases": 1}
+{}
+{"timp1": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"superoxide dismutase 1": 1}
+{}
+{"fatty acid oxidation": 3, "oxidation": 1, "oxygen consumption rate": 1, "enzymes": 2}
+{}
+{}
+{"cystine-glutamate antiporter": 5, "voltage-dependent na+ and ca2+ channels": 1, "cAMP-dependent protein kinase": 1}
+{}
+{}
+{"enzyme linked immunosorbent assay": 1}
+{}
+{"carbon nanotubes": 1, "fluorophores": 1}
+{}
+{"n-cadherin": 5, "integrin": 1, "protein": 1}
+{}
+{}
+{"biochemical": 1, "mass spectrometry": 1, "affinity purification": 1}
+{"5-hydroxymethylcytosine": 1}
+{}
+{}
+{}
+{}
+{"polymerization": 1, "hydrophobic core": 1, "conformation": 2}
+{}
+{}
+{}
+{}
+{"s-nitrosylation": 5, "nitric oxide": 2, "no": 3, "biotin-switch": 1, "matrix-assisted laser desorption/ionization time-of-flight mass spectrometry": 1, "soluble guanylyl cyclase": 1, "cGMP-dependent protein kinase": 2}
+{}
+{"dif-1": 2}
+{}
+{"methylation": 3, "demethylation": 2}
+{}
+{"molecular targets": 1, "chemical similarities": 2, "chemical similarity approach": 1}
+{"oxidative stress": 1, "biochemical": 1, "mineral composition": 1}
+{}
+{}
+{"enzymatically active": 2, "proteolytic cleavage": 2, "cathepsins": 4, "cathepsin d": 2, "cathepsin b": 2, "lysosomal": 3, "enzyme histochemistry": 1, "lipofuscin granules": 1}
+{"quantitative reverse transcription-polymerase chain reaction": 1}
+{"hydrolysis": 1, "zinc": 1}
+{}
+{"vesicular transporters": 1, "gaba": 1, "glutamate": 1}
+{}
+{"formalin": 1}
+{}
+{}
+{"sphingomyelin phosphodiesterase 3": 2, "proteomics": 1, "calcium": 2}
+{}
+{}
+{"siRNA": 1, "gtpase": 1, "signaling": 1}
+{"guanosine triphosphatases": 2, "guanosine triphosphatase": 1}
+{}
+{}
+{}
+{"biochemical": 1}
+{"phosphorylation": 1, "chromatin": 1}
+{}
+{}
+{"arylsulfatase b": 3, "chaseabc": 3, "arsb": 4, "chemical stability": 1}
+{}
+{"liquid-chromatography": 1, "tandem-mass spectrometry": 1, "metabololipidomics": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"c-reactive protein": 1, "hscrp": 1}
+{}
+{"epigenetic modifiers": 1, "histone deacetylation": 2, "hydroxymethylation": 1}
+{}
+{"cholesterol homeostasis": 3, "transcriptional response": 1}
+{}
+{"serum": 3, "25-hydroxyvitamin d": 2, "25-ohd": 3}
+{}
+{"enzymatic digestion": 1}
+{"lipid metabolites": 1, "arachidonic acid": 1, "mass spectrometry": 1, "cell-free lysates": 1}
+{"protein chains": 1}
+{}
+{}
+{}
+{"endocrine": 2, "metabolic": 1}
+{}
+{}
+{}
+{"nad(+)": 1, "phosphorylation": 2}
+{}
+{}
+{}
+{}
+{"fibrils": 1, "misfolded": 1, "soluble": 1, "dissolution": 1, "free radical scavengers": 1}
+{}
+{}
+{}
+{"nitric oxide": 3, "glucose": 1}
+{"rna": 3, "rna interference": 1, "rnai": 4, "h3k9me3": 1}
+{"catalase": 3, "reactive oxygen species": 2, "ros": 3, "membrane lipid oxidation": 1, "oxidation": 1, "enzymatic ros scavenger": 1}
+{"calcium": 1}
+{}
+{"hyaluronan": 2, "pegylated": 1, "hyaluronidase": 1}
+{"ribose": 2, "2\u2032-o-methylation": 5, "2\u2032-o-methyltransferase": 3}
+{}
+{}
+{}
+{"myeloperoxidase": 1}
+{"clathrin-dependent internalization": 1}
+{}
+{"glycolytic": 1, "mitochondrial": 2, "protoheme ix farnesyltransferase": 1, "mitochondrial complex iv": 1, "mitochondrial respiration": 1, "aerobic glycolysis": 1, "lactate": 2}
+{"glycoproteins": 2, "sialyllactose": 2, "membrane gangliosides": 2}
+{}
+{"oxygen": 2, "carbon dioxide": 2, "lipid": 3}
+{}
+{}
+{}
+{}
+{"cryo-electron microscopy": 1, "cryo-em": 1, "crystal structures": 1, "lipid": 1, "disulphide bond": 1, "molecular modelling": 1, "hydrogen bonds": 1}
+{}
+{"hypermutation": 3, "molecular mechanisms": 1}
+{"polymerase chain reaction": 1, "pcr": 1, "enzyme-linked immunosorbent assay": 1, "elisa": 1, "lipopolysaccharide": 1, "lps": 1}
+{}
+{}
+{}
+{}
+{}
+{"glucose transporter glut-1": 1}
+{"cyanidin-3-rutinoside": 4, "antioxidant": 2, "oxidative stress": 1, "anthocyanins": 2, "peroxides": 1, "reactive oxygen species (ros)": 1, "p38 mapk": 1, "jnk": 1}
+{"uric acid": 1, "monosodium urate (msu)": 2, "calcium pyrophosphate dihydrate (cppd)": 2, "crystals": 3}
+{"nonhomologous end joining": 1, "nhej": 1}
+{}
+{"chemically": 1, "modified": 2, "posttranscriptionally": 1}
+{"chemical": 1, "modifications": 1, "proteins": 1, "composition": 1}
+{"calcium": 1, "ca(2+)": 3, "deacetylase": 2, "histone deacetylase 6": 2, "hdac6": 5, "hypoacetylated": 2, "acetylated": 1}
+{"nf-kappab inducing kinase": 1, "ikappab kinase beta": 1}
+{}
+{"methylation": 3}
+{}
+{"molecular": 1}
+{"phosphoinositide 3-kinase": 3, "p110alpha": 5, "p110gamma": 1, "extracellular responsive kinase": 1, "akt": 1}
+{"oxidative stress": 2}
+{}
+{}
+{}
+{}
+{}
+{"fluorescently": 1, "enhanced gfp": 1, "enhanced yellow fluorescent protein": 1}
+{"transcription": 1, "polymerase chain reaction": 1, "rna-seq": 2}
+{}
+{"acetylated": 1, "deacetylated": 1, "acetyltransferases": 1, "deacetylases": 1, "fatty acid oxidation": 1, "krebs cycle": 1, "oxidative phosphorylation": 1, "angiogenesis": 1}
+{}
+{"e. coli": 2, "heat-labile enterotoxin b subunit": 1}
+{"methylation": 1, "staurosporine": 2, "oligomycin": 1, "gel electrophoresis": 1}
+{"citrate": 2, "d-phenylalanyl-l-prolyl-l-arginine chloromethylketone": 2, "ppack": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"formaldehyde": 1, "dimethylation": 1}
+{"sulfur-relay system": 2, "2-thiouridine": 5, "wobble modification": 1, "mcm(5)s(2)u": 3, "2-thio group": 1, "conformational rigidity": 1, "codon-anticodon pairing": 1, "2-thiolation": 1, "sulfur transfer": 1, "persulfide sulfurs": 1, "ubiquitin-related modifier": 1, "e1-like enzyme": 1, "acyl-adenylate": 1, "thiocarboxylated": 1, "thiocarboxylate": 1, "sulfur-flow": 1, "persulfide chemistry": 1}
+{}
+{"atpase": 1, "atp": 1, "mg(2+)": 1}
+{"cu/zn superoxide dismutase": 1, "enzyme": 1, "superoxide": 2, "peroxide": 1, "catalyzing": 1}
+{}
+{}
+{"solutes": 1}
+{"hormones": 3, "metabolism": 2, "igfs": 1, "glucocorticoids": 1}
+{}
+{}
+{"rangtp": 4, "guanosine triphosphate": 1, "gtp": 1, "mass spectrometry": 1, "kinase": 1}
+{}
+{"ribonucleoprotein complexes": 1, "catalytic reaction": 1}
+{"calcium": 5}
+{}
+{"h3k56 acetylation": 4, "acetylation": 4, "acetylated": 2, "deacetylated": 1, "acetyltransferases": 1, "deacetylases": 1, "cbp": 1, "p300": 1, "sirt1": 1, "epigenetic": 2, "chromatin": 1}
+{}
+{"acute-phase proteins": 1, "hemostatic markers": 1, "troponin t": 1, "troponin i": 1, "troponin-positive": 1, "troponin-negative": 1, "troponins": 1}
+{"alcohol metabolism": 1}
+{}
+{"phosphoinositide 3-kinase": 2, "pl 3-kinase": 3}
+{}
+{"metabolism": 2, "enzyme": 1, "conversion": 1, "oxidation": 1}
+{}
+{"reverse transcription quantitative real-time polymerase chain reaction": 1, "real-time pcr": 1, "western blot": 1}
+{"autoradiographic": 1}
+{}
+{}
+{"copper": 9, "oxidative phosphorylation": 1, "ions": 1, "biochemical fractionation": 1}
+{"reactive oxygen species": 1}
+{}
+{"nuclear accumulation": 3, "histone deacetylase 4": 2, "hdac4": 5, "chromatin": 1, "histone deacetylation": 1, "phosphatase": 1, "protein phosphatase 2a": 1, "pp2a": 1, "phosphorylation": 2}
+{"pi3k/akt": 1, "rho gtpase": 1, "nf-\u03bab": 1}
+{"6,7-dichloro-2-methylsulfonyl-3-tert-butylaminoquinoxaline": 1, "amidated": 1, "phosphorylation": 1, "ca\u00b2\u207a": 1}
+{"glutamic acid decarboxylase": 1}
+{"serum": 3}
+{"lipopolysaccharide": 3, "ceramide": 3, "lysophosphatidylcholine": 3, "isoelectric point": 1}
+{"3-hydroxysteroid dehydrogenase": 2, "small molecule metabolites": 1, "bile acid-like steroids": 1, "dafachronic acids": 1, "sterol-regulated receptors": 1, "mass spectrometry": 1, "biochemical": 2, "biosynthesis": 1, "short chain dehydrogenase": 1, "bile acid biosynthetic pathways": 1, "ligands": 1}
+{}
+{"phosphatidylinositol 4,5-bisphosphate": 2, "pip2": 3, "ph domains": 1, "5'-pip2-phosphatase": 1}
+{}
+{}
+{"cytosine": 3, "histone modifications": 1}
+{}
+{}
+{"9-cis retinoic acid": 1}
+{"glucose": 3, "lipids": 2}
+{}
+{}
+{}
+{"vitamin d levels": 3, "25-hydroxyvitamin d": 2, "25(oh)d": 5}
+{"peptide": 1}
+{"biochemical processes": 1, "mitochondrial dysfunction": 1}
+{"mass spectrometry": 2, "metabolomics": 2, "metabolite": 3, "metabolites": 2, "fatty acids": 1, "amino acids": 2, "phospholipids": 1, "lipid metabolism": 1, "aspartic acid": 1, "glycine": 1}
+{}
+{"fatty acid oxidation": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"epigenetic": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"amp-activated protein kinase": 2, "ampk": 5}
+{}
+{}
+{"protein": 1, "ros": 2, "antioxidants": 1}
+{}
+{"aromatic": 1, "hydrophobic": 2, "cavity": 1}
+{}
+{}
+{}
+{"periostin": 4}
+{"metabolic flux": 1, "glycosylation": 1, "substrate": 1}
+{}
+{"reactive oxygen species": 1, "lipid": 1}
+{"lc-ms/ms": 1}
+{}
+{"fatty acid oxidation": 1, "\u03b2-oxidation": 2}
+{}
+{}
+{"dnase i": 4}
+{}
+{}
+{}
+{}
+{"albumin": 1, "urea": 1}
+{"mitochondrial iron": 3, "cytochrome c oxidase": 2, "oxidase": 1}
+{"hdac2-mediated": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"nuclear receptor-interacting protein 2": 3, "nrip2": 6, "wnt pathway": 5, "ror\u03b2": 5, "hbp1": 3, "tcf4": 1}
+{"transport": 3, "mechanisms": 1, "diffusion": 1, "kinetic": 1, "compartmentalize": 1, "regulation": 1}
+{}
+{}
+{"biochemical markers": 1}
+{}
+{"chemically defined conditions": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"enzymes": 3, "methylation": 2, "methyltransferase": 2, "h3k79": 2, "h3k79me2": 2}
+{}
+{}
+{"akt phosphorylation": 1}
+{"silver": 5}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"phosphoinositide-3-oh kinase": 1, "protein kinase b": 1}
+{}
+{}
+{}
+{"oxygen": 1, "glucose": 1}
+{}
+{"microfluidic": 4, "platform": 2, "chambers": 1, "polarization": 1, "vectorial movement": 2}
+{}
+{}
+{}
+{"southern blotting": 1, "oligonucleotide": 1}
+{}
+{}
+{"glucose metabolism": 1}
+{}
+{"green fluorescent protein": 1, "fusion protein": 1}
+{"albumin": 1, "creatinine": 1}
+{}
+{"fluorescence polarization": 1, "methyl-lysine": 2, "cavity insertion recognition mode": 1}
+{"metabolic pathway": 2, "metabolism": 2, "glutamate dehydrogenase (glud1)": 1, "aspartate transaminase (got1)": 1, "redox state": 1}
+{}
+{}
+{"physico-chemical": 4}
+{}
+{}
+{"histone": 1, "h3k36me3": 1, "enhancer rnas": 1, "tet2": 1}
+{}
+{"mass spectrometry": 1, "unsaturated lipids": 2, "lipid desaturases": 2, "hyperspectral-stimulated raman scattering imaging": 1}
+{"oxidative stress": 1}
+{"cyclooxygenase 2": 2, "acetylation": 1, "carbon": 1, "hydroxyeicosapentaenoic acid": 2, "oxygenations": 2}
+{}
+{"6-sulphated chondroitins": 1, "sulphated glycosaminoglycans": 1, "chondroitin 6-sulphotransferase-1": 2, "c6st-1": 3, "c6st-2": 2, "c4st-1": 1, "chondroitin sulphotransferase": 1, "csst": 1}
+{"hydrogel": 2, "matrix": 2, "ubiquitination": 1, "ubiquitin ligase": 1, "gsk3": 1}
+{}
+{"metabolism": 3, "oxidative phosphorylation": 1, "nucleotide": 1, "histone": 1}
+{}
+{}
+{"molecular": 1}
+{}
+{}
+{}
+{"pro-atrial natriuretic peptide": 3, "corin": 4, "natriuretic peptide receptor": 3, "atrial natriuretic peptide": 3, "npr-a": 2, "npr-b": 2, "npr-c": 3, "enzyme-linked immunosorbent assay": 1, "immunostaining": 1}
+{}
+{"adenylate cyclase": 1, "eicosanoids": 1, "lipophilic factors": 1}
+{}
+{"catecholamines": 3, "hplc": 1, "plasma": 2, "il-6": 2, "tnf\u03b1": 1, "mcp-1": 1, "lps": 1}
+{}
+{}
+{"oxidation": 1}
+{"amp-activated protein kinase": 3, "adenosine 5\u2032-monophosphate\u2013activated protein kinase": 1, "ser515": 2, "ser518": 2, "src homology 2": 1, "catalytic subunits": 1}
+{"small-molecule": 1}
+{}
+{"bioengineering": 1}
+{"crystal": 1, "residues": 2, "superhelical structure": 1}
+{}
+{"lipid hydroperoxide": 1, "oxidation": 2, "fe2+": 2, "xylenol orange": 2, "tba assay": 1, "iodometric method": 2, "hydroperoxides": 2, "lipid peroxidation": 2, "fe3+": 1, "chromophore": 1, "h2o2": 1, "butyl hydroperoxide": 1, "cumene hydroperoxide": 1, "liposomal lipid peroxidation": 1, "conjugated dienes": 1, "thiobarbituric acid": 1}
+{}
+{"steroid hormones": 2, "testosterone": 1, "dehydroepiandrosterone": 1, "dhea": 2, "estradiol": 1, "e2": 2, "progesterone": 1, "p": 2, "saliva samples": 1, "salivary analytes": 1}
+{}
+{"atp": 3, "atpgammas": 1, "atp hydrolysis": 2}
+{"methylated": 3, "methylation": 2, "hypo-methylation": 1, "hypermethylated": 2, "hypomethylated": 1}
+{"endocytic process": 1, "extracellular fluid": 1, "vesicles": 1, "macropinosomes": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"hydrolysis": 1, "oxidation": 1, "methylation": 1, "chemical stability": 1}
+{}
+{}
+{}
+{}
+{"phosphorylation": 2}
+{}
+{"post-translational modifications": 1}
+{}
+{}
+{}
+{}
+{"molecule": 2, "biochemical": 1, "prenyl-binding": 2, "structure-based": 1}
+{"mechanism": 1}
+{}
+{}
+{"histone": 3, "dna methylation": 2, "methylation": 1, "histone methyltransferase": 1, "heterochromatin": 1, "histone deacetylase": 1, "trimethylation": 1, "h3k9me3": 1}
+{}
+{"polypeptides": 2, "polypeptide": 2}
+{}
+{}
+{}
+{}
+{"acid": 1}
+{}
+{}
+{}
+{}
+{"rna": 2}
+{"gaba (\u03b3-aminobutyric acid)": 2, "glutamatergic": 1}
+{}
+{"elasticity": 1, "elastic": 1, "molecular structure": 1, "semi-flexible chains": 1, "crosslinked meshwork": 1}
+{"biochemical": 1}
+{"enzyme": 1, "catalytic": 1, "polypeptide": 1, "deaminates": 1, "deamination": 1}
+{"endocytosis": 4, "auxin": 6, "gtpase": 1}
+{}
+{"biotinylation": 1}
+{}
+{"co-crystal": 1, "x-ray crystallography": 1, "water-mediated": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"antioxidant": 1}
+{"protein kinases": 1, "jnk/sapk": 1, "p38mapk": 1, "signalling pathways": 2, "signalling cascades": 1}
+{}
+{}
+{"cadherin": 5, "adhesion": 3, "molecule": 1}
+{}
+{}
+{"deubiquitination": 2, "proteolysis": 1, "mass spectrometry": 1, "enzymatic activity": 1}
+{"nadph oxidase": 2, "reactive oxygen species": 2, "superoxide-dependent step": 2}
+{}
+{}
+{"methylation": 4, "cytosines": 1}
+{"crystallography": 1}
+{"molecular mechanisms": 1, "n-formylated peptides": 1, "pore-forming toxin": 1, "\u03b1-haemolysin": 1}
+{}
+{"gtp": 4, "gdp": 3, "hydrolysis": 1, "affinity": 2, "crystallographic": 1, "structures": 1, "pocket": 1}
+{}
+{}
+{"reactive oxygen species": 2, "ros": 2, "oxidation": 1}
+{}
+{"composition": 2, "polyuridine": 2, "homopolyuridine": 1, "homopolyriboadenine": 1, "homopolymeric": 2, "linear structure": 1}
+{"polymerase chain reaction": 1, "sucrose solution": 1}
+{}
+{"macromolecular": 1, "complex": 2, "composition": 1, "mechanisms": 1, "structures": 1}
+{}
+{"extracellular accumulation": 1, "soluble amyloid-\u03b2 assembly": 1}
+{"lipopolysaccharide": 2}
+{"protein": 1}
+{"oxidative phosphorylation": 1}
+{}
+{}
+{}
+{"nicotinamide adenine dinucleotide": 1}
+{"phosphatase": 2, "catalytic": 1, "ionizing radiation": 1}
+{}
+{}
+{"reduction\u2013oxidation": 1, "redox": 3, "redox activity": 2, "redox signalling": 1, "enzymatic reactions": 1}
+{}
+{}
+{"sema3e": 2, "plxnd1": 2, "signalling": 2}
+{"atp": 3, "atpase": 3, "complex": 4, "remodelling": 4, "catalyses": 1}
+{}
+{"methylated": 2, "unmethylated": 3}
+{"phospholipids": 1, "arginine": 1, "lysine": 1, "hydrophobic": 1}
+{"oxidative": 1}
+{}
+{}
+{"actomyosin": 1}
+{"phycobiliprotein": 1, "phycoerythrin": 1}
+{}
+{"biofuels": 3, "petroleum-based fuels": 1, "fuel": 1}
+{"proteomics": 2, "chromatin": 4, "protein": 3, "proteomic analysis": 1, "multidimensional protein identification technology (mudpit)": 1}
+{}
+{"succinate": 3, "hif-1\u03b1": 1, "oxidative phosphorylation": 1, "glycolysis": 3, "lipopolysaccharide": 5, "glutamine": 1, "succinylation": 1}
+{}
+{}
+{"allosterically": 2, "binding": 3, "interface": 1, "arrangement": 2}
+{}
+{}
+{}
+{"amphipathic helix": 1, "leucine": 1}
+{}
+{"lysyl oxidase": 3, "lox": 6, "hypoxia": 4, "oxygen": 1, "hypoxia-inducible factor": 1, "focal adhesion kinase": 1}
+{}
+{}
+{"methylation": 5, "hypomethylation": 2, "hypermethylation": 2, "cpg islands": 1, "histone modifications": 1}
+{}
+{"soy isoflavones": 2, "phytate": 4, "soy protein": 3, "isoflavones": 2}
+{}
+{}
+{}
+{"protein tyrosine phosphatase \u03c3": 2, "ptp\u03c3": 3, "leukocyte common antigen-related": 1, "lar": 1, "wedge domain": 1}
+{"tyrosine kinases": 1, "phosphorylate": 1}
+{}
+{}
+{"catabolic": 1, "membrane": 2, "lysosome": 1}
+{}
+{"trimethylation": 1, "trimethyl-lysine": 1, "aromatic": 1}
+{"fluorescence resonance energy transfer": 1, "two-photon fluorescence lifetime imaging microscopy": 1, "electron microscopy": 1, "glutamate": 1}
+{}
+{"calcium": 2}
+{"amyloid-\u03b2": 8, "tau": 4, "hyperphosphorylated tau": 1, "phosphorylated tau": 2, "glycogen synthase kinase 3": 1}
+{}
+{"serum": 4, "25-hydroxyvitamin d": 2, "25(oh)d": 3}
+{}
+{}
+{"erk1/erk2": 1, "gsk3\u03b2": 1, "h3k27me3": 2}
+{"mass spectrometry": 3, "molecules": 1, "peptides": 3, "peptide": 2, "structurally modelled": 1, "solvent-exposed": 1}
+{}
+{"dual-energy x-ray absorptiometry": 1, "magnetic resonance imaging": 1}
+{"biochemically": 1}
+{"epicatechin": 4, "cocoa polyphenolic extract": 3, "polyphenolic": 1, "oxidative stress": 1}
+{"cpg": 1}
+{"bile acid": 2, "7\u03b1-dehydroxylating": 1}
+{"cryo-electron microscopy": 1, "cryo-em": 1, "allosteric binding": 1}
+{}
+{}
+{"ligand": 2, "inwardly rectifying potassium channel": 1, "kir7.1": 4}
+{"octanoic acid": 1}
+{"25-hydroxycholecalciferol": 5}
+{}
+{"lactate": 1, "polysaccharide": 1, "carbohydrate": 1, "vitamin": 1, "xenobiotic": 1, "fatty acid": 1}
+{"gamma-tocopherol": 9, "vitamin e": 3, "alpha-tocopherol": 5, "lipophilic electrophiles": 1, "2,7,8-trimethyl-2-(beta-carboxyethyl)-6-hydroxychroman": 1, "gamma-cehc": 3, "cyclooxygenase": 1, "bioavailability": 1, "metabolism": 1, "chemistry": 1}
+{}
+{}
+{}
+{"zinc": 5}
+{}
+{"glucosinolates": 1}
+{"histone h3 lysine 9 tri- and di-methylation": 1}
+{}
+{}
+{"acidic": 4, "ph": 4, "acidification": 2}
+{}
+{}
+{}
+{}
+{"ethanol": 2, "oleic acid": 1}
+{"low-density lipoprotein cholesterol": 2, "ldl-c": 2, "high-density lipoprotein cholesterol": 1, "hdl-c": 1, "triglycerides": 1, "ldl-c/hdl-c ratio": 1}
+{}
+{"cytoskeleton": 2, "actin cytoskeleton": 2}
+{"phosphorylation": 3, "mitogen-activated protein kinase": 2, "mapk": 3, "mapkk": 1, "ras": 2, "guanine nucleotide binding protein": 1, "cascade": 1}
+{}
+{}
+{"methylation": 3, "methyl-transferase": 1}
+{"antioxidant enzymes": 1, "heme oxygenase-1": 1, "glutathione peroxidase": 1, "4-hydroxynonenal": 1}
+{"3-hydroxy-3-methylglutaryl coenzyme a": 1}
+{}
+{}
+{}
+{"chemical compounds": 1, "crude extracts": 1}
+{"cystine": 1, "glutamate": 5, "cysteine": 1}
+{"atp": 1, "gtp": 1}
+{}
+{}
+{"ras": 2, "p-raf1": 1, "raf1": 1, "p-mek1": 1, "mek1": 1, "p-erk1/2": 1, "erk1/2": 1, "ras-mapk pathway": 2, "ras-mapk signaling pathway": 1}
+{"rna polymerase": 5, "ntp": 3}
+{}
+{}
+{}
+{"oxidative stress": 1, "antioxidant": 1, "nad(p)h quinone oxidoreductase 1": 1}
+{}
+{}
+{}
+{}
+{}
+{"cryo-em": 2, "cryo\u2013electron microscopy": 1, "angstroms": 1, "disulfide bonds": 1, "noncovalent interactions": 1}
+{}
+{"liquid chromatography/mass spectrometry": 1, "citric acid cycle": 1, "isocitrate": 2, "bile acid": 1, "taurocholate": 2}
+{}
+{}
+{"chemical": 8, "chemistry": 3, "cheminformatics": 1, "molecular": 1, "organic chemistry": 1, "computational chemistry": 1}
+{"energy": 3, "carbohydrates": 1, "protein": 1, "fat": 1, "fiber": 2, "calcium": 2, "vitamin c": 1, "iron": 1}
+{}
+{}
+{}
+{}
+{"methylation": 1, "hypermethylation": 1}
+{"endonuclease": 1}
+{}
+{"atp": 1, "high mobility group box 1": 1}
+{"signaling": 1, "protein kinases": 1}
+{"metal-coordinating c4c4 motif": 1}
+{"connexin 43": 2, "gap junctions": 1, "channelrhodopsin-2": 1}
+{"diffusion\u2010consumption mechanism": 2, "diffusion": 2, "consumption": 2}
+{}
+{"sodium hydroxide": 3, "chlor-alkali": 2, "nanofiltration": 1, "evaporation": 1, "mechanical vapor compression": 1, "chemical softening": 1, "ion-exchange softening": 1, "dechlorination": 1, "membrane electrolysis": 1, "electrolyzer": 1, "caustic": 2}
+{}
+{}
+{"amino acids": 2}
+{}
+{}
+{}
+{"compounds": 1, "active ingredients": 1}
+{"camp": 10}
+{}
+{}
+{}
+{"blue light": 1}
+{}
+{"calcium": 2, "ca2+": 3}
+{}
+{}
+{"cxcl12": 1}
+{"fatty-acid oxidation": 1, "amp-activated protein kinase": 1}
+{}
+{}
+{"sequence specificity": 1, "structural classes": 1}
+{}
+{}
+{"fingerprints": 6, "topological": 2, "structure-activity": 1, "circular": 2}
+{}
+{}
+{"bisphenol a": 4, "bpa": 8, "high-performance liquid chromatography": 1, "isotope dilution-tandem mass spectrometry": 1}
+{}
+{"plasma folate": 1}
+{}
+{}
+{}
+{"base pairs": 1, "mutations": 1}
+{}
+{}
+{"topological": 1}
+{}
+{}
+{}
+{"glutamine": 3, "oxidative": 2, "amino acid": 2, "transporter": 1}
+{"stable isotope labeling kinetics": 1}
+{}
+{"biochemistry": 1}
+{}
+{}
+{}
+{"brct motifs": 1}
+{}
+{}
+{}
+{"sugar": 1, "chocolate": 1, "cacao": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"chromatin": 2, "nucleosome": 1, "deacetylase": 1}
+{"atp": 1, "purinergic receptors": 2, "p2x7": 1, "p2rx7": 2}
+{"phosphorylation": 1}
+{}
+{}
+{}
+{}
+{"phosphatidylinositol": 1, "3-kinases": 1, "pi3k": 4, "hyperactivation": 1, "upregulated": 1}
+{}
+{"glycoproteins": 1, "steroidogenesis": 1}
+{}
+{}
+{}
+{}
+{"oxidative": 1, "ca2+": 2, "oxidation": 1}
+{}
+{}
+{"solution nmr": 1, "atomic resolution": 1, "topology": 1, "interface": 1}
+{}
+{"nitration": 3, "reactive oxygen species": 1, "peroxynitrite": 1}
+{"nadph oxidase": 2, "superoxide": 3, "flavocytochrome b": 1, "cytosolic": 1, "phox homology": 1, "px domain": 2, "phosphatidylinositol 3-phosphate": 2, "ptdins(3)p": 2, "oxidant": 1}
+{}
+{}
+{"pattern recognition": 1, "circuitries": 1}
+{"hedgehog signaling pathway": 2}
+{"metabolic": 1}
+{}
+{"chemical modifications": 1, "chromatin": 1}
+{"phosphatase": 1, "kinases": 1}
+{}
+{}
+{}
+{"c reactive protein": 3, "procalcitonin": 2}
+{}
+{}
+{}
+{"reactive oxygen": 1, "nitrogen species": 1, "8-oxoguanine": 2, "nitrotyrosine": 1}
+{"synthetic organic chemistry": 1}
+{}
+{}
+{"serum lactate": 1}
+{}
+{"lipoprotein": 2, "ldl-c": 4, "hdl-c": 1}
+{}
+{}
+{}
+{"kinases": 1, "transfection": 1}
+{}
+{"oxidative stress": 3, "thiobarbituric acid reactive substances": 1, "adiponectin": 1, "leptin": 1, "vitamin c": 1, "superoxide dismutase": 1, "reduced glutathione": 1}
+{}
+{}
+{}
+{"phosphate": 2, "atp": 4, "hydrolyzes": 1, "hydrolysis": 2, "inorganic phosphate": 1}
+{"glycogen synthase kinase-3": 1, "histone deacetylases": 1, "oxidative stress pathways": 1, "protein quality control mechanisms": 1}
+{}
+{}
+{}
+{"hydrophobic": 2, "acidic patch": 1}
+{"chemical": 1, "molecules": 1, "fluorophores": 1, "fluorescent": 1}
+{"reactive oxygen species": 2, "ros": 3, "nadph oxidase": 1, "rac1": 2}
+{}
+{"acetyl group": 2, "acetyl-coa": 4, "coash": 3, "acetylcarnitine": 2}
+{}
+{"methylation": 2, "methylation-specific pcr": 1}
+{"nitric oxide": 2, "oxidative metabolism": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"c100 protein": 1}
+{}
+{"metabolic": 1}
+{"enzyme": 2, "alcohol dehydrogenase": 1, "esterases": 1}
+{}
+{}
+{"biochemical": 1}
+{}
+{}
+{}
+{"metabolic engineering": 2, "metabolic flux analysis": 1, "kinetic control": 1, "metabolic targets": 1}
+{}
+{"nuclear magnetic resonance": 1, "electrostatic interactions": 1}
+{}
+{"dextran sodium sulfate": 1}
+{"phosphorylation": 2, "diffusional": 2}
+{"chemical information": 1, "chemical moieties": 1, "chemical modification": 1}
+{}
+{}
+{"vmax": 1}
+{}
+{"protein phosphatase": 1}
+{"crystal structure": 2, "metal ion": 1}
+{}
+{}
+{"plasma": 8, "elisa": 1}
+{"nadph oxidase": 1, "nox": 2, "reactive oxygen species": 1, "ros": 2, "cation influx": 1, "redox-sensitive": 1}
+{"fractional anisotropy": 1, "axial diffusivity": 1, "radial diffusivity": 1}
+{}
+{"glucose": 2, "lipid": 1, "triglyceride": 1}
+{"hdac2": 1}
+{}
+{"glucose": 3, "alpha-methylglucopyranoside": 1}
+{}
+{"alk-2 receptor": 1, "chordin": 1, "sizzled": 1, "bambi": 1}
+{}
+{}
+{}
+{}
+{"membrane steroid transporters": 2, "steroid transporter": 1, "radioactive": 1}
+{}
+{}
+{"osmium": 1}
+{}
+{}
+{}
+{"chemical mediators": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"oxidative stress": 1, "energy stress": 2, "atp": 2, "dephosphorylation": 2, "biosensor": 1}
+{}
+{}
+{"kinetics": 3, "signaling": 3, "ca(2+)": 1}
+{"protein deacetylase": 1, "deacetylation": 1}
+{}
+{"e-selectin": 3, "icam-1": 3, "vcam-1": 3, "c-reactive protein": 1, "fasting insulin": 1, "hemoglobin a(1c)": 1}
+{"oxidative stress": 2}
+{"fluidity": 1, "order": 1, "supramolecular aggregates": 1, "chemical reactions": 1, "brownian diffusion": 1, "fluorescent labeling": 1, "imaging procedures": 1, "lateral diffusion": 1}
+{}
+{}
+{}
+{"base modification": 1, "methyltransferase mettl3/14": 1}
+{"l-name": 1}
+{}
+{"fatty acid oxidation": 1, "browning": 1, "integrated stress response": 1}
+{"sodium": 2, "urea": 2, "neutrophil gelatinase-associated lipocalcin": 1, "ngal": 1, "osmolality": 1}
+{"ethanol": 1, "proteinase 3": 2, "myelperoxidase": 2, "elisas": 1, "antigen": 1}
+{"electrophiles": 1, "oxidative": 1, "reactive oxygen species": 1}
+{}
+{}
+{}
+{"tor kinase": 1, "torc1": 1, "paraquat": 1}
+{"activin-like kinase-2": 2, "alk2": 4, "transforming growth factor-\u03b22": 1, "tgf-\u03b22": 1, "bone morphogenetic protein-4": 1, "bmp4": 1}
+{}
+{}
+{}
+{"polydimethylsiloxane": 2, "reactive oxygen species": 1}
+{}
+{}
+{}
+{}
+{}
+{"wnt\u2013\u03b2-catenin signaling": 2, "wnt signaling": 1}
+{"lipogenic enzymes": 1, "synthesis": 2}
+{}
+{}
+{"signal transduction": 3, "pathways": 3, "activation": 6, "phosphorylation": 1}
+{}
+{"bile acids": 2, "glucose": 1, "free fatty acids": 1, "dipeptides": 1, "sugar alcohols": 1, "taurocholate": 1, "carbon sources": 1, "mannitol": 1, "fructose": 1, "sorbitol": 1, "raffinose": 1, "stachyose": 1}
+{}
+{"peptide": 2, "amino acid": 1, "electrostatic": 1}
+{}
+{}
+{}
+{}
+{}
+{"uroporphyrin decarboxylase": 1}
+{}
+{}
+{}
+{}
+{"mechanism": 2, "affinity": 2, "cleavage": 3}
+{}
+{"histone h3k4 methyltransferase": 1, "h3k4me1": 1, "methylation": 1}
+{}
+{}
+{}
+{}
+{}
+{"chemical compounds": 1, "small molecules": 1}
+{}
+{}
+{"inositol polyphosphate 4-phosphatase type i": 2, "phosphoinositide enzymes": 1, "ca(2+) release": 1}
+{}
+{}
+{"chemical libraries": 1}
+{}
+{}
+{}
+{"isocitrate dehydrogenase 1": 1, "isocitrate dehydrogenase 2": 1, "idh1": 4, "idh2": 4, "o(6) -methylguanine dna methyltransferase": 1, "mgmt": 2, "methylation": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"phosphorylation": 1, "ligand": 2, "heterodimerization": 1}
+{"epigenetic modification": 1}
+{}
+{}
+{"temperature": 2}
+{"oxidant": 1, "nitric oxide": 1, "peroxynitrite": 1}
+{}
+{"lithocholic acid": 2}
+{"reactive oxygen species": 1, "oxidation": 1}
+{"calcium channel": 1, "ca2+": 1}
+{"catalytic efficiency": 1, "two-dimensional blue-native/sds gel electrophoresis": 1, "immunoblot analyses": 1, "denaturing gels": 1, "nondenaturing gels": 1}
+{}
+{"oxidative": 3, "reactive oxygen species": 2, "ros": 3, "catalase": 2, "superoxide dismutase": 1, "3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide": 1, "5-bromodeoxyuridine": 1}
+{"acetate": 2, "acetyl-coa synthetase": 1, "acetylating agents": 1}
+{"dna": 10, "gc-rich": 2, "chromatin": 1, "alkylating": 1, "topoisomerases": 1, "\u03b3h2ax": 2}
+{"pi3k": 1, "akt": 1, "sterol regulatory element-binding protein 1": 1, "srebp-1": 1, "rac1": 1}
+{"phosphorylation": 1, "ser32": 1, "ser36": 1}
+{}
+{}
+{}
+{"phosphorylation": 5, "tyrosine": 3, "serine": 3, "residues": 1, "kinases": 1}
+{"gas chromatography": 1}
+{}
+{"mitogen": 1, "concanvalin a (cona)": 1}
+{}
+{}
+{"thermoluminescent dosimeter": 1, "tld": 2, "iodine biokinetic model": 1}
+{}
+{}
+{"peptidoglycan": 2, "cord factor": 2, "mineral oil": 1}
+{}
+{}
+{"hydrogen bonds": 1}
+{"metabolism": 1, "molecular transport": 1}
+{"trimethylamine n-oxide": 2, "tmao": 4, "metabolite": 1}
+{}
+{"protein": 1}
+{}
+{}
+{"oct4": 1, "sox2": 1, "klf4": 1, "myc": 1, "h2a.x": 1}
+{}
+{}
+{"phospholipids": 1, "glycolipids": 1, "bilayer": 1}
+{}
+{"autoinduction": 1, "signal transduction": 1}
+{}
+{"superresolution": 5, "microscopy": 2, "fluorophores": 1, "laser": 1, "blinking": 1, "flux": 1, "thiol-oxygen": 1, "scavenger": 1}
+{}
+{}
+{"cryo-em": 1, "cryo-electron microscopy": 1, "capsid": 3, "virion": 2, "bacteriophage": 1, "phage": 1, "protein dimers": 1}
+{}
+{"exosomes": 4, "dicer": 1, "rab27a": 1, "rab27b": 1, "let-7d": 1}
+{}
+{"nitric-oxide": 3, "hyperpolarizing factor": 2, "metabolites": 1, "arachidonic acid": 1, "northern analysis": 1, "synthetic": 1}
+{"prostaglandin e2": 2, "pge(2)": 2}
+{"myristoylation": 1}
+{}
+{}
+{"cr51": 1}
+{"denaturing high performance liquid chromatography": 1}
+{}
+{}
+{}
+{"biochemistry": 1, "oligomer": 3, "oligomers": 3, "electron microscopy": 1}
+{}
+{}
+{"disulfide": 2, "cyclic peptides": 2, "nmr": 2, "rms": 2}
+{}
+{}
+{"acetic acid": 4, "sodium acetate": 1, "atp": 1, "phosphorylation": 3}
+{"acetylcholine": 1, "plasma pancreatic polypeptide": 4}
+{"cytogenetics": 1, "fluorescence in situ hybridization": 1, "g-banding": 1, "chromosomal": 2, "translocations": 1, "karyotypes": 1}
+{}
+{"deaminase": 1}
+{}
+{"all-trans retinal": 1, "cation pore": 1}
+{"glutamate": 2, "\u03b1-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid": 1}
+{"biochemical environment": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"catalyze": 3, "catalyzing": 1, "formation": 4, "reaction": 2, "concentration": 2, "quantitative": 1}
+{"acetylation": 3, "deacetylases": 2, "enzymatic": 1}
+{"fluorescence": 2, "mko2": 1, "mag": 1, "mcherry": 1, "mvenus": 1}
+{}
+{}
+{"chemical": 1, "electron microscopy": 1}
+{"nitric oxide synthesis": 1, "reactive nitrogen intermediates": 1, "reactive oxygen intermediates": 1, "oxidative burst": 1}
+{}
+{"mt": 1, "colony formation assays": 1, "flow cytometry": 1, "western blotting": 1, "immunohistochemistry": 1, "g2-m arrest": 1, "atm pathway": 1}
+{}
+{}
+{"oxidative stress": 2, "lipid peroxidation": 1, "catalase": 2, "superoxide dismutase": 1, "reactive oxygen species": 1}
+{}
+{}
+{"sialic acid": 1}
+{"lipoxygenase": 1}
+{}
+{}
+{}
+{"lactate": 3, "pyruvate": 3, "l": 2, "p": 2, "l/p": 2, "xl": 2, "ph": 1}
+{}
+{"nitric oxide": 3, "synthase": 2, "inos": 2, "nos2": 4, "diaphorase": 2, "reaction": 1, "catalytically": 1}
+{}
+{}
+{}
+{"enzyme-linked immunosorbent assays": 1}
+{}
+{}
+{}
+{}
+{}
+{"biodegradable polymeric matrix": 1}
+{}
+{}
+{}
+{"rhoa activity": 1, "myosin light-chain phosphorylation": 1, "f-actin-rich protrusions": 1}
+{}
+{"oxidative stress": 1, "matrix breakdown": 1}
+{}
+{}
+{}
+{}
+{}
+{"enzymatic": 3, "molecular": 1}
+{"vitamin c": 4}
+{}
+{"biogeochemical cycles": 1, "energy metabolisms": 1, "electron donors": 1, "electron acceptors": 1, "geochemical cycles": 1, "greenhouse gas emissions": 1, "oxidation": 2, "reduction": 1}
+{"proteases": 1, "alkali": 1, "hydrophobicity": 1}
+{}
+{"chemical": 1, "biochemical": 1, "amino acid": 1}
+{}
+{"calcium ion": 2, "cytochrome c": 2, "adenosine diphosphate-ribose": 1}
+{}
+{"analysis": 1, "membrane": 3, "assembly": 2, "complex": 2, "subcomplex": 2}
+{"er stress": 3, "endoplasmic reticulum": 1, "er": 3}
+{}
+{}
+{}
+{"proteins": 2, "sequence-specific": 1}
+{}
+{}
+{}
+{"phosphorylation": 1, "reactive oxygen species": 2}
+{}
+{}
+{}
+{"carbohydrate": 1, "phosphorylase": 1}
+{"gtp-tubulin": 2, "gmpcpp": 2, "gdp": 1, "guanylyl-methylene-diphosphate": 1}
+{}
+{}
+{}
+{}
+{"glycogen synthase kinase 3beta": 1, "mitogen-activated protein kinase": 1, "erk1/2": 1, "protein kinase a": 1}
+{"coating": 2, "plasma": 1}
+{}
+{"ca2+": 1, "cation": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"molecular": 1}
+{}
+{}
+{"ubiquitin ligase": 1}
+{"polymerase chain reaction": 2, "pcr": 2}
+{}
+{}
+{"cholesterol": 1, "low-density lipoprotein": 1, "ldl": 4}
+{}
+{}
+{"ranGTP": 2, "caspase activation": 1}
+{}
+{"3-(triphenylmethylaminomethyl)pyridine": 2, "ca(2+)": 2, "k(+)": 2}
+{}
+{}
+{"crystal structures": 1, "structural information": 1, "structural studies": 1}
+{"protein carbonyls": 1}
+{"chemical nature": 1}
+{"calcium": 1, "ca(2+)": 4, "calpain": 1, "pyk2": 1}
+{}
+{}
+{"phospholipid": 1, "biomolecules": 1, "liposomes": 1}
+{}
+{}
+{}
+{}
+{}
+{"dual specificity protein phosphatase 4": 1, "dusp4": 5, "erk phosphatase": 1, "ras-erk pathway": 2, "mitogen-activated protein kinase kinase": 1, "mek": 1}
+{}
+{"diffusively-connected": 1, "nonlinear": 3, "dynamical": 1, "differential": 1, "matrix": 2, "norms": 3, "inner products": 1, "linear matrix inequalities": 1}
+{}
+{"fluorescence": 1}
+{}
+{"hydrodynamic interactions": 1}
+{}
+{}
+{"calcium": 1, "ca2+": 6, "fluorescence": 1, "binding": 1}
+{}
+{"oxidative stress": 4, "pro-oxidant": 2, "peroxide": 1, "thiol antioxidant": 1}
+{"molecular": 2, "motif": 2, "mutations": 1, "peptide": 1}
+{}
+{"sumoylation": 3, "ligase": 1}
+{"adp.vanadate": 1}
+{}
+{}
+{"methylated-bsa": 1}
+{}
+{"cyclic dinucleotides": 1}
+{}
+{"cyclooxygenase": 2, "prostaglandin e synthases": 1, "cox": 4}
+{"oxygenation": 2, "blood perfusion": 2}
+{}
+{}
+{}
+{"acetylation": 1}
+{"heparin sulfate": 1}
+{}
+{"flow cytometry": 2, "fluorochromes": 1, "feulgen densitometry": 1, "chemicals": 1}
+{}
+{}
+{}
+{}
+{"fluorometric titration": 1, "concentration": 1}
+{}
+{}
+{"s100a8": 4, "s100a9": 2, "s100 calcium-binding proteins": 1}
+{"mass spectrometry": 1}
+{"angstroms": 1, "hydrophobic groove": 1}
+{"voltage-sensitive calcium currents": 2, "voltage-gated k+ currents": 1, "l-type ca2+ channels": 2, "ca2+ plateau potentials": 3}
+{}
+{}
+{}
+{}
+{}
+{"molecular": 2, "gc content": 1}
+{"zinc fingers": 2, "serine": 2, "cysteine": 1, "alanine": 1, "acidic amino acids": 1, "c2h2 zinc fingers": 1, "cAMP-dependent protein kinase": 1, "phosphorylation": 1, "carboxyl-terminus": 1}
+{"epigenetic remodeling": 1, "histone h3 acetylation": 1, "dna demethylation": 1, "epigenetic analyses": 1}
+{"polymeric": 1}
+{"small-molecule compounds": 1, "histone deacetylase": 1}
+{"oxygen": 1, "fio2": 2}
+{}
+{}
+{}
+{"mg(2+)": 2, "hydroxyproline": 1, "chelation": 1}
+{}
+{"ions": 2, "ca(2+)": 2}
+{}
+{"photoactivatable ribonucleoside-enhanced crosslinking and immunoprecipitation": 1}
+{"iron-sulfur cluster": 2, "isc biogenesis": 1, "mitochondrial membrane potential": 1}
+{}
+{}
+{}
+{"cytochemistry": 1}
+{}
+{}
+{}
+{"streptavidin-based": 2, "oligomers": 2, "tetramers": 2, "equilibrium binding": 1, "dissociation kinetics": 1, "affinity values": 1, "dissociation rate": 1, "equilibrium constants": 1, "monovalent association": 1, "dissociation rates": 1, "multivalent association rate": 1}
+{}
+{}
+{}
+{}
+{"exportin 5": 2, "exp5": 3, "crm1": 3, "rangtp": 2}
+{}
+{}
+{}
+{"polymerase chain reaction": 1}
+{}
+{}
+{"lipid": 4, "microdomains": 1, "proteins": 4}
+{}
+{}
+{"matrix-assisted laser desorption ionization/time of flight mass spectroscopy": 1, "phosphopeptides": 1, "peptides": 1, "alanine": 1}
+{"ubiquitin": 1, "ligases": 1, "protein": 1, "kinase": 1}
+{}
+{}
+{}
+{}
+{"phosphate": 3, "alkaline phosphatase": 1}
+{"chemobiologic": 1}
+{"organophosphorus pesticide": 2}
+{"endoplasmic reticulum": 4, "calpain": 3, "gtpase": 1, "calcium-activated protease": 1, "siRNA": 2}
+{"peroxisome": 4, "cytoplasmic organelles": 1, "amphipathic carboxylates": 1, "\u03b2-oxidation": 1, "oxidation": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"p38mapk": 3, "thr180": 1, "tyr182": 1, "wip1": 3, "phosphatase": 1}
+{}
+{"magnetic resonance imaging": 1, "mri": 2}
+{}
+{}
+{"nitric oxide": 3, "no": 3, "nitrite": 1, "enzymatic pathways": 1, "signalling molecule": 1, "substrate": 1}
+{"molecular chaperone": 2, "chaperonin": 1, "cct/tric": 7, "phlp3": 1, "hop/p60": 1, "prefoldin": 2, "hsc/hsp70": 2}
+{}
+{}
+{}
+{}
+{"polyclonal": 2, "synthetic": 1, "chemical": 1, "carboxy-terminal": 1}
+{}
+{}
+{}
+{}
+{"folate": 9, "concentration": 2}
+{"chemical molecules": 1}
+{}
+{"metabolic": 1}
+{}
+{}
+{}
+{}
+{"acetyl group": 1, "methionine": 1, "enzymes": 1}
+{"mitochondrial fragmentation": 3, "mitochondrial depolarisation": 2}
+{"synthetic": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"biochemical tests": 1, "methylated sites": 1}
+{"phosphorylation": 3, "pathway": 2}
+{"redox": 2, "oxidative": 2, "oxidative stress": 1, "pro-oxidant": 1}
+{}
+{}
+{}
+{"oxidative": 1, "nonoxidative": 1, "aerobic glycolysis": 1, "pyruvate kinase": 1, "pkm2": 2, "lactate dehydrogenase a": 1, "ldha": 2, "glycolysis": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"electron microscopy": 1}
+{}
+{}
+{}
+{}
+{"retinoid x receptor": 1, "heterodimer": 1, "ligand": 2, "coactivators": 1, "corepressors": 1}
+{"proteomic": 1, "mass spectrometry": 1}
+{}
+{"sugar molecules": 1, "n-linked glycans": 1, "cysteine\u2013cysteine loop structures": 1}
+{}
+{"stable isotope labeling kinetic": 1, "silk": 1, "positron emission tomography": 1, "pet": 2, "pittsburgh compound b": 1, "pib": 2}
+{"residues": 2, "plasma membrane": 3}
+{}
+{"glucose": 4, "glucose repression": 2, "glucose derepression": 1}
+{}
+{}
+{}
+{}
+{"demethylase": 1}
+{}
+{}
+{"nucleosomal remodeling": 1, "dna-binding activity": 1}
+{}
+{}
+{}
+{}
+{}
+{"biochemical": 1, "purification": 1}
+{}
+{}
+{}
+{}
+{"vascular endothelial growth factor": 1, "hepatocyte growth factor": 1, "insulin-like growth factor 1": 1, "akt": 1}
+{}
+{}
+{"lipid": 1, "enzyme": 1}
+{}
+{}
+{}
+{"protein": 6, "complexes": 5, "immunoblot": 1, "immunoprecipitation": 2, "fmlp": 3}
+{}
+{}
+{"serum cholesterol": 1, "triglyceride": 1, "high density lipoprotein": 1, "low density lipoprotein": 1}
+{}
+{"fluorescein isothiocyanate": 1, "methylthiazoletetrazolium": 1}
+{"oxidative stress": 2, "zinc": 1}
+{}
+{"polyphenols": 1, "phenols": 1, "antioxidant potential": 1}
+{}
+{}
+{}
+{}
+{"pi3k": 3, "cdc42": 2, "pak": 2, "mek": 2, "erk": 3, "ras": 1, "raf": 1}
+{}
+{}
+{}
+{}
+{"capillary electrophoresis": 1, "electrochemical detection": 1}
+{"polythiophenes": 2, "luminescent conjugated polythiophenes": 1, "thiophene rings": 1, "carboxyl side groups": 1, "solid-state nuclear magnetic resonance": 1, "molecular dynamics simulations": 1, "anionic side chains": 1, "cationic": 1, "chemical design": 1}
+{}
+{}
+{"lysobisphosphatidic acid": 1}
+{}
+{"physiological salt solution": 1}
+{"psoralen": 2}
+{"methyl groups": 1}
+{}
+{"basic": 1, "alanine": 1}
+{"biochemical": 1, "agarose gel electrophoresis": 1, "molecular": 1}
+{}
+{"sterol regulatory element-binding protein-2": 2, "glucose": 1, "lipid metabolism": 1, "cholesterol": 2}
+{}
+{"hemoglobin:haptoglobin": 1}
+{}
+{"atp-dependent": 1}
+{}
+{}
+{}
+{}
+{}
+{"atp": 2}
+{}
+{"polyploidy": 2, "polyploidization": 2, "small molecules": 1}
+{}
+{"metabolism": 1}
+{"o-6-methylguanine-dna methyltransferase": 1, "methylation": 1}
+{}
+{}
+{}
+{"metalloprotease": 1, "monoubiquitination": 2, "endocytosis": 1, "catalytically inactive": 2}
+{}
+{"sirt1": 2, "protein kinase c zeta": 2, "pi3 kinase": 1, "p85alpha": 1, "p110beta": 1}
+{}
+{}
+{"nuclear rna": 2, "nrde": 2, "nrde-1": 1, "nrde-2": 1, "nrde-3": 1, "nrde-4": 1}
+{}
+{}
+{}
+{"calcium": 1, "phosphorus": 1, "alkaline phosphatase": 2, "alp": 2}
+{}
+{}
+{}
+{"oxidative stress": 3, "reactive oxygen species": 1, "phosphate": 2, "atp production": 1}
+{"sialic acid": 3}
+{"restriction enzyme": 1, "digestion": 1}
+{}
+{}
+{"phosphatidylinositol 3\u2032-kinase": 2, "akt": 2, "serine-threonine kinase": 1, "phosphorylation": 1}
+{"eicosanoid": 1, "lipid mediators": 1, "ca(2+)": 1, "phosphorylation": 1}
+{"serum": 3, "sterols": 4, "cholesterol": 8, "lathosterol": 1, "desmosterol": 2, "campesterol": 1, "sitosterol": 3, "cholestanol": 1}
+{}
+{"benzyl benzoate": 1, "benzyl alcohol": 1, "clearing agents": 1}
+{}
+{"acetylation": 2, "deacetylated": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"phosphorylation": 1}
+{"glucose": 2, "phosphate": 2}
+{}
+{}
+{}
+{"gaas": 2, "iii-v": 1, "semiconductor": 1, "ingap": 1, "p-n junctions": 1, "titanium": 1, "indium tin oxide": 1, "alloy": 1}
+{}
+{}
+{}
+{"ca(2+)": 1, "ca(2+)-permeable": 1, "ca(2+)-impermeable": 1}
+{"amp-activated kinase": 3, "nrf2": 4, "ho-1": 3, "liver kinase b1": 1}
+{}
+{}
+{}
+{}
+{}
+{"aluminum": 1, "copper": 1}
+{"lipid metabolism": 1, "cholesterol metabolism": 1}
+{}
+{}
+{}
+{}
+{"ldl": 9}
+{}
+{}
+{"creatine phosphokinase": 1, "cpk": 1, "cpk-mb": 2, "troponin i": 2}
+{}
+{"biochemical": 1, "hydrogen bonding": 1, "conformational changes": 1, "exonucleolytic proofreading": 1}
+{"reactive oxygen species": 1, "ros": 2}
+{"catalyzed": 1, "adenosine triphosphatase": 1, "adenosine triphosphate": 1}
+{"crystal structure": 1, "biochemical": 2, "acidic": 1, "aromatic": 1, "carboxylate": 1}
+{"oxidation": 1}
+{}
+{}
+{}
+{}
+{"dna": 2, "methyltransferase": 1, "deacetylase": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"methylation": 3}
+{"alkaline phosphatase": 1}
+{}
+{}
+{"ubiquitin-proteasome": 1, "autophagy-lysosome": 1, "proteasome": 1, "autophagic-lysosomal": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"metal-impregnation": 1, "fluorescent": 1, "emissive": 1}
+{}
+{"kb": 1, "bp": 1}
+{}
+{"denaturing high-performance liquid chromatography": 1}
+{"cytotoxic": 1}
+{}
+{"methylated-in-tumor": 1, "hypermethylation": 1}
+{"glutamine": 2, "gln": 3, "kinetic analysis": 1, "na(+)-dependent": 1}
+{}
+{"\u03b2-amyloid": 2, "csf-to-plasma insulin ratios": 1, "glucose": 2, "cortisol": 1, "a\u03b240": 1, "a\u03b242": 1, "a\u03b240/42 ratio": 1}
+{}
+{"\u03b2-site amyloid precursor protein-cleaving enzyme 1": 2, "\u03b2-secretase enzyme": 1, "enzyme-linked immunosorbent assays": 1, "hybrid immunoaffinity-mass spectrometry": 1}
+{}
+{"fluorescence": 2, "fluorescent": 1, "fixation": 1, "plastic": 1, "stimulated emission depletion": 1, "sted": 1, "photoactivated localization microscopy": 1, "palm": 1}
+{"flavonoid": 2, "isorhamnetin": 7, "mt": 1, "trypan blue": 1, "immunocytochemical": 1, "pcna": 1, "(3)h-thymidine": 1, "fcm": 3}
+{"cyclooxygenase": 5, "cyclooxygenase-1": 1, "cyclooxygenase-2": 3, "6-ketopgf1alpha": 1, "20-hete": 3, "pgh2/txa2": 1}
+{"hydroxylation": 2, "nmr spectroscopy": 1}
+{}
+{"catalytic": 1, "proteosomal-mediated degradation": 1}
+{"myeloperoxidase": 3, "heme enzyme": 1, "3-chlorotyrosine": 2, "matrix metalloproteinases": 1}
+{}
+{}
+{}
+{}
+{"ecori": 2, "hybridization": 3}
+{"masson's trichrome staining": 1}
+{}
+{}
+{}
+{"ubiquitin protein ligase": 1}
+{}
+{}
+{}
+{}
+{"hydrolysis": 1}
+{}
+{"extracellular signal-regulated kinase": 1}
+{}
+{"transglutaminase": 3, "dimerizes": 1}
+{"\u03b2-oxidation": 3, "oxidation": 1, "phospholipase a2": 1}
+{}
+{"circular dichroic spectroscopy": 1, "cd spectroscopy": 1, "nmr spectroscopy": 1, "chromatin immunoprecipitation": 1, "electrophoretic mobility shift assay": 1, "emsa": 1, "surface plasmon resonance": 1, "spr": 1, "fluorescence resonance energy transfer": 1, "fret": 1, "luciferase reporter assay": 1, "western blotting": 1, "isothermal titration calorimetry": 1, "itc": 1}
+{"enzymes": 1, "metabolic": 1}
+{"proteins": 1}
+{"biochemical": 1}
+{}
+{}
+{"osteopontin": 2}
+{"calcium": 1, "diacylglycerol": 1}
+{}
+{}
+{"nitrite": 9, "nitrate": 9, "nitric oxide": 2, "no": 3, "ebc": 5, "saliva": 2, "plasma nitrate": 1, "bacterial activity": 1}
+{"ethyl modifications": 1}
+{}
+{"enzyme debrisoquine 4-hydroxylase": 1, "polymorphic": 1}
+{"zinc": 1, "zn2+": 6}
+{}
+{}
+{"ca2+": 8, "nicotinic acid adenine dinucleotide phosphate": 1}
+{}
+{}
+{}
+{}
+{}
+{"phosphatases": 1, "mechanochemistry": 1}
+{}
+{}
+{}
+{}
+{}
+{"fluorescence": 2, "polymer": 1, "photoactivatable fluorophore": 2, "fluorophores": 1}
+{}
+{}
+{}
+{}
+{"proton motive force": 5, "succinate": 2, "nadh": 1, "electron donor": 1, "succinate dehydrogenase": 1, "glucose": 1}
+{}
+{"transglutaminase": 7, "fibronectin": 4, "integrin": 4, "integrins": 3, "gelatin": 1, "catalytic": 1, "factor xiii": 1, "noncovalent": 1}
+{"radiolabeled": 1, "5-iodo-2'-fluoro-2'deoxy-1-beta-d-arabinofuranosyluracil": 1, "fiau": 3, "5-iodo-2'-deoxyuridine": 1, "enzyme": 2, "autoradiography": 1, "2-[14c]fiau": 1}
+{}
+{}
+{}
+{"cholesterol": 5, "fatty acid": 1, "saturated fatty acids": 1, "monounsaturated": 1, "polyunsaturated": 1}
+{"nitric oxide": 2, "l-arginine": 1, "nitric oxide synthase": 2, "prostanoids": 1}
+{"serine protease": 2, "pro-apoptotic factor": 1, "cytological": 1, "molecular mechanisms": 1, "electron microscopy": 1}
+{}
+{"fibrin": 1}
+{}
+{}
+{}
+{"methane": 2, "anaerobic": 1}
+{}
+{}
+{"plasmids": 2, "vectors": 2, "ebna1": 1, "episomal amplification": 1}
+{"western blot analysis": 1}
+{"cholesterol": 4, "lipid": 2}
+{"serum": 1, "mineralized": 1}
+{}
+{}
+{}
+{"ca2+": 3, "ptdins(4,5)p(2)": 2}
+{"nicotinamide adenine dinucleotide": 2, "nad(+)": 3}
+{}
+{}
+{"nuclear magnetic resonance spectroscopy": 1}
+{}
+{}
+{"carboxyl terminus": 1}
+{"geometric reasoning": 1, "discrete hierarchy": 1, "composite variables": 1, "parameters": 3, "dynamic": 1, "nonlinear dynamical flow": 1, "geometric model": 2, "quantitatively": 1}
+{"actin microfilaments": 1, "microtubules": 1, "intermediate filaments": 1}
+{"nucleotides": 1}
+{}
+{}
+{"surface chemistry": 1, "oxidative stress": 1, "pro-oxidant": 1, "antioxidant": 1}
+{}
+{"catalytic activity": 1}
+{"reactive oxygen species": 2, "hydrogen peroxide": 1, "oxygen": 1, "iron": 1, "oxidative": 1}
+{}
+{"replication": 2, "error-prone replication": 1, "stochastic": 1, "complementation": 1}
+{"crystallographic": 2}
+{}
+{}
+{}
+{}
+{"chemically": 1, "biochemically": 1, "crystal structures": 1, "chemotypes": 1, "chemical": 1}
+{}
+{}
+{"poly-l-proline-containing": 1}
+{}
+{}
+{"cobalt-60 gamma unit": 1}
+{"metabolic enzymes": 1}
+{}
+{}
+{"quantum dots": 3, "fluorophores": 1, "semiconductor nanocrystals": 1}
+{"arginase": 3, "hydrolyzes": 1, "beta-galactosidase": 3, "8-bromo-camp": 2}
+{}
+{"kinase": 2, "mitogen-activated protein kinase": 1, "extracellular signal-regulated kinase": 2, "mek/erk": 3, "pi3k/akt": 2, "src": 4}
+{}
+{}
+{}
+{"sterols": 1, "bile acids": 2, "ligands": 1}
+{"immunohistochemistry": 1, "polymerase chain reaction": 1}
+{}
+{"calcium": 2}
+{}
+{}
+{}
+{"cyclic gmp-dependent protein kinase 1": 1, "nmda receptor-no pathway": 1, "cgm": 2, "ion-channels": 1, "phosphodiesterases": 1}
+{"diethylnitrosamine": 1}
+{"chemical library": 2, "compounds": 2, "molecular": 1, "x-ray crystallography": 1}
+{"dna": 1, "protein": 2, "proteins": 1}
+{"indole-3-carboxylic acid": 2, "\u03b2-aminobutyric acid": 1, "liquid chromatography": 1, "triple quadrupole": 1, "precursor ion scanning": 1, "negative electro-spray mode": 1, "quadrupole time-of-flight mass spectrometer": 1, "retention time": 1, "fragmentation spectra": 1}
+{}
+{"phosphatidylinositol phosphate": 1, "fatty-acid": 1, "uncoupling protein 2": 1}
+{"phosphorylation": 5}
+{}
+{}
+{"glycosyl-phosphatidyl-inositol": 1, "phosphatidyl-inositol-glycan": 1}
+{}
+{}
+{}
+{"bisulfite": 1}
+{}
+{}
+{}
+{}
+{}
+{"crystal structure": 1, "binding mode": 1}
+{}
+{}
+{"charge": 5, "electrostatic": 1, "salt bridges": 2, "molecular dynamics": 1}
+{}
+{"nuclear receptor": 1, "peroxisome proliferator-activated receptor gamma (ppar\u03b3)": 1}
+{}
+{"fumarase": 1, "mutation": 1}
+{"nitric oxide": 3, "no": 4, "reactive hyperaemia-peripheral arterial tonometry": 1, "rh-pat": 3}
+{}
+{}
+{}
+{}
+{"nmr": 2, "structural": 2, "kinetic": 2, "diffusing": 1, "hopping": 2, "interactions": 1, "dynamic": 1, "diffusion": 1, "molecule": 2, "segment": 2, "structure": 1, "dynamics": 1, "ensemble": 1, "states": 1, "spectroscopic": 1, "relaxation": 2, "paramagnetic relaxation enhancement": 1, "residual dipolar couplings": 1, "binding": 2, "orientation": 1, "complex": 3, "mobility": 1, "side-chains": 1, "concentrations": 1, "translocation": 1, "intermolecular": 1, "transfer": 1, "mechanism": 1, "sampling": 1}
+{}
+{}
+{}
+{"kcal/mol": 1}
+{}
+{"metabolic conversion": 1}
+{"intracellular": 2, "protein": 1}
+{}
+{"ionizing radiation": 1, "mutagenic": 1, "\u03b3-irradiation": 1}
+{"methylation": 3, "hypermethylation": 2}
+{"acetylation": 1, "methylation": 1, "histones": 1, "hsp70": 1, "hmgb1": 1}
+{"crystal structure": 1, "hydrophobic": 1}
+{}
+{"oxidation": 1}
+{"molecular": 2, "molecular analysis": 1}
+{"glucose": 5, "cDNA": 1}
+{}
+{}
+{"progerin": 3, "lamin a": 1, "mitochondria": 1}
+{"membrane fusion": 2, "sequence divergence": 1}
+{}
+{}
+{}
+{"serum homocysteine": 5, "serum folate": 2, "micromol/l": 1, "nmol/l": 1}
+{"molecular": 1, "components": 1}
+{}
+{}
+{"ribonucleotide biosynthesis": 1, "cell envelope": 2, "energy metabolism": 1, "protein synthesis": 1}
+{"proteomic": 2, "polarity": 1, "mw": 1, "pI": 1, "maldi-tof ms": 1, "western blots": 1, "antibodies": 1, "c-terminal fragment": 1, "ms analyses": 1}
+{}
+{}
+{"lipids": 2, "carbohydrate": 2}
+{"iodised salt": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"biochemical": 1, "copper metabolism": 1}
+{}
+{"ph": 6}
+{"lps": 2, "endotoxin": 3, "plasma": 2}
+{}
+{}
+{}
+{"vesicular transporters": 1, "vesicular uptake": 1, "gluconeogenic": 1, "pepck": 1, "g6pase": 1}
+{}
+{}
+{}
+{"oxidative stress": 1, "amino acid": 1}
+{"toxins": 1, "endoplasmic reticulum": 1, "degradation": 2}
+{}
+{}
+{}
+{"kinase": 1, "phosphorylated": 2}
+{}
+{"methylation": 7, "hypermethylation": 3, "hypomethylation": 1}
+{}
+{}
+{}
+{"2-oxoglutarate": 1, "oxygen": 1, "fe(ii)": 1, "ascorbic acid": 1, "o-linked \u03b2-d-n-acetylglucosamine (o-glcnac) transferase (ogt)": 1}
+{}
+{"heat shock": 1}
+{"atp": 5}
+{"phosphorylation": 1, "camkii": 1, "erk1/2": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"calcium signaling": 1}
+{"photosynthesis": 1}
+{}
+{"collagen iv": 1, "laminin-1": 1, "entactin/nidogen-1": 1, "fibronectin": 1, "vitronectin": 1, "collagen i": 1, "heparin": 1, "egf": 1, "tyrosine phosphorylation": 1, "calcium": 1}
+{}
+{"mass-spectrometry": 1}
+{}
+{"flavonol": 4}
+{}
+{"ossification": 2}
+{"plasma": 3, "homocyst(e)ine": 5, "cholesterol": 1}
+{"protease": 2, "peptide": 1}
+{}
+{"crystal": 1, "structure": 3, "microscopic": 1, "hybrid": 1, "cleavage": 1}
+{}
+{}
+{"bromodomains": 4, "acetylation": 3}
+{"epoxyeicosatrienoic acid": 1, "regioisomers": 1, "epoxy-derivatives": 1, "epoxide": 1}
+{}
+{}
+{"phenylalanine": 2, "tyrosine": 3, "tryptophan": 3, "histidine": 2, "methionine": 4, "methanethiol": 1, "glycine": 1, "serine": 1, "retinol": 1}
+{}
+{"pesticides": 2, "yellow oleander": 1, "thevetia peruviana": 1}
+{"enzymes": 1, "isoprenylcysteine carboxyl methyltransferase": 1, "icmt": 1, "methyltransferase": 1, "catalysed": 1}
+{}
+{"beta2-mercaptoethanol": 1}
+{}
+{}
+{}
+{}
+{"nuclear magnetic resonance": 2, "conformation": 3, "cross-correlated relaxation": 1}
+{}
+{}
+{"molecular": 2, "regulatory": 2, "remodeling": 1}
+{}
+{}
+{}
+{}
+{"phosphotransfer": 1}
+{"physicochemical": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"plasma": 4, "enzyme": 1, "biochemical": 1}
+{"cytochrome": 1, "hydroxylase": 1, "lyase": 1, "glutathione-s-transferase": 1, "demethylation": 1, "5-aza-2-deoxycytidine": 1}
+{}
+{}
+{"ribozyme": 1}
+{}
+{"oxygen": 3, "reactive oxygen species": 1, "hydrogen peroxide": 2, "h2o2": 2, "halide": 2, "chloride": 1, "hypochlorous acid": 1, "chlorine": 1, "chloramines": 1, "hydroxyl radicals": 1, "singlet oxygen": 1, "ozone": 1}
+{"acetic acid": 2}
+{}
+{"blood chemistry": 1, "lipids": 1}
+{"catalytically inactive": 1}
+{}
+{"nuclear ribonucleoprotein": 1, "promoter region": 1, "nf-\u03bab consensus sequence": 1}
+{"polymerase chain reaction": 1}
+{}
+{}
+{"enzyme": 1, "prenylated": 3, "methyltransferase": 1, "methylates": 1, "methylation": 5, "prenylcysteine": 1, "prenylation": 1, "farnesylation": 1, "carboxylic acid": 1, "inhibitor": 2, "inhibition": 2, "derivative": 1}
+{"nadph oxidase": 2, "nox2": 4, "reactive oxygen species": 1, "ros": 2, "vacuolar proton atpase": 1, "v-h(+)-atpase": 1}
+{"calcium": 3, "troponin": 4, "troponin c": 1, "force-calcium relationship": 1, "force-frequency relationship": 1}
+{}
+{"protein phosphatase 1": 2, "complex": 1}
+{}
+{}
+{"fyn": 4, "focal adhesion kinase": 1, "shc": 1, "raf-erk/mapk pathway": 1}
+{}
+{"lipopolysaccharide": 2}
+{}
+{}
+{"restriction enzymes": 1, "dnase": 3, "dnase i": 1}
+{}
+{}
+{"guanylate binding protein 1": 3, "epidermal growth factor receptor": 2, "egfr": 5, "src": 1, "p38 mitogen-activated protein kinase": 1, "yy1": 1, "mmp1": 2, "matrix metalloproteinase 1": 1, "rna interference": 1}
+{"atp": 6, "atpases": 3, "adp": 1, "atpgammas": 2, "hydrolysis": 2}
+{}
+{}
+{}
+{"antibodies": 1, "cell surface markers": 1, "fluorescence-activated cell sorting": 1}
+{"polymerase chain reaction": 1, "single strand conformation polymorphism": 1}
+{}
+{}
+{}
+{}
+{}
+{"plasma": 1, "mmol/l": 1}
+{}
+{"tannins": 1, "terpenoids": 1, "alkaloids": 1, "flavonoids": 1, "in vitro": 1, "in vivo": 1, "toxicity": 1, "compounds": 1}
+{}
+{"fatty acid": 2, "fat": 4, "\u03b2-oxidation": 1, "stearoyl-coa desaturase": 1}
+{}
+{}
+{}
+{}
+{"magnetic-field": 1, "magnetic resonance image": 1}
+{"enzymatic": 2, "hyaluronan": 1, "hyaluronic acid": 1, "ha": 2, "matrix": 1}
+{"adiponectin": 5, "leptin": 5, "adiponectin-leptin ratio": 2, "a/l ratio": 2, "odds ratio": 1, "confidence intervals": 1}
+{}
+{"diacylglycerol": 3, "dag": 4}
+{"phosphatidylinositol-specific phospholipase c": 1, "phospholipase c": 1}
+{"clp": 10, "clpx": 2, "clpc": 2, "clpe": 2, "clpp": 4, "western blot": 1, "coimmunoprecipitation": 1, "posttranslational": 1, "posttranscriptional": 1}
+{"calcium-dependent": 1}
+{"protein menin": 1}
+{}
+{}
+{"carboxyfluorescein succinimidyl ester": 1}
+{"oxidative stress": 4, "red-ox state": 1, "ferric ion reducing ability of plasma": 1, "frap": 2, "radioligand binding assay": 1}
+{"phosphorylation": 4, "kinase": 2, "catalytic subunit": 1}
+{"hydrogen bonds": 1}
+{"ca\u00b2\u207a/calmodulin-dependent protein kinase ii": 2, "camkii": 3}
+{"octanoyl": 2, "desoctanoyl": 2}
+{"ca2+": 4, "ser-473": 1}
+{"analytical": 1, "models": 1}
+{}
+{"carboxyhaemoglobin": 1, "thiocyanate": 1}
+{}
+{"free radicals": 1, "oxygen radicals": 3, "free oxygen radicals": 2, "free fatty acids": 2, "cyclo-oxygenase": 1, "xanthine oxidase": 1, "superoxide dismutase": 1, "catalase": 1, "plasma membrane": 1, "peroxidative reactions": 1}
+{"deacetylase": 1}
+{}
+{}
+{}
+{"reactive oxygen species": 2, "oxidative": 2}
+{"ionizing": 2, "biophysical": 1}
+{}
+{"plasma": 2, "alkaline phosphatase": 6, "isoenzyme": 3}
+{"molecules": 1, "purification": 1, "production process": 1}
+{"sulfur": 2, "phospholipid": 3, "methylation": 2, "methionine": 2, "metabolism": 2, "phosphatidylcholine": 1}
+{}
+{}
+{"metabolites": 3, "plasma levels": 1}
+{"angiopoietin-2": 1, "thymidine phosphorylase": 1, "urokinase-type plasminogen activator": 1, "adrenomedullin": 1}
+{}
+{"nucleotide": 2}
+{"fluorescence microscopy": 1, "electron microscopy": 2, "em": 2}
+{}
+{}
+{"oxidative damage": 2, "oxidized": 3, "oxidative burst": 1, "reactive oxygen species": 1, "ros": 1}
+{}
+{}
+{}
+{}
+{}
+{"cystine/glutamate exchange": 2, "glutamatergic": 1}
+{}
+{"phosphorylation": 1, "tyrosine kinase": 1}
+{}
+{}
+{"zinc finger nucleases": 3, "zfn": 2, "double-strand breaks": 1}
+{"polymerase chain reaction": 1, "pcr": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"f-box": 2, "wd repeat domain": 1, "scf": 1, "skp1": 1, "cul1": 1, "protein": 1}
+{}
+{"calcium": 5, "calcium channels": 2, "calcium release": 2, "store-operated calcium": 3, "degranulation": 1}
+{}
+{"oxidative stress": 2}
+{}
+{"vitamin d": 4, "magnesium": 3, "mg": 5, "biochemical": 1}
+{}
+{"phosphoinositide 3-kinase": 1, "pi3 kinase": 4, "ras-map kinase": 1, "akt": 1, "mtor": 1, "vegf-r": 1, "fgf-r": 1, "tie-2": 1}
+{"dietary fibre": 1, "phytic acid": 2, "trace minerals": 1, "non-starch polysaccharide": 1, "protein": 2, "riboflavin": 2, "copper": 2, "thiamin": 2, "calcium": 3, "manganese": 1, "phosphorus": 1, "zinc": 4, "iron": 4}
+{"reactive oxygen species": 1}
+{}
+{}
+{"oxidative stress": 2, "superoxide (o2*-)": 1, "manganese tetrakis (n-ethylpyridinium-2yl) porphyrin": 1, "carbonyl cyanide p-trifluoromethoxyphenylhydrazone": 1}
+{}
+{"catalyzes": 1}
+{}
+{"small molecule": 2, "\u03b1-ketoglutarate": 1, "chemical": 1}
+{"gtp-binding": 1, "phosphoinositide": 1, "catalyst": 1}
+{}
+{}
+{"chemically defined medium": 1}
+{}
+{"nitric oxide": 1, "protein kinase-c \u03b2": 1}
+{"cys2his2": 2, "zinc finger domains": 1, "methylated": 2, "sequence": 2}
+{"calcium": 6, "glutamate": 5}
+{}
+{}
+{"mitochondrial complex i": 1, "cAMP": 1, "protein kinase a": 1, "5\u2032-amp-activated protein kinase": 1}
+{}
+{}
+{"dextran sulfate sodium": 1}
+{}
+{"hybridization": 2, "secondary structure": 1, "energy dot plots": 1}
+{}
+{"serum": 1, "urinary": 1, "creatinine": 1}
+{}
+{}
+{"molecular weights": 1}
+{}
+{}
+{"gtpase": 4, "decoding factor": 3, "complexes": 2}
+{"oxidation": 1}
+{"catalyze": 1, "catalysis": 1, "acyl-donor": 1, "acyl-acceptor": 2, "tetrahedral reaction intermediates": 1, "mutagenesis": 1, "hydrolysis": 1, "transamidation": 1}
+{"lactate": 1}
+{}
+{}
+{"compositional context": 2, "supercoiling": 2, "gyrase": 1}
+{"molecular": 1, "metabolic": 1}
+{"cyclin": 7, "kinase": 3, "cdk": 6, "cdk2": 3, "cdk4": 2, "cyclin-dependent kinase": 2, "immunoprecipitates": 1}
+{}
+{}
+{"calcium-activated potassium channels": 1, "bk channels": 2, "ik channels": 2, "ca(2+)-activated k(+) current": 1, "large-conductance ca(2+)- and voltage-dependent potassium (bk) channel": 1, "intermediate-conductance ca(2+)-dependent potassium (ik) channel": 1, "small-conductance ca(2+)-dependent potassium channel (sk)": 1, "anti- sk1, -sk2, and -sk3 antibodies": 1, "anti-bk and -sk4/ ik1 antibodies": 1}
+{}
+{"c reactive protein": 3, "estimated glomerular filtration rate": 3}
+{}
+{}
+{"mitochondria": 4, "cardiolipin": 1, "mitochondrial fission": 2, "mitochondrial membrane polarization": 1, "mitochondrial depolarization": 1}
+{}
+{"metabolomics": 1, "indolepropionate": 1, "trimethylamine oxide": 1, "phenylacetylglutamine": 1}
+{"basophilic": 2, "inclusions": 5, "p. k510e": 1, "p. p525l": 1, "p. y374x": 1, "tdp-43": 1, "p62": 2, "ubiquitin-binding protein": 1}
+{}
+{}
+{"formalin": 1, "paraffin": 1}
+{}
+{}
+{"sr2+": 4, "ca2+": 6, "divalent cations": 1}
+{}
+{"pH-dependent": 1}
+{}
+{"gadolinium": 2, "t1 mapping": 1}
+{}
+{}
+{"metabolomics": 3, "tricarboxylic acid cycle": 1, "choline metabolism": 1, "fatty acid metabolism": 1, "fatty acid synthase": 1, "acetyl-coa carboxylase": 1, "3-hydroxy-3-methylglutaryl coenzyme a reductase": 1}
+{}
+{}
+{"plasma protein-derived": 1, "lipid mediator": 1}
+{"vitronectin": 3, "serum": 2, "integrin alpha v beta 3": 2, "beta-catenin": 1}
+{"calcium sensor": 2, "calcium-mobilizing agonists": 1, "calcium depletion": 1}
+{}
+{"crystal structures": 1}
+{}
+{}
+{}
+{"triglyceride": 1, "sterol ester": 1}
+{}
+{"homocysteine": 4, "thiols": 2, "cysteine": 3, "cysteinylglycine": 2, "edta": 1, "dithioerythritol": 1, "nabH4": 1, "monobromobimane": 1, "hplc": 1, "ph": 1}
+{}
+{"nitrite": 6, "no(2)(-)": 1, "oxidative stress": 1, "oxygen tension": 1, "soluble guanylate cyclase": 2}
+{}
+{}
+{}
+{}
+{}
+{"biochemistry": 1, "structure": 1}
+{}
+{"basement membrane": 2}
+{}
+{"greenhouse gases": 2, "pollutants": 1}
+{"biochemical": 1, "chemical": 1}
+{"proteoglycan": 1, "betaglycan": 2, "kinetics": 1}
+{}
+{}
+{}
+{}
+{"bile acids": 2, "lipopolysaccharide": 1}
+{"cryo-electron microscopy": 1, "three-dimensional image reconstruction": 1, "homology modeled high-resolution coordinates": 1}
+{}
+{}
+{"histone h3": 1, "enzymes": 1}
+{"poly(adp-ribosyl)ation": 2, "poly(adp-ribose)": 2, "acidic motif": 2, "acidic domain": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"glycolytic enzyme": 1}
+{"arginine-rich proteins": 2, "poly-(glycine-arginine)": 1, "poly-(proline-arginine)": 1}
+{"oxidative stress": 1, "collagenase": 1}
+{}
+{"enzyme": 1}
+{"cholesterol": 6}
+{}
+{"actomyosin": 3, "myosin": 1, "chromophore": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"saturated fatty acid": 2, "palmitate": 8, "fatty acid metabolism": 1, "endoplasmic reticulum": 2, "er stress": 2, "ubiquitin": 1, "proteasome": 1, "autophagy": 1, "apoptosis": 1, "lysosome": 1}
+{}
+{}
+{}
+{"enzyme": 2, "urease": 3, "enzymatic activity": 1}
+{}
+{}
+{}
+{"acids": 1}
+{}
+{"sequence": 4, "variation": 2, "mutational": 1, "phosphatase": 1, "kinase": 1}
+{}
+{}
+{"molecular": 1, "signaling pathways": 1}
+{}
+{}
+{"plasma coated": 1, "histochemically": 1}
+{"phase": 3, "linear filters": 1}
+{"reactive oxygen species": 2, "cathepsin": 2}
+{}
+{"nacl": 2}
+{}
+{"carbon monoxide": 1}
+{"nucleotide-binding state": 1, "gtp hydrolysis": 1}
+{}
+{}
+{}
+{}
+{}
+{"crystal structure": 1, "atp-bound form": 1, "atpase activity": 1}
+{"s-nitrosylation": 3, "nitric oxide": 1, "s-nitrosothiols": 2, "snos": 3, "no synthases": 1}
+{}
+{"farnesylated": 2}
+{}
+{"aloe emodin": 4, "microarray technology": 1, "quantitative real-time pcr (qrt-pcr)": 1}
+{}
+{}
+{"methylation": 1}
+{}
+{}
+{"phosphorylation": 2, "acetylated": 1, "hyperacetylation": 1}
+{}
+{}
+{}
+{"pi3k": 8, "mtor": 4, "phosphatidylinositol-3-kinase": 1, "akt": 2, "s6 ribosomal protein": 1, "4ebp1": 1, "p110-alpha": 2, "e545k": 1, "h1047r": 2}
+{"serum lipids": 1, "albumin": 3, "cortisol levels": 1, "cholesterol": 2, "lipid levels": 1}
+{}
+{"residue": 2, "contacts": 4, "conformations": 2, "couplings": 1}
+{}
+{"bone morphogenetic protein": 2, "bmp signaling": 3, "noggin": 1}
+{}
+{}
+{"molecular": 1, "basic region/leucine zipper": 1}
+{"polymerase chain reaction": 1}
+{}
+{"polymerase chain reaction": 1, "amino-terminal proline-rich sequence": 1, "sh3 domains": 2, "carboxy-terminal": 1, "biochemical analyses": 1}
+{}
+{"receptor tyrosine kinase": 1}
+{}
+{}
+{"proline": 1, "glutamine": 2, "glutamic acid": 1}
+{}
+{"phosphorylation": 3}
+{}
+{"ubiquitinated": 1, "proteasome": 1}
+{"protease": 2, "reverse transcriptase": 2, "methionine": 1}
+{"phosphorylated": 1, "phosphorylation": 1, "serines": 1, "serine 2": 1}
+{}
+{}
+{}
+{"cholesterol": 2, "catabolism": 2, "metabolism": 1, "enzymes": 1, "sterol": 2, "catabolic": 2, "carbon": 1}
+{"tyrosine phosphorylation": 2, "molecular brake": 1, "molecular signals": 1, "molecular framework": 1}
+{"myeloperoxidase": 1, "chlorinated": 1, "nitrosylated tyrosine": 1}
+{}
+{"cyclic amp": 2, "phosphodiesterase inhibitor": 1}
+{"molecular mechanism": 1}
+{}
+{}
+{}
+{"tyrosine-phosphorylated": 2, "phosphorylation": 1}
+{}
+{}
+{"nitric oxide": 3}
+{"methylation": 5, "hypomethylated": 1, "hypermethylated": 1}
+{"bile acid": 3, "nuclear hormone receptor": 1}
+{}
+{}
+{"polypeptide": 1}
+{"oxidative": 4, "phosphorylates": 1}
+{}
+{"metabolite": 1}
+{"zinc": 1}
+{}
+{"ome-data": 1}
+{}
+{}
+{}
+{}
+{}
+{"renin-angiotensin-aldosterone system": 1, "mechanisms of action": 1}
+{}
+{}
+{"spliceosome": 1, "demethylation": 1}
+{"biochemical": 1}
+{}
+{"kinase": 1, "proteasome": 1}
+{"mycobacterium tuberculosis": 1, "adjuvant": 1}
+{}
+{}
+{}
+{"h3k27 acetylation": 1, "h3k4 trimethylation": 1}
+{"citric acid cycle": 1, "oxidative": 2, "oxidative mitochondrial metabolism": 1, "oxidative tricarboxylic acid metabolism": 1, "electron transport chain": 1}
+{"sccag": 5, "cyfra 21.1": 3, "vegf": 4}
+{"hemoglobin": 1, "mean corpuscular volume": 1, "mean corpuscular hemoglobin concentration": 1, "red blood cell distribution width": 1, "d-dimer": 1}
+{}
+{"extracellular vesicles": 6, "exosomes": 1, "membrane": 2, "plasma membrane": 1, "multivesicular bodies": 1}
+{"ionising radiation": 2, "radiation": 6, "sievert (sv)": 2}
+{"proteolysis": 1, "proteolytic": 1}
+{"nitric oxide": 3, "oxygen": 2}
+{}
+{}
+{"ca2+ oscillations": 6, "ca(2+)": 5, "ca2+ gradient": 1, "ca2+ entry": 1, "ca2+ buffering": 1, "ca2+ influx": 1, "ca2+ signals": 1}
+{}
+{}
+{}
+{"vesicular mechanisms": 1}
+{"calcium": 5, "calcium influx": 4, "ca2+ influx": 1}
+{"proteins": 1, "lipids": 1, "nucleic acids": 1, "myeloperoxidase": 1}
+{"aspartate": 1, "creatine": 2, "phosphocreatine": 2, "pcr/cr": 2, "glu/gln": 2}
+{}
+{"metabolism": 3, "synthesis": 1}
+{}
+{}
+{}
+{"aromatase inhibition": 1}
+{}
+{}
+{"aralkylamine n-acetyltransferase": 1, "serotonin n-acetyltransferase": 1, "aanat/snat": 1, "scavenging": 1, "reactive oxygen species": 1, "mitochondrial permeability transition pore": 1, "uncoupling proteins": 1, "membrane potential": 1}
+{}
+{"reactive oxygen species": 1}
+{}
+{}
+{"oxidative stress": 1, "mn-sod": 1}
+{"transcription factors": 1, "molecular signature": 1}
+{"oxygen": 2, "o2": 2, "ampk": 2, "tsc2": 2, "rheb": 1, "mtor": 4, "eif2alpha": 2, "eef2": 2, "4ebp1": 1, "p70s6k": 1, "rps6": 1}
+{"lipophilic dye fm1-43": 2}
+{"dna": 1}
+{}
+{}
+{"molecular": 1, "conversion": 1, "kinetics": 1}
+{}
+{}
+{}
+{"flow cytometry": 1, "quantitative real-time-reverse transcription polymerase chain reaction": 1, "rt-pcr": 1}
+{"sialoprotein": 2, "nitrocellulose": 1, "sds": 1}
+{"glyceraldehyde-3-phosphate dehydrogenase": 2, "glutamate oxaloacetate transaminase 2": 1, "aldolase 1, a isoform": 1, "\u03b1,\u03b2-unsaturated reactive aldehydes": 1, "covalently adducts": 1, "oxidized proteins": 1, "apurinic/apyrimidinic endonuclease-1": 1, "e1a-associated p300 protein/creb-binding protein": 1, "p300/cbp": 1, "p53-dependent pathway": 1}
+{}
+{}
+{}
+{}
+{"7\u03b1, 25-dihydroxycholesterol": 2, "oxysterol": 2, "7\u03b1, 25-ohc": 3, "g protein-coupled receptor": 1, "signaling system": 1, "molecules": 2, "synthesis": 1}
+{"catalyze": 1}
+{"l-phenylalanine oxidase": 1, "enzymatic activity": 1}
+{"phosphatidylinositol 3-kinase": 1, "pi3k": 3, "pathway": 10, "pathways": 1, "signaling": 1}
+{"nmr": 1, "structure": 2, "affinity": 2, "mutations": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"enzymes": 1, "epigenetic": 1, "histone": 2, "lysine": 1}
+{}
+{"cyclin-dependent kinase inhibitor p21": 1}
+{"rna": 1, "ssu rrna": 1, "ssu rdna": 1, "pcr": 1}
+{"phosphoenolpyruvate": 2, "pep": 2, "succinate": 3, "malate": 3, "glucose": 4, "galactose": 1, "glucokinase": 1}
+{}
+{"crystal structure": 1}
+{"catalytically": 1, "biochemical": 1}
+{"chemical biology": 1, "akt": 1, "erk1/2": 1}
+{"probabilistic data analysis": 1}
+{}
+{"actomyosin": 1, "contractility": 2}
+{}
+{}
+{"micro-computed tomography (microct)": 1}
+{"oxidative stress": 2, "reactive oxygen species": 1, "ros": 2, "mitogen-activated protein kinase": 1, "mapk": 2, "mapk signaling": 1, "phosphorylation": 1}
+{}
+{"membrane": 3, "lysosome": 1}
+{"adenosine": 1, "5'-triphosphate": 4, "double-stranded": 2, "caspase": 1, "domains": 1, "fluorescence": 1}
+{}
+{"biochemical": 1}
+{"proteolysis": 1}
+{}
+{"catalyzes": 1, "chemistry": 1}
+{"phosphorylation": 1}
+{}
+{}
+{}
+{}
+{"nad-dependent protein deacetylase": 1, "deacetylase": 2}
+{"equilibrium": 3, "fret": 1}
+{}
+{}
+{"chemical": 1}
+{}
+{}
+{"zn(2+) ion": 1, "proton": 1}
+{"iron": 10, "exochelin siderophore": 1, "ferrous sulphate": 1, "siderophore": 2, "mycobactin": 1, "abc transport": 1}
+{"plasma lipids": 2, "prolactin": 3, "lipid concentrations": 1, "phospholipids": 1, "triglycerides": 1, "cholesterol": 2, "free fatty acids": 1, "hdl-cholesterol": 1, "lipid fractions": 1}
+{"oxidized linoleic": 1, "nitrogen oxides": 1, "oxidized low density lipoprotein": 2, "lysophosphatidyl choline": 1, "13-hydroperoxyoctadecadienoic acid": 1, "linoleic acid": 1, "HPODE": 5, "enzyme": 1, "oxidized": 4}
+{"polyphenol": 1}
+{"cyclin-dependent kinases 4 and 6": 2, "cdk4/6": 2, "small molecule inhibitors": 1, "short hairpin rna": 1}
+{}
+{"butyrate": 2}
+{}
+{}
+{}
+{}
+{"antioxidants": 2, "carotenoids": 1, "phytonutrients": 2, "beta-carotene": 1, "lycopene": 1, "alpha tocopherol": 1, "folate": 2, "homocysteine": 2, "serum lipid peroxides": 1, "urine 8ohdg": 1}
+{}
+{}
+{}
+{}
+{}
+{"hplc": 1, "lucifer yellow": 1, "divalent cation": 2, "multivalent cations": 1, "ca2+": 1, "ba2+": 1, "sr2+": 1, "mg2+": 1, "la3+": 1}
+{"fluorescence resonance energy transfer": 1, "fret": 1, "dyes": 1}
+{"b-type natriuretic peptide": 2, "bnp": 4, "nt-pro-bnp": 5, "triglycerides": 1, "high-density lipoprotein cholesterol": 1, "low-density lipoprotein cholesterol": 1}
+{"chemical signals": 1}
+{}
+{"ionising radiation": 2}
+{"patch-clamp recordings": 1}
+{"polymerization": 1}
+{}
+{}
+{"cyclin d": 2, "rb phosphorylation": 2, "western blot": 1}
+{}
+{}
+{}
+{}
+{}
+{"x-ray crystallography": 1, "crystallography": 2}
+{}
+{}
+{}
+{}
+{}
+{"reactive oxygen species": 1}
+{}
+{"biochemistry": 1}
+{"soil minerals": 1, "minerals": 1, "clay minerals": 1, "quartz": 1, "montmorillonite clay": 1, "mte": 2}
+{"desmosterol": 2, "lipidomic": 1, "transcriptomic": 1, "srebp": 1, "lxr": 2}
+{"lipopolysaccharide": 1}
+{"phosphorylation": 1}
+{}
+{}
+{}
+{}
+{"metabolism": 1, "synthesis": 2}
+{}
+{"chemokines": 1, "s100a8/9": 2}
+{}
+{"gaussian": 1}
+{}
+{}
+{}
+{}
+{"chemical reactions": 1, "diffusion": 1, "reaction-diffusion": 1}
+{}
+{"histone deacetylase": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"acetylation": 4, "acetyltransferase": 1, "lattice": 1}
+{"sodium lactate": 2, "hypertonic": 1}
+{}
+{"double-stranded rna": 2, "dsrna": 2, "polyinosinic-polycitidilic acid-pic": 1}
+{}
+{}
+{}
+{}
+{}
+{"raralpha": 3}
+{}
+{"biochemical": 1}
+{}
+{}
+{"serum soluble corin": 6}
+{}
+{}
+{"pkc": 4, "phosphorylation": 5, "serine 818": 2, "phosphomimetic mutation": 1}
+{"catalyzes": 1, "mg2+": 1, "atp": 1}
+{}
+{}
+{}
+{"mass spectrometry": 1, "base modifications": 1}
+{"homocysteine": 4, "plasma homocysteine": 1, "plasma folate": 1, "plasma pyrixodal-l-phosphate": 1, "tHcy": 2, "oxidized disulfides": 1, "homocystine": 1, "cysteine-homocysteine": 1}
+{}
+{}
+{"crystal": 1, "x-ray": 1, "a pocket": 1, "b pocket": 1, "formyl group": 1, "his-9": 1, "water": 1}
+{"phosphoinositide-binding": 1, "ptdins(3,4)p2": 3, "sh3": 1}
+{"ca2+ signals": 1}
+{}
+{"plasma": 1, "composition": 1, "clathrin": 2, "caveolae": 1, "caveolin1": 1, "lipids": 1, "curvature": 1, "dynamin": 1}
+{}
+{}
+{"lipid": 1}
+{}
+{"biochemical": 1}
+{}
+{"glucose": 2}
+{}
+{}
+{"glutamate": 2, "calcium": 2, "ca(2+)": 2, "molecule": 1}
+{}
+{"crystallography": 2, "synchrotron": 1, "wavelength-shifter": 1, "energy": 2, "keV": 3, "ccd detectors": 1, "microdiffractometer": 1, "goniometer": 1}
+{"crystallography": 2, "x-ray": 1, "algorithms": 3}
+{}
+{"g-quadruplex": 2, "g4": 2, "guanine-rich": 1}
+{}
+{}
+{}
+{}
+{}
+{"glucose": 3, "nitrotyrosine": 2, "8-hydroxy-2'-deoxyguanosine": 1, "glutathione": 1}
+{"carbon nanotubes": 2, "single-walled carbon nanotubes": 2, "swnct": 4}
+{}
+{"free radical scavengers": 1, "antioxidants": 1, "oxidative stress": 2, "redox-sensitive": 1, "oxidized": 1, "reduced glutathione": 1}
+{}
+{}
+{"monooxygenase": 1}
+{}
+{"caspase": 1, "mitogen-activated protein kinase 14": 1, "mapk14": 1, "tumor protein p53-inducible nuclear protein 1": 1, "tp53inp1": 1, "3-nitropropionic acid": 1}
+{}
+{}
+{"hydrocarbon": 2, "methanogenesis": 1, "methane oxidation": 1, "aom": 1}
+{}
+{"ionizing radiation": 1, "kinase": 2}
+{"metabolism": 3}
+{"molecular model": 1}
+{}
+{}
+{"phosphoserine": 1}
+{}
+{}
+{"serum high-density lipoprotein cholesterol": 2, "hdl-c": 6, "triglycerides": 1, "serum lipids": 1}
+{"chemical": 2, "chemical-protein interaction": 2}
+{}
+{"oxidative stress": 1}
+{"molecular": 1, "trisomic": 1, "g-banding": 2, "array comparative genomic hybridization": 1, "acgh": 1, "single nucleotide polymorphisms": 1, "snps": 1}
+{"calcium": 1}
+{"fluorescent": 2, "illumination": 3, "bessel beams": 2, "super-resolution": 1, "structured illumination microscopy": 1, "contrast": 1}
+{"biochemical": 1}
+{}
+{}
+{"histone acetyltransferases": 1}
+{}
+{"matrix-assisted laser desorption/ionization (maldi) mass spectrometry": 1}
+{}
+{}
+{}
+{}
+{"biochemical": 1, "enzymatic activity": 1}
+{}
+{}
+{}
+{"phosphorylation": 1, "akt": 2, "mtor": 1, "pathway": 1}
+{}
+{"cryo-electron microscopy": 1, "cryoem": 1, "conformational": 1}
+{}
+{}
+{"lipophilic": 3, "dye": 3, "particles": 2}
+{}
+{}
+{"molecular mechanisms": 1, "complex i": 2, "disassembly": 1}
+{}
+{}
+{}
+{"actinic damage": 2, "ultraviolet radiation": 1}
+{}
+{"rt-pcr": 1}
+{}
+{"reaction": 1, "diffusion": 1}
+{"calcium-dependent": 1}
+{}
+{}
+{}
+{}
+{}
+{"fluorescent": 2, "calcium": 2, "dyes": 1, "gold": 1, "tungsten": 1}
+{"signalling": 1}
+{}
+{}
+{}
+{"metabolism": 3}
+{"proton nuclear magnetic resonance": 1, "sphingomyelin": 1, "phosphatidylcholine": 1, "phospholipids": 2, "choline": 1, "fatty acid": 2, "lipid peroxidation": 1, "warburg effect": 1}
+{}
+{"methane oxidation": 2, "anoxic": 1, "carbon": 1, "geochemical": 1, "isotope": 1, "lipid biomarkers": 1, "anaerobic oxidation": 1, "fluorescent in situ hybridization": 1, "secondary ion mass spectrometry": 1, "anaerobic methanotrophy": 2, "methane consumption": 1}
+{"tyrosine kinase signalling": 1, "fibroblast growth factor receptor": 1, "rho gtpases": 1}
+{}
+{"ser/thr kinase": 1, "multiprotein complexes": 1}
+{"photoactivated localization microscopy": 1, "palm": 2, "super-resolution light microscopy": 1, "stochastic self-assembly": 2}
+{}
+{"erk activation": 1}
+{"na+, k+-atpase": 4, "k+": 4, "ca2+": 3, "na+": 3}
+{}
+{}
+{}
+{}
+{"surface chemistry": 1}
+{"metalloprotease": 1, "sheddase": 1}
+{"zinc": 1, "zn2+": 5, "chelators": 1, "dtt": 1, "glutathione": 1}
+{"oxidative": 1}
+{}
+{"elastomeric": 2, "substrates": 1, "micromolded": 1, "micropost": 2, "rigidity": 2, "adhesive": 1, "material surface properties": 1}
+{}
+{"ligands": 2, "signalling": 2}
+{"blood lipids": 1}
+{"redox": 1, "disulfide": 1, "diamide": 2, "oxidized": 1, "reduced": 1}
+{"reverse transcription-polymerase chain reaction": 1, "pcr": 2, "western blot": 1, "immunohistochemical": 1}
+{"hplc-saxs": 2, "sec-saxs": 1, "size-exclusion chromatography": 1, "small-angle x-ray scattering": 1, "x-ray": 1, "capillary": 3, "scattering": 2, "gaussian": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{"covariance": 3, "matrix": 2, "parameter": 1, "linear": 1, "regression": 1, "model": 2, "elements": 1, "estimators": 2}
+{}
+{"vacuolating cytotoxin": 1, "vacA": 6, "cagpai": 1, "caga": 1}
+{}
+{}
+{"biochemical": 1}
+{}
+{}
+{"matrix metalloproteinase": 2, "mmp-2": 3, "mt1-mmp": 1}
+{}
+{"methylation": 4, "deaminated": 1, "catalyzed": 1, "densities": 1}
+{}
+{}
+{}
+{}
+{"atp": 2}
+{"ca(2+)": 1}
+{"mt assay": 1, "3-[4,5-dimethylthiazol-2-yl]-2,5-diphenyl-tetrazolium bromide": 1, "parp": 1, "poly [adp-ribose]polymerase": 1}
+{"fructosamine": 3, "glycated albumin": 3, "1,5-anhydroglucitol (1,5-ag)": 2}
+{"h3k27ac": 1}
+{}
+{}
+{"horseradish peroxidase (hrp)": 1}
+{}
+{}
+{"enzyme": 2, "catalyzes": 1, "transamidation": 1, "phosphorylation": 1}
+{}
+{"vegf": 4, "arginase-1": 3, "arg-1": 3}
+{"luciferase": 2, "luminescence": 1}
+{"biochemical properties": 1, "biochemical analysis": 1}
+{"proteinase-3": 1, "myeloperoxidase": 1, "dna": 1}
+{"glutamine": 1, "phgdh": 2, "psat1": 1, "residues": 1}
+{"biochemical": 1, "phosphorylation": 2}
+{"dna": 2, "methylation": 1}
+{}
+{}
+{"spectral confocal reflectance microscopy": 2, "lasers": 1, "wavelengths": 1}
+{}
+{"basic leucine zipper": 1}
+{}
+{}
+{}
+{"fibrin": 3}
+{"dna methylation": 1}
+{}
+{}
+{"acetylation": 2, "lysine": 1, "residues": 1, "n-terminal": 1, "histone": 2, "covalent": 1, "enzymes": 1}
+{}
+{}
+{}
+{"membrane lipids": 1, "lipid rafts": 1}
+{}
+{}
+{"trimethylated": 1}
+{"histone": 3, "hypercitrullination": 2, "peptidylarginine deiminase 4": 1}
+{"uncoupling protein 1 (ucp1)": 2, "electron transport": 1, "atp production": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"enzyme": 2, "atp-dependent": 1, "acetylated": 1}
+{"chemical stimuli": 1}
+{}
+{}
+{}
+{"ddt": 1}
+{"tertiary structure": 2, "signal patch": 1, "molecular": 1}
+{}
+{}
+{"proteins": 1}
+{}
+{}
+{"enzymes": 5, "atp": 1, "hydrolysis": 1}
+{}
+{}
+{}
+{"reverse transcriptase": 2, "polymerase chain reactions": 2, "amplified": 2, "cleavage site": 1}
+{}
+{"electroporation": 1}
+{"methylation": 5, "bisulfite": 1}
+{"actin": 1}
+{}
+{"crisprs": 3, "crispr arrays": 1, "crispr repeat diversity": 1, "crispr repeats": 1, "crispr-associated genes": 1}
+{}
+{"homocysteine": 2, "thcy": 6, "methylmalonic acid": 1}
+{"methylated": 4, "methylation": 1, "biochemical": 1}
+{}
+{"signaling": 6, "pathways": 4, "protein": 2, "kinase": 2, "molecules": 1}
+{}
+{}
+{}
+{"resazurin": 2, "reduction": 1}
+{"molecular networks": 1, "metabolites": 1}
+{}
+{}
+{"crystallographic": 1, "biochemical": 1, "disulfide cross-links": 2, "oxidized": 1, "reducing conditions": 1, "oxidizing conditions": 1}
+{"oxidants": 2, "antioxidants": 1, "thiol": 1}
+{"oxidative damage": 2, "hydrogen peroxide": 2, "oxidative stress": 1}
+{}
+{}
+{"omega-6": 4, "omega-3": 4, "n\u22126 fa": 3, "n\u22123 fa": 3}
+{}
+{"metabolic modulation": 1}
+{}
+{}
+{}
+{}
+{"gc-rich": 2, "elements": 1}
+{}
+{"uv crosslinking": 1, "chemical probing": 1}
+{"mitochondrial transmembrane potential": 1, "mevalonate pathway": 3}
+{}
+{}
+{"chemical compounds": 1}
+{"dual-energy x-ray absorptiometry": 1, "computed tomography": 1}
+{"stat-3/stat-5": 1, "stat5": 1, "stat3": 1}
+{}
+{"optical transfer function": 1, "point-spread function": 1, "quantum dot": 1}
+{}
+{}
+{"alpha-pyrone": 2, "macrocyclic-lactone": 1, "structural": 2, "conformation": 1}
+{}
+{}
+{"western blot": 1, "paraffin-embedded tissue blot": 1}
+{}
+{}
+{}
+{"monoubiquitination": 2, "atpase": 1}
+{"atp": 3, "enzyme": 1, "enzymatic": 1}
+{}
+{"collagen crosslinks": 1}
+{"biochemical": 1}
+{"protein structure": 1, "crystal structure": 1, "enzyme": 2}
+{}
+{}
+{"tracer": 1, "bromide": 1}
+{"quantum dots": 2, "qd": 3, "dipole-polarization": 1, "fluorescence": 1}
+{}
+{"glycolysis": 2, "anabolic biosynthesis": 2, "biosynthesis": 1, "metabolic": 1, "signalling": 1, "activation": 1, "inhibitory": 1}
+{}
+{}
+{}
+{"oxidative processes": 2, "cholesterol": 2, "platelet aggregation": 1}
+{}
+{}
+{}
+{}
+{"mass spectrometry": 1, "dephosphorylation": 1}
+{}
+{}
+{"proteolytically": 1, "peptides": 1, "transporter": 1}
+{}
+{}
+{}
+{"protein synthesis": 4, "rna polymerase iii": 1, "messenger rnas": 1}
+{"white-cell count": 1}
+{}
+{}
+{"phosphorylation": 1, "kinase": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"antioxidants": 2, "paraquat": 5, "quarternary nitrogen": 1, "oxidation": 1, "reducing equivalents": 1, "oxidative insult": 1}
+{}
+{"polymerase chain reaction": 1, "signal amplification": 3}
+{"structure": 2, "function": 2, "modification": 1, "mechanistic": 1, "regulation": 1}
+{"heterotrimeric": 2, "phosphorylation": 1}
+{}
+{"fatty acid": 3, "oxidation": 2, "glucose": 2, "metabolism": 3, "substrate": 1}
+{"ng2 proteoglycan": 1, "alkaline phosphatase": 2}
+{}
+{"calcium": 1, "atp": 2, "ca2+": 3}
+{}
+{}
+{}
+{}
+{}
+{"allosteric": 1, "synergistic": 2, "furan-2-phosphonic": 2, "crystal structure": 1, "5-(5-hydroxyl-isoxazol-3-yl)-furan-2-phosphonic acid": 1}
+{}
+{}
+{"oxidized lipid": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"o(2)": 1}
+{}
+{}
+{"serum ph": 1, "paco2": 1, "pao2": 1, "alveolar-arterial difference in partial pressure of oxygen [pao2-pao2]": 1}
+{}
+{}
+{"calcium-dependent": 1}
+{"tricarboxylic acid cycle": 2, "fumarate": 1, "cytosolic": 1, "mitochondrial": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"metabolic": 1}
+{"cyclic amp": 1}
+{"sodium": 1, "chloride ions": 1, "atp": 2, "organic anions": 1, "bromosulfophthalein": 1}
+{}
+{}
+{"glun2b": 5, "n-methyl-d-aspartate receptor": 1, "nmdar": 2, "currents": 2, "decay kinetics": 1, "7,8 dihydroxyflavone": 1}
+{"charge": 3, "basic": 1}
+{"angiopoietin-like proteins": 1, "angiopoietin-like 2": 2, "angiopoietin-like 3": 2, "angiopoietin-like 5": 1, "angiopoietin-like 7": 1, "coiled-coil domain": 1}
+{}
+{}
+{"nanoenzymology": 1, "proteolytic": 1, "enzymatic": 2, "atomic force microscopy": 2, "afm": 2, "conformations": 2, "barrel-like": 1, "cylinder-like": 1, "allosteric transition": 2, "allosteric transitions": 1, "dynamics": 1}
+{}
+{}
+{}
+{}
+{"cytotoxic": 2, "transcription": 1}
+{"diffusion": 5, "magnetic resonance imaging": 2, "tensor imaging": 1, "pulsed-gradient-spin-echo": 1, "diffusivity": 1}
+{"cyclic gmp-amp synthase": 1, "cyclic gmp-amp": 2, "cgas": 4, "c-gamp": 1}
+{"cytosolic": 2, "nuclear": 2, "quinone oxidoreductases": 1, "nqo1": 2, "nqo2": 2, "mt3 receptor": 1, "roralpha": 2, "roralpha4": 1}
+{}
+{"mutational landscapes": 1, "a-to-t signature": 1, "dimethylbenzanthracene": 1, "g-to-t": 1, "oxidative stress": 1}
+{"2-(4-morpholinyl)-8-phenyl-4h-1-benzopyran-4-one": 2, "2-(4-morpholinyl)-8-phenylchromone": 1, "bioflavinoid": 1, "atp-binding site": 1, "structure-activity relationship": 1}
+{"carbohydrate antigen 19-9": 2, "ca19-9": 3}
+{}
+{"ascorbic acid": 6, "hydroxylases": 1, "cofactor": 1}
+{}
+{}
+{"biochemical": 1, "deadenylation": 3, "ribonuclease": 3, "rna": 3, "molecular": 1}
+{}
+{"extracellular matrix": 2, "proteins": 1}
+{"2-furoyl-ligrlo-nh(2)": 3}
+{"polyphosphate": 2, "metabolism": 1, "enzyme": 1, "biotinylated dna": 1}
+{}
+{"formalin": 1, "paraffin": 1}
+{"poly(ethylene glycol)": 3, "peg": 3, "hydrogels": 2, "matrigel": 2, "polystyrene": 1, "proteins": 3, "peptides": 1, "adsorption": 1, "laminin": 1, "integrins": 1}
+{}
+{}
+{}
+{"reactive oxygen species": 3, "oxidize": 1, "oxidized": 1, "oxidative": 1}
+{}
+{"catalyzed": 1}
+{}
+{"oxidative": 2, "phosphorylation": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"serine-threonine kinase": 1}
+{"cofactor": 2, "complexes": 1}
+{"factors": 1, "transcription factors": 1}
+{"formaldehyde cross-linking": 1, "carbon copy": 1}
+{}
+{}
+{}
+{"isoflavone": 2, "homocysteine": 2, "folate": 1, "methionine": 1}
+{"oxygen-evolving catalysts": 1, "transition metal": 1, "oxygen-evolution reaction": 1, "density functional theory": 1, "metal oxides": 1, "adsorption energies": 1, "gelled oxyhydroxides": 1, "overpotential": 1, "alkaline electrolyte": 1, "x-ray absorption": 1, "tungsten": 2, "iron": 1, "cobalt": 1}
+{}
+{}
+{}
+{}
+{"peptides": 8, "polypeptides": 1, "motifs": 1}
+{"metabolic activity": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"raman": 5, "spectral": 2, "carbon-hydrogen": 1, "proteins": 1, "lipids": 1, "linear decomposition": 1, "shifts": 1, "fingerprint spectral region": 1}
+{}
+{"bcl-2": 1, "transforming growth factor-beta1": 2, "renin-angiotensin system": 1}
+{"lipid homeostasis": 1, "lipotoxicity": 1, "lipogenic": 1, "neutral fat": 1}
+{}
+{}
+{}
+{"fluorescence recovery after photobleaching": 1, "chemical response": 1}
+{}
+{}
+{"cholesterol glucosylation": 2, "cholesterol": 5, "lipid": 2, "plasma membranes": 1, "\u03b1-glucosylation": 1, "cholesteryl glucosides": 1, "glucosylation": 1}
+{"molecular": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"biochemically": 1}
+{"nitrosylated": 3, "thiols": 1}
+{}
+{}
+{"auxin": 2, "cytokinin": 3, "rr2": 2}
+{}
+{}
+{}
+{}
+{"c-nucleosides": 1, "fluorinated": 1, "synthesis": 2, "extraction": 1}
+{"indole-3-carbinol": 1, "cruciferous vegetables": 1, "2/16\u03b1-hydroxyestrone": 1, "2/16\u03b1-ohe1": 1, "4-hydroxyestrone": 1, "4-ohe1": 1}
+{"coenzymes": 1, "oxidation": 1, "reduction": 1, "nadh": 3, "fad": 3, "flavin adenine dinucleotide": 1, "reduced nicotinamide adenine dinucleotide": 1, "autofluorescence": 1, "fluorescent": 1, "wavelengths": 1}
+{}
+{"polymerase chain reaction": 1, "pcr": 1}
+{}
+{"biochemical": 1, "cerebrospinal fluid": 1}
+{}
+{}
+{}
+{"metabolism": 2, "ketogenic": 1, "hypoketonemia": 1}
+{"heat shock proteins": 2, "hsp": 2}
+{}
+{}
+{"catecholamines": 3, "tyrosine hydroxylase": 1}
+{}
+{"mapk": 3, "mitogen-activating protein kinase": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"atp": 2}
+{}
+{"xenobiotics": 1, "chemicals": 1}
+{"oleate": 1, "acetoacetate": 2}
+{}
+{}
+{"enzyme-linked immunosorbent assay": 1, "elisa": 1}
+{}
+{}
+{}
+{}
+{"cyclooxygenase": 2, "cyclooxygenase-2 (cox-2)": 2, "cox-2": 3, "cigarette smoke": 3, "cigarette smoke extract (cse)": 2, "cse": 2}
+{}
+{}
+{}
+{}
+{"fluorescence correlation spectroscopy": 2, "single-molecule tracking": 2, "signal transduction": 1, "heterogeneous": 1, "inhomogeneous": 1, "two-dimensional liquid": 1}
+{"peroxidic": 1, "ferrous iron": 1, "fe(ii)-heme": 2, "biological reductants": 1, "carbon monoxide": 1, "chemical stability": 1, "decomposition": 2, "ph": 3}
+{"hydrolysis": 1, "anandamide": 3, "\u03949-tetrahydrocannabinol": 2}
+{"ph": 4, "lower esophageal sphincter (los) pressure": 2}
+{"tertiary structure": 1, "hetero-trimeric complex": 1, "biochemically": 1}
+{"lyase": 3, "nucleotide": 1, "\u03b1,\u03b2-unsaturated aldehyde": 1}
+{"glucose": 6, "sugars": 1, "sucralose": 1, "lactisole": 1}
+{}
+{"flavonoids": 7, "flavones": 1, "apigenin": 1, "luteolin": 1, "flavonols": 1, "quercetin": 1, "myricetin": 1, "flavanones": 1, "naringenin": 1, "hesperidin": 1, "catechins": 1, "flavanols": 1, "epicatechin": 1, "gallocatechin": 1, "anthocyanidins": 1, "cyanidin": 1, "pelargonidin": 1, "isoflavones": 1, "genistein": 1, "daidzein": 1, "glycosides": 1, "aglycones": 1, "free-radical": 1}
+{}
+{"cellulose": 5, "esterases/lipases": 1, "esterified pectins": 1}
+{}
+{}
+{}
+{"cu/zn-superoxide dismutase": 1, "coatomer coat protein ii subunit sar1": 1}
+{}
+{}
+{"beta-amyloid": 1, "beta a4 peptide": 2}
+{}
+{"protease": 2, "heparin-binding domain": 2}
+{}
+{}
+{"4-hydroxynonenal": 2, "oxidative stress": 2, "lipid peroxidation": 1, "glutathione disulfide": 1}
+{"nucleotide": 1, "ribonucleotide reductase": 1, "deoxyribonucleosides": 2}
+{}
+{"black carbon": 2, "particulate matter (pm)": 1, "ultrafine particles": 3, "nitrogen dioxide (no2)": 2, "pm10": 1, "pm2.5": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"enzyme-linked immunosorbent assay": 2}
+{}
+{"mercury (ii) oxide": 1, "chemical": 3, "chemical stressors": 2}
+{"zinc": 4, "proline-rich regions": 1}
+{"zinc": 1}
+{}
+{"enzyme-linked immunosorbent assay": 1, "elisa": 1, "neutralization assays": 1}
+{"ser-752-->pro": 2, "arg-gly-asp-ser": 2, "affinity column": 1, "peptide": 1, "c-terminal": 1, "polymerase chain reaction": 1, "pcr": 1}
+{}
+{"inhibitor-of-apoptosis": 1, "iap": 3, "xiap": 2, "survivin": 2, "fibronectin": 1, "kinases": 1, "src": 1}
+{"biosynthesis": 1, "enzymatic": 2, "nad+": 1, "bioactive lipid": 1}
+{}
+{}
+{"cyclic adenosine 3',5'-monophosphate": 1, "camp": 4, "protein kinase a": 1, "pka": 2, "protein kinase c": 1, "pkc": 3, "calcium": 3}
+{}
+{}
+{"glutathione s-transferase": 1, "gst-fusion": 1, "phosphorylated": 1}
+{"endonuclease": 2, "nuclease": 2, "phosphorylation": 1}
+{"green fluorescent protein": 1, "\u03b2-glucuronidase": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"epigenetic": 4, "transcription factors": 2, "nuclear reprogramming": 2, "reprogramming": 3, "somatic": 1}
+{}
+{}
+{}
+{"serum": 4, "biomarkers": 3, "plasma": 1, "fibrinogen": 2, "timp-1": 1, "alpha1-antitrypsin": 1, "mmp-9": 3, "tnf-alpha": 1, "tgf-beta": 1, "il-6": 1, "il-8": 1, "neutrophil elastase": 1, "crp": 4}
+{"kinase": 3, "phosphatidylinositol-3-kinase-like kinase": 1}
+{"nitric oxide": 4, "no": 2, "nitrite": 3, "nitrate": 3, "oxidation": 1, "capillary electrophoresis": 1}
+{}
+{}
+{"ubiquitination": 2, "phosphorylation": 3, "ser166": 1, "ser186": 1}
+{}
+{}
+{"tetramer dissociation": 1}
+{}
+{"4-hydroxy-3-nitrophenylacetyl": 1, "keyhole lymphocyte hemocyanin": 1}
+{}
+{"trpc6": 3, "ion channel": 1}
+{"plasma": 3}
+{}
+{"ethanol": 1}
+{}
+{}
+{"compounds": 2, "\u03b1-tocopherol": 2}
+{}
+{}
+{}
+{"phosphatase": 5, "receptor": 3, "tyrosine phosphatase": 2, "domains": 1}
+{}
+{"proteases": 1}
+{}
+{"glycosyl phosphatidylinositol": 3, "gpi": 3, "n-acetylglucosaminyl phosphatidylinositol": 1, "synthesis": 3, "signal transduction": 1}
+{}
+{"cox-2": 8, "prostaglandin e(2)": 1, "reactive oxygen species": 1, "ros": 3, "nadph oxidase": 2, "p67phox": 1, "src": 2, "mitogen-activated protein kinases": 1, "mapks": 1, "activator protein-1": 1, "ap-1": 1}
+{"graphene": 3, "graphene oxide": 3, "g": 5, "go": 5, "materials science": 1, "physics": 1, "chemistry": 1, "nanotechnology": 1}
+{}
+{"acetylation": 4, "deacetylation": 2, "lysines": 1, "ubiquitination": 1, "proteasomal-mediated degradation": 1, "hyperacetylation": 2}
+{}
+{}
+{}
+{"bacterial endotoxin": 1}
+{}
+{}
+{}
+{}
+{}
+{"nadph oxidase": 5, "oxidant": 1, "reactive oxidant intermediates": 1}
+{"oxidative stress": 2, "reactive oxygen": 1, "lipid peroxidation": 2, "nadph-dependent o2 uptake": 1, "h2o2 production": 1}
+{"biochemical": 2, "amplification": 2, "sensitivity": 3, "specificity": 1}
+{"phosphatidylinositol 3-kinase": 2, "pi3k": 3, "akt pathway": 3, "pi3k/akt pathway": 3}
+{}
+{"acetylation": 2}
+{"biosynthesis": 1, "oxidative stress": 1}
+{"crispr-cas9": 1, "nonhomologous end joining": 2, "nhej": 2, "homology-directed repair": 1, "hdr": 2, "dna ligase iv": 1}
+{"ubiquitin": 3, "ubiquitination": 2, "glycosylphosphatidylinositol": 1, "gpi": 2, "lysines": 2}
+{"mineralization": 1}
+{}
+{}
+{}
+{"crystal structure": 1, "binding": 2, "complex": 5, "activation": 2, "allosteric": 1}
+{}
+{"fermentation": 2, "hydrolysate": 5, "glucose": 3, "xylose": 1, "amino acids": 2, "atp": 1, "lignocellulosic": 1}
+{}
+{"catalyst": 1, "acetyltransferase": 1, "ser133": 1}
+{"vitamin e": 1, "vitamin c": 2, "proteins": 1, "monounsaturated fatty acids": 1, "iron": 1}
+{"fructose-2,6-bisphosphate": 1}
+{"plasma homocysteine": 3}
+{}
+{"quantitative pcr": 2, "qpcr": 2, "single-gene": 1, "species-specific qpcrs": 1, "standard curves": 1, "log-phase": 1, "concentrations": 1}
+{"glycogen synthase kinase 3beta": 1, "gsk3beta": 2, "phosphyrylation": 1}
+{"g protein-coupled receptors": 2, "gpcrs": 3, "signalling": 1}
+{"autophagy": 3, "autophagic": 3, "autophagosome": 1}
+{"pdgfra": 2, "idh1": 2, "egfr": 2, "nf1": 2}
+{}
+{"ag": 2}
+{}
+{"hydrogen bond": 1}
+{}
+{}
+{}
+{"kinetics": 1}
+{"bone morphogenetic protein": 3, "bmp": 3, "signaling": 3, "differentiation": 1}
+{}
+{}
+{}
+{"glycogen": 1}
+{"atp": 6, "concentrations": 3, "peptidase": 1}
+{}
+{}
+{"bending energy": 1, "shear energy": 1}
+{}
+{}
+{}
+{"cytokeratin": 1}
+{"radiolabeled tracers": 1}
+{}
+{}
+{}
+{"cysteine-rich motif": 1}
+{"phosphatidylinositol-3-kinase": 1, "phospholipase c gamma 1": 1}
+{}
+{"hydrogen sulfide": 5, "h(2)s": 8, "gasotransmitter": 1, "h(2)s-catalyzing enzymes": 1}
+{}
+{"covalent attachment": 1, "modifier": 1, "cleavage": 1, "specificity": 1, "ligases": 1}
+{"short-chain carbohydrates": 1, "oligofructose": 1, "galacto-oligosaccharides": 1, "lactulose": 1, "short-chain fatty acid": 1, "intestinal gas": 1}
+{}
+{}
+{}
+{"phosphodiester linkage": 1, "5'-phosphate": 1, "3'-hydroxyl": 1, "crystal structure": 1, "ferredoxin-like fold": 1, "mutagenesis": 1, "catalytic residue": 1}
+{}
+{}
+{"anion-exchange chromatography": 2, "high-voltage paper ionophoresis": 1, "paper chromatography": 1, "phosphodiesterase": 2, "bisphosphatase": 1, "trisphosphatase": 1, "inositol 1:2-cyclic phosphate 2-phosphohydrolase": 1}
+{"ion": 3, "channels": 3, "l-glutamate": 1, "arginine residue": 2, "glutamine residue": 1}
+{"allosterically": 1, "phosphorylation": 4}
+{}
+{"cross-linking": 4, "mass spectrometry": 3, "spectra": 2, "bioinformatics": 1, "fragmentation": 1}
+{}
+{}
+{"oxidative": 3, "nitrative": 2, "nitric oxide": 1, "iron": 1}
+{}
+{"cholesterol": 1}
+{"diffusion tensor imaging": 1, "fractional anisotropy": 2, "microstructural abnormalities": 2}
+{"tris insoluble": 1, "sarkosyl-soluble": 1}
+{"platelet": 5, "volume": 4, "mean platelet volume": 3, "mpv": 5, "platelet count": 3, "pc": 3, "mpv/pc ratio": 5}
+{}
+{}
+{}
+{"endotoxin": 5, "bacterial endotoxins": 2, "protein expression": 2, "mRNA": 2}
+{}
+{}
+{}
+{"serine-threonine kinase": 1}
+{}
+{}
+{}
+{"es-ms": 1, "cysteine-containing": 1, "disulfide bridges": 2, "disulfide bridge": 1, "pyroglutamate": 1, "asp-pro bonds": 1, "acid-labile": 1, "hydrolysis": 1, "dimerization": 1, "dimers": 1, "monomeric": 1, "alpha-helical": 2}
+{}
+{"metabolism": 3, "metabolic activity": 2}
+{"kinase": 4, "nf-\u03bab": 2, "jnk": 1, "p38": 1}
+{}
+{}
+{}
+{}
+{}
+{"signaling": 3, "wnt": 3, "jnk": 2}
+{}
+{"nadph-dependent furfural oxidoreductases": 1, "nadph-dependent furfural reductase": 1, "furfural": 4, "oxidoreductases": 1, "reductase": 1}
+{}
+{}
+{"nerium oleander": 2, "serum chemical": 1}
+{"zinc": 1}
+{}
+{"fab regions": 1, "gp iib-iiia": 1}
+{}
+{}
+{"complexes": 4, "kmn network": 2, "aurora bipl1": 1, "mps1mps1 kinases": 1, "cdc28": 1, "mps1": 1, "ipl1 kinases": 1}
+{}
+{}
+{"cholesterol": 3}
+{}
+{}
+{}
+{"atomic coordinates": 1, "non-hydrogen atoms": 1, "spatial restraints": 1}
+{}
+{}
+{}
+{"amino acids": 1, "met-ser-arg-ile": 1}
+{"receptors": 2, "hormone receptors": 1, "progesterone": 1, "estrogen": 1, "her2": 2, "proteins": 1, "efflux pumps": 1, "membrane lipids": 1, "metabolic": 1, "dna": 1}
+{}
+{}
+{}
+{"heterochromatin": 2, "microscopy": 1, "subcellular": 1, "nuclear localization": 1, "domains": 2, "n-terminal": 1}
+{}
+{}
+{"gelatin zymography": 1, "carnoy's fixative": 1, "paraffin": 1}
+{"\u03b2-catenin": 3, "wnt signaling": 5, "wnt5a": 2, "wnt5b": 2, "jun-n-terminal kinase": 1, "c-jun": 1, "ror1": 2, "ror2": 1}
+{"oxidative stress proteins": 1, "tartrate-resistant acid phosphatase": 1}
+{}
+{"photoaffinity": 1, "incubation": 1}
+{"necrotic": 1, "paracrine": 1}
+{}
+{"covalent": 1}
+{}
+{}
+{}
+{"bromodeoxyuridine": 1}
+{}
+{"electron microscopy": 1}
+{}
+{"polymerase chain reaction": 1}
+{"biochemical": 1}
+{"lipase": 1, "muramidase": 1}
+{}
+{}
+{"cholesterol": 3, "triglyceride": 2, "bile-acid": 2, "oxidized": 1}
+{"glycolipid": 1, "aldolase c": 1, "glycolipids": 1}
+{}
+{"reactive oxygen species": 2, "ros": 4, "oxidation": 1, "stoichiometry": 1}
+{"cytidine-deaminase family": 1, "i\u03bab kinase": 1}
+{}
+{}
+{}
+{}
+{}
+{"mass spectrometry": 1}
+{}
+{"oxygen": 2, "carbon dioxide": 1}
+{}
+{"enzymatic activities": 1, "sequences": 1}
+{}
+{"vitamin d": 4, "ultraviolet light": 1}
+{}
+{}
+{}
+{}
+{"oxidized ldl": 2}
+{}
+{}
+{"crystal": 1, "structure": 3, "catalyzed": 2, "catalyzes": 1, "complex": 3, "resolution": 1}
+{}
+{}
+{"warburg effect": 2, "metabolism": 3, "glutamine": 2, "metabolic enzymes": 1, "metabolic pathways": 1}
+{}
+{"mass spectrometry": 1}
+{}
+{}
+{}
+{"green fluorescent protein": 1}
+{"desmoglein 1": 1, "dsg1": 3, "dsg2": 2, "dsg3": 3, "desmocollin 2": 1, "dsc2": 3, "integrin beta 4": 1, "itgb4": 2, "laminin gamma chain 2": 1, "lamc2": 3, "collagen type 17 alpha 1": 1, "col17a1": 2}
+{"protein deacetylase": 2, "acetylation": 1, "deacetylases": 1, "small molecules": 1}
+{}
+{}
+{"polymerase chain reaction": 1, "dna isolation": 1}
+{"vascular endothelial growth factor": 1, "fibroblast growth factor receptor-3": 1, "human epidermal growth factor receptor 2": 1, "p53": 2, "hsp27": 2, "tubulin": 1, "cd105": 1, "polo-like kinase-1": 1, "phosphatidylinositide 3-kinases": 1, "transforming growth factor \u03b2 receptor/activin receptor-like kinase \u03b2": 1, "estrogen receptor": 1, "hepatocyte growth factor receptor": 1}
+{"h2s": 3, "hs\u2212": 3, "nahs": 3, "metal nitrosyl complex": 2, "gsno": 2, "electron paramagnetic resonance spectroscopy": 1, "spin trap": 1, "no oxidation product": 1, "nitrite": 1, "griess reaction": 1, "s-nitrosothiol-signalling reactions": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"18f-fluorodeoxyglucose": 1, "positron emission tomography": 1, "diffusion tensor images": 1, "fractional anisotropy": 1}
+{"phosphorylation": 4, "ligand": 1}
+{}
+{"lipoxins": 1, "trihydroxytetraenes": 2, "5,6,15l-trihydroxy-7,9,11,13-icosatetraenoic acid": 3, "5d,14,15l-trihydroxy-6,8,10,12-icosatetraenoic acid": 2, "5- and 15-lipoxygenase pathways": 1}
+{"nitric oxide": 4, "superoxide": 4, "peroxynitrite": 3, "electron paramagnetic resonance": 1, "spin-trapping techniques": 1, "ca2+ ionophore a23187": 2, "oxidant": 1}
+{}
+{"protein": 1}
+{"oxygen radicals": 1, "8-hydroxydeoxyguanosine": 1, "cytochrome p-450 reductase": 1, "nitric oxide": 3, "cNOS": 1, "iNOS": 1, "cuZn-superoxide dismutase": 1, "mn-sod": 1, "superoxide": 3, "hydroxyI radical": 2, "peroxynitrite": 2, "antioxidant enzymes": 1}
+{"amyloid": 2, "titer": 1, "blood plasma": 1}
+{}
+{}
+{}
+{"metabolic inhibitors": 2, "oxidative phosphorylation": 1, "anaerobic glycolysis": 1}
+{"photoactivated localization microscopy": 1, "fluorescence recovery": 1, "kinetic": 1, "parameters": 1}
+{"steroidogenic": 3, "cholesterol": 2, "enzyme": 3, "cytochrome": 1, "biosynthesis": 1, "hormones": 1, "nuclear receptor": 1, "cis-acting elements": 1, "antisera": 1}
+{"apc/c": 1, "cdc20": 2, "aurora-b": 1, "cdk1": 3, "cdk2": 2}
+{}
+{}
+{}
+{"fructosamine": 2, "glycated albumin": 3, "glycated hemoglobin": 1, "hba1c": 5, "plasma": 1, "capillary": 1, "reagent": 1}
+{"catalytic-independent": 1, "poly(adp-ribosyl) transferase": 1}
+{"steroid": 2}
+{"biochemical": 1, "sequences": 3, "structurally disordered": 1, "negative charge": 2, "disordered domain": 1}
+{"folacin": 2, "magnesium": 2, "iron": 2, "zinc": 2, "pyridoxine": 1, "cobalamin": 1, "vitamin e": 1}
+{}
+{"agonist": 4, "antagonist": 4, "pi3k/akt pathway": 1, "akt": 2, "phosphorylation": 1}
+{}
+{"ultraviolet-b (uvb)": 1}
+{}
+{}
+{}
+{"mass spectrometry": 1, "poly(adp-ribosyl)ated": 1}
+{}
+{"bcl-2": 2, "foxp1": 2, "ki-67": 2}
+{"cu/zn superoxide dismutase": 1, "oxidized": 1}
+{}
+{}
+{}
+{"crystal structures": 2, "x-ray crystallography": 1, "complexes": 3}
+{}
+{}
+{"sugars": 2, "glutamate": 2, "sweeteners": 1, "compounds": 1}
+{}
+{"metabolic": 1, "nutrient": 1, "calorimetry": 1, "carbohydrate": 2, "fat": 2, "dietary carbohydrate": 1, "rq": 2}
+{}
+{"fatty acids": 7, "omega-3": 2, "bioactive fatty acids": 1}
+{}
+{"gtpases": 1}
+{"oxidation": 1}
+{}
+{"atp": 3, "membrane potential": 1, "ros": 3, "respiratory chain": 1, "complex i": 1, "complex iii": 1}
+{}
+{"ultraviolet cross-linking": 1}
+{}
+{}
+{}
+{"physicochemical": 1}
+{}
+{"real-time reverse transcription-polymerase chain reaction": 1}
+{}
+{"lipoxins": 1, "resolvins": 1, "protectins": 1, "maresins": 1, "mediators": 1, "catabasis": 1}
+{"calcium": 3, "ca2+": 5, "fluo-4": 1}
+{"nitric oxide": 2, "no": 5, "cytochrome p450": 2, "3-(5'-hydroxymethyl-2'-furyl)-1-benzyl indazole": 1, "1h-[1,2,4]oxadiazolo[4,3,-a]quinoxalin-1-one": 1, "17-odya": 1, "clotrimazole": 1}
+{}
+{}
+{}
+{}
+{}
+{"glycolysis": 3, "oxidation": 1, "aerobic glycolysis": 2, "mitochondrial respiration": 1, "lactate": 2, "acidic": 1}
+{"oxidation": 1, "chlorophyll": 2}
+{}
+{}
+{}
+{"chemical crosslinking": 1}
+{}
+{}
+{"plasma glucose": 1, "plasma insulin": 1, "o2 consumption": 1, "co2 production": 1, "respiratory exchange ratio": 1, "energy expenditure": 1}
+{}
+{"biochemical": 1, "affinity-capture": 1, "mass spectrometry": 1}
+{}
+{"magnetic resonance spectroscopy": 1, "chemical shift imaging": 1, "spectra": 2}
+{"phosphorylation": 3, "cdk1": 4, "kinase": 1, "phospho-hur(s202)": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"catalytic cycle": 2, "conformational changes": 2, "amino acid side chains": 1, "catalysis": 1, "catalytic properties": 1}
+{}
+{}
+{}
+{"proteins": 4, "actins": 1, "myosins": 1, "structural": 2}
+{"epigenetic": 1, "noncoding rnas": 1, "translational control": 2}
+{"redox-sensitive": 1, "oxidant production": 1}
+{}
+{"calcium": 5, "ca(2+)": 5}
+{"colorimetric": 2, "trichloroacetic acid": 1, "acetic acid": 2, "tris base": 1, "tris (hydroxymethyl)aminomethane": 1, "optical density": 1, "fluorescence": 2, "laser excitation": 1, "static fluorescence cytometry": 1}
+{}
+{}
+{"serum": 1, "high-density lipoprotein (hdl)": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"integrative structural modeling": 2, "scoring function": 2, "sampling": 2, "clustering": 1, "cross-validation": 1}
+{}
+{"phosphorylation": 1, "signal transducers": 1}
+{"racgap": 2, "gtpase-activating protein": 2, "rac-specific gtpase-activating protein": 1, "rac": 2, "epha-mediated": 1}
+{}
+{"superoxide dismutase": 3, "sod": 5, "mn-sod": 2, "cu/zn-sod": 3}
+{"glutamate": 1, "gaba": 1, "epscs": 1, "ipscs": 1}
+{"redox": 2, "oxidation": 1}
+{"phosphorylation": 2, "cystine-glutamate antiporter xCT": 2, "glutamate secretion": 1, "cystine uptake": 1}
+{}
+{}
+{"aluminum": 3, "calcium carbonate": 1}
+{}
+{}
+{}
+{"cyclin b1": 4, "cdc2 kinase": 2, "cyclin a": 1, "cyclin d3": 1, "large t antigen": 2}
+{"peptide hormone": 1, "octanoylated": 1}
+{}
+{}
+{"fluorescence anisotropy": 1, "aromatic clamp": 1, "helix": 3, "helices": 1}
+{}
+{}
+{"ubiquitin": 3, "microtubule-associated protein light chain 3 (lc3)": 2, "kinase": 1}
+{"serine": 2, "dag": 2, "diacylglycerol": 1, "protein kinase": 2, "pkc": 3, "pkd1": 7, "akt": 2, "s6k": 1, "erk": 1}
+{}
+{"chloramphenicol acetyltransferase": 1, "cyclic amp": 1}
+{"tgf-\u03b21": 2}
+{"phosphorylation": 1}
+{"ethanol": 5, "nicotine": 3, "acetylcholine": 1}
+{"fluorescence": 2, "spectroscopy": 1, "bodipy-tmr-x": 1, "cerulean": 1}
+{"methylcellulose": 2, "uroporphyrinogen": 2, "cytosol enzyme": 1, "iron": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"plasma membrane": 2, "glycosylated": 1, "extracellular domain": 1, "cleavage": 1}
+{}
+{"diffusion tensor magnetic resonance imaging": 2, "fractional anisotropy": 3, "apparent diffusion coefficient": 2}
+{"lipid levels": 1, "high-density lipoprotein": 2, "triglycerides": 2}
+{"tissue storage": 2, "tissue accumulation": 1, "tissue concentration": 1, "intracellular vacuoles": 1}
+{"cationic": 2}
+{}
+{}
+{}
+{"oxidative": 5, "catalytic activity": 1}
+{"antioxidant": 3, "pro-oxidant": 2, "redox": 1, "ferric ion reducing antioxidant power (frap)": 1, "frap": 2, "malonodialdehyde": 1, "hplc-ecd": 1, "alkaline-labile comet assay": 1}
+{"map-kinase phosphatase": 2, "histone methyltransferase": 2}
+{"rt-pcr": 2, "immunohistochemistry": 1, "rna interference": 2, "methylthiazoletetrazolium": 1, "western blot": 1, "flow cytometry": 1}
+{"n2o": 2, "halothane": 2}
+{"histidine": 1, "cytosolic": 1, "helicase": 1, "triphosphorylated": 2, "backbone": 1, "cap": 2, "binding pocket": 1, "steric exclusion": 1}
+{}
+{}
+{}
+{"polymerase chain reaction": 1}
+{"long-chain omega-3 fatty acids": 1, "long-chain n-3 pufas": 2}
+{}
+{}
+{}
+{}
+{"mutagenic": 1}
+{}
+{"signaling": 2, "lipid": 1, "messenger": 1, "phosphatase": 4, "dephosphorylated": 1}
+{}
+{"catalyzes": 1, "atp-dependent": 1}
+{}
+{}
+{}
+{}
+{"divalent cations": 2, "calcium": 2, "mn2+": 3, "kd": 2, "stoichiometry": 1, "dissociation": 1, "coimmunoprecipitation": 1}
+{}
+{"catalyzed": 1}
+{}
+{"oxidized": 1}
+{"erk1/2": 1, "akt phosphorylation": 1}
+{"oxidative stress": 5, "caveolin-1": 3, "cav-1": 4, "lactate": 1, "nitric oxide": 1, "no": 2, "anti-oxidants": 1, "ros": 1}
+{}
+{"alkaline phosphatase (alpase)": 2, "von kossa's staining": 2}
+{"na-cl co-transporter": 2, "ncc": 6, "slc12a3": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"electron microscopic": 1}
+{}
+{}
+{"biochemical": 1, "cleavage reaction": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sucrose": 2}
+{"nmr": 1, "structural domains": 2}
+{"cytochemistry": 1, "feulgen": 3, "cytophotometry": 3, "flow cytometry": 2, "photometrical": 1, "polyphenols": 1, "metabolites": 2, "phytochemical": 1, "cytochemical": 1}
+{"cytoplasmic signaling pathways": 1, "erk pathway": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"molecular": 1}
+{"molecular": 2, "hypoxia-inducible factor-1\u03b1": 1, "apoptosis signal-regulating kinase 1": 1, "thioredoxin-1": 1, "c-jun-n-terminal kinases": 1, "nitric oxide": 2, "nitric oxide synthase": 1, "arachidonic acid": 1, "myo-inositol": 1, "fatty acids": 1, "lipid": 1}
+{}
+{}
+{}
+{}
+{"electron microscopy": 1, "immunochemistry": 1, "bax": 1, "caspase-3 activation": 1}
+{}
+{"confocal microscopy": 2, "real-time pcr": 1, "transforming growth factor (tgf)-beta1": 1, "ve-cadherin": 1}
+{"phosphorylation": 1, "phosphoprotein": 1}
+{}
+{}
+{"calcium": 4, "ca(2+)": 2}
+{}
+{}
+{}
+{"oxidative": 2, "oxidative damages": 1}
+{}
+{}
+{}
+{"oxidation": 2, "oxidative demethylation": 2, "catalytically active": 1}
+{"biochemical": 1}
+{"5-aminoimidazole-4-carboxamide ribonucleoside": 1}
+{}
+{"ubiquitination": 2, "ubiquitin": 2, "ubiquitin e3 ligase": 1, "deubiquitinase": 1}
+{}
+{"cyclic amp": 1, "phosphorylation": 5, "[gamma-(32)p]atp": 1}
+{"oxidation": 1, "decarboxylation": 1, "enzymatic activity": 1}
+{}
+{"molecular": 1, "synthesis": 1}
+{}
+{"reactive oxygen species": 2, "ros": 3, "thiourea": 1, "anaerobic": 2, "aerobic": 1}
+{}
+{"collagen iv": 1}
+{}
+{"potassium": 1, "k+": 1, "n-glycosylated": 1, "biochemically": 1}
+{"polymerase chain reaction": 1, "pcr": 1}
+{}
+{}
+{}
+{}
+{"fluorescence in situ hybridization": 1}
+{"radioactive labeling": 2, "oxidative phosphorylation": 1, "translation": 6, "synthesis": 3, "gradient gels": 1}
+{}
+{}
+{}
+{}
+{}
+{"proteins": 2, "actin": 2, "biochemical": 1}
+{"spectrum": 1, "g:c": 4, "a:t": 4, "transitions": 2, "templating": 4, "5'apc3'/3'tpg5'": 1, "5'gpc3'/3'cpg5'": 1, "insertions": 1, "deletions": 1, "base-pair": 1}
+{}
+{}
+{"c-reactive protein": 2, "enzyme-linked immunosorbent assay": 1, "turbidimetry": 1}
+{}
+{}
+{"cryo-electron microscopy": 1}
+{"oxygen": 5, "hydrogen peroxide": 1, "reactive oxygen species": 1}
+{"ammonia": 2, "biochemical": 1, "carboxyl-terminal": 1, "peptides": 1, "bradykinin": 1, "proteolysis": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"safranin o staining": 1}
+{}
+{"bioinformatical analysis": 1, "succinate": 2}
+{}
+{"transient kinetic analyses": 1, "affinity": 2}
+{}
+{}
+{}
+{}
+{"concanamycin": 1, "strontium ions": 1}
+{}
+{"lipid": 3, "substrate": 2}
+{}
+{}
+{"metabolism": 2, "biochemically": 1, "metabolic": 3}
+{"enzymes": 1}
+{}
+{"nitric oxide": 1, "micromol/l": 3}
+{}
+{}
+{}
+{"charcoal": 2}
+{}
+{}
+{}
+{}
+{}
+{"12-o-tetradecanoylphorbol 13-acetate": 1}
+{"green tea": 3, "oolong tea": 1, "black tea": 1}
+{}
+{}
+{}
+{}
+{}
+{"periostin": 5, "intramembranous ossification": 3, "c-fos": 3, "c-jun": 1, "integrin alpha v beta 3": 1, "cd51/61": 2, "sharpey fibers": 2, "ectopic type i collagen": 1, "woven intramembranous bone": 1}
+{}
+{"kinase": 1, "adenosine nucleotide translocator": 2, "cyclophilin d": 2, "catalase": 1, "reactive oxygen species": 1, "adenosine triphosphate": 1}
+{"salt-dependent disruption": 1, "dimers": 1}
+{"alkaline phosphatase": 1, "serum calcium": 1, "serum immunoreactive parathyroid": 1}
+{}
+{"transcription factor": 3, "hyperphosphorylated": 1, "motif": 2, "cre motif": 2, "consensus cre motif": 1}
+{}
+{}
+{"antioxidant": 3, "oxidative": 3}
+{}
+{"phosphorylation": 1}
+{"cholesterol": 2, "nitrotyrosine": 1}
+{}
+{}
+{"signaling pathways": 1, "monoamine": 1, "glutamate": 1}
+{"supernatant leukotriene b(4)": 1, "urinary desmosine": 1}
+{"peroxisome": 2, "lipid": 1, "glucose": 1, "phosphorylation": 2, "kinase": 1}
+{}
+{}
+{}
+{"akt/mtor": 3, "g\u03b1(s)": 1, "pi(3)k": 1, "igf-receptor": 1}
+{"n-cyclohexyl-n'-beta-(4-methylmorpholinium)ethylcarbodiimide p-tosylate": 1, "cmc": 2, "hydrazinolysis": 2}
+{"1-(5-chloro-6-(trifluoromethoxy)-1h-benzoimidazol-2-yl)-1h-pyrazole-4-carboxylic acid": 2, "jnj-42041935": 5}
+{"polarization": 2, "skewness": 1, "kurtosis": 1}
+{}
+{}
+{}
+{}
+{}
+{"homocysteine": 5, "cysteine": 1, "agarose gel": 1}
+{"5alpha-reduced metabolite": 2}
+{}
+{}
+{"oxidized low-density lipoprotein": 1}
+{"endonuclease": 2, "dsb": 4, "fragments": 2, "kinetics": 2}
+{"soluble guanylate cyclase": 2}
+{}
+{"crystal structure": 3, "zinc-metallopeptidase": 1, "molecular basis": 1, "structure-activity relationships": 1}
+{"enzymes": 1, "reactive oxygen species": 1, "oxidative": 3, "peroxides": 1, "electrophilic compounds": 1, "thiol-active chemicals": 1}
+{}
+{}
+{}
+{"lipid-induced": 2, "fatty acid": 2, "palmitate": 2, "oleate": 2}
+{"metabolic reprogramming": 2, "metabolic pathway": 1, "anabolic": 1, "energetic": 1, "lipogenesis": 2, "reductive carboxylation": 1, "\u03b1-ketoglutarate": 1, "citrate": 1, "tca cycling": 1, "nutrient signaling": 1, "phosphorylation": 1, "metabolic profiling": 1}
+{"biochemical": 1}
+{}
+{}
+{"carbon catabolite repression": 2, "catabolite repression": 1, "arac": 2, "arabinose-bound arac": 1, "chemical": 1, "biofuels": 1}
+{}
+{}
+{}
+{}
+{"serum": 5, "soluble": 2, "corin": 6, "cholesterol": 2, "glucose": 1}
+{}
+{}
+{}
+{}
+{"serum": 4, "vitamin d": 4, "25-hydroxyvitamin d": 1, "25(oh)d": 3, "homa-ir": 1, "quicki": 1}
+{}
+{"histone acetylation": 1, "histone deacetylase activity": 1, "histone acetyl transferase": 2, "acetylation": 1}
+{}
+{"dxdx(t/v)": 2, "dephosphorylates": 2}
+{"oxidative metabolism": 1, "hplc-ms-ms": 1}
+{"methyltransferase": 1, "trimethylation": 1}
+{}
+{}
+{}
+{}
+{}
+{"crystal structure": 2, "urease": 5, "nickel-dependent metalloenzyme": 1, "hydrolysis": 1, "ammonia": 1, "carbon dioxide": 1, "phosphate": 2, "beta-mercaptoethanol": 2}
+{}
+{}
+{}
+{"radiolabeled": 1, "biosynthesis": 1}
+{}
+{}
+{}
+{}
+{"oxidant stress": 2, "sod": 1, "cat": 1, "gsh": 1, "mda": 1, "cox-2": 1, "nad(p)h dehydrogenase:quinone 1": 1, "nqo1": 1, "heme oxygenase-1": 1, "ho-1": 1}
+{}
+{"[18f]fluorodeoxyglucose": 1, "positron emission tomography": 2, "computed tomography": 2}
+{}
+{}
+{}
+{"catalytic": 1, "reaction": 5, "acidic": 3, "gtp": 1, "product p(i)": 1, "diffusion": 1}
+{}
+{"s-nitrosylation": 1, "oxidative stress": 1}
+{}
+{}
+{"catalyzed": 1, "structures": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{"lactate dehydrogenase": 1, "edta": 1}
+{}
+{"nitric oxide": 3, "endothelin-1": 3, "nitrite/nitrate": 1, "nox": 4}
+{"copper-zinc superoxide dismutase": 2, "cuznsod": 7, "redox homeostasis": 1}
+{"retinoic acid": 5}
+{}
+{}
+{}
+{"guanine-quadruplex": 4, "guanine": 2, "quadruplex": 3, "dna": 2, "duplex": 1, "sequence": 1, "sequences": 1, "conformations": 2, "structure": 2}
+{}
+{}
+{}
+{}
+{"mass spectrometry": 1}
+{}
+{}
+{}
+{}
+{}
+{"reductants": 1, "hydroxyl radicals": 1}
+{}
+{}
+{"molecular interactions": 1}
+{"clathrin-coated pits": 3, "macropinocytosis": 2, "cross-linking": 2, "degradation": 1}
+{"biochemical": 1, "glucose metabolism": 1, "protein production": 1, "secretion": 1}
+{}
+{}
+{"4'-bromo-2'-methoxy-n-isopropyl phenylethanolamine": 1, "4'-chloro-": 1, "4'-methyl analogues": 1, "4'-methoxy-n-t-butyl phenylethanolamine": 1}
+{"insulin": 1, "insulin-like growth factor-i": 1, "leptin": 1, "angiogenesis": 1, "transcriptional factors": 1}
+{"oxidative stress": 1}
+{"ficoll-hypaque density separation": 1}
+{}
+{"oxidative stress": 1}
+{"basic": 1}
+{}
+{"bmp4": 1, "gene": 2}
+{"crosslink": 1, "epsilon(gamma-glutamyl) lysine bridges": 1}
+{"crystal structures": 2, "high-resolution": 1}
+{}
+{"kinase": 3, "phosphatase": 4, "phosphorylation": 2, "autophosphorylation": 1}
+{"reactive oxygen species": 1, "ros": 3, "isoprostane": 1}
+{"ampk": 8}
+{}
+{}
+{}
+{}
+{"ion channel": 2, "cation": 2, "electrophysiological": 1, "d enantiomer": 1, "l enantiomer": 1, "rate constants": 1, "binding": 1, "unbinding": 1, "association": 1, "dissociation": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"next-generation sequencing": 1, "reverse-transcriptase-polymerase-chain-reaction assays": 1}
+{}
+{"inulin": 1, "horse radish peroxidase": 1, "polyethyleneimine": 1}
+{}
+{"fission": 4}
+{}
+{"c-reactive protein": 1, "fibrinogen": 1, "hemoglobin": 1}
+{"peptides": 5, "furin recognition site": 1, "residues": 1}
+{}
+{"dual-energy x-ray absorptiometry": 1, "doubly labeled water": 1}
+{}
+{"monovalent cations": 1}
+{"oxidative stress": 3, "reactive oxygen species": 1}
+{}
+{"magnetic resonance imaging (mri)": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{"nitrosative stress": 1}
+{"structural": 2, "mechanistic": 1, "phospholipid": 1, "x-ray": 1, "complex": 1, "domain": 1, "pocket": 3, "mutational": 1, "extraction": 2}
+{"redox": 1, "reactive oxygen species": 2, "ros": 3, "hydrogen peroxide": 2, "chemoattractants": 2}
+{}
+{"nad": 2, "sir2": 2, "npt1": 1, "nicotinamide adenine dinucleotide": 1, "oxidized": 1, "oxygen": 1, "reactive oxygen species": 1}
+{"oxidative": 1}
+{}
+{}
+{}
+{"1,25-dihydroxyvitamin d": 1, "alkaline phosphatase": 1}
+{}
+{}
+{"carbon-14": 2, "6-cyclohexyl-1-hydroxy-4-methyl-2(1h)-pyridone": 1, "2-aminoethanol salt": 1, "histoautoradiography": 1}
+{"microbiological": 1}
+{}
+{"laminin": 4}
+{}
+{}
+{}
+{}
+{}
+{}
+{"acridine": 2, "triazole": 2, "click chemistry": 1, "fret-based": 1, "melting": 1, "alkyl-amino": 1}
+{}
+{}
+{"atp": 2, "hydrolysis": 1}
+{"nad(+)": 2, "nadh/nad(+) ratios": 1, "nadh oxidation": 1, "proton motive force": 1}
+{"proteins": 4, "lipids": 4, "carbohydrates": 4, "acyl": 5, "elisa": 1}
+{"hydrogen sulfide": 3, "h(2)s": 4, "naHS": 4, "nitric oxide": 3}
+{}
+{"metabolic": 2, "pathways": 1}
+{}
+{"nmda receptors": 3, "n-methyl d-aspartate": 1, "glutamate receptor": 1, "tyrosine kinase": 1, "phosphorylation": 1}
+{}
+{}
+{}
+{}
+{}
+{"redox": 1}
+{}
+{}
+{}
+{"signaling cascades": 1, "stat3": 3, "shp2": 3, "gp130": 7}
+{}
+{"heat shock protein 90": 3, "hsp90": 2}
+{}
+{"molecules": 3, "cocktail": 1}
+{"atp synthesis": 1}
+{"oxidative stress": 1}
+{"membranes": 1, "morphological": 1, "degradation": 1}
+{}
+{"dilbecco's modified eagle's minimal essential medium": 1, "co2": 1, "basement membrane": 1}
+{}
+{}
+{}
+{}
+{"deformation": 2, "hydrodynamic": 1, "neo-hookean": 1, "evans-skalak": 1, "asymptotic": 1}
+{}
+{}
+{}
+{}
+{"cation-selective ion channels": 1, "permeation": 1, "signaling pathways": 1}
+{}
+{"nitric oxide": 2, "phosphorylation": 2, "degradation": 2}
+{}
+{"growth factors": 1, "insulin-like growth factor 2": 1}
+{"activator": 1, "small molecule": 1, "pyrazole-pyridine": 1, "derivative": 1}
+{"magnesium sulphate": 6}
+{"mass spectrometry": 1, "sirtuin": 1}
+{"catalyzes": 1}
+{}
+{}
+{}
+{"red cell volume": 1, "mean corpuscular volume": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"biochemical": 1}
+{"cholesterol": 5, "chemical analysis": 1, "computed tomography": 1, "cholesterol saturation index": 1, "cholesterol microcrystal nucleation times": 1, "calcium": 1}
+{}
+{}
+{"atp-dependent": 2, "catalyzes": 1}
+{}
+{}
+{"catalyzing": 1, "methylation": 2, "monomethylation": 1, "kinetic": 2}
+{}
+{}
+{"fermentation": 2, "glucose": 1, "glycerol": 1, "ammonia": 1, "ph": 1, "oxygen": 1}
+{"phosphorylation": 3, "molecular": 2, "complex": 3}
+{}
+{}
+{}
+{"channels": 3}
+{}
+{}
+{}
+{"caspase": 5, "adenovirus": 1, "cytoplasm": 1}
+{"systolic blood pressure": 2, "body mass index": 1, "total cholesterol": 1, "high density lipoprotein cholesterol": 1}
+{}
+{"lipopolysaccharide": 1, "palmitate": 2}
+{}
+{}
+{}
+{"signalling pathways": 3, "cytoskeletal organization": 1, "plasma membrane": 1}
+{}
+{"electron microscopy": 1}
+{}
+{}
+{}
+{}
+{"oxidative stress": 3, "aerobic glycolysis": 1, "lactate": 1, "ketones": 1, "glutamine": 1, "glutaminolysis": 1, "oxidative mitochondrial metabolism": 1}
+{"oxidative stress": 4, "oxidant": 2, "antioxidant": 1}
+{"lard": 1, "lipid": 1}
+{}
+{}
+{}
+{}
+{"atp": 1, "membrane": 2, "protein": 1}
+{}
+{"transforming growth factor beta": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"hplc": 1, "sequestrene": 2}
+{"crystal structure": 2, "selenium": 1, "adp": 2, "atp": 3, "atpase": 2, "hydrolysis": 1, "diffraction": 1}
+{"monoclonal antibody": 3, "cytotoxicity": 2}
+{"pcr": 1}
+{"silver": 2}
+{}
+{}
+{}
+{"ll37": 1, "hmgb1": 1}
+{}
+{"glyoxal bis(2-hydroxyanil)": 2, "ethanol": 3, "naoh": 3, "calcium salts": 3, "kcn": 1, "na2co3": 1}
+{}
+{}
+{}
+{}
+{"chemical": 1}
+{"proteins": 1, "enzymes": 1, "oxidizing": 1}
+{"oxidative stress": 2, "protein carbonyls": 1, "h(2)o(2)": 2, "oxidized proteins": 1}
+{}
+{}
+{}
+{"nitric oxide": 2, "oxidative stress": 1}
+{"dctp": 1, "datp": 1, "dgtp": 1, "dttp": 1}
+{}
+{}
+{"proteasome": 3, "proteasomal": 1}
+{"enzyme": 1, "dimethylates": 1}
+{}
+{"bis-2-(5-phenylacetamido-1,3,4-thiadiazol-2-yl)ethyl sulfide": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"ion channel": 2}
+{"oxidative damage": 2}
+{"protease": 2, "metalloenzymes": 1, "matrix metalloproteinases": 1, "membrane-anchored": 1, "reversible disassembly": 1}
+{}
+{}
+{"dimethyl sulfoxide": 1}
+{}
+{}
+{}
+{"molecular": 1, "chromosomal": 2, "chromosomal rearrangements": 1, "aberrations": 1, "trimethylation": 1}
+{"pcr": 3, "polymerase chain reaction": 1, "real time pcr": 1}
+{}
+{"mitochondrial membrane potential": 1}
+{"molecules": 1, "chromatin modification": 1}
+{"erk": 6, "mek": 2, "tyrosine phosphatase": 2, "orthovanadate": 1, "vanadate": 1}
+{}
+{}
+{}
+{"elastase": 2, "elastases": 1, "elastolytic": 1}
+{"cation": 3, "calcium": 2, "phosphatidylinositol 3,5-bisphosphate": 1, "nicotinic acid adenine dinucleotide phosphate": 1}
+{}
+{"thrombin": 1, "prothrombin": 1}
+{}
+{"atp": 2}
+{}
+{}
+{"total cholesterol": 1}
+{"modifications": 1}
+{}
+{}
+{}
+{"deacetylase": 3, "oxidative stress": 2}
+{"glycolysis": 2}
+{}
+{}
+{}
+{"redox": 2, "oxidation": 1}
+{}
+{}
+{"enzyme": 2, "rna editing": 2, "nuclear localized enzyme": 1, "fluorescent in situ hybridization": 1}
+{}
+{}
+{"zinc-finger polypeptide": 1, "cis element": 1}
+{"chemical cleavage": 1}
+{"no": 6, "sno-hb": 4, "lmw-snos": 1, "hmw-snos": 1}
+{}
+{}
+{}
+{"nickel": 2, "metallocenter": 2, "biosynthesis": 1, "gel filtration chromatography": 1, "sodium dodecyl sulfate-polyacrylamide gel electrophoresis": 1, "atomic absorption analysis": 1}
+{}
+{"immunohistochemistry": 2, "f-actin": 1, "apkc-\u03bb": 1, "par3": 1, "vimentin": 1}
+{}
+{}
+{}
+{}
+{"tgf-beta": 2, "ccl20": 2}
+{"non-esterified": 2, "unsaturated": 2, "ni2+ ions": 1}
+{"rhotpase activating protein": 1, "rhogap": 1, "steroidogenic acute regulatory": 1, "star": 1, "lipid transfer": 1, "start domain": 1, "focal adhesion": 2, "src homology 2": 1, "sh2": 1, "phosphotyrosine-independent": 1}
+{"luciferase": 1, "polymerase chain reaction": 1, "immunoblotting": 1, "immunohistochemistry": 1, "silver": 1, "cag pathogenicity island": 1, "c-abl tyrosine kinase": 1}
+{}
+{}
+{"proteins": 1}
+{}
+{}
+{"phosphatidylinositol 3-kinase": 1}
+{}
+{}
+{"26-hydroxylase activity": 1, "catabolism": 1, "conversion": 1, "degradation": 1}
+{"covalent": 1, "proteins": 1, "lipids": 1, "fibronectin": 1}
+{}
+{}
+{"signaling": 3, "pathways": 1, "membrane": 1, "raft": 1, "axis": 1}
+{"osmolality": 2, "oxygen": 1}
+{}
+{"covalently": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"catalyze": 1, "proton leak": 1, "adenosine triphosphate": 1, "catalytic": 1, "hydrolytic activity": 1}
+{}
+{}
+{}
+{"biochemical": 1, "zinc-finger": 2, "phd-type": 2}
+{"acetyltransferase": 2, "acetylation": 3, "methylation": 2}
+{"phosphatase": 2, "kinase": 1, "pp2a": 2, "b55\u03b1": 2, "b55\u03b4": 2, "cdk1": 2, "mastl": 2, "greatwall": 1}
+{"molecular": 1, "metabolite levels": 1}
+{"reaction conditions": 1, "reaction intermediates": 1, "kinetics": 1}
+{}
+{"uv light": 1, "uv irradiation": 2}
+{"sepharose": 3, "microtubules": 2, "microtubule": 1, "mt": 2, "rangtp": 2}
+{}
+{"methane": 5}
+{"salmonella": 1, "campylobacter": 1, "rotavirus": 1, "small round structured viruses": 1}
+{}
+{"nuclease": 2, "crystal structure": 1, "mutagenesis": 1, "nucleases": 1}
+{"trypsin": 1, "matrix-assisted laser desorption/ionisation time of flight": 1, "maldi-tof": 2, "derivatisation": 1}
+{"ion": 4, "channel": 5, "ionic": 1, "cation": 1}
+{}
+{}
+{}
+{"molecular": 1}
+{"molybdate": 1}
+{"oxysterol": 3, "oxysterols": 2, "cholesterol": 1, "7\u03b1,25-dihydroxycholesterol": 1, "7\u03b1,25-ohc": 3, "oxygenated": 1, "hydrophobic": 1}
+{}
+{"biochemical level": 1}
+{}
+{}
+{}
+{"alkaline phosphatase": 1}
+{"ca2+": 7, "insp3": 3, "signals": 3, "oscillations": 2, "diffusible": 1}
+{}
+{"biochemical analysis": 1}
+{}
+{"synthetic": 1, "combinatorial": 1}
+{}
+{"protein kinase r": 2, "phosphorylation": 2, "eukaryotic translation initiation factor eif2 alpha": 1, "protein": 3}
+{}
+{"receptor tyrosine kinase": 1}
+{"helix-loop-helix": 1}
+{"pcr": 3, "western blot": 1, "primers": 1}
+{}
+{}
+{}
+{"crystal structure": 2, "biochemical": 1, "cellular": 2, "redox metabolism": 1, "oxidative": 1, "oxidized": 1}
+{"ion channels": 1, "atp": 1}
+{}
+{}
+{}
+{"biochemical": 1}
+{"molecules": 1}
+{"zinc finger": 1, "dna-binding factor": 1}
+{"hydroxylation": 1, "carbon": 2}
+{"insecticide": 5, "insecticide-treated": 1}
+{}
+{"lipid-based nutrient supplement": 3, "folic acid": 1, "micronutrients": 2, "minerals": 1, "macronutrients": 1}
+{}
+{}
+{"atpase": 3, "phosphorylated": 1, "kinase": 1, "mg-atp": 1}
+{"chemical agents": 1}
+{"tyrosine kinase": 2, "leucine-rich": 1, "leucine": 2}
+{"heat shock protein 90": 4, "hsp90": 7, "oct4": 4, "nanog": 4, "ubiquitin proteasome pathway": 1}
+{"oxidized low density lipoprotein": 2, "ox-ldl": 5}
+{}
+{}
+{}
+{"hdl-cholesterol": 2, "ldl-c": 3, "triglyceride": 2, "tg": 3, "high-density lipoprotein-cholesterol": 1, "low-density lipoprotein-cholesterol": 1, "hdl-c": 5, "small, dense ldl particles": 1}
+{"hba1c": 5}
+{}
+{}
+{"metabolic": 1}
+{}
+{}
+{}
+{"lipid": 4, "vesicles": 5, "bilayers": 1, "phospholipid": 1, "water/membrane interface": 1}
+{}
+{"reverse transcriptase-polymerase chain reaction": 1, "rt-pcr": 1, "pico green": 2, "oligreen": 3, "fluorophores": 1, "reagent": 2, "lambda dna": 1}
+{}
+{}
+{}
+{"ionizing radiation": 1}
+{}
+{"phosphorylation": 3, "tyrosine-phosphorylated": 2, "serine/threonine-phosphorylated": 1}
+{"real-time reverse transcriptase polymerase chain reaction": 1, "rt-pcr": 1, "flow cytometry": 2}
+{"farnesyltransferase": 2, "farnesylated": 1}
+{"\u03b2-amyloid (a\u03b2)": 1, "glutamate": 1}
+{}
+{"crystal structure": 2, "ligand-gated": 1, "dimers": 1}
+{"methylation": 1}
+{"fluorescence-activated cell sorting": 1, "facs": 1}
+{}
+{}
+{}
+{"electrophoresis": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"plasma": 2}
+{}
+{"nanotechnologies": 4, "magnetic nanoparticles": 1, "quantum dots": 1, "nanoparticles": 1, "carbon nanotubes": 1, "polyplexes": 1, "engineered nanometer-scale scaffolds": 1}
+{}
+{"cdna microarray": 2, "reverse transcriptase-polymerase chain reaction": 1, "rt-pcr": 1, "hierarchical clustering analysis": 2}
+{}
+{}
+{"catalyze": 1, "chromatin condensation": 1}
+{}
+{"isoprenylcysteine carboxyl methyltransferase": 1, "icmt": 1, "pccmt": 1}
+{}
+{"plasma": 4, "creatinine": 2, "serum": 1}
+{"chemoreceptor": 2, "chemosensory": 1, "odorant": 1, "gustatory": 1}
+{"molecular targets": 1, "mutations": 1}
+{}
+{}
+{"anaphase promoting complex/cyclosome": 2, "ubiquitin ligase": 2, "catalyse": 1, "ubiquitylation": 1}
+{"alkaline phosphatase": 3, "amino acid": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"relative light unit": 2, "rlu": 5, "kappa statistics": 1, "bootstrapping": 1, "freeze-thaw cycles": 1}
+{}
+{"adhesion": 3, "forces": 2, "tension": 1, "mechanical": 1, "filaments": 1, "septin": 1, "anillin": 1}
+{"epithelial": 2, "channel": 5, "k+": 5, "pore": 2, "methionine": 1, "arginine": 2, "ba2+": 1, "cations": 1}
+{"gadolinium-enhanced": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"amp-activated protein kinase \u03b12": 2, "map kinase phosphatase-1": 1, "p38 mitogen-activated protein kinase": 1, "c-jun n-terminal kinase": 1, "protein kinase b": 1}
+{}
+{"acetic acid": 1}
+{"n,n\u2032-dimethyl 4,4\u2032-bipyridilium": 1}
+{}
+{}
+{}
+{"cellulose acetate": 1, "citrate agar": 1, "urea-mercaptoethanol buffers": 1}
+{"chemically": 1}
+{}
+{}
+{}
+{}
+{"phosphorylation": 1, "dephosphorylation": 1}
+{"octanoyl": 1, "ghrelin o-acyltransferase": 1, "signaling pathway": 1}
+{"acetylation": 3, "deacetylation": 2, "enzymes": 1}
+{"proteases": 1}
+{"iodine-123": 1}
+{}
+{"maltose": 7, "maltase": 4, "alpha-glucosidase": 1, "maltose permease": 2, "glucose": 1}
+{}
+{"pi3 kinase": 3, "pi3k": 3, "pten": 2, "pik3ca": 4, "stmn1": 2}
+{}
+{}
+{"psa": 3}
+{"de bruijn graphs": 1}
+{"serum-depleted media": 1}
+{}
+{}
+{"luciferase": 2, "glycosylated": 1, "unglycosylated": 1}
+{"lead": 10, "citrate": 3, "ph": 2, "electron": 3, "stain": 5, "solutions": 3, "salts": 1, "hydroxide": 3, "carbonate": 1, "tartrate": 1, "chelate": 2, "association constant": 1, "ligand": 1, "ion": 1, "cation": 1}
+{"amylase": 4, "lipase": 4, "serum lipase": 2, "serum amylase": 2}
+{}
+{"molecular regulation": 1}
+{}
+{"oxidative stress": 4, "signalling pathways": 1}
+{}
+{"lipid anchor": 1, "transmembrane domain": 1}
+{}
+{}
+{"carbon": 2, "energy": 1, "threonine dehydrogenase": 1, "aminoketobutyric acid ligase": 2, "sephadex g100": 1}
+{"s-nitrosylation": 2, "nitric oxide": 3, "s-nitrosylates": 1, "soluble": 1, "guanylyl cyclase": 1}
+{"metabolism": 2, "glycolysis": 1}
+{"quorum sensing": 3, "molecules": 2, "extracellular": 1}
+{"phosphorylation": 2, "catalytically inactive kinase": 1}
+{"ubiquitination": 2, "degradation": 3, "phosphorylation": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"lipid-permeable": 1, "high-affinity": 1}
+{"homocysteine": 4, "creatinine clearance": 1}
+{}
+{}
+{"conformational changes": 4, "complexes": 1, "rearrangements": 1}
+{"class iii pi3k": 2, "pik3c3": 1, "molecular": 1}
+{}
+{}
+{}
+{}
+{"oxidized": 2, "ldl": 4, "native ldl": 1, "modified ldl": 1}
+{"glycogen synthase kinase 3": 1}
+{}
+{}
+{}
+{}
+{"trimethylamine n-oxide": 2, "tmao": 6, "trimethylamine": 1, "tma": 2, "choline": 3}
+{"mass spectrometric": 1, "acetylated": 1}
+{}
+{}
+{}
+{"hedgehog": 3, "gli3": 3, "gli1": 2, "ptch": 1, "shh": 1}
+{}
+{"lipid": 3}
+{}
+{"hydrogen peroxide": 1}
+{}
+{"enzyme": 1, "buffer": 1, "adsorption": 1, "protein precipitation": 1, "polyethylene glycol": 1}
+{"mutation": 1, "base-pair": 1, "binding": 2, "assays": 1}
+{"oxidation": 3, "phosphorylation": 4, "hydrogen peroxide": 1, "h2o2": 1, "disulfide": 2, "oxidized": 2}
+{"glycosaminoglycan": 1, "collagenase": 1, "5-lipoxygenase": 1, "5-lipoxygenase-activating protein": 1}
+{}
+{}
+{}
+{"polyanions": 2, "divalent cations": 1, "heparin": 2, "mncl(2)": 2, "mgcl(2)": 2, "sucrose": 1, "dextran sulfate": 1, "sodium phosphotungstate": 1}
+{}
+{"hydrogels": 3}
+{}
+{}
+{}
+{}
+{}
+{"stoichiometries": 1}
+{"serum": 4, "corin": 5, "natriuretic peptides": 1}
+{}
+{"lipid": 1, "protein phosphatase": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"protease": 5, "metalloprotease": 2, "biochemical": 1, "structural": 1, "ubiquitin": 1, "autocatalytic": 1}
+{}
+{}
+{}
+{"reactive oxygen species": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"large unilamellar vesicles": 2, "luvs": 3, "solvent": 1, "polyanionic dye": 1, "ants": 2, "8-aminonaphthalene-1,3,6-trisulfonic acid": 1, "cationic quencher": 1, "dpx": 2, "p-xylene-bis-pyridinium bromide": 1, "fluorescence": 1}
+{"ccl4": 1}
+{"lipopolysaccharide": 2, "k(+)": 1}
+{}
+{}
+{"2-thiouridine": 2, "5-methoxycarbonylmethyl": 1, "2-thiocytidine": 1, "thiolate": 1}
+{}
+{}
+{}
+{}
+{"choline": 5, "nutrient": 2, "methyl": 1, "biochemical": 1, "plasma": 1, "hepatic": 1}
+{}
+{}
+{"granule toxins": 1}
+{"fatty acid": 4, "arachidonic acid": 3, "docosahexaenoic acid": 3, "plasma": 2}
+{"polymerization": 2, "catalyzing": 1}
+{}
+{"biochemical": 1, "caax carboxyl methyltransferase icmt": 1, "caax endoprotease rce1": 1}
+{}
+{}
+{"adenylyl cyclase": 8, "reverse transcription-polymerase chain reaction": 1, "degenerate primers": 1, "mg2+": 1, "ca2+/calmodulin": 1}
+{}
+{}
+{"mineralized": 1, "mineralization": 2, "beta-glycerophosphate": 1}
+{}
+{}
+{}
+{"crocidolite asbestos": 2, "fibers": 5, "cytokinesis": 3, "cleavage furrow": 1, "intercellular bridge": 1}
+{"molecular": 2, "proteins": 1, "ligands": 2, "signaling": 3, "pathway": 1}
+{}
+{}
+{"pi3p": 1, "calmodulin": 1, "signaling": 1, "analogs": 1}
+{}
+{}
+{}
+{}
+{}
+{"metal binding": 2}
+{}
+{}
+{}
+{}
+{"proteolytic end-products": 1, "substratum": 1}
+{}
+{"nad+": 8, "concentration": 3, "biosynthesis": 2, "salvage pathways": 3, "precursor": 1, "byproduct": 1, "isostere": 1, "flux": 1}
+{"phospholipase c": 1, "protein kinase c": 1, "calcineurin": 1, "p38 map kinase": 1, "mek1": 1}
+{}
+{}
+{}
+{}
+{"parvalbumin": 2, "calbindin-d28k": 2, "calretinin": 2}
+{}
+{"hydrophobic": 2, "basic residues": 1, "salt bridges": 1}
+{}
+{"reactive oxygen species": 1, "aerobic glycolysis": 1, "ribonucleotide triphosphates": 1, "atp": 2, "amp": 2}
+{"n-formylated": 1, "nonformylated": 1, "deformylases": 1}
+{}
+{}
+{"calcium": 1, "phosphatidylinositol 3,4-bisphosphate": 1}
+{"oligomerization": 2, "nucleic acid-binding": 2, "transactivation": 5, "dna-binding": 1, "structural domain": 2, "conserved domains": 2}
+{}
+{}
+{}
+{"nicotinic acid adenine dinucleotide 2'-phosphate": 1, "naadp": 10, "ryanodine": 1, "trp-ml1": 1, "nadp": 3, "[32p]-5-azido-naadp": 1, "[32p]-5-n3-naadp": 1, "photolabeling": 3, "unlabeled": 2, "structurally similar": 1, "two-dimensional": 2}
+{}
+{}
+{"hyperthermia": 2, "perfusion": 2}
+{"methane": 2, "methanol": 2, "hydrogen": 3, "carbon dioxide": 2, "formate": 1, "acetate": 2, "methylamines": 1, "carbon monoxide": 1, "nitrate": 1, "fumarate": 1, "sulfate": 1, "choline": 1, "isoleucine": 1, "ammonium": 1, "thiamin": 1, "biotin": 1, "cytochromes": 1, "g+c": 1}
+{}
+{"dmem/f12 medium": 1}
+{"oxidation": 3, "myeloperoxidase": 3, "mpo": 3, "nadph oxidase": 2, "nitric oxide": 1, "electron donors": 1, "heme peroxidases": 1, "rate constants": 1, "compound i": 1, "compound ii": 1, "enzyme": 1}
+{}
+{"tyrosine phosphorylation": 5, "serine": 1, "threonine": 1, "tyrosine 876": 3, "c terminus": 2}
+{"mitochondrial": 1, "fatty acid oxidation": 1, "malonyl-coa": 2, "carnitine palmitoyltransferase-1": 2, "\u03b2-oxidation": 3, "palmitoyl-coenzyme a (coa)": 1, "acetyl-carnitine": 1, "acylcarnitines": 1, "cardiolipin": 1, "palmitate": 1, "palmitoyl-coa": 2}
+{}
+{"hedgehog": 2, "transforming growth factor-\u03b2": 2}
+{}
+{"oxidants": 2, "reduction": 1, "conjugation": 1, "electrophiles": 2}
+{}
+{}
+{}
+{"granule proteins": 1, "fibres": 1}
+{}
+{"iron": 1, "zinc": 1, "vitamin b6": 1, "nutrients": 2}
+{}
+{"proteases": 3, "acidic": 3, "lysosomal": 3, "cysteine proteases": 2, "cathepsins b": 1, "cathepsins l": 1, "aspartic protease": 1, "cathepsin d": 1, "acidotropic agents": 1, "metabolic labeling": 1, "immunoprecipitation": 1, "immunoblot": 1, "immunohistochemical analyses": 1}
+{}
+{}
+{"src": 1, "egfr": 1}
+{"2,4,6-trinitrophenol": 2, "trinitrobenzenesulphonic acid": 1}
+{"nickel": 2, "metallocenter": 2, "bicarbonate": 1, "ions": 1}
+{}
+{}
+{}
+{"oncogenic": 3, "mitogen-activated protein kinase": 1, "mapk pathway": 1}
+{"beta1 integrin": 2, "pp125fak": 1, "paxillin": 1, "vinculin": 2, "tyrosine phosphorylated proteins": 1, "phosphotyrosine": 1}
+{}
+{}
+{"biochemically": 1}
+{"d-(6-3h)glucose": 1, "d-[u-14c]glucose": 1, "isotope": 1}
+{"mineralized tissue": 1}
+{"southern blot analysis": 1}
+{"calcium": 1, "ca(2+)": 9, "sarco-/er calcium atpase": 1, "serca": 1, "n-ethylmaleimide-sensitive": 1, "nsf": 1, "syntaxin5": 1}
+{"wedelolactone": 5, "coumestan": 2, "5-lipoxygenase": 1, "topoisomerase ii\u03b1": 1, "phytoestrogen": 1}
+{}
+{"mass spectra": 1, "post-translational processing": 1}
+{"phosphorylation": 8, "calcium": 1, "ser": 3, "thr": 2, "ser360": 1, "thr365": 1, "ser370": 1, "thr377": 1, "c-terminal": 3, "autophosphorylation": 1}
+{"transforming growth factor (tgf)-\u03b2": 1, "thrombospondin-1": 1, "programmed cell death 1 ligand 1 (pd-l1/b7-h1)": 1, "cytotoxic t lymphocyte-associated antigen 2\u03b1": 1}
+{}
+{"crystal structure": 2, "catalytic mechanism": 1}
+{}
+{}
+{"sequencing": 1, "kinetics": 1}
+{}
+{"formaldehyde cross-linking": 1}
+{}
+{}
+{"alkaline phosphatase": 2}
+{"glucose": 3, "lactate": 6, "carbon": 1, "18fluorodeoxyglucose": 1, "13c-lactate": 1}
+{"lipid peroxidation": 2, "methionine": 4, "thiobarbituric acid reactive substances": 1, "superoxide dismutase": 2, "catalase": 2, "glutathione peroxidase": 2}
+{}
+{}
+{}
+{"fluorescein": 5, "icg": 5, "angiography": 4, "indocyanine green": 1, "hyperfluorescence": 2}
+{}
+{}
+{"transforming growth factor-\u03b2 signaling": 1}
+{}
+{"reactive oxygen species": 3, "oxidative phosphorylation": 1, "ros": 3, "redox": 1}
+{"catalytic": 1, "endonuclease": 1, "catalysis": 1, "phosphodiester bonds": 1}
+{}
+{}
+{"amino acids": 1}
+{}
+{}
+{}
+{"chromatography": 3, "affinity chromatography": 2, "metal chelate": 2}
+{"polyphenols": 1, "epicatechin": 4, "procyanidins": 2, "flavanols": 2, "epigallocatechin gallate": 1, "epicatechin gallate": 1, "15-lipoxygenase": 2, "15-hydroxyeicosatetraenoic acid": 1, "arachidonic acid": 1, "lipoxygenase": 3, "12-lipoxygenase": 1}
+{}
+{}
+{"serum soluble corin": 9}
+{}
+{"complex": 2, "cascade": 1, "subunit": 2}
+{}
+{"chaperone": 3, "hsp70": 2, "hsp90": 3, "hop": 5}
+{}
+{"\u03b1-ketoglutarate": 1, "fe(ii)": 1}
+{}
+{}
+{"oxidation": 2}
+{}
+{}
+{}
+{"melatonin": 6, "retinoic acid-related orphan receptor": 2, "retinoic acid-related orphan receptor alpha": 2, "ror\u03b1": 6, "ligand": 1, "nuclear signalling": 1, "molecular switch": 1}
+{}
+{"trehalose": 7, "concentration": 3, "extender": 3}
+{}
+{}
+{"atp hydrolysis": 1, "mgcl(2)": 1}
+{"dimercaptosuccinic acid": 1, "myeloperoxidase": 2, "malondialdehyde": 2, "sulfhydryl": 1, "total nitrite": 2, "lipid peroxidation": 1, "oxidative protein damage": 1, "antioxidant": 1, "oxidative stress": 1}
+{"oxidative phosphorylation": 2, "atp": 1, "holoenzyme": 2, "complexes": 4, "bioenergetic": 1, "biogenesis": 1}
+{}
+{}
+{"biophysical": 1}
+{}
+{}
+{"aluminum silicate": 1}
+{}
+{}
+{}
+{}
+{}
+{"proton magnetic resonance spectroscopy": 1, "magnetic resonance imaging": 1, "n-acetylaspartate": 2, "choline-containing metabolites": 1, "membrane metabolism": 1}
+{}
+{"metabolic": 1, "energetic": 2}
+{}
+{"fluorescent": 1}
+{"biochemical": 1}
+{"angstrom": 1, "crystal structure": 1, "beta-barrel": 1, "ph": 2}
+{"peptide": 1, "non-peptide": 1}
+{}
+{}
+{"catalytic subunit": 1, "glucose": 1}
+{}
+{}
+{"electrolytes": 1, "bone minerals": 1, "acid-base parameters": 1}
+{}
+{"nickel": 1, "metallocenter": 1, "chromatography": 1, "electrophoretic": 1}
+{}
+{"kinetics": 1}
+{"iodine-131": 2, "iodine-124": 1, "124i": 1, "131i": 1}
+{"serum soluble corin": 8}
+{"antioxidants": 2, "lipid peroxidation": 2, "cytochrome c": 1, "nadph": 1, "concentration dependent": 1}
+{"ca2+": 12, "chemical gradients": 1, "electrical gradients": 1}
+{}
+{"molecular interplay": 2, "methylated": 1, "structure-guided analysis": 1}
+{}
+{"bile acid": 3, "lipotoxicity": 2, "lipidomics": 1, "diacylglycerols": 1, "ceramides": 1, "free cholesterol": 1, "cardiolipins": 1, "unoxidized cardiolipins": 1}
+{"lipid metabolism": 1, "fatty acid \u03b2-oxidation": 1, "phosphorylation": 1, "adenosine monophosphate-activated protein kinase": 1}
+{"chemical": 2, "vibrational modes": 1, "species": 1}
+{"amyloid": 1}
+{"acidic": 1, "hydrolytically": 1, "ph": 3, "proteolysis": 1, "lipolysis": 1, "beta-galactosidase activity": 1}
+{}
+{}
+{"repair": 7, "checkpoint": 4, "protein": 1, "kinase": 1, "phosphatase": 1, "signal transduction": 1}
+{"phosphoinositide": 2, "phosphorylation": 3, "phospholipase": 2, "protein kinase c": 1, "phosphoinositide 3-kinase": 1}
+{}
+{}
+{}
+{"interstrand cross-linking": 1}
+{}
+{"ionic": 3, "interaction": 3, "charge": 1, "acidic": 2, "microdomains": 1, "sequences": 1, "ca(2+)": 1, "mechanisms": 1}
+{"reverse transcription-pcr": 1, "western blotting": 1, "flow cytometry": 1}
+{}
+{}
+{}
+{"fructose": 8, "fructose 1-phosphate": 5, "p(i)": 4, "5-nucleotidase": 1, "amp deaminase": 1, "dephosphorylation": 1, "deamination": 1, "phosphorylated intermediates": 1, "k(i)": 1}
+{}
+{"molecular weight": 1, "conjugates": 2, "tertiary structure": 1}
+{}
+{}
+{}
+{}
+{"atp": 1, "catalytic": 1, "regulatory": 1, "energy": 3}
+{"plasma": 4, "vitamin d": 5, "25-hydroxyvitamin d": 1, "1,25-dihydroxyvitamin d": 1, "metabolites": 2}
+{"sphingosine-1-phosphate": 1}
+{"mitochondrial": 3, "oxidative stress": 1, "catabolic": 1, "cytotoxic": 2, "cytostatic": 1, "molecule": 1, "enzymes": 1, "exogenous": 1, "extracellular": 1}
+{}
+{}
+{"auxin": 2, "efflux": 1, "transport": 1, "distribution": 1}
+{"cocoa flavonols": 1, "procyanidins": 3, "flavan-3-ols": 1, "fp": 5, "monomers": 2, "decamers": 2, "monomer": 2, "dimer": 2, "tetramer": 1, "pentamer": 1, "hexamer": 1, "trimer": 1, "trimeric": 1, "decameric": 1}
+{"bmp receptor ia": 1, "bone morphogenetic proteins": 1, "bmps": 1, "bmp2": 2, "bmp4": 2, "bmpr1a": 2, "bmp signaling": 1}
+{"oxygenation": 2, "oxygen": 4, "alveolar\u2013arterial oxygen gradient": 2, "pa_o2": 3, "pa_co2": 1}
+{}
+{}
+{"proteasome": 3, "proteasome inhibitors": 1, "serine/threonine phosphatase inhibitors": 1, "serine/threonine kinase inhibitors": 1, "oxidase": 2}
+{}
+{}
+{}
+{}
+{}
+{"nickel": 2, "disulfide bond": 1, "gtpase activity": 1, "alpha-helices": 1, "beta-strands": 1}
+{"peptide": 1}
+{"cyclic amp": 2, "protein": 3, "phosphorylating": 2, "tyrosine hydroxylase": 3, "enzyme": 3, "ph": 6, "tetrahydrobiopterin": 1, "bh4": 1, "vmax": 1, "km": 2, "pterin": 2, "cofactor": 2, "sephadex": 1}
+{}
+{}
+{}
+{}
+{"serum chemistry": 1}
+{}
+{"phosphatase": 1}
+{"nitric oxide": 2}
+{}
+{}
+{}
+{}
+{"mRNA": 1, "isoforms": 1}
+{"free radicals": 5, "antioxidants": 3, "lipid peroxidation": 2, "alpha-tocopherol": 1, "ascorbate": 1, "thermodynamic properties": 2, "oxidizing": 1, "reducing": 1, "one-electron reduction potentials": 1, "electron transfer reactions": 2, "hydrogen atom": 2, "vitamin e": 4, "lipid soluble": 1, "vitamin c": 3, "water soluble": 1, "tocopheroxyl radical": 1, "chromanoxyl radical": 1, "chain-breaking antioxidant": 2, "thermodynamics": 2, "kinetic properties": 1, "tocopherol free radical": 1}
+{"glutamate": 1, "malate": 1, "octanoyl carnitine": 1, "succinate": 1, "adp": 1, "oxygen": 1, "oxidative phosphorylation": 1}
+{"gamma-h2ax": 3, "atm": 3, "chk2": 3, "phosphorylated": 1, "iododeoxyuridine": 1}
+{}
+{}
+{}
+{}
+{"molecular terms": 1, "phosphorylation": 2, "domains": 2, "linker region": 1, "pxsp sequences": 1}
+{}
+{}
+{}
+{}
+{}
+{"proteins": 3, "membrane": 2, "permeabilization": 1, "intermembrane space": 1}
+{"crystal structures": 1, "basic protrusion": 1, "phosphate-binding pocket": 1, "two-metal ion mechanism": 1, "positively charged": 1, "neutral to acidic": 1, "metal ions": 1}
+{}
+{}
+{"coumarin": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"chondroitin sulfate proteoglycan": 1}
+{}
+{"psd-95": 3, "tyrosine kinase": 1}
+{"transforming growth factor-\u03b2": 1}
+{"oxidation": 7, "antioxidant": 1}
+{}
+{"ubiquitin pathway": 1}
+{"sybr green": 1, "chemistry": 1}
+{}
+{}
+{}
+{}
+{}
+{"atomic": 2, "displacement": 4, "anisotropic": 3, "isotropic": 1, "translation": 1, "libration": 1, "screw-rotation": 1, "u values": 1, "fast fourier transform": 1, "asymmetric unit": 2, "ncs restraints": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"histidine kinase": 3, "kinase domain": 2}
+{"thiol-specific oxidant": 2, "oxidant": 1}
+{}
+{}
+{"zinc-finger": 3, "zinc fingers": 1}
+{}
+{}
+{}
+{}
+{"cyclic gmp-amp": 2, "cgas": 4, "catalyzed": 1, "synthesis": 1, "cyclic guanosine monophosphate-adenosine monophosphate": 1, "mass spectrometry": 1, "biochemical fractionation": 1}
+{}
+{}
+{}
+{}
+{}
+{"biochemically": 1}
+{"synthesis": 1, "molecular": 2, "probes": 1}
+{}
+{}
+{"hydroxyapatite crystals": 1, "triple-helical structure": 1}
+{"triglyceride": 2, "enzymes": 1, "phosphorylation": 1, "oxphos": 1, "leak": 1, "ets": 1, "substrates": 1, "cytochrome c": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"cortical tension": 1}
+{}
+{"complex": 3, "molecules": 1, "stoichiometric": 1}
+{}
+{}
+{"acetylation": 1, "methylation": 1}
+{}
+{"n-(4-hydroxyphenyl)arachidonylamide": 1}
+{"flavonoid": 1}
+{}
+{"fluorescence": 1}
+{}
+{"phosphorylation": 1, "g protein-coupled": 1, "cd11b": 1, "cd31/pecam-1": 1, "cd54/icam-1": 1, "ccr7": 2, "ccl19": 1}
+{"pi3k": 1, "pkb": 1}
+{}
+{}
+{}
+{}
+{"nuclear receptor": 5, "steroid/nuclear receptor": 4, "receptors": 5, "transcription factors": 1, "cytoplasm": 2, "nucleus": 3, "intranuclear": 1, "intranuclearly": 1, "intracellularly": 1, "translocation": 2, "distribution": 3, "receptor complexes": 1, "dna binding": 1}
+{}
+{"erk1/2": 1, "akt": 3}
+{"hydroxyl radicals": 1}
+{}
+{}
+{"crystal structures": 1, "hydrophobic": 1, "conformational changes": 1, "posttranslational modifications": 1}
+{"biochemical": 1, "pdz domain": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"hydroxylation": 3, "prolyl hydroxylase domain protein 3": 1, "phd3": 3, "pan-hydroxylase inhibitor": 1, "oxygen tension": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"nmr analysis": 1, "fluorescence anisotropy titrations": 1}
+{}
+{}
+{}
+{"human placental lactogen": 5, "unconjugated estriol": 2, "estriol": 3}
+{"antioxidant enzyme": 3, "northern blot hybridization": 1}
+{"cyclic nucleotide": 2, "phosphodiesterase": 3, "isozymes": 2, "cAMP": 2, "cGMP": 2, "pde activity": 2, "soluble fractions": 1, "particulate fractions": 1, "hydrolyzing activity": 2, "reverse-transcription pcr": 1, "primers": 1}
+{"carbon dioxide": 1}
+{"extracellularly": 1, "vesicles": 1}
+{}
+{}
+{"oxygen uptake": 1}
+{"proteasome": 3, "trypsin-like activity": 1}
+{"protoplasmic substratum": 1, "phosphorylation": 1, "disulfide reduction": 1, "calcium ion binding": 1}
+{}
+{"mutations": 3}
+{"herbicide": 1}
+{}
+{}
+{}
+{"phosphoinositide 3-kinase": 2, "phosphoinositide-dependent kinase": 1, "protein kinase b": 1, "target of rapamycin": 1, "pi3k": 3, "pi3ks": 2}
+{"chlortetracycline": 2, "fluorescence": 6, "fluorophore": 1}
+{}
+{}
+{}
+{"tetracyclines": 1, "penicillins": 1, "rifampin": 2}
+{"androgens": 1, "estrogens": 1, "steroid hormones": 1}
+{}
+{}
+{"methylation": 3, "demethylated": 1}
+{"dna": 3, "methylation": 3, "methylation analysis": 1, "methylation profile": 1, "dnmt1": 3, "miRNAs": 1, "miR-17-92 cluster": 2}
+{}
+{}
+{}
+{"folate": 4, "folate deficiency": 2}
+{}
+{}
+{"protein": 3, "pml nuclear bodies": 2, "promyelocytic leukemia protein": 1, "retinoblastoma (rb) proteins": 1, "protein phosphatase 1\u03b1": 1}
+{}
+{}
+{"oxidant": 1, "oxidation": 1, "oxidized": 1}
+{}
+{"western blot analysis": 1}
+{}
+{}
+{}
+{}
+{"solution": 1, "equilibrium": 2, "substrate": 1, "concentration": 1, "radiation damage": 1, "spherical harmonics": 1, "circular dichroism": 1}
+{"3-(1,1-dimethylheptyl)-(-)-11-hydroxy-delta 8-tetrahydrocannabinol": 1}
+{}
+{"zinc": 9}
+{"dmso": 3, "dimethyl sulfoxide": 1, "artificial csf": 2, "acsf": 3, "solubilization": 1}
+{"dodecameric": 1, "atpase": 3, "complex": 8, "biochemical": 2, "catalytic": 1, "hydrolysis": 2, "electron microscopy": 1, "three-dimensional": 1, "hexameric": 2, "c6 symmetry": 1}
+{}
+{}
+{"regulation": 3, "complex": 2, "mono-": 1, "di-": 1, "dimethylate": 1, "trimethylating": 1, "methylation": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"biochemical": 2, "proteinase k": 1, "electrophoretic mobility": 1, "protease": 2, "protease-resistant": 1, "protease-sensitive": 1}
+{}
+{}
+{"chemical": 2, "carcinogen": 1}
+{}
+{}
+{"zinc": 1}
+{}
+{}
+{}
+{"chromosome 14": 1, "del(14q)": 3, "del13q14": 1, "deltp53": 1, "delatm": 1, "del6q21": 1, "del(14)(q24.1q32.33)": 1}
+{"oxidative stress": 1, "black carbon": 2, "particulate matter": 1, "sulfate": 1}
+{}
+{"kinetics": 1, "dimethyl sulfoxide": 1, "carbon": 1}
+{"folate": 5, "enzyme": 1}
+{}
+{}
+{"small-molecule": 1, "molecular weight": 1}
+{}
+{"deubiquitylase": 2, "kinase": 1, "phosphatase": 1}
+{}
+{}
+{}
+{"phospholipid": 1, "inositol polyphosphate 5-phosphatase": 3, "phosphatidylinositol 3,4,5-trisphosphate": 3, "phosphatidylinositol 4,5-bisphosphate": 3, "detergents": 2, "n-octyl beta-glucopyranoside": 2, "triton x-100": 1, "cetyltriethylammonium bromide": 2, "d-3 phosphates": 1}
+{}
+{"sphingosine-1-phosphate": 1}
+{}
+{}
+{}
+{"gfp": 1, "egfp": 2}
+{"kinetic": 1, "analyses": 1, "motif": 1, "binding": 2, "domain": 5, "enzymes": 1, "catalysis": 1}
+{"calcium": 1, "glucose": 3, "free fatty acids": 2, "nitric oxide synthase": 1}
+{}
+{}
+{}
+{"biochemical": 1}
+{"hydrogen sulfide": 2, "nitric oxide": 3, "nitroxyl": 2, "calcium": 4, "fura-2": 1, "nahs": 3, "h(2)s": 2, "hno": 2, "thiol": 2}
+{"oxidant-dependent": 1, "oxidant-independent": 1, "proteolytic activity": 1, "lipase": 1}
+{}
+{}
+{"enzymatic": 1}
+{"solvents": 1, "extraction": 1, "soxhlet apparatus": 1, "disc diffusion": 1, "microdilution": 1, "polarity": 1}
+{}
+{}
+{"kelvin-voigt viscoelastic material": 1}
+{}
+{}
+{"biophysical": 1, "biochemical": 1}
+{}
+{}
+{}
+{"aldehyde dehydrogenase": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"oxidative": 1}
+{}
+{}
+{}
+{}
+{}
+{"beta-catenin": 4, "activin/nodal": 3, "bmp signaling": 3, "pi3-kinase/akt": 1, "mapk": 1}
+{"micro": 3, "concentration": 2, "cyclic nucleotide": 1}
+{"acetylation": 1}
+{"sterol delta 24-methylation": 1, "sterol delta 24-methyltransferase": 1, "trimethylammonium diphenylhexatriene": 1}
+{}
+{"ionising radiation": 1, "ultraviolet light": 1, "methyl methane sulfonate": 1, "phosphorylation": 1, "de-phosphorylation": 1, "acetylation": 1, "enzymes": 1}
+{"hydrogen sulphide": 2, "h(2)s": 3, "ph": 3, "p(i)": 3, "na(+)/h(+) exchanger": 1, "cl(-)/hco3- exchanger": 3, "cdcl(2)": 2, "nh(4)cl": 1, "dids": 2, "eipa": 2, "nahs": 4}
+{"polymeric nano/microspheres": 1, "hydrogels": 1}
+{}
+{}
+{"kinetics": 3, "fidelity": 2, "quantitative": 2, "rate constants": 1}
+{}
+{}
+{"phosphates": 2}
+{}
+{"oxidative stress": 2, "peroxidation": 1, "arachidonic acid": 1, "biochemical": 1, "redox-sensitive": 1}
+{}
+{"ms": 2, "ms/ms": 1, "mass spectra": 1}
+{"cross-linked": 3, "monoclonal antibodies": 1, "antibodies": 1, "antiserum": 1, "kinetic": 1, "anion-exchange": 1, "gel-filtration chromatography": 1, "detergent": 1}
+{}
+{}
+{"lipopolysaccharide": 2}
+{}
+{"calcium": 15, "vitamin d": 1}
+{}
+{}
+{}
+{}
+{"redox": 4, "reactive oxygen species": 2, "ros": 4, "cysteine-based redox-modifications": 1, "disulfide-bridge": 1, "disulfide bridges": 1, "thiol-based intramolecular cross-linkages": 1}
+{}
+{}
+{"electron microscopies": 1, "viral particles": 1, "epstein-barr viral nuclear antigen (ebna)": 1, "ebv": 1}
+{"lipid": 2, "oxygen": 2, "reactive oxygen species (ros)": 1, "h(2)o(2)": 1, "pyruvate/malate": 1, "glutamate/malate": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"nmr spectroscopy": 1, "secondary structure": 1, "fold": 2}
+{}
+{}
+{}
+{}
+{"lipogenic": 2, "thermogenesis": 1}
+{"glutamate": 3}
+{"lipids": 1, "physicochemical": 1}
+{"sodium dodecyl sulfate": 2}
+{}
+{}
+{}
+{}
+{"biochemical": 1}
+{"plasma": 2, "cerebrospinal fluid": 2}
+{}
+{"carbon dioxide": 2}
+{"eicosanoid": 1}
+{"probes": 2, "reagents": 1, "transcripts": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"aldehyde dehydrogenase": 2, "aldh": 1}
+{"chemiluminescence-elisa": 1, "cl-elisa": 1, "elisa": 2, "ha": 1}
+{}
+{"\u03c9-3 epoxygenation": 2, "oxygenated metabolites": 1, "chemically synthesized": 1}
+{}
+{"kinases": 1, "cdk1": 1, "cdk2": 1, "kinase-dependent": 1, "kinase-independent": 1}
+{}
+{}
+{}
+{"sequencing": 2, "pcr": 2}
+{}
+{"sedimentation": 3, "velocity": 1, "mass": 1, "complex": 1}
+{}
+{}
+{"phosphotungstic acid": 1, "carbon": 1}
+{"cholesterol": 5, "synthesis": 3, "biosynthesis": 2, "mevalonate": 1, "acetate": 1}
+{}
+{"serum amyloid p component": 2, "amyloid fibril deposits": 1, "nonfibrillar": 1, "transient elastography": 1, "sap scintigraphy": 1, "magnetic resonance imaging": 1}
+{}
+{}
+{"plasma": 4, "nitrogen oxide": 3, "nitric oxide": 2, "nitrate": 3, "nitrite": 3, "endothelium-dependent vasodilator": 1, "bioactivity": 1, "metabolism": 1}
+{"superoxide": 3, "manganese": 1, "iron": 1, "hydrogen peroxide": 1, "oxygen": 2}
+{}
+{}
+{}
+{"amino acid": 2, "d,l-alpha-amino-3-hydroxy-5-methyl-isoxazole propionic acid": 1, "n-methyl-d-aspartic acid": 1}
+{"recombination": 2, "ligation reactions": 1}
+{}
+{"ionophore": 1}
+{"beta-amyloid [abeta]1-42": 1}
+{}
+{"lysosomal function": 2, "vacuolar proton pump": 1, "lysosomal acidification": 1}
+{"agar": 2, "broth": 2}
+{}
+{}
+{"nitric oxide synthase": 3, "enos": 3, "inos": 3, "phenylephrine": 2, "no release": 1}
+{"metabolism": 1}
+{}
+{"crystal structure": 2, "heavy-atom derivatization": 1, "superhelix": 1, "base-specific contact": 1}
+{}
+{}
+{}
+{"steroidogenic": 1, "regulatory": 1, "transfer": 2, "domains": 5, "cavity": 1, "bind": 1, "binding": 1, "modulate": 1, "activity": 1, "determinants": 1}
+{}
+{}
+{"posttranscriptional control": 1}
+{"ampk": 5, "bioenergetics": 1, "anabolic": 1, "catabolic": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"ethyl alcohol": 1}
+{"phosphorylation": 2, "akt": 1, "nf-\u03bab": 1, "s6": 1, "mtor pathway": 1}
+{}
+{}
+{}
+{}
+{"lps": 1, "er stress": 1, "jnk": 1, "ikk\u03b2-i\u03bab-nf\u03bab": 1}
+{}
+{}
+{}
+{"oxygen consumption": 2, "lipids": 2}
+{}
+{"p38 mapk": 2, "mapk": 1}
+{"glucose": 1, "lactate": 1}
+{}
+{}
+{"high mobility group box-1": 2, "hmgb1": 5, "tlr4": 2, "nf-\u03bab pathway": 2, "nf-\u03bab": 1}
+{"reactive oxygen species": 2, "ros": 3, "acidic domain": 1}
+{"phytochemicals": 3, "catabolic": 1, "lysosomes": 1}
+{"fibronectin": 2, "vitronectin": 2, "proteomic": 1, "tandem mass tag": 1}
+{}
+{}
+{"no": 2, "pge2": 2, "mmp1": 2, "mmp3": 2, "mmp13": 2, "elisa": 2, "griess method": 1}
+{}
+{}
+{"mass-spectroscopy": 1, "metabolomics": 1}
+{}
+{}
+{}
+{}
+{"hematoxylin": 1, "eosin": 1, "periodic acid-schiff": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"synthetic": 1}
+{}
+{"impedance": 1, "interface": 3, "al": 3, "methyl-red": 3, "p-inp": 3, "solar cell": 2, "solution-processing": 1, "current-voltage": 2, "capacitance-voltage-frequency": 1, "room temperature": 2, "dark i-v": 1, "ideality factor": 1, "barrier height": 2, "open circuit voltage": 1, "short-circuit current": 1, "light intensity": 1, "acceptor carrier concentration": 1, "linear region": 1, "energy distribution curves": 1, "conductance properties": 1, "interface state densities": 1, "relaxation times": 1, "bias voltage": 1}
+{}
+{}
+{}
+{}
+{"post-translational modification": 1}
+{}
+{"corin": 4, "atrial natriuretic peptide": 2, "mid-regional proatrial natriuretic peptide": 1, "mr-panp": 3, "enzyme": 1}
+{}
+{}
+{}
+{}
+{}
+{"metabolism": 1}
+{"endothelium": 5, "endothelium-dependent": 2, "endothelium-derived": 1, "relaxing": 2, "factor": 1, "physiological": 1, "substances": 1, "production": 1, "agents": 1, "regulation": 2, "neurohumoral": 1, "heterogeneity": 1, "modulation": 1}
+{"oxidative stress": 1}
+{"antioxidant activity": 1}
+{}
+{}
+{}
+{}
+{"c-reactive protein": 3, "fibrinogen": 2, "homocysteine": 2, "lipoprotein(a)": 2, "cholesterol": 5, "hdl-c": 3, "ldl-c": 2, "triglycerides": 2, "apolipoproteins": 1, "apo a-i": 2, "apo b-100": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"biologic": 1}
+{}
+{"kinetics": 2, "sequence-specific pcr": 1, "real-time quantitative pcr": 1}
+{}
+{"calcium": 5, "calcium ion": 3, "silver": 1, "potassium": 1, "dye": 1}
+{}
+{"phosphorylation": 2, "degradation": 2}
+{"purification": 1, "assay": 1}
+{"forkhead-domain": 2, "translocation": 2, "breakpoint": 1}
+{}
+{}
+{}
+{"biochemistry": 1, "cell fractionation": 1}
+{}
+{}
+{}
+{}
+{"glutamic acid": 1, "valine": 1}
+{}
+{}
+{}
+{}
+{}
+{"protein modification": 1, "core": 1}
+{"mucin": 8, "neutral mucins": 1, "acid mucins": 2, "sialomucins": 1, "sulfomucins": 1, "periodic acid-schiff": 2, "alcian blue": 2, "high-iron diamine alcian blue": 1}
+{}
+{}
+{}
+{"antisense": 3, "vector": 3, "promoter": 2, "kanr": 2, "germination": 1, "hybridization": 1}
+{}
+{"knockout serum replacement": 1, "knockout dmem": 1, "bfgf": 1}
+{}
+{}
+{"molecules": 1}
+{"au": 3, "zn": 2, "inp": 3, "si3n4": 3, "hf": 1, "ohmic": 2, "contact resistance": 1, "passivation": 1, "antireflection": 1}
+{"brine": 2, "desalination": 2, "bipolar membrane electrodialysis": 3, "acid": 1, "base": 1, "salt": 1, "ion-exchange": 2, "cation-exchange": 1, "current efficiency": 2, "energy consumption": 2, "membranes": 2, "spacers": 1, "resins": 1}
+{"fermentation": 1, "surfactant-hypochlorite digestion": 1, "carbon substrate": 1}
+{"chemical bath deposition": 3, "cbd": 3, "cds": 5, "cdcl 2": 1, "(nh 2 ) 2 cs": 1, "nh 3": 1, "aqueous solution": 1, "ph": 2, "xrd": 1, "cadmium ion": 2, "crystallization": 1, "cubic phase": 1, "hexagonal phase": 1, "electrical resistivity": 1, "band gap": 2, "refractive index": 1, "diffraction intensity": 1, "scattering angles": 1, "lattice parameters": 1}
+{"high-performance liquid chromatography": 2, "small-angle x-ray scattering": 2, "x-ray crystallography": 1, "nmr": 1, "uv\u2013vis absorption": 1}
+{}
+{"cross-reactivity": 1, "phosphate-buffered saline": 1}
+{"desalination": 2, "brine": 6, "sodium hydroxide": 2, "chemical": 1, "sodium chloride": 1, "electrolysis": 2, "thermodynamic": 1, "stoichiometric": 1, "naoh": 1}
+{}
+{}
+{"reverse osmosis": 3, "bipolar membrane electrodialysis": 2, "electrochlorination": 2, "desalination": 1, "mixed acid": 2, "mixed base": 2, "hypochlorite": 2, "chlorine": 1}
+{"dsrna": 3, "rna": 1}
+{}
+{}
+{}
+{}
+{"ingap": 5, "gaas": 3, "alnp": 4, "zinc": 1}
+{"indium-tin-oxide": 2, "ito": 2, "sno2": 2, "in2o3": 1, "o2": 1}
+{}
+{}
+{"radiographic contrast agents": 2, "reactive oxygen species": 1, "nonionic, low-osmolality contrast agent": 1, "contrast medium": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"nacl": 5}
+{"cytotoxic": 1}
+{}
+{}
+{"metabolic": 3, "biochemical": 1, "aerobic glycolysis": 3, "oxidative phosphorylation": 1, "oxygen": 2, "lactate": 1, "enzymes": 2}
+{"reaction": 1, "flux": 1, "phosphotransfer": 2}
+{}
+{"biochemical": 3, "macronutrients": 1, "saturated fat": 1, "trans fat": 1, "w-3 fatty acid": 1, "calcium": 1, "cholesterol": 1, "triglycerides": 1, "glucose": 1, "insulin": 2}
