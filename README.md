@@ -92,7 +92,7 @@ python evaluation/llm_as_judge.py --data hurricane --model gpt-4o --retrieval_me
 </div>
 
 
-### Citation
+### 6. Citation
 
 ```bibtex
 @article{shi2025hypercube,
