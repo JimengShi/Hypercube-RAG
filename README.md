@@ -86,6 +86,13 @@ python evaluation/llm_as_judge.py --data hurricane --model gpt-4o --retrieval_me
 </div>
 
 
+#### 5.2 Retrieval Performance
+<div align="left">
+<img src="https://github.com/JimengShi/Hypercube-RAG/blob/main/figures/retrieval_performance.png" alt="retrieval_performance" width="1000"/> 
+</div>
+
+
+
 ```bibtex
 @article{shi2025hypercube,
   title={Hypercube-RAG: Hypercube-Based Retrieval-Augmented Generation for In-domain Scientific Question-Answering},
@@ -93,8 +100,3 @@ python evaluation/llm_as_judge.py --data hurricane --model gpt-4o --retrieval_me
   journal={arXiv preprint arXiv:2505.19288},
   year={2025}
 }
-
-#### 5.2 Retrieval Performance
-<div align="left">
-<img src="https://github.com/JimengShi/Hypercube-RAG/blob/main/figures/retrieval_performance.png" alt="retrieval_performance" width="1000"/> 
-</div>
