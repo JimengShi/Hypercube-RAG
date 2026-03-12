@@ -92,12 +92,4 @@ python evaluation/llm_as_judge.py --data hurricane --model gpt-4o --retrieval_me
 </div>
 
 
-### 6. Citation
 
-```bibtex
-@article{shi2025hypercube,
-  title={Hypercube-RAG: Hypercube-Based Retrieval-Augmented Generation for In-domain Scientific Question-Answering},
-  author={Shi, Jimeng and Zhou, Sizhe and Jin, Bowen and Hu, Wei and Wang, Shaowen and Narasimhan, Giri and Han, Jiawei},
-  journal={arXiv preprint arXiv:2505.19288},
-  year={2025}
-}
